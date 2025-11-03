@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Program Studi PTN (Multi-Select + Sort)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    * { font-family: 'Inter', sans-serif; }
+    .dropdown-menu { max-height: 300px; overflow-y: auto; }
+    .dropdown-menu::-webkit-scrollbar { width: 6px; }
+    .dropdown-menu::-webkit-scrollbar-thumb { background: #999; border-radius: 3px; }
+    .dropdown-menu::-webkit-scrollbar-track { background: #f1f1f1; }
+    th.sortable { cursor: pointer; user-select: none; }
+    th.sortable:hover { background-color: #f3f4f6; }
+  </style>
+</head>
+<body class="bg-gray-50">
+
+  <!-- Header -->
+  <div class="bg-emerald-950 text-white shadow-lg">
+    <div class="container mx-auto px-6 py-10">
+      <h1 class="text-4xl font-bold mb-3">📚 Data Program Studi Universitas</h1>
+      <p class="text-blue-100 text-lg mb-4">Jelajahi data lengkap program studi dari berbagai universitas di Indonesia. Bandingkan jurusan, daya tampung, dan peminat untuk menemukan kampus terbaik sesuai minatmu! 🎓</p>
+    </div>
+  </div>
+
+  <div class="container mx-auto px-6 py-8">
+
+    <!-- Filter Section -->
+    <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-6 mb-6">
+      <h3 class="text-lg font-semibold text-gray-900 mb-4">🔍 Filter Pencarian (Bertingkat)</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        
+        <!-- Universitas (multi-select) -->
+        <div class="relative">
+          <label class="block text-sm font-medium text-gray-700 mb-2">Universitas</label>
+          <input id="universitySearch" type="text" placeholder="Pilih / cari universitas..." autocomplete="off"
+                 class="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500">
+          <div id="universityDropdown"
+               class="hidden absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg dropdown-menu"></div>
+        </div>
+
+        <!-- Program Studi (multi-select) -->
+        <div class="relative">
+          <label class="block text-sm font-medium text-gray-700 mb-2">Program Studi</label>
+          <input id="programSearch" type="text" placeholder="Pilih / cari program studi..." autocomplete="off"
+                 class="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500">
+          <div id="programDropdown"
+               class="hidden absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg dropdown-menu"></div>
+        </div>
+
+        <!-- Jenjang (multi-select) -->
+        <div class="relative">
+          <label class="block text-sm font-medium text-gray-700 mb-2">Jenjang</label>
+          <input id="jenjangSearch" type="text" placeholder="Pilih / cari jenjang..." autocomplete="off"
+                 class="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500">
+          <div id="jenjangDropdown"
+               class="hidden absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg dropdown-menu"></div>
+        </div>
+
+        <!-- Portofolio -->
+        <div class="relative">
+          <label class="block text-sm font-medium text-gray-700 mb-2">Jenis Portofolio</label>
+          <input id="portofolioSearch" type="text" placeholder="Cari jenis portofolio..." autocomplete="off"
+                 class="w-full px-4 py-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500">
+          <div id="portofolioDropdown"
+               class="hidden absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg dropdown-menu"></div>
+        </div>
+      </div>
+
+      <div id="activeFilters" class="mt-4 flex flex-wrap gap-2 hidden"></div>
+      
+      <!-- Reset Button -->
+      <div class="mt-4 flex justify-end">
+        <button id="resetBtn" 
+                class="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors flex items-center gap-2 text-sm font-medium disabled:opacity-50 disabled:cursor-not-allowed"
+                disabled>
+          <span>🔄</span>
+          <span>Reset Semua Filter</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Table -->
+    <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+      <div class="overflow-x-auto" style="max-height:650px;">
+        <table class="w-full" id="dataTable">
+          <thead class="bg-gray-50 sticky top-0 z-10">
+            <tr>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="KODE">Kode</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="UNIVERSITAS">Universitas</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="NAMA PROGRAM STUDI">Program Studi</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="JENJANG">Jenjang</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="DAYA TAMPUNG 2025">Daya Tampung 2025</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="PEMINAT 2024">Peminat 2024</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 sortable" data-key="JENIS PORTOFOLIO">Portofolio</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody">
+            <tr id="loadingRow">
+              <td colspan="7" class="text-center py-12">Memuat data...</td>
+            </tr>
+          </tbody>
+        </table>
+        <div id="noResults" class="hidden px-4 py-12 text-center text-gray-500">
+          Tidak ada hasil sesuai filter
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+let data = [];
+let filteredData = [];
+let originalData = [];
+let filters = { universitas: [], program: [], jenjang: [], portofolio: '' };
+let sortConfig = { key: null, direction: null };
+
+const tableBody = document.getElementById('tableBody');
+const loadingRow = document.getElementById('loadingRow');
+const noResults = document.getElementById('noResults');
+const activeFiltersDiv = document.getElementById('activeFilters');
+const universitySearch = document.getElementById('universitySearch');
+const programSearch = document.getElementById('programSearch');
+const jenjangSearch = document.getElementById('jenjangSearch');
+const portofolioSearch = document.getElementById('portofolioSearch');
+const universityDropdown = document.getElementById('universityDropdown');
+const programDropdown = document.getElementById('programDropdown');
+const jenjangDropdown = document.getElementById('jenjangDropdown');
+const portofolioDropdown = document.getElementById('portofolioDropdown');
+const resetBtn = document.getElementById('resetBtn');
+
+// === UTILS - Cascading Filter ===
+function getFilteredDataForDropdown() {
+  return data.filter(item => {
+    // Untuk dropdown universitas: filter berdasarkan program, jenjang, portofolio
+    // Untuk dropdown program: filter berdasarkan universitas, jenjang, portofolio
+    // Dan seterusnya...
+    return true; // Akan difilter di fungsi getCascadingOptions
+  });
+}
+
+function getCascadingOptions(key) {
+  let filteredDataset = [...data];
+  
+  // Filter berdasarkan filter aktif lainnya (kecuali key yang sedang dibuka)
+  if (key !== 'UNIVERSITAS' && filters.universitas.length > 0) {
+    filteredDataset = filteredDataset.filter(item => filters.universitas.includes(item.UNIVERSITAS));
+  }
+  if (key !== 'NAMA PROGRAM STUDI' && filters.program.length > 0) {
+    filteredDataset = filteredDataset.filter(item => filters.program.includes(item['NAMA PROGRAM STUDI']));
+  }
+  if (key !== 'JENJANG' && filters.jenjang.length > 0) {
+    filteredDataset = filteredDataset.filter(item => filters.jenjang.includes(item.JENJANG));
+  }
+  if (key !== 'JENIS PORTOFOLIO' && filters.portofolio) {
+    filteredDataset = filteredDataset.filter(item => item['JENIS PORTOFOLIO'] === filters.portofolio);
+  }
+  
+  return [...new Set(filteredDataset.map(item => item[key]))].sort();
+}
+
+// === DROPDOWN MULTI (PROGRAM STUDI, UNIVERSITAS, JENJANG) ===
+function populateMultiSelectDropdown(dropdown, searchInput, options, filterKey) {
+  const searchTerm = searchInput.value.toLowerCase();
+  const filtered = options.filter(opt => opt.toLowerCase().includes(searchTerm));
+  
+  if (filtered.length === 0) {
+    dropdown.innerHTML = '<div class="px-4 py-3 text-sm text-gray-500">Tidak ada hasil</div>';
+    return;
+  }
+  
+  dropdown.innerHTML = filtered.map(opt => {
+    const checked = filters[filterKey].includes(opt) ? 'checked' : '';
+    return `
+      <label class="flex items-center gap-2 px-4 py-2 hover:bg-blue-50 cursor-pointer text-sm text-gray-700">
+        <input type="checkbox" value="${opt}" ${checked} class="multi-checkbox-${filterKey} accent-blue-600">
+        <span>${opt}</span>
+      </label>`;
+  }).join('');
+
+  dropdown.querySelectorAll(`.multi-checkbox-${filterKey}`).forEach(cb => {
+    cb.addEventListener('change', (e) => {
+      e.stopPropagation();
+      const val = cb.value;
+      if (cb.checked) {
+        if (!filters[filterKey].includes(val)) {
+          filters[filterKey].push(val);
+        }
+      } else {
+        filters[filterKey] = filters[filterKey].filter(v => v !== val);
+      }
+      filterData();
+      refreshAllDropdowns(); // Refresh semua dropdown untuk cascading effect
+      // Refresh dropdown saat ini
+      const dataKey = getDataKeyFromFilterKey(filterKey);
+      const opts = getCascadingOptions(dataKey);
+      populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
+    });
+  });
+}
+
+function getDataKeyFromFilterKey(filterKey) {
+  const mapping = {
+    'universitas': 'UNIVERSITAS',
+    'program': 'NAMA PROGRAM STUDI',
+    'jenjang': 'JENJANG',
+    'portofolio': 'JENIS PORTOFOLIO'
+  };
+  return mapping[filterKey];
+}
+
+function refreshAllDropdowns() {
+  // Tidak perlu refresh jika dropdown sedang tidak terbuka
+  // Dropdown akan di-refresh otomatis saat dibuka kembali
+}
+
+function setupMultiSelectDropdown(searchInput, dropdown, dataKey, filterKey) {
+  searchInput.addEventListener('focus', () => {
+    const opts = getCascadingOptions(dataKey);
+    populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
+    dropdown.classList.remove('hidden');
+  });
+  
+  searchInput.addEventListener('input', () => {
+    const opts = getCascadingOptions(dataKey);
+    populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
+    dropdown.classList.remove('hidden');
+  });
+  
+  // Prevent dropdown from closing when clicking inside
+  dropdown.addEventListener('click', (e) => {
+    e.stopPropagation();
+  });
+  
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
+      dropdown.classList.add('hidden');
+    }
+  });
+}
+
+// === DROPDOWN SINGLE ===
+function populateDropdown(dropdown, searchInput, options, filterKey) {
+  const searchTerm = searchInput.value.toLowerCase();
+  const filtered = options.filter(opt => opt.toLowerCase().includes(searchTerm));
+  dropdown.innerHTML = filtered.length
+    ? filtered.map(option => `
+        <div class="px-4 py-2 hover:bg-blue-50 cursor-pointer text-sm text-gray-700" data-value="${option}">
+          ${option}
+        </div>`).join('')
+    : '<div class="px-4 py-3 text-sm text-gray-500">Tidak ada hasil</div>';
+
+  dropdown.querySelectorAll('[data-value]').forEach(item => {
+    item.addEventListener('click', () => {
+      searchInput.value = item.dataset.value;
+      filters[filterKey] = item.dataset.value;
+      dropdown.classList.add('hidden');
+      filterData();
+    });
+  });
+}
+
+function setupDropdown(searchInput, dropdown, key, filterKey) {
+  searchInput.addEventListener('focus', () => {
+    const opts = getCascadingOptions(key);
+    populateDropdown(dropdown, searchInput, opts, filterKey);
+    dropdown.classList.remove('hidden');
+  });
+  searchInput.addEventListener('input', () => {
+    const opts = getCascadingOptions(key);
+    populateDropdown(dropdown, searchInput, opts, filterKey);
+    dropdown.classList.remove('hidden');
+  });
+  document.addEventListener('click', e => {
+    if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) dropdown.classList.add('hidden');
+  });
+}
+
+// === FILTER + SORT ===
+function filterData() {
+  filteredData = data.filter(item => {
+    if (filters.universitas.length > 0 && !filters.universitas.includes(item.UNIVERSITAS)) return false;
+    if (filters.program.length > 0 && !filters.program.includes(item['NAMA PROGRAM STUDI'])) return false;
+    if (filters.jenjang.length > 0 && !filters.jenjang.includes(item.JENJANG)) return false;
+    if (filters.portofolio && item['JENIS PORTOFOLIO'] !== filters.portofolio) return false;
+    return true;
+  });
+  applySorting();
+  renderTable();
+  updateActiveFilters();
+  updateResetButton();
+}
+
+function updateActiveFilters() {
+  const list = [];
+  if (filters.universitas.length) list.push({ label: 'Universitas', value: filters.universitas.join(', '), key: 'universitas' });
+  if (filters.program.length) list.push({ label: 'Program Studi', value: filters.program.join(', '), key: 'program' });
+  if (filters.jenjang.length) list.push({ label: 'Jenjang', value: filters.jenjang.join(', '), key: 'jenjang' });
+  if (filters.portofolio) list.push({ label: 'Portofolio', value: filters.portofolio, key: 'portofolio' });
+
+  if (list.length === 0) activeFiltersDiv.classList.add('hidden');
+  else {
+    activeFiltersDiv.classList.remove('hidden');
+    activeFiltersDiv.innerHTML = '<span class="text-sm font-medium text-gray-700">Filter Aktif:</span>' +
+      list.map(f => `
+        <span class="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-xs">
+          ${f.label}: ${f.value}
+          <button data-filter="${f.key}" class="hover:bg-blue-200 rounded-full p-0.5">✕</button>
+        </span>`).join('');
+    activeFiltersDiv.querySelectorAll('[data-filter]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.filter;
+        if (key === 'program' || key === 'universitas' || key === 'jenjang') filters[key] = [];
+        else filters[key] = '';
+        document.getElementById(`${key}Search`).value = '';
+        filterData();
+      });
+    });
+  }
+}
+
+// === RESET FILTER ===
+function resetAllFilters() {
+  filters = { universitas: [], program: [], jenjang: [], portofolio: '' };
+  universitySearch.value = '';
+  programSearch.value = '';
+  jenjangSearch.value = '';
+  portofolioSearch.value = '';
+  filterData();
+}
+
+function updateResetButton() {
+  const hasActiveFilters = filters.universitas.length > 0 || filters.program.length > 0 || filters.jenjang.length > 0 || filters.portofolio;
+  resetBtn.disabled = !hasActiveFilters;
+}
+
+resetBtn.addEventListener('click', resetAllFilters);
+
+// === SORTING ===
+function applySorting() {
+  if (!sortConfig.key || !sortConfig.direction) return;
+  const { key, direction } = sortConfig;
+  const isNumeric = ['DAYA TAMPUNG 2025', 'PEMINAT 2024'].includes(key);
+  filteredData.sort((a, b) => {
+    const valA = isNumeric ? parseInt(a[key] || 0) : (a[key] || '').toString().toLowerCase();
+    const valB = isNumeric ? parseInt(b[key] || 0) : (b[key] || '').toString().toLowerCase();
+    if (valA < valB) return direction === 'asc' ? -1 : 1;
+    if (valA > valB) return direction === 'asc' ? 1 : -1;
+    return 0;
+  });
+}
+
+document.querySelectorAll('th.sortable').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.key;
+    if (sortConfig.key === key) {
+      if (sortConfig.direction === 'asc') sortConfig.direction = 'desc';
+      else if (sortConfig.direction === 'desc') sortConfig = { key: null, direction: null };
+      else sortConfig.direction = 'asc';
+    } else sortConfig = { key, direction: 'asc' };
+    filterData();
+    updateSortIndicators();
+  });
+});
+
+function updateSortIndicators() {
+  document.querySelectorAll('th.sortable').forEach(th => {
+    th.textContent = th.textContent.replace(/[▲▼]/g, '');
+    if (th.dataset.key === sortConfig.key) {
+      th.textContent += sortConfig.direction === 'asc' ? ' ▲' :
+                        sortConfig.direction === 'desc' ? ' ▼' : '';
+    }
+  });
+}
+
+// === RENDER TABLE ===
+function renderTable() {
+  loadingRow.classList.add('hidden');
+  if (filteredData.length === 0) {
+    noResults.classList.remove('hidden');
+    tableBody.innerHTML = '';
+    return;
+  }
+  noResults.classList.add('hidden');
+  tableBody.innerHTML = filteredData.map(item => `
+    <tr class="border-b hover:bg-blue-50">
+      <td class="px-4 py-3 text-sm">${item.KODE}</td>
+      <td class="px-4 py-3 text-sm">${item.UNIVERSITAS}</td>
+      <td class="px-4 py-3 text-sm">${item['NAMA PROGRAM STUDI']}</td>
+      <td class="px-4 py-3 text-sm">${item.JENJANG}</td>
+      <td class="px-4 py-3 text-sm">${item['DAYA TAMPUNG 2025'] || '-'}</td>
+      <td class="px-4 py-3 text-sm">${item['PEMINAT 2024'] || '-'}</td>
+      <td class="px-4 py-3 text-sm">${item['JENIS PORTOFOLIO']}</td>
+    </tr>`).join('');
+  updateSortIndicators();
+}
+
+// === LOAD DATA ===
+async function loadData() {
+  try {
+    const res = await fetch('https://cdn.jsdelivr.net/gh/hf-lab/work@main/SIDATA-PTN-SN(1).json');
+    data = await res.json();
+    originalData = [...data];
+    filteredData = [...data];
+    setupMultiSelectDropdown(universitySearch, universityDropdown, 'UNIVERSITAS', 'universitas');
+    setupMultiSelectDropdown(programSearch, programDropdown, 'NAMA PROGRAM STUDI', 'program');
+    setupMultiSelectDropdown(jenjangSearch, jenjangDropdown, 'JENJANG', 'jenjang');
+    setupDropdown(portofolioSearch, portofolioDropdown, 'JENIS PORTOFOLIO', 'portofolio');
+    renderTable();
+  } catch (err) {
+    console.error('Gagal memuat data', err);
+  }
+}
+loadData();
+</script>
+</body>
+</html>
