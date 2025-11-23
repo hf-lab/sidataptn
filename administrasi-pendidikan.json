@@ -1,0 +1,137 @@
+{
+  "idx": 5,
+  "id": "administrasi-pendidikan",
+  "major_name": "Administrasi Pendidikan",
+  "icon": null,
+  "description": "Program studi Administrasi Pendidikan mempersiapkan tenaga profesional di bidang tata usaha lembaga-lembaga pendidikan, terutama sekolah. Di program studi ini, para mahasiswa juga mempelajari proses pengintegrasian segala aktivitas kelembagaan yang terkait untuk tercapainya tujuan pendidikan. Peran Administrasi Pendidikan sangat penting untuk mendukung manajemen sekolah dan lembaga pendidikan.",
+  "why": "Administrasi Pendidikan memang cukup spesifik, peminatnya pun terbatas. Program studi ini akan sangat cocok bagi kamu yang terstruktur dan menyukai dunia pendidikan, karena di sini kamu akan mempelajari serba-serbi administratif dari sebuah lembaga pendidikan seperti sekolah. ",
+  "subjects": [
+    "Dasar-dasar Manajemen",
+    "Dasar-dasar Perencanaan Pendidikan",
+    "Kepemimpinan Pendidikan",
+    "Supervisi Pendidikan",
+    "Belajar dan Pembelajaran",
+    "Manajemen Strategik",
+    "Manajemen Pelatihan dan pengembangan",
+    "Manajemen Sekolah",
+    "Manajemen Perguruan Tinggi",
+    "Filsafat Administrasi Pendidikan",
+    "Pedagogi",
+    "Manajemen Mutu Terpadu",
+    "Manajemen Kurikulum",
+    "Manajemen Keuangan Pendidikan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Banyak orang melihat peluang berkarier jurusan ini sangat kecil. Tapi sebenarnya sebaliknya. Sistem pendidikan di Indonesia saat ini sedang memerlukan tenaga ahli yang memahami semua sisi pendidikan dan paham bagaimana harus meningkatkan mutunya.",
+  "professions": [
+    "Pustakawan",
+    "Koordinator Online Learning",
+    "Instruktur Perawatan",
+    "Kepala Sekolah"
+  ],
+  "related_majors": [
+    "pendidikan/manajemen-pendidikan",
+    "humaniora/administrasi-perkantoran-kesekretariatan-",
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/akuntansi-sektor-publik"
+  ],
+  "major_group_id": 29,
+  "jlh_prodi": 7,
+  "dt_snbp": 283,
+  "dt_snbt": 375,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "142024",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 11.3609,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151054",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 19.6581,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334038",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.02988,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372085",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 9.43396,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373032",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.16667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712041",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 16.6667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811067",
+      "major_university_name": "S1 ADMINISTRASI PENDIDIKAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 306.667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 29,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Administrasi Bisnis\r",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

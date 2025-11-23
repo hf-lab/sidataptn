@@ -1,0 +1,184 @@
+{
+  "idx": 81,
+  "id": "ilmu-kesejahteraan-sosial",
+  "major_name": "Ilmu Kesejahteraan Sosial",
+  "icon": null,
+  "description": "Program studi Ilmu Kesejahteraan Sosial mempelajari berbagai fenomena sosial dan permasalahan yang terjadi di masyarakat terutama menyangkut kesejahteraan sosial. Di sini kamu akan belajar mengidentifikasi permasalahan yang terjadi di masyarakat dan mencari solusinya. Di prodi ini kamu akan belajar untuk terjun langsung ke masyarakat melakukan pengamatan dan analisis terhadap permasalahan yang tengah terjadi juga melakukan eksperimen sosial, kemudian menerapkan teori-teori untuk menyelesaikan permasalahan tersebut.",
+  "why": "Kesejahteraan masyarakat masih menjadi hal yang terus diusahakan oleh pemerintah. Di prodi ini kamu akan paham bagaimana mengusahakan kesejahteraan masyarakat melalui kebijakan demi pengentasan kemiskinan, peningkatan kesehatan, pemberdayaan lembaga-lembaga kesejahteraan sosial, komunitas-komunitas UKM, serta pengembangan keterampilan masyarakat. Prodi ini pas untuk kamu yang punya kepedulian dan jiwa sosial yang tinggi, serta untuk kamu yang menginginkan perubahan di bidang kesejahteraan masyarakat.",
+  "subjects": [
+    "Pengantar Ilmu Kesejahteraan Sosial",
+    "Metode-metode Pekerjaan Sosial",
+    "Sistem Sosial Indonesia",
+    "Lembaga-lembaga Pembangunan",
+    "Sistem Usaha Kesejahteraan Sosial",
+    "Analisa Masalah Kesejahteraan Sosial",
+    "Statistik Sosial",
+    "Kebeijakan dan Perencanaan Sosial",
+    "Dinamika Masyarakat Pedesaan",
+    "Struktur Kemiskinan",
+    "Pengorganisasian dan Pengembangan Masyarakat",
+    "Teori Sosiologi bagi Kesejahteraan Sosial",
+    "Masalah Kesehatan dan Kesejahteraan Sosial",
+    "Intervensi Komunitas dan Pengembangan Masyarakat",
+    "Kesejahteraan Anak dan Perlindungan Anak",
+    "Kesejahteraan Sosial bagi Manusia Lanjut Usia",
+    "Manajemen Organisasi Pelayanan",
+    "Dampak Sosial Pembangunan dan Globalisasi",
+    "Teori dan Teknik Supervisi dan Konsultasi",
+    "Kesejahteraan Sosial dan Pembangunan",
+    "Praktek Perencanaan Kesejahteraan Sosial"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi Ilmu Kesejahteraan Sosial akan meluluskan sarjana yang diharap mampu mengurangi berbagai ketidakadilan sosial, kesenjangan sosial, dan melakukan pengelolaan masalah sosial melalui pengembangan program yang bersifat mengantisipasi, memperbaiki, dan membangun. Lulusan prodi ini sangat di butuhkan, namun tidak banyak yang peduli terhadap isu-isu kesejahteraan sosial ini. Lulusan prodi Ilmu Kesejahteraan Sosial akan memeroleh gelar Sarjana Sosial (S.Sos) atau Sarjana Kesejahteraan Sosial (S.Kesos), yang nantinya dibutuhkan di berbagai lembaga pemerintah, misalnya saja Kementerian Sosial (Kemensos), bahkan organisasi internasional seperti Unicef. Lulusan prodi ini juga akan dibutuhkan di berbagai perusahaan dalam menangani corporate social responsibility.",
+  "professions": [
+    "Manajer Layanan Sosial dan Komunitas",
+    "Dosen (Secara umum)",
+    "Pekerja Kemanusiaan",
+    "Penggalang Dana",
+    "Pekerja Sosial"
+  ],
+  "related_majors": [
+    "humaniora/sosiologi",
+    "kesehatan/kesehatan-masyarakat",
+    "humaniora/pembangunan-sosial-dan-kesejahteraan",
+    "humaniora/ilmu-keluarga-dan-konsumen",
+    "humaniora/antropologi",
+    "kesehatan/kesehatan-lingkungan",
+    "humaniora/sains-komunikasi-dan-pengembangan-masyarakat-"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 11,
+  "dt_snbp": 293,
+  "dt_snbt": 471,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "121032",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 8.03279,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161029",
+      "major_university_name": "S1 KESEJAHTERAAN SOSIAL - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 16.0714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321042",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.51906,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "322030",
+      "major_university_name": "S1 KESEJAHTERAAN SOSIAL - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 9.33573,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333039",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.63128,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "365030",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL (IKS) - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 12.9129,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371045",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 14.2857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "713048",
+      "major_university_name": "S1 KESEJAHTERAAN SOSIAL - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 87.2727,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116017",
+      "major_university_name": "S1 KESEJAHTERAAN SOSIAL - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 155.556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751066",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 87.0968,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911029",
+      "major_university_name": "S1 ILMU KESEJAHTERAAN SOSIAL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 425,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

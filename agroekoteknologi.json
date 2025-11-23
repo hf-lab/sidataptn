@@ -1,0 +1,248 @@
+{
+  "idx": 11,
+  "id": "agroekoteknologi",
+  "major_name": "Agroekoteknologi",
+  "icon": null,
+  "description": "Agroekoteknologi merupakan salah satu program studi ilmu pertanian yang lebih kompleks. Program studi ini merupakan gabungan dari beberapa program studi di Fakultas Pertanian yaitu Prodi Agronomi, Ilmu Tanah dan Ilmu Hama dan Penyakit Tumbuhan.\r\rDi program studi ini akan mempelajari dasar-dasar ilmiah dalam menemukan, menganalisis dan memecahkan masalah melalui cara berfikir analitik, kreatif dan eksploratif dalam bidang agronomi. Program studi ini membekali mahasiswanya dengan kemampuan akademik dalam menerapkan, mengembangkan dan atau memperkaya khasanah ilmu pengetahuan dalam bidang, serta menyebarluaskan dan mengupayakan penggunaannya untuk meningkatkan taraf hidup masyarakat dan memperkaya kebudayaan.",
+  "why": "Jika kamu menyukai bidang botanikal dan mempelajari tumbuh-tumbuhan serta pertumbuhan dan pengolahannya, terlebih jika kamu gemar memperhatikan kelestarian lingkungan dan suka berinovasi guna meningkatkan produksi dan pengolahan hasil tanaman, program studi Agroekoteknologi akan sangat cocok dengan kamu. \r\rProgram studi ini akan mengembangkan kamu untuk berinovasi guna membawa pertanian Indonesia ke arah modern yang berkelanjutan, baik dari sisi sosial, budaya, ekonomi, lingkungan dan teknologi.",
+  "subjects": [
+    "Mikrobiologi",
+    "Biokimia Tanaman",
+    "Genetika",
+    "Dasar-Dasar Agronomi",
+    "Metodologi Penelitian Pertanian",
+    "Fisiologi Tumbuhan",
+    "Fisiologi Dan Penanganan Pasca Panen",
+    "Produksi Tanaman Industri",
+    "Irigasi Dan Drainase",
+    "Mekanisasi Pertanian",
+    "Konservasi Tanah Dan Air",
+    "Produksi Tanaman Pangan",
+    "Agroklimatologi",
+    "Hortikultura",
+    "Teknik Pembiakan Vegetatif Dan Manajemen Nurseri",
+    "Pengendalian Hama Dan Penyakit Terpadu",
+    "Pengantar Bioteknologi Pertanian",
+    "Pengantar Agribisnis"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan Sarjana Pertanian saat ini sangat banyak dibutuhkan di Dunia Kerja. Lulusan Agroekoteknologi bisa bekerja di Perkebunan, Instansi Pemerintahan dalam bidang Agribisnis, Lembaga Swadaya Masyarakat yang memberikan penyuluhan pertanian maupun menjadi pengusaha atau pelaku bisnis pada komoditas perkebunan, pangan, hortikultura dan kehutanan.",
+  "professions": [
+    "Manager Pertanian dan Peternakan",
+    "Peneliti Tanah dan Tumbuhan",
+    "Ahli Teknik Pertanian",
+    "Manajer Pembibitan dan Rumah Kaca",
+    "Ahli Konservasi Tanah dan Air",
+    "Ahli Teknologi Kulit"
+  ],
+  "related_majors": [
+    "pertanian/agronomi-dan-hortikultura",
+    "pertanian/teknologi-industri-pertanian-agroindustri-"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 18,
+  "dt_snbp": 1099,
+  "dt_snbt": 1625,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "121013",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 11.8744,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372048",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI (PSDKU KEDIRI) - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 20.0957,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355031",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 11.2676,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171029",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 22.6721,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161001",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 31.3433,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151005",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 43.2718,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311008",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 29.1908,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141024",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 41.2088,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372026",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 28.1217,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112008",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 34.7403,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384001",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 60.3774,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531004",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 30.3371,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541001",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 34.5912,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611014",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 31.746,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621001",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 35.1598,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631008",
+      "major_university_name": "S1 AGRONOMI/AGROEKOTEKNOLOGI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 51.5837,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721017",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 110,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741013",
+      "major_university_name": "S1 AGROEKOTEKNOLOGI - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 64.557,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

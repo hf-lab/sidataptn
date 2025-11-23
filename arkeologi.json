@@ -1,0 +1,152 @@
+{
+  "idx": 21,
+  "id": "arkeologi",
+  "major_name": "Arkeologi",
+  "icon": null,
+  "description": "Arkeologi adalah ilmu yang mempelajari pendekatan sejarah dengan meneliti sumber-sumber primer seperti budaya material dan kondisi lingkungan dari peradaban sebelumnya. Arkeologi bisa berdiri sebagai jurusan sendiri yaitu sempalan dari jurusan Sejarah, bisa juga menjadi salah satu konsentrasi dari Antropologi. Arkeologi akan menuntun kita untuk memperoleh pemahaman tentang sejarah, terutama peradaban kuno di mana masyarakat masih belum mengenal huruf dan angka, sehingga catatan mengenai masa itu masih terbatas.",
+  "why": "Kamu tahu profesi Indiana Jones? Dia adalah seorang arkeolog yang bertualang mencari artefak-artefak kuno yang mempunyai nilai sejarah. Memang sih, dia adalah tokoh fiksi. Tapi profesi mencari artefak di situs kuno itu benar-benar ada. Kalau kamu memiliki minat yang besar untuk mengulik sejarah dan menyingkap \"cerita\" yang tersimpan di balik berbagai artefak yang terkubur ribuan tahun lamanya di bawah lapisan tanah, mungkin program studi ini adalah pilihan yang tepat untukmu!",
+  "subjects": [
+    "Pengantar Teori Arkeologi",
+    "Paleoantropologi dan Biantropologi",
+    "Keramologi",
+    "Paleografi Indonesia",
+    "Prinsip-prinsip Penelitian Arkeologi",
+    "Ikonografi",
+    "Arkeologi Kolonial",
+    "Konservasi Arkeologi",
+    "Arkeologi Lingkungan",
+    "Arkeologi Maritim",
+    "Arkeologi Arsitektur",
+    "Arkeologi Seni",
+    "Peradaban Kuno",
+    "Arkeologi Sosial",
+    "Arkeologi Ekonomi",
+    "Arkeologi Pariwisata",
+    "Pengantar Museologi",
+    "Kepubakalaan Indonesia",
+    "Pengantar Arkeologi  Tekstual",
+    "Pengantar Manajemen Sumber Daya Arkeologi",
+    "Metode Arkeologi",
+    "Epigrafi Indonesia",
+    "Praktikum Arkeologi  Lapangan",
+    "Aspek Hukum dalam Manajemen Cagar Budaya",
+    "Museum dan Publik",
+    "Seni Kuno Indonesia",
+    "Praktikum Arkeologi  Laboratorium",
+    "Arkeologi Industri",
+    "Bangunan Kuno Indonesia",
+    "Permukiman dan Perkotaan Kuno",
+    "Arkeologi Ekologi",
+    "Kajian Koleksi & Tata Pamer Museum",
+    "Epigrafi dan Sejarah Kuno",
+    "Permasalahan Pelestarian Cagar Budaya"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Profesi Arkeolog memang tidak populer. Jikapun ada, biasanya sudah diisi oleh para arkeolog senior atau arkeolog lulusan universitas luar negeri yang lebih dikenal. Meski begitu, lulusan program studi Arkeologi dapat tetap bekerja sebagai: Arkeolog di instansi pemerintah seperti Balai Pelestarian Peninggalan Purbakala dan Pusat Perawatan Arsip, peneliti di badan-badan penelitian seperti LIPI atau Arkeologi Nasional (ARKENAS), jurnalis, hingga pegawai museum. ",
+  "professions": [
+    "Ahli Antropologi",
+    "Sejarahwan",
+    "Penulis Perjalanan",
+    "Juru Arsip",
+    "Teknisi Museum dan Konservator",
+    "Arkeolog"
+  ],
+  "related_majors": [
+    "budaya-bahasa/ilmu-sejarah",
+    "budaya-bahasa/sejarah-dan-kebudayaan-islam",
+    "humaniora/antropologi",
+    "pendidikan/pendidikan-sejarah"
+  ],
+  "major_group_id": 2,
+  "jlh_prodi": 6,
+  "dt_snbp": 123,
+  "dt_snbt": 180,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321034",
+      "major_university_name": "S1 ARKEOLOGI INDONESIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 7.56972,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361069",
+      "major_university_name": "S1 ARKEOLOGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 5.4878,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151051",
+      "major_university_name": "S1 ARKEOLOGI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 31.3953,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611029",
+      "major_university_name": "S1 ARKEOLOGI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 16.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711070",
+      "major_university_name": "S1 ARKEOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 24.1135,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751064",
+      "major_university_name": "S1 ARKEOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 115.625,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 2,
+    "super_group": "HUMANIORA",
+    "group_name": "Sejarah",
+    "merdeka_subject": [
+      2
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      8
+    ],
+    "bahasa_subject": [
+      8
+    ]
+  }
+}

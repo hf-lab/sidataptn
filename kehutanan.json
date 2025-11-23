@@ -1,0 +1,302 @@
+{
+  "idx": 97,
+  "id": "kehutanan",
+  "major_name": "Kehutanan",
+  "icon": null,
+  "description": "Ilmu Kehutanan mempelajari segala sesuatu tentang hutan mulai dari ekologi hutan, fisiologi tumbuhan, satwa, ilmu tanah, sampai pengolahan dan manajemen hasil hutan itu sendiri. Namun tidak hanya bagaimana menghasilkan dan memeroleh hasil hutan saja, ilmu Kehutanan juga termasuk tentang pelestarian hutan tersebut melalui rehabilitasi dan perlindungan hutan yang erat kaitannya dengan berbagai permasalahan lingkungan. \r\rKehutanan merupakan induk dari cabang program studi Konservasi Sumberdaya Hutan dan Ekowisata, Teknologi Hasil Hutan, Pengelolaan Hutan, dan Manajemen Hutan, yang termasuk dalam Fakultas Kehutanan. Namun di beberapa perguruan tinggi Kehutanan juga termasuk dari bagian Fakultas Pertanian.",
+  "why": "Jurusan ini paling tepat untuk para pecinta alam terutama yang hobi berpetualang di gunung maupun lansekap hutan lainnya. Keindahan gunung, termasuk hutan-hutan di dalamnya tidak hanya ada untuk di nikmati, namun untuk dipelihara dengan baik. Apalagi, kini kondisi hutan Indonesia berada di titik yang memprihatinkan. Kuliah sambil memelihara sumber daya alam negeri ini, kenapa nggak?",
+  "subjects": [
+    "Kimia",
+    "Fisika",
+    "Matematika",
+    "Biologi",
+    "Pengantar Ilmu Kehutanan",
+    "Silvika",
+    "Anatomi dan Fisika Kayu",
+    "Ilmu Tanah  Hutan",
+    "Silvikultur",
+    "Dendrologi",
+    "Ekologi  Hutan",
+    "Perlindungan  Hutan",
+    "Pemanenan Hasil Hutan",
+    "Hukum dan perUU Kehutanan",
+    "Teknologi  Hasil Hutan",
+    "Manejemen  Hutan",
+    "Pengukuran dan Perpetaan Hutan",
+    "Inventarisasi Hutan dan Ilmu Ukur Kayu",
+    "Manejemen Kawasan Konsrvasi dan LH",
+    "Ekonomi Sumberdaya  Hutan",
+    "Administrasi dan Kebijakan Kehutanan",
+    "Pengeringan dan Pengawetan  Kayu",
+    "Agroforestry"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan jurusan ini dapat bekerja sebagai Pegawai Negri Sipil, di instansi pemerintahan seperti di lingkungan Kementrian Kehutanan, Kementrian Pertanian, dan Kementrian Pendidikan. Dalam lingkungan Kementrian Pendidikan, lulusan jurusan ini dapat bekerja sebagai dosen perguruan tinggi dan peneliti. Pada sektor swasta, lulusan ini dapat bekerja di bidang pemetaan hutan, industri kehutanan, industri perkayuan, dan badan-badan konservasi hutan.",
+  "professions": [
+    "Ahli Konservasi Tanah dan Air",
+    "Manajer Ilmu Alam",
+    "Spesialis Konservasi Alam",
+    "Ahli Lingkungan",
+    "Pengawas Hutan",
+    "Ahli Konservasi Hutan"
+  ],
+  "related_majors": [
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/konservasi-sumberdaya-hutan-dan-ekowisata",
+    "pertanian/manajemen-hutan",
+    "pertanian/silvikultur",
+    "pertanian/pengelolaan-hutan"
+  ],
+  "major_group_id": 35,
+  "jlh_prodi": 24,
+  "dt_snbp": 1158,
+  "dt_snbt": 1838,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "121021",
+      "major_university_name": "S1 KEHUTANAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 11.244,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131014",
+      "major_university_name": "S1 KEHUTANAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 11.4219,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151009",
+      "major_university_name": "S1 KEHUTANAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 18.3607,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191009",
+      "major_university_name": "S1 KEHUTANAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 35.8779,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361044",
+      "major_university_name": "S1 KEHUTANAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 8.13704,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372053",
+      "major_university_name": "S1 KEHUTANAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.77202,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631025",
+      "major_university_name": "S1 KEHUTANAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 13.9535,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621003",
+      "major_university_name": "S1 KEHUTANAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 20.3922,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111039",
+      "major_university_name": "S1 KEHUTANAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 21.2644,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811008",
+      "major_university_name": "S1 KEHUTANAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 134.783,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741002",
+      "major_university_name": "S1 KEHUTANAN - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 48.8189,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721025",
+      "major_university_name": "S1 KEHUTANAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 66,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711019",
+      "major_university_name": "S1 KEHUTANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 24.1935,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541004",
+      "major_university_name": "S1 KEHUTANAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 50.3067,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531028",
+      "major_university_name": "S1 KEHUTANAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 60.8295,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521014",
+      "major_university_name": "S1 KEHUTANAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 65.7277,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511020",
+      "major_university_name": "S1 KEHUTANAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 56.3559,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161002",
+      "major_university_name": "S1 KEHUTANAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 27.1186,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731006",
+      "major_university_name": "S1 KEHUTANAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 211.864,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751021",
+      "major_university_name": "S1 KEHUTANAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 86.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111036",
+      "major_university_name": "S1 KEHUTANAN (PSDKU GAYO LUES) - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 126.087,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821017",
+      "major_university_name": "S1 KEHUTANAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 157.692,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921011",
+      "major_university_name": "S1 KEHUTANAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 195,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921040",
+      "major_university_name": "D3 BUDIDAYA HUTAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 35,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Kehutanan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

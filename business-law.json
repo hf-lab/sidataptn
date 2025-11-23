@@ -1,0 +1,111 @@
+{
+  "idx": 40,
+  "id": "business-law",
+  "major_name": "Business Law",
+  "icon": null,
+  "description": "Business Law atau Hukum Bisnis umumnya adalah peminatan di program studi Ilmu Hukum atau program pascasarjana. Prodi Business Law mempelajari teori dan praktek hukum yang mengatur kegiatan bisnis. Di prodi ini kamu akan belajar dasar-dasar hukum dan berbagai studi kasus permasalahan hukum dalam kegiatan bisnis. Bidang studi prodi Business Law berfokus pada kajian tentang hak dan kekayaan intelektual, perdagangan internasional, hukum korporasi, dan e-business. ",
+  "why": "Program studi ini diirancang secara khusus untuk calon mahasiswa yang ingin fokus mempelajari hukum bisnis dengan kurikulum yang berbasis teknologi dan berstandar internasional. Kalau kamu tertarik untuk mempelajari semua hal yang berhubungan dengan legalitas dan dasar-dasar hukum dari sebuah bisnis, program studi ini cocok banget untukmu. Terlebih kalau kamu memiliki kemampuan-kemampuan seperti komunikasi dan negosiasi yang baik, karena kemampuan tersebut akan dibutuhkan di program studi ini nantinya.",
+  "subjects": [
+    "Theory of State (ilmu negara)",
+    "Introduction to Jurisprudence (Pengantar Ilmu Hukum)",
+    "Introduction to Indonesian Legal System (Pengantar Hukum Indonesia)",
+    "Empirical Legal Sciences (Ilmu-Ilmu Empiris tentang Hukum)",
+    "Islamic Law (Hukum Islam)",
+    "Constitutional Law (Hukum Tata Negara)",
+    "Private Law (Hukum Perdata)",
+    "Criminal Law (Hukum Pidana)",
+    "International Law (Hukum Internasional)",
+    "Administrative Law (Hukum Adminstrasi Negara)",
+    "Procedural Law (Hukum Acara)",
+    "Adat & Agrarian Law (Hukum Adat dan Agraria)",
+    "Principles of Business Law (Dasar-Dasar Hukum Bisnis)",
+    "Consumer Protection Law (Hukum Perlindungan Konsumen)",
+    "Islamic Business Law (Hukum Bisnis Syariah)",
+    "Business Competition Law (Hukum Persaingan Usaha)",
+    "Alternative Business Dispute Resolution (Alternatif Penyelesaian Sengketa)",
+    "Investment Law (Hukum Investasi)",
+    "Banking & Financial Law (Hukum Perbankan dan Keuangan)",
+    "Intellectual Property Rights (Hak Kekayaan Intelektual)",
+    "Cyber Law (Hukum Siber)",
+    "Labor Law (Hukum Perburuhan)",
+    "E-Commerce & Data Privacy Law (E-Commerce & Hukum Privasi Data)",
+    "Legal Reasoning (Penalaran Hukum)"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan prodi Business Law dibentuk untuk menjadi profesional di bidang hukum yang dapat berkiprah di bidang investasi, pertanahan, real estate, perbankan, ekspor-impor, dan sektor bisnis lainnya. Profesi yang dapat dijalankan oleh seorang lulusan prodi Business Law antara lain seperti advokat, notaris, konsultan hak kekayaan intelektual, mediator, dan in house legal.",
+  "professions": [
+    "Asisten Legal dan Paralegal",
+    "Konsultan Bisnis",
+    "HR Legal",
+    "Dosen Ilmu Hukum",
+    "Notaris"
+  ],
+  "related_majors": [
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/bisnis-internasional"
+  ],
+  "major_group_id": 46,
+  "jlh_prodi": 3,
+  "dt_snbp": 137,
+  "dt_snbt": 156,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "712093",
+      "major_university_name": "S1 HUKUM BISNIS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "622001",
+      "major_university_name": "S1 HUKUM BISNIS - UINMATARAM",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384023",
+      "major_university_name": "S1 HUKUM BISNIS SYARIAH - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 71.4286,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 46,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Hukum",
+    "merdeka_subject": [
+      6,
+      11
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      6,
+      12
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

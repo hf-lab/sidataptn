@@ -1,0 +1,251 @@
+{
+  "idx": 89,
+  "id": "ilmu-tanah-manajemen-sumberdaya-lahan-",
+  "major_name": "Ilmu Tanah (Manajemen Sumberdaya Lahan)",
+  "icon": null,
+  "description": "Ilmu Tanah merupakan bagian dari ilmu kebumian (earth science). Program studi ini juga disebut dengan nama Manajemen Sumberdaya Lahan. Program studi ini memegang peranan yang sangat penting dalam perencanaan dan pelaksanaan pembangunan yang berkelanjutan (sustainable development), serta berbagai usaha di masa yang akan datang yang berkaitan dengan tanah. Beberapa contoh bidang yang memerlukan keahlian ilmu tanah adalah pertanian, perkebunan, kehutanan, tata guna lahan, perencanaaan dan pengembangan wilayah, konservasi tanah, rehabilitasi lahan  perikanan, pertambangan, dan lain sebagainya. Oleh sebab itu, mahasiswa akan dididik menjadi sarjana yang handal, berkemampuan sebagai praktisi, peneliti dan pengambil kebijakan yang berkaitan dengan pertanian, khususnya sumberdaya lahan.",
+  "why": "Tanah merupakan sumber daya alam yang krusial sebagai penyusun lahan yang sangat diperlukan bagi kelangsungan hidup organisme, misalnya tumbuh-tumbuhan. Oleh sebab itu, diperlukan pengelolaan tanah yang tepat sehingga dapat memperoleh hasil dari penanaman yang optimal. Di samping itu, tanah perlu dijaga kelestariannya, namun proses reklamasi lahan dan konservasi tanah yang sudah rusak membutuhkan waktu yang sangat lama. Maka dari itu, program studi ini hadir untuk mempelajari mengenai ilmu pengetahuan yang berkaitan dengan tanah dari sudut pandang berbeda sehingga kita dapat mengelola tanah secara berkelanjutan.",
+  "subjects": [
+    "Klimatologi Dasar",
+    "Pupuk dan Tanaman",
+    "Perencanaan dan Pengembangan Wilayah",
+    "Konservasi Tanah dan Reklamasi Lahan",
+    "Evaluasi dan Tataguna Lahan",
+    "Digitasi dan Sistem Informasi",
+    "Geologi dan Mineralogi Tanah",
+    "Geomorfologi dan Analisis Lansekap",
+    "Genesis dan Klasifikasi Tanah",
+    "Ilmu Kimia Tanah",
+    "Fisika Tanah",
+    "Komunikasi dan Penyuluhan Pertanian",
+    "Agrohidrologi",
+    "Morfologi dan Klasififkasi Tanah",
+    "Ekologi Tanah",
+    "Karakteristik dan Dinamika Lahan Basah dan Gambut",
+    "Teknik Analisis Tanah dan Tanaman",
+    "Irigasi dan Drainase Pertanian",
+    "Survei dan Pemetaan Tanah",
+    "Kualitas dan Kesehatan Tanah"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi ini dapat bekerja di berbagai lembaga dan instansi, seperti Kementerian Pertanian RI, Kehutanan dan Perkebunan RI, Kantor Menteri Negara Lingkungan Hidup, Kementerian Pekerjaan Umum (khususnya Direktorat Jenderal Pengairan), pemerintah daerah, perusahaan swasta agrokompleks, perusahaan swasta non-agrokompleks, lembaga pengawasan, dosen dan tenaga pengajar, Kementerian Riset dan Teknologi, LIPI, BPPT dan Badan Informasi Geografi.",
+  "professions": [
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Konservasi Tanah dan Air",
+    "Peneliti Tanah dan Tumbuhan"
+  ],
+  "related_majors": [
+    "pertanian/agronomi-dan-hortikultura",
+    "pertanian/agroteknologi",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/mikrobiologi-pertanian",
+    "pertanian/rekayasa-pertanian",
+    "pertanian/teknik-pertanian-dan-biosistem"
+  ],
+  "major_group_id": 8,
+  "jlh_prodi": 19,
+  "dt_snbp": 519,
+  "dt_snbt": 795,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "171034",
+      "major_university_name": "S1 ILMU TANAH - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 28.0788,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341027",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA LAHAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 13.7615,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353025",
+      "major_university_name": "S1 ILMU TANAH - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.88031,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363012",
+      "major_university_name": "S1 ILMU TANAH - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 18.4397,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371025",
+      "major_university_name": "S1 ILMU TANAH - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 22.8261,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921020",
+      "major_university_name": "S1 ILMU TANAH - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1366.67,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711045",
+      "major_university_name": "S1 ILMU TANAH - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 39.5683,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621022",
+      "major_university_name": "S1 ILMU TANAH - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 35.1351,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531032",
+      "major_university_name": "S1 ILMU TANAH - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "511032",
+      "major_university_name": "S1 ILMU TANAH - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 50.3597,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111032",
+      "major_university_name": "S1 ILMU TANAH - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 41.3793,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361020",
+      "major_university_name": "S1 ILMU TANAH - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 11.3514,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191027",
+      "major_university_name": "S1 ILMU TANAH - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 41.0112,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161020",
+      "major_university_name": "S1 ILMU TANAH - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 28.4091,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141023",
+      "major_university_name": "S1 ILMU TANAH - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 20.202,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721030",
+      "major_university_name": "S1 ILMU TANAH - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 165,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751032",
+      "major_university_name": "S1 ILMU TANAH - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 58.3333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811028",
+      "major_university_name": "S1 ILMU TANAH - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 216.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821021",
+      "major_university_name": "S1 ILMU TANAH - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 160,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 8,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Pertahanan",
+    "merdeka_subject": [
+      11
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      12
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "idx": 86,
+  "id": "ilmu-perpustakaan",
+  "major_name": "Ilmu Perpustakaan",
+  "icon": null,
+  "description": "Ilmu perpustakaan melibatkan banyak keahlian di bidang Informasi teknologi, manajemen, dan pendidikan untuk mengumpulkan, merapikan dan menyimpan data. Pada program studi ini kamu akan mempelajari bagaimana memecahkan permasalahan ilmiah di bidang ilmu perpustakaan dan informasi. Juga melatih mahasiswanya dalam melakukan pengelolaan arsip dan rekod.\r\rProgram studi ini bertujuan untuk menghasilkan lulusan pustakawan peneliti yang terampil dan memiliki daya saing dalam manajemen perpustakaan dan informasi, serta memiliki kompetensi khusus dalam pengelolaan sumber-sumber primer ilmu pengetahuan.",
+  "why": "Jika kamu memiliki kesenangan terhadap penyimpanan data dan ingin berkarir di bidang kepustakaan dan pengarsipan, program studi ini mungkin akan menarik untuk kamu. Apabila kamu ingin menekuni bidang ini, sebaiknya kamu mempunyai dasar di bidang informasi teknologi. Selain itu dibutuhkan juga ketelitian dan kerapian dalam mengelola data. Jurusan ini akan mengajarkan Anda mengenai etika kepustakaan, dimana daya analisa Anda juga akan dilatih.\r\rJurusan ini akan menjadikan kita pustakawan yang kompeten dan membekali kita dengan keterampilan mengelola, mengorganisasi sumber-sumber informasi, dan melakukan pelayanan prima sesuai dengan perkembangan teknologi.\r\rDan terlebih apabila kamu menyenangi bidang pengembangan dan pengelolaan lembaga informasi, baik manual maupun digital, jurusan ini akan sangat membantu kamu untuk menjadi konsultan informasi atau konsultan perpustakaan yang kompeten. Selain itu, jurusan ini akan melatih kamu mengenai ilmu keperpustakaan dan mendorong kamu untuk mengaplikasikan kepemimpinan dan manajemen pada lembaga informasi modern.",
+  "subjects": [
+    "Administrasi Arsip",
+    "Bibliografi",
+    "Pengkatalogan",
+    "Manajemen Perpustakaan",
+    "Manajemen Digital Library",
+    "Aplikasi Teknologi Pengelolaan Informasi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Para lulusan jurusan Ilmu Perpustakaan bekerja sebagai pustakawan di perpustakaan negeri, swasta maupun institusi. Mereka akan mengelola, merapikan dan mengevaluasi data dan literatur.\r\rSelain sebagai pustakawan, lulusan jurusan ini juga bisa bekerja di museum dan gedung pengarsipan data. Disini, mereka akan mengumpulkan, mengkategorikan dan menyuguhkan data-data bagi pengunjung museum, ataupun bagi yang membutuhkan. \r\rPada umumnya para lulusan dari jurusan ini mempunyai kemampuan analisa dan bisa menggunakan teknologi informasi dengan baik, karena itu mereka juga bisa diterima bekerja di bidang Informasi Teknologi, Finansial maupun Penganalisa Data.",
+  "professions": [
+    "Juru Arsip",
+    "Staff Administrasi",
+    "Pustakawan",
+    "Spesialis Manajemen Dokumen"
+  ],
+  "related_majors": [
+    "pendidikan/manajemen-pendidikan",
+    "humaniora/kearsipan"
+  ],
+  "major_group_id": 45,
+  "jlh_prodi": 28,
+  "dt_snbp": 875,
+  "dt_snbt": 1231,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "121045",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 9.42982,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381039",
+      "major_university_name": "S1 ILMU INFORMASI DAN PERPUSTAKAAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 7.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373064",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.48988,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372077",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.62125,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "365013",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN (IP) - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 14.8615,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "355039",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 6.3772,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353076",
+      "major_university_name": "D3 PERPUSTAKAAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334074",
+      "major_university_name": "S1 PERPUSTAKAAN DAN SAINS INFORMASI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 4.33735,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333053",
+      "major_university_name": "S1 PERPUSTAKAAN DAN SAINS INFORMASI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.98339,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322023",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 13.0342,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321050",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 2.9661,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "161043",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 25.4902,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142062",
+      "major_university_name": "D3 INFORMASI, PERPUSTAKAAN & KEARSIPAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142057",
+      "major_university_name": "S1 PERPUSTAKAAN DAN ILMU INFORMASI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 3.29218,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191065",
+      "major_university_name": "D3 PERPUSTAKAAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "751077",
+      "major_university_name": "S1 PERPUSTAKAAN DAN ILMU INFORMASI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 86.1538,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611050",
+      "major_university_name": "D3 PERPUSTAKAAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511067",
+      "major_university_name": "D3 PERPUSTAKAAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381060",
+      "major_university_name": "PERPUSTAKAAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "116010",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 95.1613,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "374021",
+      "major_university_name": "S1 PERPUSTAKAAN DAN ILMU INFORMASI - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 35.625,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373065",
+      "major_university_name": "D4 PERPUSTAKAAN DIGITAL - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121053",
+      "major_university_name": "PERPUSTAKAAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "123007",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 65.9794,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172028",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 98.8095,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612049",
+      "major_university_name": "D3 PERPUSTAKAAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721042",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 116.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911043",
+      "major_university_name": "S1 ILMU PERPUSTAKAAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 675,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 45,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Informasi",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "idx": 87,
+  "id": "ilmu-politik",
+  "major_name": "Ilmu Politik",
+  "icon": null,
+  "description": "Program studi Ilmu Politik membekali para mahasiswanya teori dan praktik politik. Karena prodi ini mengajarkan lebih banyak teori tentang berbagai macam sistem politik yang ada di dunia, maka para mahasiswa harus sering melakukan riset dan terus bersikap kritis. Mahasiswa juga harus memiliki daya analisa yang kuat dalam memahami peristiwa-peristiwa sejarah yang mempengaruhi pembentukan struktur politik suatu negara. Kajian yang paling dikenal dalam Ilmu Politik adalah demokrasi, sistem politik, birokrasi, hak asasi manusia, dan etika sosial politik.",
+  "why": "Jika kamu tertarik mengenai sistem yang membentuk aspek sosial masyarakat, maka Ilmu Politik adalah pilihan yang cocok. Ilmu Politik bisa mendorong kamu untuk bersikap kritis. Lulusan Ilmu Politik harus bisa bersikap cerdas, tertata, dan yang paling penting menggunakan ilmunya untuk kepentingan rakyat.",
+  "subjects": [
+    "Pengantar Ilmu Politik",
+    "Pengantar Ilmu Sosiologi",
+    "Pengantar Ilmu Antropologi",
+    "Sistem Politik Indonesia",
+    "Metodologi Ilmu Politik",
+    "Pemikiran Politik Barat",
+    "Politik Lokal dan Otonomi Daerah",
+    "HAM dan Perubahan Politik",
+    "Bisnis dan Politik",
+    "Hukum dan Pembangunan",
+    "Kekuatan Politik di Indonesia",
+    "Politik Perkotaan",
+    "Perubahan Sosial Ekonomi dan Dinamika Politik",
+    "Masyarakat dan Politik di Asia Tenggara",
+    "Pemikiran Politik Islam",
+    "Perempuan Politik",
+    "Nasionalisme dan Resolusi Konflik Etnis",
+    "Lembaga Eksekutif dan Birokrasi di Indonesia",
+    "Pemerintahan dan Politik Desa",
+    "Politik Kebijakan Publik",
+    "Globalisasi dan Politik di Indonesia",
+    "Politik di Eropa Barat",
+    "Politik di Timur Tengah dan Afrika",
+    "Politik di Asia Selatan",
+    "Politik di Asia Timur",
+    "Politik di Australia",
+    "Politik di Rusia dan Eropa Timur",
+    "Politik Perburuhan dan Hubungan Industrial",
+    "Sistem Perwakilan Politik",
+    "Pembangunan Politik dan Studi Demokratisasi",
+    "Pemikiran Politik Kontemporer",
+    "Pemilu",
+    "Perilaku Pemilih dan Lembaga Perwakilan di Indonesia",
+    "Geopolitik dan Strategi Keamanan"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan dari jurusan ini mempunyai peluang kerja yang sangat fleksibel. Bisa tetap di bidang politik sebagai politikus, anggota partai politik, atau anggota DPR. Namun banyak juga lulusan yang kemudian berkecimpung di bidang akademis, sebagai peneliti, dosen, atau analis politik. Lebih jauh dari kedua bidang tersebut, ada juga lulusan yang bekerja di bidang ekonomi, perbankan, dan bisnis.",
+  "professions": [
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Asisten Legal dan Paralegal",
+    "Peneliti Politik",
+    "Penyiar Berita",
+    "Dosen Ilmu Politik",
+    "Pegawai Yudisial",
+    "Analis Intelijen",
+    "Direktur Manajemen Darurat",
+    "Wartawan",
+    "Konsultan Politik"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-hukum",
+    "humaniora/ilmu-pemerintahan",
+    "pendidikan/pendidikan-pancasila-dan-kewarganegaraan",
+    "humaniora/hubungan-internasional",
+    "humaniora/politik-islam",
+    "profesi-dan-ilmu-terapan/pendidikan-intelijen"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 29,
+  "dt_snbp": 1175,
+  "dt_snbt": 1721,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "381031",
+      "major_university_name": "S1 ILMU POLITIK - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 7.78302,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121037",
+      "major_university_name": "S1 ILMU POLITIK - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 5.92824,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141039",
+      "major_university_name": "S1 ILMU POLITIK - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 9.31264,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372069",
+      "major_university_name": "S1 ILMU POLITIK - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 9.89209,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711056",
+      "major_university_name": "S1 ILMU POLITIK - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 9.51009,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321038",
+      "major_university_name": "S1 ILMU POLITIK - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.31779,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "322028",
+      "major_university_name": "S1 ILMU POLITIK - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 14.9425,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "324020",
+      "major_university_name": "S1 ILMU POLITIK - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 7.82946,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333055",
+      "major_university_name": "S1 ILMU POLITIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.15879,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "336041",
+      "major_university_name": "S1 ILMU POLITIK - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 16.3551,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342021",
+      "major_university_name": "S1 ILMU POLITIK - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 13.5397,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351032",
+      "major_university_name": "S1 ILMU POLITIK - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 6.56934,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356067",
+      "major_university_name": "S1 ILMU POLITIK - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 10.2217,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511048",
+      "major_university_name": "S1 ILMU POLITIK - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 26.8293,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751074",
+      "major_university_name": "S1 ILMU POLITIK - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "611049",
+      "major_university_name": "S1 ILMU POLITIK - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 10.5882,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631042",
+      "major_university_name": "S1 ILMU POLITIK - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 46.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713031",
+      "major_university_name": "S1 ILMU POLITIK - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 65.3061,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721039",
+      "major_university_name": "S1 ILMU POLITIK - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 85.7143,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111057",
+      "major_university_name": "S1 ILMU POLITIK - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 30,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "386036",
+      "major_university_name": "S1 ILMU POLITIK - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 35.2201,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383089",
+      "major_university_name": "S1 ILMU POLITIK - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "357031",
+      "major_university_name": "S1 ILMU POLITIK - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 88.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181019",
+      "major_university_name": "S1 ILMU POLITIK - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 36.9369,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172027",
+      "major_university_name": "S1 ILMU POLITIK - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 121.849,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "151055",
+      "major_university_name": "S1 ILMU POLITIK - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 23.913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116014",
+      "major_university_name": "S1 ILMU POLITIK - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 280,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741021",
+      "major_university_name": "S1 ILMU POLITIK - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 97.619,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112025",
+      "major_university_name": "S1 ILMU POLITIK - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 86.3158,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

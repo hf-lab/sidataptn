@@ -1,0 +1,402 @@
+{
+  "idx": 75,
+  "id": "ilmu-gizi",
+  "major_name": "Ilmu Gizi",
+  "icon": null,
+  "description": "Para mahasiswa di sini mempelajari tentang banyak aspek yang berkaitan dengan gizi yang diasup oleh masyarakat. Maka, cabang ilmu ini tak akan lepas dari pendalaman terhadap hubungan antara makanan yang diasup dengan kesehatan. Secara lebih spesifik, program studi ini mempelajari keterkaitan gizi dengan kesehatan, pertumbuhan manusia, dan produktivitasnya, hubungan gizi dengan sektor pertanian, ekonomi dan sosial budaya, serta kualitas manusia. Di sini akan dipelajari zat gizi apa saja yang dibutuhkan oleh tubuh dan berapa takaran idealnya. ",
+  "why": "Saat ini gizi menjadi salah satu aspek paling berperan dalam pembentukan kualitas manusia. Di Indonesia, gizi yang bermutu sayangnya belum bisa dikonsumsi oleh seluruh masyarakat dari sabang sampai merauke. Sampai saat ini pun pemerintah masih senantiasa mengusahakan perbaikan gizi di setiap daerah, sehingga ketersediaan tenaga ahli gizi yang berkualitas sangat dibutuhkan. Apabila kamu ingin berperan dalam upaya perbaikan gizi dengan menjadi seorang ahli gizi, maka prodi ini bisa menjadi pilihan yang tepat.  ",
+  "subjects": [
+    "Biokimia Gizi",
+    "Ilmu Bahan Pangan",
+    "Mikrobiologi Pangan",
+    "Sosiologi Gizi",
+    "Patofisiologi Gizi",
+    "Prinsip-prinsip Ilmu Gizi",
+    "Teknologi Pengolahan Pangan",
+    "Antropologi Gizi",
+    "Metabolisme Zat Gizi",
+    "Gizi dalam Daur Kehidupan",
+    "Gizi Masyarakat",
+    "Penilaian Status Gizi",
+    "Evaluasi Gizi",
+    "Pendidikan Gizi",
+    "Fortifikasi Gizi",
+    "Perencanaan Pangan dan Gizi",
+    "Konseling Gizi",
+    "Manajemen Pelayanan Makanan dan Pelayanan Gizi Institusi",
+    "Ketahanan Pangan",
+    "Gizi Kuliner",
+    "Epidemiologi Gizi",
+    "Dietetika Penyakit Infeksi dan Defisiensi",
+    "Gizi Kerja dan Olahraga",
+    "Dietetika Penyakit Degeneratif",
+    "Intervensi Gizi",
+    "Manajemen Pelayanan Makanan",
+    "Pelayanan Gizi Institusi",
+    "Imunologi Gizi",
+    "Interaksi Obat dan Makanan",
+    "Pengembangan Produk Pangan",
+    "Manajemen Mutu dan Keamanan Pangan"
+  ],
+  "characters": [
+    "Tekun",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dengan adanya upaya pemerintah untuk melakukan program perbaikan gizi sampai ke seluruh pelosok Indonesia, maka peran para lulusan Ilmu Gizi sangat dibutuhkan. Jadi, apabila kamu memilih prodi ini, kamu bisa turut berkarya dalam mengupayakan kesehatan masyarakat secara menyeluruh. Lulusan prodi Ilmu Gizi akan memeroleh gelar Sarjana Gizi (S.Gz), dan memiliki prospek kerja sebagai konsultan gizi baik di klinik, rumah sakit, dan puskesmas. Lulusan ilmu gizi juga dapat berkarir di perusahaan yang bergerak di industri pangan, seperti perusahaan pengolahan makanan kaleng, atau katering makanan diet. ",
+  "professions": [
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Spesialis Perawatan Kulit",
+    "Teknisi Ilmu Pangan",
+    "Ahli Diet dan Nutrisi",
+    "Manajer Layanan Makanan (Food Service Managers)"
+  ],
+  "related_majors": [
+    "kesehatan/kesehatan-masyarakat",
+    "kesehatan/kesehatan-dan-keselamatan-kerja",
+    "mipa/food-business-technology",
+    "seni/tata-boga",
+    "pertanian/teknologi-pangan",
+    "kesehatan/terapi-wicara"
+  ],
+  "major_group_id": 40,
+  "jlh_prodi": 34,
+  "dt_snbp": 1254,
+  "dt_snbt": 1883,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "121026",
+      "major_university_name": "S1 GIZI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 1.37566,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711022",
+      "major_university_name": "S1 ILMU GIZI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 2.42424,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373083",
+      "major_university_name": "S1 GIZI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371038",
+      "major_university_name": "S1 GIZI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 5.17052,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356023",
+      "major_university_name": "S1 GIZI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 5.24379,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355004",
+      "major_university_name": "S1 GIZI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 3.0479,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "342010",
+      "major_university_name": "S1 GIZI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 6.00801,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341025",
+      "major_university_name": "S1 ILMU GIZI - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 2.91519,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334034",
+      "major_university_name": "S1 GIZI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 2.83086,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "331009",
+      "major_university_name": "S1 GIZI - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 4.04624,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321025",
+      "major_university_name": "S1 GIZI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.24242,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311019",
+      "major_university_name": "S1 GIZI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 3.69686,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324009",
+      "major_university_name": "S1 GIZI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 4.1316,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171037",
+      "major_university_name": "S1 GIZI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 5.2686,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141027",
+      "major_university_name": "S1 GIZI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 4.83384,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "132010",
+      "major_university_name": "S1 GIZI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 7.98122,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122014",
+      "major_university_name": "S1 GIZI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 5.95238,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751043",
+      "major_university_name": "S1 GIZI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 10.9034,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731025",
+      "major_university_name": "S1 GIZI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 8.5389,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712029",
+      "major_university_name": "S1 GIZI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 13.6782,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "113013",
+      "major_university_name": "S1 GIZI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 34.3407,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541074",
+      "major_university_name": "S1 GIZI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472001",
+      "major_university_name": "D4 GIZI KLINIK - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 19.544,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386042",
+      "major_university_name": "S1 GIZI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383020",
+      "major_university_name": "S1 GIZI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 6.40427,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381017",
+      "major_university_name": "S1 GIZI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 3.89846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372023",
+      "major_university_name": "S1 ILMU GIZI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 4.18311,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "123011",
+      "major_university_name": "S1 GIZI - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361008",
+      "major_university_name": "S1 GIZI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.48139,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "357005",
+      "major_university_name": "S1 GIZI - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 14.876,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "352026",
+      "major_university_name": "S1 GIZI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351022",
+      "major_university_name": "S1 ILMU GIZI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 3.62264,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341049",
+      "major_university_name": "D4 MANAJEMEN INDUSTRI JASA MAKANAN DAN GIZI - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "741016",
+      "major_university_name": "S1 GIZI - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 38.6207,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 40,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Gizi\r",
+    "merdeka_subject": [
+      17,
+      13
+    ],
+    "ipa_subject": [
+      17,
+      13
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

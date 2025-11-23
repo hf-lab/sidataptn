@@ -1,0 +1,538 @@
+{
+  "idx": 52,
+  "id": "ekonomi",
+  "major_name": "Ekonomi",
+  "icon": null,
+  "description": "Program studi Ekonomi, atau juga sering disebut juga Ilmu Ekonomi, merupakan salah satu program studi tertua dalam dunia pendidikan tinggi. Prodi Ekonomi mempelajari bagaimana mengalokasi sumberdaya se-optimal mungkin, dan memberikan wawasan tentang isu-isu pembangunan sosial ekonomi. Di prodi ini kamu akan di asah untuk menjadi seorang ahli ekonomi atau ekonom yang  mampu menganalisa data-data statistik menjadi informasi yang bermanfaat untuk memecahkan permasalahan ekonomi, juga menganalisa hubungan sebab-akibat dari berbagai fenomena terhadap kondisi ekonomi sosial politik negara, seperti hubungan tingkat pengangguran terhadap inflasi, dan sebagainya.\r\r\rDalam ilmu Ekonomi terdapat dua bagian yang akan di pelajari, yaitu ekonomi makro dan ekonomi mikro. Ekonomi makro lebih menekankan topik pembahasan pada situasi ekonomi global dan sebuah negara. Seperti volatilitas nilai kurs, kebijakan moneter dan fiskal, dan pembangunan infrastruktur. Sedangkan ekonomi mikro mempelajari situasi ekonomi tataran individu dan perusahaan, tentang strategi bisnisnya, dan tentu saja kinerja perusahaan.",
+  "why": "Program studi Ekonomi akan sangat pas untuk kamu yang memiliki kemampuan kuantitatif yang baik, karena pastinya ilmu Ekonomi selalu berhubungan dengan matematika. Ekonomi juga pas banget untuk kamu yang kritis dan suka meneliti. Prodi ini juga cocok untuk kamu yang punya minat dalam dunia bisnis dan jual beli. Walaupun sebenarnya Ekonomi tidak sesederhana itu. Ada banyak faktor yang mempengaruhi transaksi jual beli, seperti interaksi antara penjual dan pembeli, regulasi yang membatasi gerak dalam berdagang dan sebagainya. Maka, dengan menekuni bidang ekonomi, kamu bisa menjadi pebisnis yang luwes, cepat tanggap, dan punya naluri yang tajam.",
+  "subjects": [
+    "Matematika Ekonomi",
+    "Statistik Ekonomi",
+    "Ekonometrika",
+    "Ekonomi Mikro",
+    "Ekonomi Makro",
+    "Pengantar Manajemen",
+    "Pengantar Bisnis",
+    "Pengantar Akuntansi",
+    "Sejarah Pemikiran Ekonomi",
+    "Ekonomi Koperasi",
+    "Evaluasi Proyek",
+    "Ekonomi Moneter",
+    "Ekonomi Publik",
+    "Ekonomi Pembangunan",
+    "Sistem Ekonomi",
+    "Ekonomi Internasional",
+    "Kebanksentralan",
+    "Demografi",
+    "Ekonomi Industri",
+    "Ekonomi Pertanian",
+    "Ekonomi Regional",
+    "Ekonomi SDM",
+    "Ekonomi SDA & Lingkungan",
+    "Perencanaan Pembangunan",
+    "Ekonomi Kependudukan",
+    "Analisis Optimasi",
+    "Ekonomi Manajerial",
+    "Bank dan Lembaga Keuangan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Program studi Ekonomi selalu menjadi prodi favorit hingga saat ini, karena sejak dulu prodi Ekonomi terkenal dengan prospek kerja lulusannya yang luas. Mulai dari ruang lingkup besar seperti negara, hingga ke ruang lingkup yang lebih kecil seperti perusahaan, selalu bersinggungan dengan aspek ekonomi. Namun sebenarnya ilmu Ekonomi sangalah luas dan banyak memiliki cabang ilmu, dan lulusan prodi Ekonomi dipersiapkan untuk menjadi analis keuangan, analis kebijakan ekonomi, perencana pertama, peneliti, dan tenaga pendidik di bidang ekonomi. ",
+  "professions": [
+    "Ekonom",
+    "Juru Taksir",
+    "Pengajar Bisnis",
+    "Akuntan",
+    "Analis Manajemen Bisnis",
+    "Pemeriksa Keuangan",
+    "Pemeriksa dan Pengumpul Pajak, dan Agen Revenue",
+    "Pegawai Pajak/ Pegawai Persiapan Pajak",
+    "Auditor",
+    "Analis Riset Operasional"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/green-economy",
+    "ekonomi-bisnis/manajemen-logistik",
+    "ekonomi-bisnis/ekonomi-pembangunan",
+    "ekonomi-bisnis/ekonomi-islam-ekonomi-syariah-"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 49,
+  "dt_snbp": 2032,
+  "dt_snbt": 2910,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "356048",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 7.28083,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333035",
+      "major_university_name": "S1 ILMU EKONOMI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 5.57308,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323048",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 12.6761,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334071",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 18.1452,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342012",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 18.75,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351037",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 5.88235,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353070",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 9.35412,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355042",
+      "major_university_name": "S1 EKONOMI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 9.12547,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356046",
+      "major_university_name": "S1 PENDIDIKAN AKUNTANSI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 13.6029,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356047",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 25.5102,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361063",
+      "major_university_name": "S1 ILMU EKONOMI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 4.2654,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362041",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 9.7561,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371051",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 22.1875,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373043",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 16.5266,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383052",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 13.382,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383070",
+      "major_university_name": "S1 EKONOMI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 10.6888,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386033",
+      "major_university_name": "S1 ILMU EKONOMI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 18.0488,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "322020",
+      "major_university_name": "S1 ILMU EKONOMI DAN STUDI PEMBANGUNAN - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 9.55056,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321044",
+      "major_university_name": "S1 ILMU EKONOMI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.95868,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191050",
+      "major_university_name": "S1 PEND. EKONOMI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 22.1902,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "181020",
+      "major_university_name": "S1 EKONOMI - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 28.655,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171047",
+      "major_university_name": "S1 PEND EKONOMI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 18.0851,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151035",
+      "major_university_name": "S1 PEND. EKONOMI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 28.2051,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142043",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 15.2019,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511043",
+      "major_university_name": "S1 PEND. EKONOMI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 21.2766,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141032",
+      "major_university_name": "S1 EKONOMI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 10.453,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631030",
+      "major_university_name": "S1 PEND. EKONOMI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 45.8564,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131042",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 16.3522,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122052",
+      "major_university_name": "S1 ILMU EKONOMI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 8.95197,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122027",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 12.3779,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611033",
+      "major_university_name": "S1 EKONOMI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 16.289,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612022",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 35.2564,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752040",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 73.7864,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712063",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 16.3636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "713025",
+      "major_university_name": "S1 ILMU EKONOMI - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 31.7365,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811047",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 273.077,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751055",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 40.4762,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541049",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 26.2295,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531043",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 32.9897,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521024",
+      "major_university_name": "S1 PEND. EKONOMI - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 34.2466,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141048",
+      "major_university_name": "S1 EKONOMI PEMBANGUNAN (KAMPUS PAYAKUMBUH) - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 21.4765,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132020",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 60.4651,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116013",
+      "major_university_name": "S1 ILMU EKONOMI - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111047",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 41.0256,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911024",
+      "major_university_name": "S1 ILMU EKONOMI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 280,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912027",
+      "major_university_name": "S1 PENDIDIKAN EKONOMI - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 625,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722052",
+      "major_university_name": "S1 ILMU EKONOMI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 180.282,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722037",
+      "major_university_name": "S1 PEND EKONOMI S1 - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 235.593,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112022",
+      "major_university_name": "S1 ILMU EKONOMI & STUDI PEMBANGUNAN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 75.8865,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

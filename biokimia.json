@@ -1,0 +1,114 @@
+{
+  "idx": 29,
+  "id": "biokimia",
+  "major_name": "Biokimia",
+  "icon": null,
+  "description": "Biokimia adalah ilmu yang mempelajari tentang peranan berbagai molekul dalam reaksi dan proses kimia yang berlangsung dalam tubuh makhluk hidup (metabolisme). Biomolekul yang berperan dalam metabolsime itu antara lain adalah protein, karbohidrat, lipid, dan asam nukleat. Ilmu Biokimia terbagi dalam beberapa fokus, antara lain Metabolisme, Biomolekuler, dan Bioanalisis. Biokimia merupakan ilmu yang dipelajari di prodi Pendidikan Dokter dan prodi Kimia. Namun Biokimia kini sudah lebih difokuskan menjadi satu prodi. ",
+  "why": "Seperti namanya, Biokimia terdiri atas gabungan dari Biologi dan Kimia. Karenanya, untuk belajar Biokimia, kamu harus menyukai kedua mata pelajaran tersebut. Selain itu, ketertarikan pada reaksi biologis dan kimiawi yang terjadi pada level molekular dari sebuah makhluk hidup juga akan sangat membantu proses belajarmu di program studi ini. Mempelajari Biokimia akan membuat kamu paham bagaimana tubuhmu dapat berfungsi secara utuh. \r\r",
+  "subjects": [
+    "Struktur dan Fungsi Subseluler",
+    "Kinetika Kimia",
+    "Biologi Molekuler",
+    "Integrasi dan Regulasi Metabolisme",
+    "Teknologi Asam Nukleat dan Protein",
+    "Kolokium",
+    "Matematika Dasar",
+    "Pengantar Ilmu Pertanian",
+    "Kalkulus",
+    "Genetika Dasar",
+    "Mikrobiologi Dasar",
+    "Biofisika Umum",
+    "Kimia Organik",
+    "Kimia Fisik",
+    "Kimia Anorganik",
+    "Kimia Analitik",
+    "Struktur dan Fungsi Biomolekul",
+    "Metabolisme",
+    "Instrumentasi Bioanalisis",
+    "Bioenergetika",
+    "Biokimia Lingkungan",
+    "Biokimia Klinis",
+    "Biokimia Nutrisi",
+    "Bioindustri",
+    "Biokimia Tumbuhan",
+    "Biosinyal",
+    "Bioinformatika",
+    "Imunokimia"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Umumnya lulusan Biokimia akan berkarir di bidang research and development di perusahaan farmasi, pangan, dan lembaga penelitian milik swasta maupun pemerintah. Lulusan Biokimia juga dapat berkarir di bidang medis, atau menjadi pengajar ilmu Biokimia. ",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Spesialis Kimia",
+    "Teknisi Ilmu Forensik",
+    "Ahli Biostatistik",
+    "Ahli Biologi Molekul dan Sel",
+    "Manajer Kontrol Kualitas Sistem",
+    "Pengawas dan Penyelidik Kebakaran",
+    "Peneliti Bioinformatika",
+    "Ahli Kimia",
+    "Ahli Biologi"
+  ],
+  "related_majors": [
+    "pertanian/mikrobiologi-pertanian",
+    "mipa/biologi",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "kesehatan/teknologi-laboratorium-medik-analis-kesehatan-",
+    "pendidikan/pendidikan-kimia",
+    "mipa/kimia",
+    "teknik/teknologi-bioproses",
+    "teknik/teknik-kimia",
+    "pendidikan/pendidikan-biologi"
+  ],
+  "major_group_id": 52,
+  "jlh_prodi": 1,
+  "dt_snbp": 50,
+  "dt_snbt": 33,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "341004",
+      "major_university_name": "S1 BIOKIMIA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 15.8371,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 52,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bioteknologi,Biokewirausahaan, Bioinformatika",
+    "merdeka_subject": [
+      17,
+      10
+    ],
+    "ipa_subject": [
+      17,
+      10
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

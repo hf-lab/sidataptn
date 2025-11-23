@@ -1,0 +1,176 @@
+{
+  "idx": 14,
+  "id": "aktuaria",
+  "major_name": "Aktuaria",
+  "icon": null,
+  "description": "Jurusan Aktuaria mempelajari bidang matematika yang kerap kali disebut sebagai “Matematika Asuransi”. Ilmu Aktuaria sendiri adalah ilmu tentang asuransi, alias pengelolaan risiko keuangan di masa yang akan datang. Mahasiswa Aktuaria akan mendapatkan mata kuliah-mata kuliah yang merupakan kombinasi antara ilmu tentang peluang, matematika, statistika, keuangan, dan pemrograman komputer.\r\rTujuan akhirnya adalah agar mereka bisa menjadi ahli madya asuransi yang punya keahlian praktis dalam bidang  administrasi asuransi dan aktuaria, serta keahlian dalam profesi perencanaan keuangan personal.",
+  "why": "Kalau kamu suka dengan pelajaran matematika, khususnya yang berhubungan dengan probabilitas dan statistika, maka Aktuaria adalah jurusan yang pas buat kamu! Di sini kamu akan mempelajari serba-serbi penghitungan resiko untuk asuransi, peluang, hingga statistikanya. \r\rNggak lupa juga, jurusan ini memiliki prospek kerja yang sangat mumpuni pastinya.",
+  "subjects": [
+    "Komputerisasi dan Pemrograman Aktuaria",
+    "Dasar-dasar Kalkulus",
+    "Demografi dan Penyajian Tabel Mortalita",
+    "Hukum Asuransi",
+    "Manajemen Klaim",
+    "Manajemen Risiko dan Reasuransi",
+    "Matematika Asuransi Jiwa",
+    "Matematika Dana Pensiun",
+    "Matematika Keuangan",
+    "Operasional Asuransi Jiwa & Kesehatan",
+    "Praktik dan Simulasi Aktuaria",
+    "Probabilita Statistika",
+    "SDM Dalam Industri Asuransi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Walaupun jurusan (dan profesi) di bidang Aktuaria kayaknya asing bagi kamu, profesi aktuaris sebenarnya tergolong sangat dibutuhkan, dan bergaji oke, lho. Dan yang membuat profesi ini penting adalah karena Indonesia sangat, sangat krisis tenaga ahli Aktuaria. Pemerintah Indonesia sekarang mewajibkan setiap perusahaan asuransi mempunyai minimal satu orang aktuaris, sementara perusahaan asuransi kadang memerlukan puluhan aktuaris. Kebayang ‘kan bagaimana dibutuhkannya para fresh graduate dari jurusan yang satu ini?",
+  "professions": [
+    "Aktuaris",
+    "Penilai, Pemeriksa, dan Penyelidik Klaim Asuransi",
+    "Agen Penjualan Asuransi",
+    "Pemeriksa Klaim, Asuransi Properti",
+    "Penaksir Asuransi untuk Kerusakan Kendaraan",
+    "Surveyor Risiko Asuransi"
+  ],
+  "related_majors": [
+    "mipa/matematika",
+    "mipa/statistika-terapan-dan-komputasi",
+    "mipa/statistika",
+    "mipa/matematika-bisnis"
+  ],
+  "major_group_id": 57,
+  "jlh_prodi": 11,
+  "dt_snbp": 250,
+  "dt_snbt": 376,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "321031",
+      "major_university_name": "S1 AKTUARIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.35714,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333028",
+      "major_university_name": "S1 ILMU AKTUARIA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 6.36042,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321073",
+      "major_university_name": "D3 ADMINISTRASI ASURANSI & AKTUARIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341039",
+      "major_university_name": "S1 AKTUARIA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 5.20833,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361046",
+      "major_university_name": "S1 ILMU AKTUARIA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.40136,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372054",
+      "major_university_name": "S1 ILMU AKTUARIA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 5.85938,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382030",
+      "major_university_name": "S1 SAINS AKTUARIA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 8.61244,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711041",
+      "major_university_name": "S1 ILMU AKTUARIA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 11.6505,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192030",
+      "major_university_name": "S1 SAINS AKTUARIA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 35.6223,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542017",
+      "major_university_name": "S1 ILMU AKTUARIA - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 110,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "718006",
+      "major_university_name": "S1 SAINS AKTUARIA - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 57,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Sains Data ",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

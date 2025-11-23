@@ -1,0 +1,544 @@
+{
+  "idx": 2,
+  "id": "administrasi-bisnis-administrasi-niaga-",
+  "major_name": "Administrasi Bisnis (Administrasi Niaga)",
+  "icon": null,
+  "description": "Program studi Administrasi Bisnis atau yang kerap disebut sebagai Administrasi Niaga akan mengajakmu untuk mempelajari segala sesuatu terkait kegiatan operasional bisnis dan perusahaan. Kegiatan-kegiatan tersebut seperti kegiatan pemasaran (marketing), pengelolaan keuangan, pengelolaan personalia (SDM), hingga kegiatan produksi. Tidak hanya belajar menjalankan bisnis, kamu juga akan belajar untuk menciptakan sebuah produk sendiri. Bisnis yang dimaksud bukan sekedar menjual kembali produk dan mengambil keuntungan, melainkan menciptakan value pada produk yang akan dipasarkan. Administrasi Bisnis pastinya juga mempelajari segala urusan klarikal kantor, mengelola sarana dan prasarana kantor, memproses data secara akurat, dan bahkan mengelola informasi yang berhubungan dengan pekerjaan kantor.",
+  "why": "Prodi ini sangat sesuai dengan kalian yang memiliki ketertarikan dalam bidang pengurusan dokumen namun tidak mau terjebak dalam pengurusan dokumen saja. prodi ini akan mengajak kalian bagaimana menjalankan sebuah bisnis, bagaimana mengurus berbagai macam dokumen kebisnisannya, dan tentu saja mengembangkan bisnis tersebut. Jadi jika kamu tertarik dengan bisnis dan mengurus berbagai dokumennya ini merupakan prodi yang sesuai.",
+  "subjects": [
+    "Azas-azas Manajemen",
+    "Matematika Bisnis",
+    "Dasar-dasar Organisasi",
+    "Kebijakan & Strategi Pemasaran",
+    "Kebijakan & Strategi SDM",
+    "Komunikasi Keorganisasian",
+    "Sistem Informasi Manajemen",
+    "Manajemen Risiko dan Asuransi",
+    "Psikologi Industri",
+    "Ketenagakerjaan dan Hubungan industrial",
+    "Akuntansi",
+    "Psikologi Umum",
+    "Perpajakan",
+    "Hukum Bisnis",
+    "Manajemen Pemasaran Strategis",
+    "Strategi dan Manajemen Perusahaan Multinasional",
+    "Teknik Penyusunan Rencana Bisnis",
+    "Ketenagakerjaan dan Hubungan Industrial",
+    "Hak Perlindungan Konsumen",
+    "Pemasaran Teknologi Tinggi",
+    "Manajemen Perusahaan Industrial",
+    "Organisasi Multilateral",
+    "Perilaku Konsumen"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Nggak heran program studi Administrasi Bisnis jadi salah satu program studi favorit, dan jadi incaran para calon mahasiswa baru. Pasalnya banyak industri, khususnya industri keuangan dan perbankan membutuhkan tenaga lulusan Administrasi Bisnis. Selain itu, ruang lingkupdan ragam bisnis yang sangat luas memungkinkan lulusan Administrasi Bisnis untuk bergabung di berbagai instansi dan perusahaan milik pemerintah ataupun swasta. Seorang lulusan Administrasi Bisnis dapat bekerja di bidang sumber daya manusia, pemasaran, pengembangan bisnis, hingga wirausaha.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Manajer Produksi Industri",
+    "Pramuniaga",
+    "Broker Real Estate",
+    "Pemeriksa dan Pengumpul Pajak, dan Agen Revenue",
+    "Manajer Kontrol Kualitas Sistem",
+    "Staff Legal",
+    "Manager Asosiasi Properti, Real Estate dan Komunitas",
+    "Agen Penjualan Properti dan Real Estate",
+    "Pengajar Bisnis"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-keuangan",
+    "humaniora/administrasi-publik-administrasi-negara-",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "humaniora/business-law",
+    "ekonomi-bisnis/akuntansi-bisnis",
+    "ekonomi-bisnis/manajemen-sumber-daya-manusia-organisasi",
+    "pendidikan/administrasi-pendidikan",
+    "humaniora/administrasi-perkantoran-kesekretariatan-",
+    "ekonomi-bisnis/keuangan-dan-perbankan",
+    "ekonomi-bisnis/manajemen"
+  ],
+  "major_group_id": 29,
+  "jlh_prodi": 50,
+  "dt_snbp": 1972,
+  "dt_snbt": 2839,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "121047",
+      "major_university_name": "S1 ILMU ADMINISTRASI NIAGA/BISNIS - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 3.93199,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541047",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 3.59955,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "531051",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 11.3604,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431026",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431016",
+      "major_university_name": "D4 ADMINISTRASI BISNIS - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 4.46841,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355045",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 4.60165,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353091",
+      "major_university_name": "D3 MANAJEMEN ADMINISTRASI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333042",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.23383,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131034",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 2.68908,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "231007",
+      "major_university_name": "D4 ADMINISTRASI BISNIS TERAPAN - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": 18.677,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452014",
+      "major_university_name": "D4 ADMINISTRASI BISNIS TERAPAN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 9.57447,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "721037",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 41.9355,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "717013",
+      "major_university_name": "D4 ADMINISTRASI BISNIS INTERNASIONAL - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716012",
+      "major_university_name": "D4 ADMINISTRASI BISNIS - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 24.0964,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712077",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 7.49646,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751063",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 15.37,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474032",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "473008",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452016",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191046",
+      "major_university_name": "S1 ILMU ADM. NIAGA/BISNIS - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 11.7227,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421025",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421022",
+      "major_university_name": "D4 ADMINISTRASI BISNIS TERAPAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 7.15328,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372092",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "241020",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "271032",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321045",
+      "major_university_name": "S1 ILMU ADMINISTRASI NIAGA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.40044,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333065",
+      "major_university_name": "S1 ADMINISTRASI BISNIS PSDKU PANGANDARAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 6.41026,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351040",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "385018",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 9.29032,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372059",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.56257,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371044",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 10.665,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363019",
+      "major_university_name": "S1 ILMU ADMINISTRASI BISNIS - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 6.93205,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617011",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716028",
+      "major_university_name": "ADMINISTRASI BISNIS KAMPUS KABUPATEN BONE - POLITEKNIK NEGERI UJUNG PANDANG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716013",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "221025",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "641014",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "727012",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232007",
+      "major_university_name": "D4 ADMINISTRASI BISNIS INTERNASIONAL - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 45.3704,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112032",
+      "major_university_name": "S1 ADMINISTRASI BISNIS - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 37.3684,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536011",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515016",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515008",
+      "major_university_name": "D4 ADMINISTRASI BISNIS OTOMOTIF - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 32.8,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222016",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "831007",
+      "major_university_name": "D4 ADMINISTRASI BISNIS TERAPAN - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 718.182,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "831009",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617023",
+      "major_university_name": "D3 ADMINISTRASI BISNIS (KAMPUS KAB. KARANGASEM) - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "552001",
+      "major_university_name": "D3 ADMINISTRASI BISNIS - PNN",
+      "university_name": "POLITEKNIK NEGERI NUNUKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271033",
+      "major_university_name": "D3 ADMINISTRASI BISNIS KAMPUS BANYUASIN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271023",
+      "major_university_name": "D3 ADMINISTRASI BISNIS (KAMPUS KAB. OGAN KOMERING ULU) - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 29,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Administrasi Bisnis\r",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

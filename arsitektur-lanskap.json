@@ -1,0 +1,96 @@
+{
+  "idx": 23,
+  "id": "arsitektur-lanskap",
+  "major_name": "Arsitektur Lanskap",
+  "icon": null,
+  "description": "Serupa dengan ilmu Arsitektur, program studi Arsitektur Lanskap juga mempelajari tentang perencanaan, perancangan konstruksi, namun dalam ruang lingkup outdoor dengan skala yang lebih besar. Seorang Arsitek Lanskap dituntut untuk dapat memanfaatkan dan mengelola lahan-lahan luas terbuka menjadi area yang fungsional dengan memerhatikan aspek estetika dan ekologi. Arsitektur Lansekap merupakan pengembangan dari ilmu Arsitektur Taman, jadi Arsitektur Lanskap erat kaitannya dengan perancangan taman. Berbeda dengan ilmu Arsitektur, elemen desain yang utama di Arsitektur Lanskap adalah tanaman. Bentuk karya dari Arsitektur Lanskap seperti  taman kota, taman hiburan, cagar alam, gelanggang olah raga, hingga komplek perumahan. ",
+  "why": "Kalau kamu tertarik untuk mempelajari ilmu Arsitektur ditambah pula dengan pengetahuan tentang pelestarian ekologis, ini adalah program studi yang tepat buat kamu. Apalagi, kalau kamu senang menggambar dan merancang sesuatu, karena seperti prodi Arsitektur pada umumnya, pada program studi ini kita nggak akan lepas dari tugas-tugas menggambar.",
+  "subjects": [
+    "Analisis dan Pemodelan Lanskap",
+    "Estetika Lingkungan",
+    "Tanaman dan Sistem Ruang Terbuka Hijau",
+    "Kolokium",
+    "Perencanaan Lanskap Kawasan Wisata",
+    "Sistem Lanskap Kota",
+    "Ekologi Lanskap",
+    "Perencanaan dan Pendesainan Lanskap"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Arsitek Lanskap turut punya andil dalam membentuk tata kota yang baik dan indah. Lulusan Arsitektur Lanskap memiliki prospek kerja di berbagai perusahaan konsultan dan kontraktor, developer, perusahaan properti, serta di berbagai instansi pemerintahan seperti Dinas Pekerjaan Umum dan Badan Perencanaan Pembangunan Daerah (BAPPEDA).",
+  "professions": [
+    "Perencanaan Kota dan Wilayah",
+    "Arsitek Lanskap",
+    "Konsultan Arsitek",
+    "Arsitek",
+    "Ahli Teknik Lingkungan"
+  ],
+  "related_majors": [
+    "teknik/arsitektur",
+    "teknik/teknik-perencanaan-wilayah-dan-kota-planologi-"
+  ],
+  "major_group_id": 23,
+  "jlh_prodi": 3,
+  "dt_snbp": 82,
+  "dt_snbt": 111,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "341003",
+      "major_university_name": "S1 ARSITEKTUR LANSEKAP - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 6.7086,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192027",
+      "major_university_name": "S1 ARSITEKTUR LANSKAP - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 59.1667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611024",
+      "major_university_name": "S1 ARSITEKTUR LANSKAP - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 19.7531,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 23,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Arsitektur",
+    "merdeka_subject": [
+      10,
+      14
+    ],
+    "ipa_subject": [
+      10,
+      14
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

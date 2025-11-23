@@ -1,0 +1,109 @@
+{
+  "idx": 34,
+  "id": "bisnis-internasional",
+  "major_name": "Bisnis Internasional",
+  "icon": null,
+  "description": "Program studi Bisnis Internasional adalah sebuah prodi yang fokus pada pembelajaran tentang tantangan-tantangan yang dihadapi oleh dunia bisnis di pasar internasional. Di prodi ini kamu akan belajar etika dan hukum bisnis dalam skala internasional, yang pastinya berbeda dengan etika dan hukum bisnis dalam negeri, kamu juga akan dilatih untuk berpikir secara global dalam menciptakan ide dan solusi dalam permasalahan ekonomi dan bisnis di lingkup internasional.",
+  "why": "Biasanya prodi ini menggunakan bahasa Inggris sebagai bahasa pengantar dalam kegiatan perkuliahan, tapi bukan berarti kamu harus fasih berbahasa Inggris dulu untuk masuk prodi ini. Disini kamu akan dilatih untuk mahir melakukan komunikasi bisnis dengan bahasa Inggris. Prodi Bisnis Internasional umumnya juga memiliki partner dari perusahaan-perusahaan multinasional yang menyediakan program magang untuk mahasiswa, sehingga kamu akan memeroleh pengalaman kerja dan berpotensi untuk direkrut oleh perusahaan yang bersangkutan.",
+  "subjects": [
+    "Matematika Bisnis",
+    "Statistika Bisnis",
+    "Makro Ekonomi",
+    "Mikro Ekonomi",
+    "Hukum Bisnis Internasional",
+    "Akuntansi Keuangan",
+    "Komunikasi Bisnis Internasional",
+    "Administrasi Perusahaan Multinasional",
+    "Administrasi Ekspor Impor dan Kaapabeanan",
+    "E-Business",
+    "Ekonomi Investasi",
+    "Manajemen Keuangan Internasional",
+    "Akuntansi dan Perpajakan Internasional",
+    "Analisis Ekonomi Internasional",
+    "Analisis Resiko Bisnis Internasional",
+    "Manajemen Lintas Budaya",
+    "Manajemen Transportasi dan Logistik",
+    "Hubungan Internasional"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Bisnis Internasional memiliki prospek karir yang cemerlang untuk bergabung di berbagai perusahaan multinasional, organisasi internasional, perusahaan investasi, dan perusahaan ekspor-impor. Apalagi, Indonesia akan segera berpartisipasi dalam Masyarakat Ekonomi Asia (MEA), kompetisi bisnis antar-negara pun tak bisa terelakkan lagi. Karena itu dibutuhkan para ahli bisnis yang memiliki pengetahuan tidak hanya tentang bisnis itu sendiri melainkan isu-isu internasional yang mempengaruhi jalannya sebuah bisnis.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Pengajar Bisnis",
+    "Manajer Pembelian",
+    "Ahli Logistik",
+    "Pramuniaga",
+    "Ekonom",
+    "Analis Manajemen Bisnis",
+    "Pengajar Ekonomi",
+    "Analis Logistik"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/bisnis-islam",
+    "ekonomi-bisnis/kewirausahaan",
+    "ekonomi-bisnis/manajemen-logistik",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "ekonomi-bisnis/business-creation",
+    "humaniora/business-law",
+    "ekonomi-bisnis/bisnis-digital"
+  ],
+  "major_group_id": 30,
+  "jlh_prodi": 2,
+  "dt_snbp": 54,
+  "dt_snbt": 75,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "333069",
+      "major_university_name": "D4 BISNIS INTERNASIONAL - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "351049",
+      "major_university_name": "D3 BISNIS INTERNASIONAL - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 30,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bisnis",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

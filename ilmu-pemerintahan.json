@@ -1,0 +1,291 @@
+{
+  "idx": 85,
+  "id": "ilmu-pemerintahan",
+  "major_name": "Ilmu Pemerintahan",
+  "icon": null,
+  "description": "Program studi Ilmu Pemerintahan mempelajari tentang manajemen atau pengelolaan organisasi publik, diantaranya lembaga legislatif, eksekutif, yudikatif, dan lembaga lainnya yang berfungsi dalam menjalankan fungsi negara, yang diatur dalam undang-undang. Disini kamu akan memahami tugas-tugas administrasi, manajemen, dan organisasi pada badan-badan publik. Kamu juga akan dibekali dengan skill public speaking, negosiasi, dan pengetahuan politik. ",
+  "why": "Kalau kamu tertarik untuk terjun ke dunia politik dan pemerintahan, program studi ini bisa jadi pilihan yang tepat untuk kamu. Pemerintahan Indonesia yang masih sangat dinamis dan menjunjung tinggi demokrasi masih membutuhkan orang-orang yang sangat memahami ilmu pemerintahan. ",
+  "subjects": [
+    "Pendidikan Kewarganegaraaan",
+    "Pengantar Ilmu Politik",
+    "Sistem Hukum Indonesia",
+    "Sistem Sosial Budaya Indonesia",
+    "Pengantar Ilmu Pemerintahan",
+    "Teori-teori Politik dan pemerintahan",
+    "Sistem Perekonomian Indonesia",
+    "Statistik Sosial",
+    "Ekologi Pemerintahan",
+    "Manajemen SDM Pemerintahan",
+    "Sistem Pemerintahan di Indonesia",
+    "Sistem Politik Indonesia",
+    "Hukum Tata Pemerintahan",
+    "Sistem Pemerintahan Daerah",
+    "Etika Politik dan pemerintahan",
+    "Sistem Kepartaian dan Pemilu di Indonesia",
+    "Organisasi & Manajemen Pemerintahan",
+    "Kepemimpinan dalam Pemerintahan"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Profesi yang diutamakan bagi para lulusan prodi Ilmu Pemerintahan biasanya terkait dengan birokrasi dan administrasi pemerintahan. Lulusan prodi ini dapat berkarir sebagai aparat pemerintahan pusat maupun daerah, staf atau anggota legislatif, dan anggota partai politik. Lulusan Ilmu Pemerintahan juga dapat terjun sebagai konsultan atau pengamat politik dan pemerintahan, menjadi aktivis di berbagai LSM dan Ormas, bahkan tidak tertutup kemungkinan untuk menjadi jurnalis politik.",
+  "professions": [
+    "Spesialis Hubungan Masyarakat",
+    "Pengawas dan Penyelidik Properti Pemerintah",
+    "Wartawan",
+    "Dosen (Secara umum)",
+    "Peneliti Politik",
+    "Hubungan Masyarakat",
+    "Konsultan Politik",
+    "General Affairs"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-politik",
+    "pendidikan/pendidikan-pancasila-dan-kewarganegaraan",
+    "humaniora/demografi-dan-pencatatan-sipil",
+    "humaniora/administrasi-publik-administrasi-negara-",
+    "humaniora/kearsipan"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 23,
+  "dt_snbp": 979,
+  "dt_snbt": 1488,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "131032",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 9.86547,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711062",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 8.58896,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541043",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 6.00375,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531052",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 17.3246,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511056",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 8.62676,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372070",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.16997,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361078",
+      "major_university_name": "S1 MANAJEMEN DAN KEBIJAKAN PUBLIK - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.7381,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355046",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 6.01436,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333040",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.83037,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "331021",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 10.7463,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311042",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 11.3997,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191040",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 13.089,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151049",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 11.2311,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111061",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 16.0099,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151058",
+      "major_university_name": "D4 MANAJEMEN PEMERINTAHAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 40.8602,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "521040",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 37.1517,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133015",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 58.871,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721038",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 60.6936,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731043",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 8.65052,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751078",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 29.5455,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911032",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 65.3846,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "632011",
+      "major_university_name": "S1 ILMU PEMERINTAHAN - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 44.898,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811040",
+      "major_university_name": "S1 IL. PEMERINTAHAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 131.461,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

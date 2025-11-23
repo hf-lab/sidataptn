@@ -1,0 +1,110 @@
+{
+  "idx": 53,
+  "id": "ekonomi-bisnis",
+  "major_name": "Ekonomi Bisnis",
+  "icon": null,
+  "description": "Pada program studi Ekonomi Bisnis kamu akan mempelajari bagaimana merancang strategi bisnis dan mengambil keputusan bisnis. Disini kamu akan mempelajari ilmu dan teori-teori ekonomi untuk diterapkan dalam praktik bisnis. Cukup berbeda dengan program studi Ekonomi Pembangunan dan Manajemen Bisnis yang mempelajari ilmu ekonomi untuk kebutuhan pembuatan kebiijakan publik dan pengelolaan serta perencanaan bisnis. Prodi Ekonomi Bisnis memadukan teori ekonomi dan pendekatan kuantitatif untuk menganalisis dan menjalankan proses pengambilan keputusan strategis bisnis. Prodi ini juga menggunakan Bahasa Inggris sebagai bahasa pengantar, sehingga kamu nantinya akan memiliki skill komunikasi dan presentasi yang baik untuk berkecimpung di lingkup bisnis global. Belajar Ekonomi Bisnis pastinya akan sangat seru karena sebagai mahasiswa kamu akan aktif dalam proses pembelajaran dengan adanya pembelajaran studi kasus dari perusahaan, simulasi bisnis, serta kunjungan perusahaan.",
+  "why": "Bagi kamu yang memiliki passion dalam dunia bisnis, pengetahuan yang kamu peroleh dari prodi Ekonomi Bisnis akan sangat menguntungkan karena secara langsung dapat diterapkan dalam membantu proses pengambilan keputusan bisnis. ",
+  "subjects": [
+    "Mathematical Economics",
+    "Microeconomics",
+    "Macroeconomics",
+    "Statistical Theories and Application",
+    "Principles of Accounting",
+    "Community Development Project",
+    "Writing for Business Purposes",
+    "Corporate Finance",
+    "Marketing Management",
+    "Firm Analysis",
+    "Industrial Organizations",
+    "Banking and Financial Institutions",
+    "Econometrics",
+    "Operations and Supply Chain Management",
+    "Organizational Design and Dynamics",
+    "Economics of Digital and Information",
+    "Analysis of Indonesian Economics",
+    "Applied Behavioral Economics",
+    "Business Forecasting",
+    "The Economics of Microfinance",
+    "Economics of Strategy",
+    "Game Theory and Applications",
+    "Corporate Responsibility and Ethics",
+    "Economics of Human Capital",
+    "Business Law"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Ekonomi Bisnis telah dipersiapkan untuk menjadi profesional yang unggul untuk terjun ke dunia kerja di bidang bisnis. Dengan komppetensi yang dimiliki lulusannya, peluang untuk berkarir sebagai analis bisnis, konsultan bisnis, hingga mengembangkan bisnis sendiri. ",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analis Manajemen Bisnis",
+    "Manajer Regulasi",
+    "Pemilik Waralaba",
+    "Pengusaha/Wirausahawan",
+    "Pengajar Bisnis",
+    "Manajer Pembelian",
+    "Analis Keuangan",
+    "Konsultan Bisnis",
+    "Manajer Pengembangan Bisnis"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-pemasaran-marketing-",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/pemasaran-internasional",
+    "ekonomi-bisnis/ekonomi-pembangunan",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 2,
+  "dt_snbp": 168,
+  "dt_snbt": 216,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "731046",
+      "major_university_name": "S1 EKONOMI MANAJEMEN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 7.92952,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "114017",
+      "major_university_name": "S1 EKONOMI MANAJEMEN - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 20.625,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

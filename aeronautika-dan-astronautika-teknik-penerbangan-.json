@@ -1,0 +1,98 @@
+{
+  "idx": 8,
+  "id": "aeronautika-dan-astronautika-teknik-penerbangan-",
+  "major_name": "Aeronautika dan Astronautika (Teknik Penerbangan)",
+  "icon": null,
+  "description": "Program studi Aeronautika atau yang kerap disebut Teknik Penerbangan memberikan pengetahuan terkait kedirgantaraan mencakup perancangan, pembuatan dan pengoperasian pesawat dan wahana antariksa lainnya. Intinya program studi ini mempelajari ilmu keteknikan pesawat. Aeronautika berkaitan dengan segala aspek penerbangan di dalam atmosfer Bumi seperti pesawat komersil, helikopter, pesawat militer. Sedangkan Astronautika berkaitan dengan aspek penerbangan di luar atmosfer Bumi seperti roket dan satelit. ",
+  "why": "Program studi ini sangat tepat bagi kamu yang menggemari pesawat dari sisi teknik, mesin, dan teknologi. Dengan mengambil prodi ini, kelak kamu berpeluang untuk melakukan inovasi di bidang penerbangan. Tertarik mempelajari pesawat tanpa harus sekolah pilot? Jurusan inilah tempatnya.",
+  "subjects": [
+    "Matematika",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Pengantar Rekayasa & Desain",
+    "Pengenalan Teknik Mesin dan Dirgantara",
+    "Gambar Teknik",
+    "Statika Struktur",
+    "Pengenalan Teknik Dirgantara",
+    "Matematika Teknik",
+    "Rekayasa Termal",
+    "Kinematika dan Dinamika",
+    "Material Pesawat dan metode Manufaktur",
+    "Mekanika Fluida",
+    "Astrodinamika",
+    "Mekanika Kekuatan Material",
+    "Manufaktur",
+    "Dasar Elektronik",
+    "Aerodinamika",
+    "Analisis Perancangan Struktur",
+    "Desain Pesawat Udara",
+    "Aspek Lingkungan Teknik Dirgantara"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Perkembangan transportasi udara sangat pesat. Munculnya low cost carrier atau penerbangan murah membuat pesawat menjadi moda transportasi yang sangat diminati. Tapi sayangnya Indonesia belum mampu memproduksi pesawat sendiri, bahkan masih membeli pesawat bekas asing. Industri ini membutuhkan tenaga ahli yang mampu menciptakan dan mengembangkan teknologi penerbangan yang lebih canggih. Lulusan Aeronautika dan Astronautika dibutuhkan di industri manufaktur (Dirgantara Indonesia), Industri jasa perawatan pesawat (GMF AeroAsia, Merpati Maintenance Facilites), maskapai penerbangan, industri telekomunikasi, dan Departemen Perhubungan Udara.",
+  "professions": [
+    "Astronom",
+    "Ahli Antariksa",
+    "Teknisi Penerbangan",
+    "Astronot",
+    "Peneliti Atmosfir dan Ruang Angkasa",
+    "Mekanik dan Teknisi Servis Pesawat",
+    "Ahli Aerospace dan Teknisi Operasi Aerospace"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/teknik-otomotif",
+    "teknik/teknik-pesawat-udara",
+    "mipa/astronomi",
+    "profesi-dan-ilmu-terapan/penerbang-pendidikan-pilot-",
+    "teknik/teknik-telekomunikasi-dan-navigasi-udara"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 1,
+  "dt_snbp": 15,
+  "dt_snbt": 38,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "431023",
+      "major_university_name": "D3 TEKNIK AERONAUTIKA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

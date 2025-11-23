@@ -1,0 +1,226 @@
+{
+  "idx": 3,
+  "id": "administrasi-fiskal-perpajakan-",
+  "major_name": "Administrasi Fiskal (Perpajakan)",
+  "icon": null,
+  "description": "Program studi Administrasi Fiskal (Perpajakan) adalah sebuah program studi yang mempelajari perpajakan dari segala macam perspektif, dari sisi hukum, ekonomi, dan akuntansi. Kamu akan dibekali keterampilan untuk menyusun laporan pajak sesuai dengan peraturan dan ketentuan perpajakan. Kamu juga harus bisa menyelesaikan masalah administrasi perpajakan, dan membuat laporan keuangan sesuai dengan standar hukum yang berlaku. Program studi ini dikenal dengan nama Administrasi Fiskal (S1) atau Perpajakan (D3).",
+  "why": "Meskipun rumit, prodi Administrasi Fiskal (Perpajakan) cukup menantang. Perpajakan erat kaitannya dengan akuntansi. Jadi, kalau kamu suka dengan akuntansi, prodi ini juga bisa jadi pilihanmu. Apalagi untuk kamu yang kuat hafalan, karena di prodi ini akan banyak menghafal aturan-aturan perpajakan dan tarif pajak yang berbeda-beda. Kemampuan penalaran yang baik juga akan sangat berguna di program studi ini.",
+  "subjects": [
+    "Pengantar Ilmu Hukum",
+    "Akuntansi Keuangan",
+    "Pengantar Pajak",
+    "Akuntansi Biaya",
+    "Pajak Penghasilan I & II",
+    "Pajak Pertambahan Nilai",
+    "Akuntansi Keuangan",
+    "Kepabeanan dan Ekspor Impor",
+    "Administrasi Keuangan Negara",
+    "Pajak Penghasilan",
+    "Akuntansi Perpajakan",
+    "Pajak Daerah dan Retribusi Daerah",
+    "Pajak Internasional",
+    "Peradilan Pajak",
+    "Sistem Informasi Akuntansi",
+    "Auditing",
+    "PPN dan PPN BM",
+    "Manajemen Keuangan",
+    "Hukum Bisnis",
+    "Akuntansi Sektor Publik",
+    "Pabean dan Cukai",
+    "Pemeriksaan Pajak",
+    "Perpajakan Internasional",
+    "Penilaian Properti",
+    "Praktikum Pemotongan dan Pemungutan PPH"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Administrasi Fiskal punya peluang karier yang sangat besar. Hal ini disebabkan karena lulusan Administrasi Fiskal masih minim, sedangkan kebutuhan profesi ini masih sangat tinggi. Prodi ini tersedia dalam jenjang studi D3, D4 dan S1, lulusannya juga berpeluang untuk berkarir di Kementerian Keuangan dan Ditjen Pajak khususnya, namun tidak hanya di instansi pemerintahan, tapi juga berbagai instansi atau organisasi swasta. Setiap perusahaan wajib membayar pajak, maka dari itu perusahaan-perusahaa tersebut pastinya membutuhkan ahli di bidang perpajakan. Lulusan prodi ini juga bisa berwirausaha sebagai konsultan pajak dengan melewati ujian sertifikasi konsultan pajak terlebih dahulu.",
+  "professions": [
+    "Pengawas Imigrasi dan Bea Cukai",
+    "Pemeriksa dan Pengumpul Pajak, dan Agen Revenue",
+    "Akuntan",
+    "Ahli Perencanaan Pajak",
+    "Konsultan Bisnis",
+    "Penilai (Pajak dan Keuangan)",
+    "Pegawai Pajak/ Pegawai Persiapan Pajak",
+    "Konsultan Bea Cukai",
+    "Akuntan Publik",
+    "Konsultan Pajak"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi-pajak",
+    "ekonomi-bisnis/administrasi-keuangan-dan-perbankan",
+    "ekonomi-bisnis/akuntansi-sektor-publik"
+  ],
+  "major_group_id": 26,
+  "jlh_prodi": 15,
+  "dt_snbp": 475,
+  "dt_snbt": 766,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "121054",
+      "major_university_name": "D3 ADMINISTRASI PERPAJAKAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131054",
+      "major_university_name": "D3 PERPAJAKAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142060",
+      "major_university_name": "D3 MANAJEMEN PAJAK - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191069",
+      "major_university_name": "D3 PERPAJAKAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311048",
+      "major_university_name": "D3 PERPAJAKAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321046",
+      "major_university_name": "S1 ILMU ADMINISTRASI FISKAL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.29515,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321069",
+      "major_university_name": "D3 ADMINISTRASI PERPAJAKAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353078",
+      "major_university_name": "D3 PERPAJAKAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371069",
+      "major_university_name": "D3 PERPAJAKAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372072",
+      "major_university_name": "S1 PERPAJAKAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.8673,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381047",
+      "major_university_name": "D3 PERPAJAKAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "621039",
+      "major_university_name": "D3 PERPAJAKAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151065",
+      "major_university_name": "D3 PERPAJAKAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "531066",
+      "major_university_name": "D3 PERPAJAKAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611051",
+      "major_university_name": "D3 PERPAJAKAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 26,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Akuntansi",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "idx": 47,
+  "id": "desain-produk",
+  "major_name": "Desain Produk",
+  "icon": null,
+  "description": "Program studi Desain produk juga dikenal dengan istilah Industrial Design. Sebagai mahasiswa Desain Produk (Despro) kamu akan mempelajari perencanaan dan perancangan produk yang bertujuan untuk memenuhi kebutuhan manusia yang mengutamakan kenyamanan inderawi, fisik, dan nilai produk. Prodi ini melingkupi beberapa proses pembelajaran penting, yaitu seni rupa baik dua atau tiga dimensi, rekayasa produk, ergonomi dan gaya hidup konsumen, dan proses desain. Dalam desain produk, kamu tidak hanya fokus pada estetika produk saja, tapi juga pada nilai kegunaan produk. Kamu dituntut untuk berinovasi dan menciptakan produk yang dapat menyelesaikan permasalahan yang ada di masyarakat. ",
+  "why": "Mempelajari Desain Produk artinya kamu harus bisa berpikir kreatif dan juga menggambar. Serunya belajar Desain Produk, kamu nantinya akan menghasilkan karya-karya nyata berupa produk hasil rancanganmu. Terlebih produk rancanganmu bisa langsung di pasarkan. Selain itu, kamu juga diharuskan membuat miniatur produk di laboratorium prototype. Yang paling utama, pada Desain Produk yang dibutuhkan adalah ide yang orisinil.",
+  "subjects": [
+    "Dasar Seni Rupa dan Desain",
+    "Rupa Dasar 2D & 3D",
+    "Pengantar Rekayasa dan Desain",
+    "Desain Produk",
+    "Sejarah Desain",
+    "Semantika Produk",
+    "Material dan Proses",
+    "Ergonomi Desain",
+    "Metodologi Desain",
+    "Prinsip Rekayasa Produk",
+    "Material dan proses",
+    "Pemodelan Digital",
+    "Desain Produk gaya Hidup",
+    "Manajemen Desain",
+    "Bisnis Desain",
+    "Sosiologi Desain",
+    "Kerja Profesi Desain Produk",
+    "Seni",
+    "Desain & Lingkungan",
+    "Publikasi Desain Produk",
+    "Tinjauan Desain",
+    "Desain Produk Gaya Hidup",
+    "Desain Produk Lingkungan",
+    "Desain Produk Inovasi",
+    "Portofolio Desain Produk",
+    "Desain Produk Interaktif",
+    "Desain Produk Kriya",
+    "Desain Fasilitas Publik",
+    "Desain Produk Servis"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Semua perusahaan pasti membutuhkan tenaga ahli desain produk. Karier lulusan prodi ini bisa dibagi menjadi tiga bidang. Pertama, desainer produk industri yang akan bekerja di pabrik atau manufaktur. Kedua, desainer produk wirausaha yang memberikan jasa konsultasi desain produk kepada wirausahawan pemilik workshop pribadi. Dan yang terakhir adalah Periset desain produk yang bertugas meneliti desain produk untuk pengembangannya. Lulusan Desain Produk juga bisa membuka usaha sendiri.",
+  "professions": [
+    "Manajer Produksi Industri",
+    "Seniman Kerajinan (Craft Artists)",
+    "Desainer Furnitur",
+    "Manajer Produk",
+    "Desainer Produk Komersial dan Industri",
+    "Perancang Perhiasan",
+    "Food Stylist"
+  ],
+  "related_majors": [
+    "seni/seni-kriya",
+    "seni/desain-interior",
+    "seni/dkv-new-media",
+    "seni/desain-komunikasi-visual",
+    "seni/tata-busana",
+    "teknik/teknik-grafika"
+  ],
+  "major_group_id": 25,
+  "jlh_prodi": 6,
+  "dt_snbp": 137,
+  "dt_snbt": 176,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "382022",
+      "major_university_name": "S1 DESAIN PRODUK INDUSTRI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 24.1206,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334101",
+      "major_university_name": "S1 DESAIN PRODUK INDUSTRI * KAMPUS UPI DI TASIKMALAYA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 30.4054,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364011",
+      "major_university_name": "S1 DESAIN PRODUK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 11.0345,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "143013",
+      "major_university_name": "S1 DESAIN PRODUK - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 508.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "562031",
+      "major_university_name": "D4 DESAIN PRODUK KAYU DAN SERAT - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613013",
+      "major_university_name": "S1 DESAIN PRODUK - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 25,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Desain",
+    "merdeka_subject": [
+      1,
+      10
+    ],
+    "ipa_subject": [
+      1,
+      10
+    ],
+    "ips_subject": [
+      1,
+      10
+    ],
+    "bahasa_subject": [
+      1,
+      10
+    ]
+  }
+}

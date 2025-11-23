@@ -1,0 +1,345 @@
+{
+  "idx": 100,
+  "id": "kesehatan-masyarakat",
+  "major_name": "Kesehatan Masyarakat",
+  "icon": null,
+  "description": "Prodi Kesehatan Masyarakat mempelajari ilmu tentang peningkatan taraf hidup dan kesehatan masyarakat dengan cara melakukan pengorganisasian di masyarakat. Jadi, di prodi ini kamu akan mempelajari ilmu medis ditambah dengan ilmu sosial. Kamu akan belajar bagaimana menghitung besaran distribusi penyakit di suatu wilayah, menghitung kondisi kesehatan secara kuantitatif, menganalisa dampak lingkungan pada kesehatan masyarakat, dan faktor kesehatan dan keselamatan kerja. Disini juga akan dipelajari ilmu gizi, manajemen dan administrasi kebijakan kesehatan, serta melakukan penyuluhan kesehatan.",
+  "why": "Apabila kamu punya kepedulian besar terhadap perkembangan kesehatan di Indonesia, maka prodi ini sangat cocok buat kamu. Kamu akan mempelajari semua hal yang berkaitan dengan kesehatan, tak hanya teori tapi juga tentang praktek-praktek mewujudkan kesehatan. Dengan memilih jurusan ini, kamu tidak perlu takut apa yang kamu pelajari akan sia-sia belaka. Ilmu Kesehatan Masyarakat masih sangat dibutuhkan.",
+  "subjects": [
+    "Sejarah dan Pendekatan Kesehatan Masyarakat",
+    "Etika dan Kode Etik Kesehatan",
+    "Olahraga",
+    "Hukum Kesehatan dan UU",
+    "PKIP Dasar",
+    "Pengantar Ilmu Kependudukan",
+    "Mikrobiologi",
+    "Biokimia",
+    "Dasar-dasar Biostatistik",
+    "Prinsip-prinsip Epidemiologi",
+    "Dasar-dasar Kesehatan Lingkungan",
+    "Surveilans Kesehatan Masyarakat",
+    "Analisa Kualitas Lingkungan",
+    "Perencanaan dan Evaluasi Promosi Kesehatan",
+    "Dasar-dasar Biostatistik Inferensial",
+    "Manajemen Penyehatan Makanan dan Minuman",
+    "Penyediaan Air Bersih",
+    "Farmakologi",
+    "Pengalaman Belajar Lapangan II",
+    "Organisasi dan Manajemen Kesehatan",
+    "Epidemiologi Penyakit Tak Menular",
+    "Pengelolaan Limbah Padat",
+    "Pengelolaan Limbah Cair Domestik dan Industri"
+  ],
+  "characters": [
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Kesehatan Masyarakat akan memeroleh gelar Sarjana Kesehatan Masyarakat (S.KM) dan dapat berkarir di bagian administrasi Kebijakan Kesehatan, baik di rumah sakit, klinik, ataupun asuransi kesehatan. Lulusan Kesehatan Masyarakat juga dapat berkarir sebagai ahli Kesehatan dan Keselamatan Kerja (K3) di berbagai perusahaan, serta sebagai penyuluh kesehatan, peneliti dan pengajar di bidang kesehatan masyarakat.",
+  "professions": [
+    "Ahli Epidemiologi",
+    "Manajer Data Klinis",
+    "Peneliti Medikal",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Pelatih Kesehatan Atlet (Olahragawan)",
+    "Ahli Biologi",
+    "Koordinator Riset Klinis",
+    "Manager Layanan Medis dan Kesehatan",
+    "Ahli Kesehatan dan Keselamatan Kerja",
+    "Pengajar Bidang Kesehatan"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "kesehatan/manajemen-pelayanan-rumah-sakit-perumahsakitan-",
+    "kesehatan/kesehatan-dan-keselamatan-kerja",
+    "kesehatan/teknologi-laboratorium-medik-analis-kesehatan-",
+    "kesehatan/ilmu-gizi",
+    "kesehatan/kesehatan-lingkungan",
+    "kesehatan/okupasi-terapi",
+    "humaniora/ilmu-keluarga-dan-konsumen"
+  ],
+  "major_group_id": 41,
+  "jlh_prodi": 28,
+  "dt_snbp": 1766,
+  "dt_snbt": 2992,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "171019",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 9.76013,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631011",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 7.37598,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324008",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 4.32136,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342008",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 6.84932,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351011",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 3.40426,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356013",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 6.30019,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541022",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 6.31579,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531021",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 5.84795,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121012",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 6.24677,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752011",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 9.50783,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751010",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 19.135,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731018",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 12.3796,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721003",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 33.5878,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711003",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 5.20291,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611017",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 9.25222,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381019",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT (FIKKIA BANYUWANGI) - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 8.28729,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381009",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.01285,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373017",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 6.48882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371014",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 7.58468,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355001",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 4.84293,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322008",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 5.88988,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321017",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.31915,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151026",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 15.711,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141005",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 5.30504,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "123006",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 44.5596,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722021",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 35.3591,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113007",
+      "major_university_name": "S1 KESEHATAN MASYARAKAT - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 30.6905,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911005",
+      "major_university_name": "S1 ILMU KESEHATAN MASYARAKAT - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 33.8843,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 41,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Kesehatan Masyarakat",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10,
+      6
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

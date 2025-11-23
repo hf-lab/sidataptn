@@ -1,0 +1,103 @@
+{
+  "idx": 41,
+  "id": "computerized-accounting",
+  "major_name": "Computerized Accounting",
+  "icon": null,
+  "description": "Sesuai namanya, program studi Computerized Accounting atau Komputerisasi Akuntansi akan mempelajari akuntansi dan keuangan, ditambah dengan pengetahuan untuk merancang, mengoperasikan, dan mengembangkan software yang dapat digunakan untuk persiapan dan presentasi laporan keuangan, mengevaluasi proses bisnis, perekaman transaksi, dan presentasi budget plan. Pemrograman akuntansi ini ditujukan untuk membantu menyelesaikan pekerjaan akuntansi dengan lebih efektif dan efisien.  ",
+  "why": "Program studi ini jadi pilihan tepat di era digital ini. Teknologi yang kian hari kian berkembang menuntut bidang akuntansi dan finansial untuk ikut berkembang pula. Pada program studi ini kamu tidak cuma dibekali dengan ilmu ekonomi, tapi juga ilmu sistem informasi, yang pasti akan membedakan kamu dengan lulusan Akuntansi pada umumnya. ",
+  "subjects": [
+    "Accounting Principles",
+    "Business Application Development",
+    "Information System Concept",
+    "Information System Development",
+    "Cost Accounting",
+    "Introduction To Database",
+    "Business Process Fundamental",
+    "Accounting Information Systems",
+    "Information Systems Project Management",
+    "Web Based Application Development",
+    "Taxation Accounting",
+    "Corporate Budgeting",
+    "Financial Management",
+    "Introduction To Programming",
+    "Professional Ethics"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung"
+  ],
+  "prospects": "Program studi ini menawarkan prospek yang cukup menjanjikan bagi lulusannya. Mengingat banyaknya lulusan program studi Akuntansi, namun tidak banyak lulusan akuntansi yang memiliki keahlian komputer, sementara isistem akuntansi secara manual sudah mulai tergantikan dengan sistem akuntansi berbasis komputer. Peluang kerjan lulusan prodi ini tidak perlu dipertanyakan lagi. Mulai dari lembaga keuangan pemerintah, perbankan, asuransi, konsultan keuangan, dan lain-lain.",
+  "professions": [
+    "Akuntan",
+    "Database Administrator",
+    "Akuntan Publik",
+    "Analis Keuangan",
+    "Analis Investasi",
+    "Konsultan Bisnis"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/keuangan-dan-perbankan",
+    "komputer-teknologi/accounting-information-system-sistem-informasi-akuntansi-",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/information-systems-audit-audit-sistem-informasi-",
+    "ekonomi-bisnis/akuntansi-sektor-publik"
+  ],
+  "major_group_id": 26,
+  "jlh_prodi": 3,
+  "dt_snbp": 102,
+  "dt_snbt": 132,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "452008",
+      "major_university_name": "D4 KOMPUTERISASI AKUNTANSI - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 33.0435,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171060",
+      "major_university_name": "D3 KOMPUTERISASI AKUNTANSI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536008",
+      "major_university_name": "D3 KOMPUTERISASI AKUNTANSI - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 26,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Akuntansi",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

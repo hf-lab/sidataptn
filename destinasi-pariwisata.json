@@ -1,0 +1,118 @@
+{
+  "idx": 48,
+  "id": "destinasi-pariwisata",
+  "major_name": "Destinasi Pariwisata",
+  "icon": null,
+  "description": "Program studi Destinasi Pariwisata mempelajari tentang bagaimana menjadi seorang tenaga profesional di bidang pengelolaan dan manajemen suatu destinasi pariwisata. Program studi ini ditempuh dalam waktu kurang lebih 4 tahun, dengan jenjang yang paling umum adalah S-1. Lulusannya diharapkan untuk bisa mengembangkan keahlian dalam memformulasikan kebijakan, pengembangan SDM, perencanaan dan pengelolaan produk wisata & pelayanan, pemanfaatan sumberdaya & pengembangan produk pariwisata, dan tata kelola operasi kepariwisataan dalam pembangunan berkelanjutan destinasi pariwisata.",
+  "why": "Tertarik dengan dunia pariwisata, atau senang jalan-jalan? Jurusan ini adalah jurusan yang pas buat kamu! Nggak cuma bisa mengetahui tentang seluk-beluk sebuah destinasi wisata, kamu juga akan diajak berpikir bagaimana cara mengelola dan mengembangkan destinasi tersebut agar menjadi lebih baik. ",
+  "subjects": [
+    "Perencanaan dan Pengembangan Destinasi Wisata",
+    "Pemasaran Destinasi Wisata",
+    "Pengelolaan Destinasi Wisata",
+    "Bahasa Asing",
+    "Pemberdayaan Masyarakat",
+    "Pariwisata Kreatif"
+  ],
+  "characters": [
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dengan potensi pariwisata Indonesia yang luar biasa berlimpah, prospek kerja di jurusan ini pastinya cukup mumpuni. Dibekali dengan segala ilmu dan praktik yang akan didapatkan tentang pariwisata dan khususnya manajemen destinasi pariwisata, lulusan dari jurusan ini dapat menapaki karir di bidang-bidang seperti: Pemerintahan (Kementrian Pariwisata), manajemen tempat-tempat wisata, organisasi/lembaga pariwisata seperti UNWTO (United Nation of World Tourism Organization), hingga berbisnis mendirikan sebuah tempat wisata sendiri.",
+  "professions": [
+    "Agen Perjalanan",
+    "Manajer Pusat Rekreasi",
+    "Pemandu Wisata"
+  ],
+  "related_majors": [
+    "profesi-dan-ilmu-terapan/pariwisata",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "ekonomi-bisnis/manajemen-perhotelan",
+    "pertanian/konservasi-sumberdaya-hutan-dan-ekowisata"
+  ],
+  "major_group_id": 50,
+  "jlh_prodi": 6,
+  "dt_snbp": 184,
+  "dt_snbt": 196,
+  "major_field": 10,
+  "prodi": [
+    {
+      "major_university_id": "431037",
+      "major_university_name": "D4 DESTINASI PARIWISATA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381050",
+      "major_university_name": "D4 DESTINASI PARIWISATA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "241012",
+      "major_university_name": "D4 DESTINASI PARIWISATA - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 22.8346,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "471016",
+      "major_university_name": "D4 DESTINASI PARIWISATA - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472022",
+      "major_university_name": "D4 DESTINASI PARIWISATA - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 35.6436,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711075",
+      "major_university_name": "D4 DESTINASI PARIWISATA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 16.5138,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 50,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pariwisata",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

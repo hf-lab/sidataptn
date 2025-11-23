@@ -1,0 +1,238 @@
+{
+  "idx": 18,
+  "id": "akuntansi-sektor-publik",
+  "major_name": "Akuntansi Sektor Publik",
+  "icon": null,
+  "description": "Program studi Akuntansi Sektor Publik mengajarkan ilmu akuntansi dalam ruang lingkup organisasi sektor publik. Sektor publik yang dimaksud antara lain seperti organisasi pemerintahan pusat dan daerah, Lembaga Swadaya Masyarakat (LSM), rumah sakit, dan pendidikan. Tentunya proses pengumpulan, pencatatan, pengklasifikasian dan analisis laporan transaksi keuangan untuk organisasi sektor publik berbeda dengan yang di lakukan pada sektor swasta, karena negara, khususnya lembaga pemerintah memiliki standar akuntansi tersendiri. ",
+  "why": "Pada akuntansi sektor publik, perihal pertanggungjawaban atas dari mana dan untuk apa sumber dana organisasi sangat ditekankan. Karenanya sangat dibutuhkan orang-orang yang berkompeten, jujur, dan penuh tanggungjawab dalam pelaksanaannya. Jika kamu memiliki nilai-nilai tersebut dalam dirimu, dan tertarik untuk mendalami ilmu akuntansi lebih fokus, program studi ini akan cocok buat kamu.",
+  "subjects": [
+    "Matematika Ekonomi",
+    "Manajemen Sumberdaya Manusia",
+    "Akuntansi Keuangan Menengah",
+    "Akuntansi Biaya",
+    "Manajemen Keuangan",
+    "Hukum Pajak",
+    "Sistem Informasi Akuntansi",
+    "Akuntansi Manajemen",
+    "Analisis Laporan Keuangan",
+    "Ekonometrik",
+    "Perpajakan",
+    "Akuntansi Sektor Publik",
+    "Manajemen Keuangan Sektor Publik",
+    "Praktik Pengisian SPT Pajak Penghasilan",
+    "Akuntansi Pertanggung Jawaban Sosial",
+    "Praktik Pengisian Pajak Pertambahan Nilai dan Bea Meteria",
+    "Analisis Keuangan Sektor Publik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi Akuntansi Sektor Publik akan diarahkan untuk berkarir di sektor publik, yaitu pada kantor-kantor pemerintah sebagai PNS maupun Non-PNS. Profesi yang digeluti oleh lulusan Akuntansi Sektor Publik pastinya adalah sebagai staf akuntan sektor publik, Auditor Sektor Publik, Manajemen pengadaan barang/jasa pemerintah, dan Staf Pajak Departemen Akuntansi Sektor Publik. Namun tidak terbatas pula bagi lulusannya untuk menyeberang ke sektor swasta, karena pada dasarnya lulusan prodi ini memiliki kompetensi di bidang akuntansi yang juga akan dibutuhkan di sektor swasta.",
+  "professions": [
+    "Pemeriksa Keuangan",
+    "Pegawai Pajak/ Pegawai Persiapan Pajak",
+    "Auditor",
+    "Akuntan Publik",
+    "Pemeriksa dan Pengumpul Pajak, dan Agen Revenue",
+    "Akuntan",
+    "Analis Keuangan"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/administrasi-fiskal-perpajakan-",
+    "ekonomi-bisnis/keuangan-dan-perbankan",
+    "ekonomi-bisnis/akuntansi-pajak",
+    "komputer-teknologi/accounting-information-system-sistem-informasi-akuntansi-",
+    "humaniora/administrasi-publik-administrasi-negara-",
+    "pendidikan/administrasi-pendidikan",
+    "ekonomi-bisnis/akuntansi-bisnis",
+    "komputer-teknologi/computerized-accounting"
+  ],
+  "major_group_id": 26,
+  "jlh_prodi": 17,
+  "dt_snbp": 565,
+  "dt_snbt": 739,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "323075",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333068",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361088",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.75,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "271013",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 23.5616,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "641006",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 26.9406,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612054",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "517010",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515009",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 24.3243,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "473011",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472020",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 38.7097,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271018",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK PSDKU SIAK - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 67.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221013",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 67.5676,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515032",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK (KAMPUS KAB.SUKAMARA) - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271017",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK PSDKU OKU - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 172.727,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271014",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK KAMPUS BANYUASIN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 69.2308,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731060",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "831013",
+      "major_university_name": "D4 AKUNTANSI SEKTOR PUBLIK - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 26,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Akuntansi",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

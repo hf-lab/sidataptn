@@ -1,0 +1,609 @@
+{
+  "idx": 22,
+  "id": "arsitektur",
+  "major_name": "Arsitektur",
+  "icon": null,
+  "description": "Arsitektur merupakan salah satu jurusan yang cukup populer di Indonesia. Para mahasiswa di program studi Arsitektur mempelajari desain dan rancangan konstruksi bangunan. Arsitektur lebih cenderung menuangkan ide, konsep, dan desain di atas kertas, sedangkan realisasi pembangunannya akan dikerjakan oleh Teknik Sipil. Dalam mendalami arsitektur, para mahasiswa harus mempelajari kekuatan bangunan (firmitas), estetika atau keindahan bangunan (venustas), dan fungsi bangunan (utilitas). ",
+  "why": "Pada umumnya, Arsitektur menjadi bagian dari Fakultas Teknik. Uniknya, jurusan ini tidak melulu mengajarkan hal-hal teknik, tapi juga seni dan estetika. Jika kamu melihat bangunan-bangunan indah, itu tidak lepas dari tangan dingin para arsitek hebat yang bisa menggabungkan fungsi, keindahan, dan kekuatan bangunan. Jurusan Arsitektur bisa menjadi pilihan yang tepat bagi kamu yang punya ketertarikan pada desain dan rancang bangunan. Untuk menjadi mahasiswa Arsitektur, kamu paling tidak punya ketertarikan pada matematika, menggambar, seni, humaiora, sains, dan teknologi.",
+  "subjects": [
+    "Matematika Arsitektur",
+    "Estetika Bentuk",
+    "Teknik Komunikasi Arsitektur",
+    "Gambar Teknik",
+    "Arsitektur & Lingkungan",
+    "Ilmu Bahan Bangunan",
+    "Tata Ruang",
+    "Mekanika Teknik",
+    "Arsitektur Etnik",
+    "Pencahayaan",
+    "Seni Rupa",
+    "Kalkulus",
+    "Hukum Lingkungan",
+    "Psikologi Arsitektur",
+    "Azas  & Metoda Perancangan",
+    "Perkembangan Arsitektur",
+    "Struktur & Konstruksi",
+    "Fisika Bangunan",
+    "Teknologi Bahan",
+    "Perancangan Arsitektur",
+    "Fotografi Arsitektur",
+    "Utilitas"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Profesi arsitek mempunyai prospek yang bagus. Hampir semua perusahaan properti dan konstruksi pasti menggunakan jasa arsitek. Tren properti yang masih melaju kencang menunjukkan bahwa kebutuhan terhadap tenaga arsitek masih tinggi. ",
+  "professions": [
+    "Manajer Arsitektur dan Insinyur",
+    "Arsitek",
+    "Pengawas dan Penyelidik Properti Pemerintah",
+    "Manajer Konstruksi",
+    "Arsitek Lanskap",
+    "Perencanaan Kota dan Wilayah",
+    "Drafter Arsitektur",
+    "Pengawas Konstruksi dan Bangunan",
+    "Desainer Interior",
+    "Ahli Peta Geografi"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "seni/furniture-design",
+    "seni/desain-interior",
+    "teknik/arsitektur-lanskap"
+  ],
+  "major_group_id": 23,
+  "jlh_prodi": 58,
+  "dt_snbp": 1694,
+  "dt_snbt": 2532,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "334020",
+      "major_university_name": "S1 ARSITEKTUR - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 3.61882,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353008",
+      "major_university_name": "S1 ARSITEKTUR - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.64854,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362075",
+      "major_university_name": "S1 ARSITEKTUR - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382013",
+      "major_university_name": "S1 ARSITEKTUR - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 4.85437,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355018",
+      "major_university_name": "S1 ARSITEKTUR - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.05618,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356016",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.58269,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361029",
+      "major_university_name": "S1 ARSITEKTUR - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.37624,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372006",
+      "major_university_name": "S1 ARSITEKTUR - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 5.9322,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712030",
+      "major_university_name": "S1 ARSITEKTUR - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 9.32945,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611003",
+      "major_university_name": "S1 ARSITEKTUR - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 9.60452,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385008",
+      "major_university_name": "S1 ARSITEKTUR - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 10.5448,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386003",
+      "major_university_name": "S1 ARSITEKTUR - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 19.5402,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511004",
+      "major_university_name": "S1 ARSITEKTUR - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 16.9725,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711018",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 8.77458,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631020",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 19.6078,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621024",
+      "major_university_name": "S1 ARSITEKTUR - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 15.0289,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531015",
+      "major_university_name": "S1 ARSITEKTUR - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 18.0258,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541027",
+      "major_university_name": "S1 ARSITEKTUR - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 17.1233,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332016",
+      "major_university_name": "S1 SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN * KAMPUS CIREBON (SAPPK*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 6.71141,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111005",
+      "major_university_name": "S1 ARSITEKTUR - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 17.8771,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121019",
+      "major_university_name": "S1 ARSITEKTUR - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.47094,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122057",
+      "major_university_name": "S1 ARSITEKTUR - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131026",
+      "major_university_name": "S1 ARSITEKTUR - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 9.14286,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141054",
+      "major_university_name": "S1 ARSITEKTUR - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161022",
+      "major_university_name": "S1 ARSITEKTUR - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 16.9492,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171020",
+      "major_university_name": "S1 ARSITEKTUR - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 12.0321,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751016",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 13.3891,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191023",
+      "major_university_name": "S1 ARSITEKTUR - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 18.1269,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321013",
+      "major_university_name": "S1 ARSITEKTUR - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.04054,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321023",
+      "major_university_name": "S1 ARSITEKTUR INTERIOR - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.08719,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332010",
+      "major_university_name": "S1 SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN (SAPPK) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 5.15298,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334011",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ARSITEKTUR - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 14.6597,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "713007",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 30.3797,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721008",
+      "major_university_name": "S1 ARSITEKTUR - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 38.5965,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722008",
+      "major_university_name": "S1 PEND. TEK BANGUNAN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 675,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752018",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 46.2687,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731010",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 19.2771,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821004",
+      "major_university_name": "S1 ARSITEKTUR - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 98.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912004",
+      "major_university_name": "S1 ARSITEKTUR - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "542015",
+      "major_university_name": "S1 ARSITEKTUR - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 28.2828,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521005",
+      "major_university_name": "S1 ARSITEKTUR - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 73.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562029",
+      "major_university_name": "D4 ARSITEKTUR BANGUNAN GEDUNG - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515006",
+      "major_university_name": "D4 ARSITEKTUR BANGUNAN GEDUNG - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 40.1961,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374006",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 33.1984,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373006",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK BANGUNAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 33.5938,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "366001",
+      "major_university_name": "S1 ARSITEKTUR - UINSAIZU",
+      "university_name": "UIN PROFESOR KIAI HAJI SAIFUDDIN ZUHRI PURWOKERTO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "365040",
+      "major_university_name": "S1 ARSITEKTUR - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192008",
+      "major_university_name": "S1 ARSITEKTUR - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 63.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181025",
+      "major_university_name": "S1 ARSITEKTUR - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "152007",
+      "major_university_name": "S1 ARSITEKTUR - UINJAMBI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN THAHA SAIFUDDIN JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112007",
+      "major_university_name": "S1 TEKNIK ARSITEKTUR - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 71.3115,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116003",
+      "major_university_name": "S1 ARSITEKTUR - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 93.75,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752036",
+      "major_university_name": "D4 ARSITEKTUR BANGUNAN GEDUNG - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 208.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752021",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL KONSTRUKSI BANGUNAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 350,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751082",
+      "major_university_name": "D3 TEKNIK ARSITEKTUR - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "732002",
+      "major_university_name": "S1 ARSITEKTUR - UINDATOKARAMA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI DATOKARAMA PALU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722018",
+      "major_university_name": "S1 ARSITEKTUR - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 206.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515018",
+      "major_university_name": "D3 ARSITEKTUR - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 23,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Arsitektur",
+    "merdeka_subject": [
+      10,
+      14
+    ],
+    "ipa_subject": [
+      10,
+      14
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

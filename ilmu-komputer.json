@@ -1,0 +1,336 @@
+{
+  "idx": 83,
+  "id": "ilmu-komputer",
+  "major_name": "Ilmu Komputer",
+  "icon": null,
+  "description": "Ilmu Komputer adalah sebuah ilmu yang mempelajari baik tentang komputasi, perangkat keras (hardware) maupun perangkat lunak (software). Ilmu komputer mencakup beragam topik yang berkaitan dengan komputer, mulai dari analisis abstrak algoritma sampai subyek yang lebih konkret seperti bahasa pemrograman, perangkat lunak, termasuk perangkat keras. Berbeda dengan Teknik Informatika yang lebih menekankan pada sisi penerapannya, program studi Ilmu Komputer lebih fokus pada \"sains\" dari bidang komputer itu sendiri.",
+  "why": "Perkembangan zaman semakin cepat dikarenakan adanya perubahan teknologi yang drastis. Maka dari itu tenaga Ilmu Komputer sangat dibutuhkan di lapangan kerja karena segala kebutuhan manusia sudah dapat dipermudah karena adanya teknologi.",
+  "subjects": [
+    "Mobile Progamming",
+    "Sistem Otomasi",
+    "Teknologi Mikrotik",
+    "Matematika Komputasi",
+    "Aljabar Linear Matriks",
+    "Sistem Instrumentasi",
+    "Sistem Operasi",
+    "Metode Numerik",
+    "Analisis Perancangan Sistem."
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Seorang lulusan Ilmu Komputer memiliki prospek kerja yang cukup mumpuni. Seperti yang kita ketahui, saat iniindustri teknologi tengha berkembang pesat di dunia, dna hampir semua perusahaan memerlukan tenaga ahli IT yang dapat memecahkan masalah terkait bidang komputer baik itu dari sisi perangkat lunak maupun perangkat keras. Beberapa contoh profesi yang bisa dijalani oleh seorang lulusan Ilmu Komputer adalah: Progammer, Web Developer, dan IT Consultant.",
+  "professions": [
+    "Developer Software, Aplikasi",
+    "Web Developer",
+    "Front End Developer",
+    "Full Stack Developer",
+    "Programmer Komputer",
+    "Web Desainer",
+    "Back End Developer",
+    "Java Programmer"
+  ],
+  "related_majors": [
+    "komputer-teknologi/teknik-informatika",
+    "komputer-teknologi/cyber-security",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/sistem-komputer"
+  ],
+  "major_group_id": 17,
+  "jlh_prodi": 29,
+  "dt_snbp": 1055,
+  "dt_snbt": 1587,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "121022",
+      "major_university_name": "S1 ILMU KOMPUTER - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 2.44698,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "751040",
+      "major_university_name": "S1 ILMU KOMPUTER - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 3.46821,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711040",
+      "major_university_name": "S1 SISTEM INFORMASI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 4.68262,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631019",
+      "major_university_name": "S1 ILMU KOMPUTER - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 4.05405,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531027",
+      "major_university_name": "S1 ILMU KOMPUTER - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 4.95751,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361014",
+      "major_university_name": "S1 ILMU KOMPUTER - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.04604,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334010",
+      "major_university_name": "S1 ILMU KOMPUTER - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 3.29218,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323015",
+      "major_university_name": "S1 ILMU KOMPUTER - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 1.57618,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321016",
+      "major_university_name": "S1 ILMU KOMPUTER - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 2.74056,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122018",
+      "major_university_name": "S1 ILMU KOMPUTER - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 4.9505,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191022",
+      "major_university_name": "S1 ILMU KOMPUTER - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 12.7778,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334005",
+      "major_university_name": "S1 PENDIDIKAN ILMU KOMPUTER - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 14.539,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "123001",
+      "major_university_name": "S1 ILMU KOMPUTER - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 26.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541036",
+      "major_university_name": "S1 PENDIDIKAN KOMPUTER - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 16.4948,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531036",
+      "major_university_name": "S1 PENDIDIKAN KOMPUTER - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 20.8,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171026",
+      "major_university_name": "S1 SISTEM KOMPUTER - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 12.4346,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511018",
+      "major_university_name": "S1 SISTEM KOMPUTER - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 13.602,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811071",
+      "major_university_name": "S1 ILMU KOMPUTER - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341008",
+      "major_university_name": "S1 ILMU KOMPUTER - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 3.38437,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334023",
+      "major_university_name": "S1 PENDIDIKAN SISTEM DAN TEKNOLOGI INFORMASI KAMPUS PURWAKARTA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 23.9362,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191034",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI INFORMASI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 17.7936,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116002",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI INFORMASI - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 73.1707,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753013",
+      "major_university_name": "S1 ILMU KOMPUTER - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 92.3913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752022",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI INFORMASI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 36.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912015",
+      "major_university_name": "S1 PENDIDIKAN KOMPUTER - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 333.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "718001",
+      "major_university_name": "S1 ILMU KOMPUTER - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612019",
+      "major_university_name": "S1 ILMU KOMPUTER - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 27.3292,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383015",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI INFORMASI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 15.0376,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372046",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI INFORMASI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 17.6991,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 17,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Komputer",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "idx": 72,
+  "id": "hubungan-internasional",
+  "major_name": "Hubungan Internasional",
+  "icon": null,
+  "description": "Program studi Hubungan Internasional (HI) mengetengahkan pembelajaran tentang interaksi, relasi, dan komunikasi yang terjalin secara internasional. Hubungan Internasional tidak hanya mempelajari hubungan diplomasi satu negara dengan negara yang lain, tapi juga tentang konflik, kesejahteraan, ekonomi dan perdamaian dunia. Beberapa kajian yang dipelajari dalam prodi ini adalah diplomasi dan negosiasi, politik luar negeri, perdagangan luar negeri, politik internasional, ekonomi internasional, hukum internasional, globalisasi dan banyak lagi. Disini kamu akan diasah untuk memahami berbagai isu-isu global, mengenal tokoh-tokoh dan organisasi internasional yang berpengaruh, dan kerjasama internasional. Kamu juga akan belajar dinamika kawasan berbagai negara di dunia. Hubungan Internasional merupakan salah satu prodi yang prestisius. Para mahasiswanya mempelajari segala sesuatu yang berhubungan dengan aktivitas interaksi yang melintasi batas antar negara.",
+  "why": "Jika kamu tertarik pada segala sesuatu terkait interaksi internasional, maka prodi ini bisa menjadi pilihan yang cocok untuk kamu. Prodi ini juga cocok bagi kamu yang memiliki keterampilan komunikasi serta minat yang besar untuk mendalami diplomasi dan politik internasional. Apalagi kalau kamu suka mempelajari berbagai bahasa dan kebudayaan asing, pastinya prodi Hubungan Internasional adalah pilihan yang tepat banget untukmu.\r",
+  "subjects": [
+    "Organisasi Internasional",
+    "Hukum Internasional",
+    "Politik Luar Negeri dan Diplomasi Republik Indonesia",
+    "Teori Hubungan Internasional",
+    "Teori Politik Internasional",
+    "Diplomasi",
+    "Negosiasi dan Resolusi Konflik",
+    "Minoritas dan Integrasi Nasional",
+    "Ekonomi Internasional",
+    "Pengantar Studi Demokrasi",
+    "Globalisasi",
+    "Budaya dan Bahasa Perancis",
+    "Budaya dan Bahasa Mandarin",
+    "Sistem Politik Amerika Serikat",
+    "Sejarah Diplomasi",
+    "Negosiasi dan Diplomasi",
+    "Strategi dan Tatakelola Strategis",
+    "Dinamika Hubungan Internasional Kawasan",
+    "Studi Perang dan Damai",
+    "Manajemen Strategik untuk Hubungan Internasional",
+    "Pemikiran Politik Barat",
+    "Teori Perbandingan Politik",
+    "Masyarakat Budaya Politik Asia Tenggara",
+    "Rezim Internasional",
+    "Studi Hubungan Kultural Dunia",
+    "Globalisasi dan Strategi",
+    "Geopolitik dan Geostrategi",
+    "Kosmopolitan",
+    "Nasionalisme",
+    "dan Fundamentalisme",
+    "Masyarakat Budaya Politik Asia Timur",
+    "Masyarakat Budaya Politik Amerika Latin",
+    "Masyarakat Budaya Politik Rusia",
+    "Eropa Timur dan Asia Tengah",
+    "Strategi Kelautan dan Geopolitik Kemaritiman",
+    "Etnografi Bangsa-Bangsa",
+    "Agensi",
+    "Kuasa",
+    "dan Politik di Indonesia"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan HI tidak perlu khawatir tentang prospek kerja. Sejauh kamu berprestasi dan unggul dalam menguasai bidang ini, peluang untuk memperoleh pekerjaan di tempat-tempat prestisius yang akan menghubungkanmu dengan dunia luar, sangat terbuka lebar. Lulusan HI dapat bekerja di berbagai instnasi mulai dari Kementrian Luar Negeri sebagai diplomat atau bahkan duta besar, organisasi-organisasi internasional, perusahaan multinasional, hingga konsultan.",
+  "professions": [
+    "Peneliti Politik",
+    "Wartawan",
+    "Konsultan Politik",
+    "Penyiar Berita",
+    "Konsultan Imigrasi",
+    "Diplomat"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-politik",
+    "humaniora/ilmu-komunikasi"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 28,
+  "dt_snbp": 1063,
+  "dt_snbt": 1740,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "321049",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 1.92484,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333038",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 2.7088,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353067",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 2.74869,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355050",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 4.34783,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361079",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 1.64496,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131031",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 10.9518,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711063",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 5.28053,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621035",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 12.8645,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611044",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 5.20505,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541045",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 8.79121,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511063",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 12.2066,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386037",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 31.4607,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385020",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 14.8148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381032",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.19802,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372065",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.21931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371042",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 12.2349,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363018",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 9.80583,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351035",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 4.1721,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331023",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 6.17021,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324015",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 7.70202,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322021",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 7.03235,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191058",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 15.9059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171056",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 22.0486,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141045",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 7.75444,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911039",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 34,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741022",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 98.6111,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713047",
+      "major_university_name": "S1 HUBUNGAN INTERNASIONAL - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 41.2371,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133020",
+      "major_university_name": "S1 ILMU HUBUNGAN INTERNASIONAL - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 40.9836,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

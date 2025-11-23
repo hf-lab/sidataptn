@@ -1,0 +1,101 @@
+{
+  "idx": 35,
+  "id": "bisnis-islam",
+  "major_name": "Bisnis Islam",
+  "icon": null,
+  "description": "Pada program studi Bisnis Islam kamu akan belajar bagaimana merencanakan, menganalisa, dan membuat keputusan dalam bisnis dan keuangan secara halal dan berlandaskan syariat agama Islam. Setiap kegiatan bisnis pastinya memiliki orientasi dan etika. Agama Islam pun mengatur orientasi dan etika dalam bisnis, diantaranya seperti menghindari judi, riba, dan monopoli bisnis, yang tujuannya agar tercipta bisnis yang halal dan berkah. Tidak hanya fokus pada kajian syariah, namun di prodi ini kamu akan tetap mendapatkan ilmu dalam pengelolaan fungsi-fungsi bisnis seperti keuangan, SDM, pemasaran, dan operasi.",
+  "why": "Penerapan syariah Islam dalam kegiatan bisnis sangat diperlukan dalam mengatur kelancaran kegiatan bisnis, agar tercapainya bisnis yang beretika, yang tidak hanya berorientasi profit, tapi juga memberikan manfaat pada lingkungan sekitar. Kalau kamu tertarik untuk mengkaji sebuah kegiatan bisnis dengan menggunakan perspektif kaidah keislaman, maka program studi Bisnis Islam adalah pilihan yang tepat buatmu!",
+  "subjects": [
+    "Acuan Perilaku Ekonomi dan Bisnis",
+    "Akuntansi Biaya Untuk Manajemen",
+    "Akuntansi Islam",
+    "Akuntansi Keuangan",
+    "Akuntansi Organisasi Nirlaba",
+    "Bisnis Global Islam",
+    "Ekonometrika Keuangan",
+    "Ekonomi Keuangan Islam",
+    "Ekonomi Moneter Islam",
+    "Ekonomi Pembangunan Islam",
+    "Ekonomi Zakat dan Wakaf",
+    "Fiqh Muamalah",
+    "Fiqh Riba dan Gharar",
+    "Investasi dan Pasar Modal",
+    "Makroekonomi",
+    "Mikroekonomi",
+    "Manajemen Keuangan Islam",
+    "Manajemen Organisasi Filantropi Islam",
+    "Manajemen Pemasaran Islam",
+    "Manajemen Perbankan Islam",
+    "Manajemen Rantai Pasokan Halal",
+    "Manajemen Resiko Perbankan Islam",
+    "Manajemen Treasuri",
+    "Takaful dan Re-Takaful",
+    "Ushul Fiqh dan Qowaid Fiqhiyyah",
+    "Tasawuf dalam Ekonomi Islam"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dengan kompetensi bisnis yang dimiliki, lulusan prodi Bisnis Islam dapat berkarir di berbagai perusahaan/organisasi, terutama lembaga keuangan dan perbankan syariah. Mengingat sedang naik daunnya tren bisnis Islam atau Syariah di Indonesia, artinya kesempatan berkarir lulusan Bisnis Islam pun semakin besar. Dengan pengetahuan yang didapat, lulusan prodi ini juga dapat menjalankan bisnisnya sendiri.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analis Manajemen Bisnis",
+    "Manajer Keuangan",
+    "Manager Investasi Pemodalan",
+    "Analis Investasi",
+    "Pengajar Bisnis",
+    "Analis Keuangan",
+    "Analis Keuangan Kuantitatif",
+    "Bendahara dan Kontroler Keuangan",
+    "Pengusaha/Wirausahawan"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/manajemen-keuangan-syariah",
+    "ekonomi-bisnis/ekonomi-pembangunan",
+    "ekonomi-bisnis/ekonomi-islam-ekonomi-syariah-"
+  ],
+  "major_group_id": 30,
+  "jlh_prodi": 1,
+  "dt_snbp": 12,
+  "dt_snbt": 18,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "321064",
+      "major_university_name": "S1 BISNIS ISLAM - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.76884,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 30,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bisnis",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

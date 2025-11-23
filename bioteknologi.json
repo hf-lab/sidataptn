@@ -1,0 +1,194 @@
+{
+  "idx": 32,
+  "id": "bioteknologi",
+  "major_name": "Bioteknologi",
+  "icon": null,
+  "description": "Bioteknologi merupakan cabang ilmu Biologi yang mempelajari teknologi pemanfaatan makhluk hidup dalam skala besar untuk menghasilkan produk yang memiliki nilai guna bagi manusia. Saat ini, penerapan ilmu bioteknologi sedang berkembang pesat. Hal yang dipelajari di jurusan ini meliputi teknik fermentasi, teknologi enzim, analisa mikroorganisme, analisa DNA, separasi dan pemurnian produk biologis, kultur jaringan tanaman dan rekayasa genetika. Ilmu bioteknologi bermanfaat untuk bidang kesehatan, di antaranya untuk mengobati berbagai penyakit. Sementara di bidang pangan, bioteknologi dapat menghasilkan produk tanaman dan makanan yang mengandung sifat unggul dan bernilai gizi yang lebih baik dibandingkan tanaman atau makanan produk biasa. \r\rSelama kurang lebih empat dasawarsa terakhir, kita melihat begitu pesat perkembangan Bioteknologi di berbagai bidang. Pesatnya perkembangan Bioteknologi ini sejalan dengan tingkat kebutuhan manusia dimuka bumi. Hal ini dapat dipahami mengingat Bioteknologi menjanjikan suatu revolusi pada hampir semua aspek kehidupan manusia, mulai dari bidang pertanian, peternakan dan perikanan hingga kesehatan dan pengobatan. Perkembangan ini masih sangat lambat di Indonesia sehingga jauh tertinggal dari Negara-negara Asia lainnya seperti India, Cina, Thailand dan Korea.",
+  "why": "Kalau kamu tertarik mempelajari mengenai integrasi antara ilmu biologi dengan teknologi (seperti tentang rekayasa genetika), jurusan ini mungkin jadi jurusan yang kamu cari. Apalagi zaman sekarang, prospek kerja di bidang bioteknologi tengah naik daun untuk bidang-bidang industri tertentu seperti AGrikultur, Pangan, Farmasi, serta MEdis dan Kesehatan,",
+  "subjects": [
+    "Matematika",
+    "Biologi Sel",
+    "Bioteknologi Dasar",
+    "Bioetika",
+    "Kimia Dasar",
+    "Biologi",
+    "Fisika Dasar",
+    "Genetika Dasar",
+    "Instrumentasi Bioteknologi",
+    "Kimia Organik",
+    "Anatomi dan Fisiologi Hewan",
+    "Anatomi dan Fisiologi Tumbuhan",
+    "Bioteknologi Pangan",
+    "K3 Bioteknologi",
+    "Mikrobiologi",
+    "Bioteknologi Kedokteran",
+    "Rekayasa Genetika",
+    "Teknologi DNA dan Protein",
+    "Biostatistika",
+    "Kultur Jaringan",
+    "Immunologi",
+    "Genomi dan Protenomik",
+    "DNA Forensik",
+    "Teknologi Fermentasi",
+    "Teknologi Enzim",
+    "Toksikologi",
+    "Nanoteknologi",
+    "Stem Cell",
+    "Terapi Gen",
+    "Nutrigenetika dan Nutrigenomika",
+    "Virologi",
+    "Bioproses",
+    "Aplikasi Bioinformatika",
+    "Biodiversity"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Bidang bioteknologi memiliki prospek yang sangat cerah di masa depan. Perkembangan bioteknologi akan sangat bermanfaat untuk kehidupan manusia dan untuk perkembangan industri. Bidang pekerjaan yang bisa dimasuki oleh lulusan Bioteknologi antara lain sebagai analis dan peneliti di BPOM, Kementrian Pertanian, Industri Makanan dan Minuman, Industri Agrikultur, dan bahkan industri farmasi serta kosmetika.",
+  "professions": [
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Teknisi Proses Biofuel",
+    "Peneliti Bioinformatika",
+    "Ahli Biologi Molekul dan Sel",
+    "Ahli Biomedis",
+    "Teknisi Ilmu Forensik",
+    "Teknisi Pembangkit Biomassa",
+    "Ahli Biostatistik",
+    "Ahli Biologi",
+    "Ahli Teknologi Sitogenetik"
+  ],
+  "related_majors": [
+    "mipa/biologi",
+    "komputer-teknologi/bioinformatika",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "mipa/bioentrepreneurship",
+    "pertanian/rekayasa-pertanian",
+    "pendidikan/pendidikan-biologi"
+  ],
+  "major_group_id": 52,
+  "jlh_prodi": 10,
+  "dt_snbp": 233,
+  "dt_snbt": 293,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "355035",
+      "major_university_name": "S1 BIOTEKNOLOGI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.96421,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372040",
+      "major_university_name": "S1 BIOTEKNOLOGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.25034,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373022",
+      "major_university_name": "S1 BIOTEKNOLOGI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 10.2981,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "358004",
+      "major_university_name": "S1 BIOTEKNOLOGI - UINSAID",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN MAS SAID SURAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712096",
+      "major_university_name": "S1 BIOTEKNOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811069",
+      "major_university_name": "S1 BIOTEKNOLOGI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "832002",
+      "major_university_name": "D4 BIOTEKNOLOGI PERIKANAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612055",
+      "major_university_name": "D4 BIOTEKNOLOGI PERIKANAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "718009",
+      "major_university_name": "S1 BIOTEKNOLOGI - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751035",
+      "major_university_name": "S1 BIOTEKNOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 78.5714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 52,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bioteknologi,Biokewirausahaan, Bioinformatika",
+    "merdeka_subject": [
+      17,
+      10
+    ],
+    "ipa_subject": [
+      17,
+      10
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

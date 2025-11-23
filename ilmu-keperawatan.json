@@ -1,0 +1,545 @@
+{
+  "idx": 80,
+  "id": "ilmu-keperawatan",
+  "major_name": "Ilmu Keperawatan",
+  "icon": null,
+  "description": "Di program studi Ilmu Keperawatan, kamu akan mendapatkan ilmu sains dipadu dengan sosial. Di prodi Ilmu Keperawatan kamu akan belajar bagaimana memberikan pelayanan kesehatan pada pasien. Ilmu Keperawatan tersedia dalam dua jenjang studi, yaitu D3 dan S1. Jenjang D3 menekankan pada praktek keperawatan, S1 menyeimbangkan antara pendalaman teori dan praktek. Mata kuliah yang bersifat teoritis selalu diiringi dengan praktikum, baik di laboratorium atau lapangan seperti rumah sakit, puskesmas, atau klinik.",
+  "why": "Jika kamu punya ketertarikan yang sangat besar pada dunia keperawatan, maka ini adalah prodi yang tepat untuk kamu pilih. Tidak semua orang ingin menjadi perawat, sebab perawat adalah profesi yang lebih mengutamakan pengabdian daripada orientasi profit. Menjadi perawat, kamu akan mendedikasikan hidup dan keahlianmu untuk merawat dan mendampingi orang sakit. ",
+  "subjects": [
+    "Sains Kesehatan",
+    "Ilmu Biomedik",
+    "Ilmu Dasar Keperawatan",
+    "Antropologi Kesehatan",
+    "Keperawatan Sistem Pencernaan",
+    "Keperawatan Sistem Respirasi",
+    "Keperawatan Sistem Persepsi Sensori",
+    "Keperawatan Sistem Neurobehaviour",
+    "Komputer Kesehatan"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Senang bekerja sendiri",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Di industri kesehatan, tenaga perawat sangat dibutuhkan. Apalagi, sekarang perawat juga sudah terspesialisasi. Beberapa di antaranya adalah keperawatan medikal bedah, keperawatan anak, keperawatan maternitas, keperawatan gerontik, keperawatan jiwa, keperawatan gawat darurat, manajemen keperawatan, serta keperawatan keluarga dan komunitas.",
+  "professions": [
+    "Ahli Epidemiologi",
+    "Koordinator Riset Klinis",
+    "Ahli Diagnosa Sonografi Medik",
+    "Manager Layanan Medis dan Kesehatan",
+    "Asisten Dokter",
+    "Manajer Data Klinis",
+    "Peneliti Medikal",
+    "Paramedis dan Teknisi Medis Gawat Darurat",
+    "Ahli Teknologi Medis Ophthalmic",
+    "Instruktur Perawatan"
+  ],
+  "related_majors": [
+    "kesehatan/kebidanan",
+    "kesehatan/farmasi",
+    "kesehatan/okupasi-terapi",
+    "kesehatan/paramedik-veteriner",
+    "kesehatan/manajemen-pelayanan-rumah-sakit-perumahsakitan-",
+    "kesehatan/fisioterapi",
+    "kesehatan/pendidikan-dokter-gigi",
+    "kesehatan/terapi-wicara"
+  ],
+  "major_group_id": 43,
+  "jlh_prodi": 52,
+  "dt_snbp": 1986,
+  "dt_snbt": 2803,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "324007",
+      "major_university_name": "S1 KEPERAWATAN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 4.66752,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511021",
+      "major_university_name": "S1 KEPERAWATAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 7.84062,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381010",
+      "major_university_name": "S1 KEPERAWATAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 4.62157,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372021",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 5.26316,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531030",
+      "major_university_name": "S1 KEPERAWATAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 5.90842,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541073",
+      "major_university_name": "S1 KEPERAWATAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371019",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 6.28109,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361007",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.16623,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355003",
+      "major_university_name": "S1 KEPERAWATAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 3.76797,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353098",
+      "major_university_name": "D4 KEPERAWATAN ANESTESIOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "351012",
+      "major_university_name": "S1 KEPERAWATAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 3.03605,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334037",
+      "major_university_name": "S1 KEPERAWATAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.17464,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "611019",
+      "major_university_name": "S1 KEPERAWATAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 5.8209,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333012",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.80771,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "322010",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 6.09272,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121020",
+      "major_university_name": "S1 ILMU KEPERAWATAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 7.07214,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711028",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 5.64011,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721004",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 12.6464,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131020",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 5.42484,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311022",
+      "major_university_name": "S1 KEPERAWATAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 3.09859,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171024",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 5.47576,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161052",
+      "major_university_name": "D3 KEPERAWATAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "751045",
+      "major_university_name": "S1 KEPERAWATAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 8.4,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142087",
+      "major_university_name": "S1 KEPERAWATAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "911013",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 7.85714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752015",
+      "major_university_name": "S1 KEPERAWATAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 4.97512,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "741003",
+      "major_university_name": "S1 KEPERAWATAN - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 33.8415,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731054",
+      "major_university_name": "D3 KEPERAWATAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "551011",
+      "major_university_name": "S1 KEPERAWATAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 12.7869,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612057",
+      "major_university_name": "S1 KEPERAWATAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371067",
+      "major_university_name": "D3 KEPERAWATAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324021",
+      "major_university_name": "D3 KEPERAWATAN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "112034",
+      "major_university_name": "D3 KEPERAWATAN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141004",
+      "major_university_name": "S1 KEPERAWATAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 5.25195,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151017",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 8.98876,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "181021",
+      "major_university_name": "D3 KEPERAWATAN - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321015",
+      "major_university_name": "S1 ILMU KEPERAWATAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.80645,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333032",
+      "major_university_name": "S1 KEPERAWATAN PSDKU PANGANDARAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 6.68896,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334029",
+      "major_university_name": "S1 KEPERAWATAN * KAMPUS SUMEDANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 4.24242,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111017",
+      "major_university_name": "S1 ILMU KEPERAWATAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 6.10687,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371071",
+      "major_university_name": "D3 KEPERAWATAN (KAMPUS KOTA PASURUAN) - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381059",
+      "major_university_name": "D3 KEPERAWATAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "551024",
+      "major_university_name": "KEPERAWATAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "433003",
+      "major_university_name": "D3 KEPERAWATAN - POLINDRA",
+      "university_name": "POLITEKNIK NEGERI INDRAMAYU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "632016",
+      "major_university_name": "D3 KEPERAWATAN - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541071",
+      "major_university_name": "KEPERAWATAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "311043",
+      "major_university_name": "KEPERAWATAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "142066",
+      "major_university_name": "D3 KEPERAWATAN PSDKU PARIAMAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "483004",
+      "major_university_name": "D3 KEPERAWATAN - POLTERA",
+      "university_name": "POLITEKNIK NEGERI MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "753030",
+      "major_university_name": "D3 KEPERAWATAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "434004",
+      "major_university_name": "D3 KEPERAWATAN - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "728001",
+      "major_university_name": "D3 KEPERAWATAN - POLNUSTAR",
+      "university_name": "POLITEKNIK NEGERI NUSA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 43,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Keperawatan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

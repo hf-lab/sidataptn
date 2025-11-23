@@ -1,0 +1,252 @@
+{
+  "idx": 103,
+  "id": "kewirausahaan",
+  "major_name": "Entrepreneurship",
+  "icon": null,
+  "description": "Entrepreneurship adalah program studi yang mengajarkanmu untuk dapat mengidentifikasi ide, konsep, dan strategi baru dalam merencanakan dan mengembangkan sebuah usaha atau bisnis. Program studi ini juga kerap disebut dengan nama Kewirausahaan atau Bisnis. Di sini kamu akan ditantang untuk menemukan dan merespon peluang-peluang yang ada dalam berusaha. Prodi ini melatih kepekaan dan kemandirian kamu untuk menjadi seorang entrepreneur atau pengusahan handal. Selain itu, kamu akan diajarkan mulai dari mencari gagasan, melakukan perencanaan, hingga menjalankan usaha. Ilmu dasar kewirausahaan mencakup model bisnis, teori inovasi, perencanaan bisnis, penanganan risiko, investasi dan pendanaan, negosiasi dan legalitas bisnis, perintisan bisnis, dan pengembangan bisnis.",
+  "why": "Program studi Entrepreneurship cocok untuk kamu yang punya cita-cita menjadi entrepreneur sukses, dan tidak cuma bergantung pada lapangan kerja yang sangat terbatas. Prodi ini sangat cocok untuk kamu yang kaya akan ide-ide kreatif, menyukai tantangan dan hal-hal baru, serta memiliki komitmen yang kuat.",
+  "subjects": [
+    "Makroekonomi Bisnis",
+    "Akuntansi dan Keputusan Bisnis",
+    "Bisnis Internasional",
+    "Sistem Informasi Bisnis",
+    "Manajemen Sumberdaya Manusia",
+    "Kewirausahaan dan Penciptaan Usaha Baru",
+    "Keterampilan Manajemen",
+    "Pengelolaan Inovasi",
+    "Mikroekonomi Bisnis",
+    "Manajemen Perubahan dan Pengembangan Organisasi",
+    "Metode Penelitian Manajerial",
+    "Kreatifitas dan Inovasi",
+    "Perencanaan Bisnis Wirausaha",
+    "Perancangan Organisasi Efektif",
+    "Analisis Kompetitif",
+    "Perilaku Konsumen",
+    "Perpajakan (Taxation)",
+    "Komunikasi Bisnis (Business Communication)",
+    "Pengembangan Proses Bisnis",
+    "Hukum Bisnis",
+    "Manajemen Operasi",
+    "Manajemen Pemasaran"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Stelah lulus dari prodi Entrepreneurship, kamu memiliki bekal dan potensi yang sangat cukup untuk menciptakan lapangan kerja sendiri dan juga untuk orang banyak. Prodi ini memang mempersiapkan kamu untuk menjadi pengusaha. Namun, pengusaha tidak hanya terbatas pada pengelolaan bisnis sendiri atau menciptakan bisnis baru, tapi juga meningkatkan produktifitas bisnis yang telah ada. Karena itu, lulusan prodi Entrepreneurship dibutuhkan oleh berbagai perusahaan yang bergerak di bidang bisnis apapun. Lulusan prodi Entrepreneurship juga berperan dalam mengurangi jumlah pengangguran, karena daat memberdayai diri sendiri dan juga orang banyak. ",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Penyusun Strategi Pemasaran (Online)",
+    "Manager Investasi Pemodalan",
+    "Analis Pemasaran",
+    "Pengusaha/Wirausahawan",
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Pengajar Bisnis",
+    "Pemilik Waralaba",
+    "Konsultan Bisnis",
+    "Manajer Pengembangan Bisnis"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/business-creation",
+    "ekonomi-bisnis/fashion-business",
+    "ekonomi-bisnis/bisnis-digital",
+    "ekonomi-bisnis/technopreneurship",
+    "mipa/bioentrepreneurship",
+    "ekonomi-bisnis/pemasaran-internasional",
+    "ekonomi-bisnis/manajemen-bisnis-telekomunikasi-informatika"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 17,
+  "dt_snbp": 558,
+  "dt_snbt": 746,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "121049",
+      "major_university_name": "S1 KEWIRAUSAHAAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 3.36134,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334069",
+      "major_university_name": "S1 PENDIDIKAN BISNIS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.77202,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332035",
+      "major_university_name": "S1 SEKOLAH BISNIS DAN MANAJEMEN * KAMPUS CIREBON (SBM*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "385023",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372089",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 4.02145,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341037",
+      "major_university_name": "S1 BISNIS - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 8.73908,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334093",
+      "major_university_name": "S1 KEWIRAUSAHAAN KAMPUS TASIKMALAYA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 19.2469,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323055",
+      "major_university_name": "S1 PENDIDIKAN BISNIS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 5.84416,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151068",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141056",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122054",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 9.94898,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122047",
+      "major_university_name": "S1 PENDIDIKAN BISNIS - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 12.6984,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112033",
+      "major_university_name": "S1 KEWIRUSAHAAN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 52.5424,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133025",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "622002",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UINMATARAM",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712079",
+      "major_university_name": "S1 KEWIRAUSAHAAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 16.7969,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384029",
+      "major_university_name": "D3 ENTERPRENEURSHIP - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

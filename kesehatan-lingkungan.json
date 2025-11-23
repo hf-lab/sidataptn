@@ -1,0 +1,118 @@
+{
+  "idx": 99,
+  "id": "kesehatan-lingkungan",
+  "major_name": "Kesehatan Lingkungan",
+  "icon": null,
+  "description": "Di program studi ini kamu akan belajar bagaimana mengelola lingkungan agar tetap lestari dan bersih sehingga aman untuk kehidupan manusia. Disini kamu akan mempelajari keterkaitan antara kelestarian lingkungan dengan kualitas hidup manusia yang diukur dari kesehatannya. Prodi ini mempelajari keterkaitan aktif setiap komponen lingkungan yang memiliki potensi membahayakan kesehatan masyarakat. Misalnya, pencemaran lingkungan yang saat ini semakin tak terkendali penyebarannya. Prodi Kesehatan Lingkungan mempersiapkan para profesional yang ahli dalam menjaga kesehatan lingkungan, mencegah penyakit yang disebabkan oleh pencemaran dan kerusakan lingkungan.",
+  "why": "Banyak masyarakat yang masih mengabaikan kebersihan dan kelestarian lingkungan karena kurang memahami dampak kerusakan lingkungan terhadap kehidupan manusia. Prodi ini sangat cocok untuk kamu yang punya kepedulian besar terhadap lingkungan sekitar dan kesehatan.",
+  "subjects": [
+    "Dasar Kesehatan Lingkungan",
+    "Entomologi Kesehatan",
+    "Fisika Lingkungan",
+    "Kimia Lingkungan",
+    "Patofisioanatomi",
+    "Mikrobiologi Lingkungan",
+    "Ekologi Kesehatan",
+    "Pengawasan Pencemaran Lingkungan Fisik",
+    "Penyehatan Air dan Pengelolaan Limbah Cair",
+    "Etika Profesi Sanitarian",
+    "Ekotoksikologi",
+    "Epidemiologi Kesehatan Lingkungan",
+    "Fisioanatomi",
+    "Penyehatan Tanah dan Pengelolaan Sampah",
+    "Keselamatan dan Kesehatan Kerja",
+    "Penyakit Berbasis Lingkungan",
+    "Pemberdayaan Masyarakat",
+    "Ilmu Budaya Sehat",
+    "Sistem Manajemen Keselamatan dan Kesehatan Kerja",
+    "Penyehatan Makanan Minuman",
+    "Penyehatan Air",
+    "Pengendalian Vektor dan Binatang Pengganggu",
+    "Sanitasi Tempat Tempat Umum dan Pariwisata",
+    "Penyehatan Udara",
+    "Statistik Kesehatan",
+    "Sanitasi Permukiman",
+    "Analisis Dampak Kesehatan Lingkungan",
+    "Sanitasi Rumah Sakit",
+    "Manajemen Risiko Lingkungan",
+    "Kesehatan Lingkungan Darurat dan Bencana",
+    "Rekayasa Sarana Sanitasi",
+    "Operasi dan Pemeliharaan IPAM & IPAL"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Indonesia sangat membutuhkan para profesional di bidang kesehatan lingkungan. Pencemaran lingkungan semakin hari semakin bertambah parah, dan pastinya akan berdampak terhadap kesehatan masyarakat. Lulusan Kesehatan Lingkungan dapat berkarir di sektor publik seperti Kementerian Kesehatan dan Dinas Kesehatan, Kementerian Lingkungan Hidup dan Badan Lingkungan Hidup Provinsi maupun daerah, Badan Perencana Nasional dan Daerah, dan sebagainya. Di sektor privat, lulusan dapat berkarir di berbagai perusahaan yang bergerak di sektor manufaktur, minyak dan gas, dan konsultan lingkungan. ",
+  "professions": [
+    "Peneliti Medikal",
+    "Pengawas Pemenuhan Lingkungan Hidup",
+    "Perencana Restorasi Lingkungan",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan",
+    "Manajer Ilmu Alam",
+    "Teknik Kesehatan dan Keselamatan Industri",
+    "Ahli Lingkungan",
+    "Ahli Ekologi Industri",
+    "Ahli Kesehatan dan Keselamatan Kerja",
+    "Dosen Spesialis Kesehatan"
+  ],
+  "related_majors": [
+    "teknik/teknik-lingkungan",
+    "kesehatan/kesehatan-masyarakat",
+    "pendidikan/pendidikan-kependudukan-dan-lingkungan-hidup",
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "kesehatan/kesehatan-dan-keselamatan-kerja",
+    "teknik/rekayasa-infrastruktur-lingkungan"
+  ],
+  "major_group_id": 34,
+  "jlh_prodi": 2,
+  "dt_snbp": 36,
+  "dt_snbt": 78,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "171038",
+      "major_university_name": "S1 KESEHATAN LINGKUNGAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 10.1761,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321026",
+      "major_university_name": "S1 KESEHATAN LINGKUNGAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 6.74603,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 34,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Lingkungan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

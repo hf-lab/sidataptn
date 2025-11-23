@@ -1,0 +1,158 @@
+{
+  "idx": 65,
+  "id": "fisioterapi",
+  "major_name": "Fisioterapi",
+  "icon": null,
+  "description": "Fisioterapi adalah program studi yang mempelajari tentang fungsi gerak tubuh manusia mulai dari cara gerak hingga bentuk otot, sendi serta tulang. Pada program studi ini lebih mendalami tentang gerak tubuh manusia serta organ tubuh yang berperan didalamnya. Prodi ini merupakan cabang dari program studi Kedokteran (Pendidikan Dokter).",
+  "why": "Prodi Fisioterapi sangat cocok bagi kalian yang tertarik dengan dengan dunia anatomi tubuh manusia. Selain mempelajari anatomi tubuh, Fisioterapi lebih difokuskan untuk mengembalikan fungsi gerak sendi atau otot manusia jika terjadi gangguan. Jika kalian tertarik dengan biologi dan ingin lebih mempelajari serta mendalami anatomi tubuh manusia prodi ini sangat cocok untukmu.",
+  "subjects": [
+    "Anatomi",
+    "Pertolongan Pertama Kegawat & Kedaruratan",
+    "Statistik dan Epidemiologi Kedokteran",
+    "Kinesiologi dan Biomekanik",
+    "Terapi Latihan",
+    "Fisioterapi Neuromuskular",
+    "Fisioterapi Kardiovaskuler dan Respirasi",
+    "Biostatistik",
+    "Farmakologi Fisioterapi",
+    "Fisioterapi Geriatric",
+    "Fisioterapi Pediatric",
+    "Biologi Molekuler",
+    "Manajemen Fisioterapi Olahraga",
+    "Fisika Fisioterapi",
+    "Biokimia",
+    "Pengantar Fisioterapi",
+    "Prinsip sains dan biomedik dasar dalam Fisioterapi",
+    "Dasar Neurologi Fisioterapi",
+    "Dasar Musculoskeletal Fisioterapi",
+    "Sosiologi kesehatan",
+    "Manajemen FT Cardiovascular Pulmonal",
+    "Manajemen FT Pediatri & Tumbang",
+    "Manajemen FT Geriatri",
+    "Manajemen FT Keswan & Integumen",
+    "Komunikasi Terapeutik & Interpreneurship",
+    "Epidemiologi",
+    "Manajemen Pelayanan FT",
+    "Manajemen FT Olahraga & Kebugaran",
+    "Dasar Pemeriksaan Lab dan Radiologi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja lulusan prodi Fisioterapi sangat terbuka terutama di rumah sakit dan klinik yang menangani dan memberikan pelayanan Fisioterapi, serta juga di berbagai pusat kebugaran. Seorang Fisioterapis juga dapat menjadi konsultan Fisioterapi pribadi untuk para atlit maupun orang lain yang membutuhkannya. ",
+  "professions": [
+    "Pelatih Kesehatan Atlet (Olahragawan)",
+    "Penyuluh Kesehatan (Health Educators)",
+    "Ahli Terapi Pernapasan",
+    "Terapis Kelainan Penglihatan, Spesialis Orientasi dan Mobilisasi dan Terapis Rehabilitasi Kesehatan",
+    "Manajer Kebugaran dan Kesehatan",
+    "Dokter Pengobatan Fisik dan Rehabilitasi",
+    "Terapis Fisik",
+    "Terapis Pekerjaan"
+  ],
+  "related_majors": [
+    "kesehatan/ilmu-keperawatan",
+    "kesehatan/manajemen-pelayanan-rumah-sakit-perumahsakitan-",
+    "kesehatan/ilmu-keolahragaan",
+    "kesehatan/paramedik-veteriner",
+    "kesehatan/kebidanan",
+    "kesehatan/teknik-radiodiagnostik-dan-radioterapi-teknik-radiologi-",
+    "kesehatan/okupasi-terapi"
+  ],
+  "major_group_id": 43,
+  "jlh_prodi": 7,
+  "dt_snbp": 171,
+  "dt_snbt": 303,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "324012",
+      "major_university_name": "S1 FISIOTERAPI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 4.79134,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321067",
+      "major_university_name": "D4 FISIOTERAPI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "324022",
+      "major_university_name": "D3 FISIOTERAPI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381062",
+      "major_university_name": "D4 FISIOTERAPI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "611022",
+      "major_university_name": "S1 FISIOTERAPI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 7.18085,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711036",
+      "major_university_name": "S1 FISOTERAPI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 6.04651,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712036",
+      "major_university_name": "S1 FISIOTERAPI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 16.6667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 43,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Keperawatan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

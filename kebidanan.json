@@ -1,0 +1,178 @@
+{
+  "idx": 95,
+  "id": "kebidanan",
+  "major_name": "Kebidanan",
+  "icon": null,
+  "description": "Di program studi Kebidanan kamu akan mempelajari bagaimana membantu proses persalinan seorang ibu. Tapi, Kebidanan tidak hanya sebatas proses persalinan, tapi juga merangkap proses mulai dari fase-fase dalam kehamilan, menyusui, merawat tumbuh kembang bayi, hingga program Keluarga Berencana (KB). Di sini kamu akan belajar lebih dalam tentang fungsi-fungsi reproduksi dan segala hal yang berkaitan dengan usaha meningkatkan kesejahteraan keluarga. ",
+  "why": "Menjadi bidan adalah salah satu pekerjaan yang mulia. Kamu akan memahami perjuangan seorang ibu, dan lebih aware dengan kesehatan reproduksi. Masih banyaknya bahaya yang mengancam ibu melahirkan dan bayi menjadi salah satu perhatian pemerintah, karenanya kita masih sangat membutuhkan tenaga kebidanan yang handal dan memiliki kepedulian sosial yang tinggi.",
+  "subjects": [
+    "Biologi Dasar dan Biologi Perkembangan",
+    "Keterampilan Dasar Kebidanan",
+    "Konsep Kebidanan",
+    "Komunikasi dalam Praktek Kebidanan",
+    "Kesehatan Reproduksi dan KB",
+    "Etikolegal dalam Praktek Kebidanan",
+    "Kesehatan Masyarakat",
+    "Mutu Layanan Kebidanan",
+    "Gizi dan Kesehatan Reproduksi",
+    "Asuhan Kebidanan Kehamilan",
+    "Asuhan Kebidanan Maternal Neonatal",
+    "Kebidanan Komunitas",
+    "Teknologi Informasi Kebidanan",
+    "Asuhan Kebidanan Persalinan dan Bayi Baru Lahir",
+    "Asuhan Kebidanan Nifas dan Menyusui",
+    "Ilmu Kesehatan Anak",
+    "Asuhan Kebidanan Neonatus Bayi Balita dan Anak pra Sekolah",
+    "Farmakologi",
+    "Asuhan Kebidanan Kegawatdaruratan Maternal Neonatal",
+    "Asuhan Kebidanan Komunitas",
+    "Epidemiologi",
+    "Promosi Kesehatan",
+    "Kesehatan Reproduksi dan Keluarga Berencana",
+    "Mutu Layanan Kebidanan dan Kebijakan Kesehatan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Independen",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Kebidanan dibutuhkan di berbagai fasilitas kesehatan seperti klinik dan rumah sakit sebagai tenaga bidan. Selain itu, lulusan Kebidanan juga dibekali dengan kemandirian, sehingga dapat membuka praktek sendiri. Seorang lulusan Kebidanan juga dapat menjadi konsultan atau penyuluh kesehatan kehamilan dan reproduksi.",
+  "professions": [
+    "Bidan",
+    "Spesialis Perawat Klinis",
+    "Penyuluh Kesehatan (Health Educators)"
+  ],
+  "related_majors": [
+    "kesehatan/ilmu-keperawatan",
+    "kesehatan/fisioterapi",
+    "kesehatan/manajemen-pelayanan-rumah-sakit-perumahsakitan-"
+  ],
+  "major_group_id": 42,
+  "jlh_prodi": 11,
+  "dt_snbp": 259,
+  "dt_snbt": 370,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "141026",
+      "major_university_name": "S1 KEBIDANAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 4.9505,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353034",
+      "major_university_name": "S1 KEBIDANAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 2.92326,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372032",
+      "major_university_name": "S1 KEBIDANAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 4.78036,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161049",
+      "major_university_name": "D3 KEBIDANAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331026",
+      "major_university_name": "D3 KEBIDANAN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353073",
+      "major_university_name": "D3 KEBIDANAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381012",
+      "major_university_name": "S1 KEBIDANAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 4.34783,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "551012",
+      "major_university_name": "S1 KEBIDANAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 17.7665,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612058",
+      "major_university_name": "S1 KEBIDANAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "551023",
+      "major_university_name": "D3 KEBIDANAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "612046",
+      "major_university_name": "D3 KEBIDANAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 42,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Kebidanan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

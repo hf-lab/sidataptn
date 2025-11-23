@@ -1,0 +1,281 @@
+{
+  "idx": 69,
+  "id": "geofisika",
+  "major_name": "Geofisika",
+  "icon": null,
+  "description": "Program studi Geofisika mempelajari seluk beluk bumi dan lingkungannya dengan memanfaatkan kaidah-kaidah fisika dan metode matematika. Ilmu Geofisika berusaha mencari tahu dan menjelaskan fenomena fisika yang terjadi di bumi dan lingkungannya sekarang dan masa lalu untuk bisa memproyeksikan fenomena yang akan terjadi pada masa depan. Fenomena fisika tersebut dinyatakan dalam bentuk parameter fisis yang terukur.",
+  "why": "Dengan mempelajari Geofisika, kamu akan bisa memahami fenomena yang terjadi di bumi secara lebih mendalam dan lebih jelas. Program studi ini cocok banget buat kamu yang memiliki minat besar terhadap ilmu bumi dan fisika, serta keingintahuan untuk mengkaji segala sesuatu yang terjadi di dalamnya.",
+  "subjects": [
+    "Konsep Fisika",
+    "Matematika Kontektual",
+    "Kimia Kontektual",
+    "Teknologi Informasi Kontemporer",
+    "Pengantar Geofisika",
+    "Kalkulus",
+    "Fisika Dasar",
+    "Metode Komputasi",
+    "Geologi Dasar",
+    "Biologi Umum",
+    "Mineralogi",
+    "Termodinamika",
+    "Geologi Struktur",
+    "Elektronika",
+    "Petrologi",
+    "Geodinamika",
+    "Analisis Spektrum Sinyal Digital",
+    "Matematika Fisika",
+    "Perpetaan",
+    "Mekanika Analitik",
+    "Geostatistika",
+    "Gelombang",
+    "Instrumentasi Geofisika",
+    "Fisika Batuan",
+    "Meteorologi",
+    "Tektonik Indonesia",
+    "Metode Seismik",
+    "Metode Geoelektrisitas dan EM",
+    "Metode Analisis Geofisika",
+    "Stratigrafi",
+    "Global Positioning System (GPS)",
+    "Seismologi",
+    "Metode Gravitasi dan Magnetik",
+    "Fisika Gunungapi",
+    "Geologi Minyak Bumi",
+    "Mekanika Batuan",
+    "Mekanika Fluida"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Program studi Geofisika memiliki prospek kerja yang luas diantaranya adalah menjadi peneliti di LIPI pada bidang Geoteknologi dan Pusat Penelitian Fisika Terapan, Badan Meteorologi Klimatologi dan Geofisika (BMKG), industri minyak bumi dan gas, Departemen Energi dan Sumber Daya Mineral, dan masih banyak lagi.",
+  "professions": [
+    "Peneliti Atmosfir dan Ruang Angkasa",
+    "Ahli Sistem Informasi Geografis",
+    "Peneliti dan Ahli Teknologi Informasi Geospasial",
+    "Ahli Tambang dan Geologi",
+    "Ahli Teknik Minyak Bumi",
+    "Ahli Kimia",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Biokimia dan Biofisika",
+    "Ahli Peta Geografi",
+    "Ahli Hidrologi"
+  ],
+  "related_majors": [
+    "teknik/teknik-geodesi",
+    "mipa/meteorologi",
+    "teknik/teknik-fisika",
+    "teknik/teknik-perminyakan",
+    "teknik/meteorologi-terapan",
+    "mipa/fisika",
+    "mipa/geografi",
+    "teknik/teknik-geomatika",
+    "mipa/kartografi-dan-penginderaan-jauh",
+    "teknik/survei-dan-pemetaan"
+  ],
+  "major_group_id": 11,
+  "jlh_prodi": 19,
+  "dt_snbp": 422,
+  "dt_snbt": 690,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "321028",
+      "major_university_name": "S1 GEOFISIKA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 11.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333019",
+      "major_university_name": "S1 GEOFISIKA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 10.8808,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361016",
+      "major_university_name": "S1 GEOFISIKA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 17.4757,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363005",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 25.641,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372039",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 14.5374,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382027",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 10.0334,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111028",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 48.8095,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151030",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 92.6829,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161026",
+      "major_university_name": "S1 GEOFISIKA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 35.1351,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "191003",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 82.1918,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192004",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 70.0637,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811034",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 160,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541035",
+      "major_university_name": "S1 GEOFISIKA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 74.1936,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711020",
+      "major_university_name": "S1 GEOFISIKA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 35.2941,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911019",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 450,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751025",
+      "major_university_name": "S1 TEKNIK GEOFISIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 44.7368,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731026",
+      "major_university_name": "S1 TEKNIK GEO FISIKA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 75.7576,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "511022",
+      "major_university_name": "S1 GEOFISIKA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 86.3636,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114026",
+      "major_university_name": "S1 GEOFISIKA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 11,
+    "super_group": "ILMU_ALAM",
+    "group_name": "Ilmu atau Sains Kebumian",
+    "merdeka_subject": [
+      14,
+      15
+    ],
+    "ipa_subject": [
+      14,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

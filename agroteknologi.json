@@ -1,0 +1,426 @@
+{
+  "idx": 13,
+  "id": "agroteknologi",
+  "major_name": "Agroteknologi",
+  "icon": null,
+  "description": "Program studi Agroteknologi mengajak para mahasiswanya mempelajari penerapan teknologi dalam budidaya tanaman sesuai dengan prinsip pertanian yang jangka panjang. Para mahasiswa akan belajar bagaimana merencanakan dan merancang sistem produksi tanaman secara efektif dan produktif. Cakupan bidang ini tidak terbatas pada penggunaan traktor, sistem pengairan dan pengolahan hasil pertanian saja, akan tetapi pada seluruh proses dan berbagai aspek dalam budidaya tanaman maupun ternak dan proses pengolahan hasilnya. ",
+  "why": "Pertanian tak lagi ketinggalan jaman. Penerapan teknologi yang ramah lingkungan sekaligus bisa meningkatkan efisiensi pembudidayaan tanaman. Pertanian masih menjadi sektor penting yang harus terus dikembangkan. Kamu bisa memilih jurusan ini untuk memperkuat tim pertanian melalui agroteknologinya. ",
+  "subjects": [
+    "Pengantar Ilmu Pertanian",
+    "Dasar Ilmu Tanaman",
+    "Pemasaran Agribisnis",
+    "Kesuburan Tanah dan Nutrisi Tanaman",
+    "Teknologi Pembenihan",
+    "Teknologi Produksi Tanaman",
+    "Rekayasa Tanaman",
+    "Teknologi Perlindungan Tanaman",
+    "Bioteknologi Pertanian",
+    "Pengendalian Hama dan Penyakit terpadu",
+    "Industri Perbenihan",
+    "Teknologi Pasca Panen",
+    "Sistem Pertanian Berkelanjutan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Semakin maju teknologi pertanian dan pangan, Posisi untuk lulusan jurusan ini semakin bagus. Lulusan program studi Agroteknologi dapat bekerja di perusahaan komoditas perkebunan, pangan, hortikultura, dan atau kehutanan. Selain itu, mereka bisa juga bekerja di bidang teknologi pangan, pakan, dan bioenergi.",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Manajer Pembibitan dan Rumah Kaca",
+    "Ahli Konservasi Tanah dan Air",
+    "Dokter Naturopathic",
+    "Manager Pertanian dan Peternakan",
+    "Peneliti Tanah dan Tumbuhan",
+    "Ahli Teknik Pertanian"
+  ],
+  "related_majors": [
+    "pertanian/agronomi-dan-hortikultura",
+    "pertanian/ilmu-tanah-manajemen-sumberdaya-lahan-",
+    "pertanian/mikrobiologi-pertanian"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 39,
+  "dt_snbp": 1684,
+  "dt_snbt": 2459,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "191001",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 26.1194,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351016",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 14.7879,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342003",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 13.245,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "336008",
+      "major_university_name": "S1 AGROTEKNOLOGI - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 15.0794,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352001",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 14.6067,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353003",
+      "major_university_name": "S1 AGROTEKNOLOGI / AGROEKOTEKNOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 7.64563,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331001",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 19.3384,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "363009",
+      "major_university_name": "S1 AGROTEKNOLOGI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 19.3384,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371001",
+      "major_university_name": "S1 AGROTEKNOLOGI / AGROEKOTEKNOLOGI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 17.3333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141002",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 15.1852,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131011",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 11.8621,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111007",
+      "major_university_name": "S1 AGROTEKNOLOGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 20.5323,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111034",
+      "major_university_name": "S1 AGROTEKNOLOGI (PSDKU GAYO LUES) - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 238.462,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "385002",
+      "major_university_name": "S1 AGROTEKNOLOGI - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 26.9058,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511019",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 39.6465,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521013",
+      "major_university_name": "S1 AGROTEKNOLOGI - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 54.321,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551004",
+      "major_university_name": "S1 AGROTEKNOLOGI - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 54.6875,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711008",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 22.6531,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "332034",
+      "major_university_name": "S1 SEKOLAH ILMU DAN TEKNOLOGI HAYATI * KAMPUS CIREBON (SITH*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333007",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 13.805,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "242017",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PERKEBUNAN - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "181005",
+      "major_university_name": "S1 AGROTEKNOLOGI - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 23.9437,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142079",
+      "major_university_name": "S1 AGROTEKNOLOGI (KAMPUS KABUPATEN SIJUNJUNG) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132009",
+      "major_university_name": "S1 AGROTEKNOLOGI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 64.1791,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114001",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 39.0476,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921009",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1800,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912007",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 625,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821015",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 246.154,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811006",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 204.167,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753006",
+      "major_university_name": "S1 AGROTEKNOLOGI - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 416.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752007",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751002",
+      "major_university_name": "S1 AGROTEKNOLOGI / AGROEKOTEKNOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 47.1429,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731029",
+      "major_university_name": "S1 AGROTEKNOLOGI (PSDKU TOUNA) - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 535.714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731027",
+      "major_university_name": "S1 AGROTEKNOLOGI (PSDKU MOROWALI) - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731005",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 97.4026,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "113005",
+      "major_university_name": "S1 AGROTEKNOLOGI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 70.4225,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "632002",
+      "major_university_name": "S1 AGROTEKNOLOGI - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 48.227,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "471014",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PANGAN - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291034",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PANGAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

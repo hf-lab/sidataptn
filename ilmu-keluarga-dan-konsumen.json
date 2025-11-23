@@ -1,0 +1,145 @@
+{
+  "idx": 78,
+  "id": "ilmu-keluarga-dan-konsumen",
+  "major_name": "Ilmu Keluarga dan Konsumen",
+  "icon": null,
+  "description": "Program studi Ilmu Keluarga dan Konsumen pada intinya membahas tentang 3 hal: Keluarga, Anak, dan Konsumen. Ketiga hal tersebut dibahas dan dikaji dari sisi keilmuan, dengan fokus untuk mengembangkan kualitas anak serta pemberdayaan keluarga serta konsumen. Mahasiswa dari program studi ini diharapkan untuk mampu memberikan alternatif penanganan masalah dan mampu memberikan advokasi dalam rangka peningkatan ketahanan keluarga, peningkatan kualitas dan perlindungan anak, serta pemberdayaan konsumen. Untuk saat ini, jurusan Ilmu Keluarga dan Konsumen hanya tersedia di Institut Pertanian Bogor (IPB).",
+  "why": "Kalau kamu tertarik untuk menggali lebih dalam tentang pentingnya peran keluarga, tumbuh kembang anak, dan ilmu konsumen terhadap pengembangan suatu masyarakat, jurusan ini pas banget buat kamu! Di jurusan ini, kamu akan diajarkan bahwa unit sekecil keluarga pun memiliki pengaruh besar lho terhadap seluruh aspek yang ada di masyarakat. Lagipula, tenaga ahli dalam bidang keluarga dan konsumen jumlahnya masih minim banget, nih, di Indonesia. So, lulusan dari program studi ini pastinya memiliki peluang karir yang cukup mumpuni.",
+  "subjects": [
+    "Ekologi Manusia",
+    "Pengantar Manajemen",
+    "Teknik-Teknik Partisipatoris",
+    "Pengantar Psikologi",
+    "Pengantar Ilmu Keluarga",
+    "Perilaku Konsumen",
+    "Pengasuhan Anak",
+    "Pemasaran Sosial",
+    "Tumbuh Kembang Manusia",
+    "Ketahanan dan Pemberdayaan Keluarga",
+    "Usaha Ekonomi Keluarga",
+    "Pengantar Ekonomi Keluarga"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja dari program studi ini cukup beragam. Lulusannya bisa bekerja menjadi seorang konsultan di bidang perlindungan konsumen dan keluarga, tumbuh kembang anak, dan perlindungan perempuan; tenaga pengajar dan pengelola pendidikan di sekolah-sekolah; spesialis riset pemasaran konsumen; hingga sebagai bagian dari lembaga pemerintah BKKBN. ",
+  "professions": [
+    "Terapis Pernikahan dan Keluarga (Marriage and Family Therapists)",
+    "Mediator Keluarga",
+    "Praktisi Keluarga dan Umum"
+  ],
+  "related_majors": [
+    "humaniora/psikologi",
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "humaniora/sosiologi",
+    "kesehatan/kesehatan-masyarakat"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 8,
+  "dt_snbp": 275,
+  "dt_snbt": 334,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "111052",
+      "major_university_name": "S1 PENDIDIKAN KESEJAHTERAAN KELUARGA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 10.4545,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142047",
+      "major_university_name": "S1 PENDD. KESEJAHTERAAN KELUARGA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 10.0471,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323045",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL KESEJAHTERAAN KELUARGA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 13.9896,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334063",
+      "major_university_name": "S1 PENDIDIKAN KESEJAHTERAAN KELUARGA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 12.6316,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341036",
+      "major_university_name": "S1 ILMU KELUARGA DAN KONSUMEN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 8.41346,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356071",
+      "major_university_name": "S1 PENDIDIKAN KESEJAHTERAAN KELUARGA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 15.4472,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612028",
+      "major_university_name": "S1 PENDIDIKAN KESEJAHTERAAN KELUARGA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712038",
+      "major_university_name": "S1 PENDIDIKAN KESEJAHTERAAN KELUARGA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 15.625,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

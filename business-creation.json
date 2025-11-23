@@ -1,0 +1,92 @@
+{
+  "idx": 39,
+  "id": "business-creation",
+  "major_name": "Business Creation",
+  "icon": null,
+  "description": "Prodi Business Creation didesain secara khusus untuk membentuk entrepreneur kreatif dan inovatif di masa depan. Mahasiswa dibimbing untuk membentuk bisnis mereka sendiri dengan konsep pembelajaran teori dan praktik. Mahasiswa juga terus didorong untuk menggali potensi kewirausahaan dalam diri mereka dengan berbagai mata kuliah yang mendukung pengeksplorasian ide-ide mereka.\r\rSingkatnya, pada program studi ini akan diajarkan pengetahuan ilmu ekonomi, akuntansi, manjemen, dan marketing, dilengkapi dengan pengetahuan creative thinking. Di prodi Business Creation akan diperoleh ilmu yang komprehensif sehingga mahasiswanya dapat menganalisa kesempatan bisnis dan merancang bisnis startup, menguji model bisnis tertentu, menganalisa pasar dan industri, hingga bisnis baru diluncurkan.",
+  "why": "Tidak perlu kuliah untuk jadi pengusaha. Mungkin inilah pandangan sebagian besar orang. Namun nyatanya, menjadi pengusaha tidak semudah yang dibayangkan. Bisnis selalu berkembang dan berubah-ubah mengikuti perkembangan teknologi dan tren. Karenanya untuk menjadi seorang entrepreneur atau pengusaha yang dapat bersaing di masa kini dibutuhkan kreatifitas yang tinggi. Itu mengapa kamu perlu memilih program studi ini. ",
+  "subjects": [
+    "Marketing Management",
+    "Creative & Innovative Thinking",
+    "Idea Generation",
+    "Business Mathematics",
+    "Business Statistics",
+    "Financial Management",
+    "Managerial Accounting",
+    "Managerial Economics",
+    "New Venture Creation",
+    "Idea Generation and Opportunity Discovery",
+    "Microeconomics",
+    "Management Information Systems for Leader",
+    "Design Thinking in Business",
+    "Macroeconomics",
+    "Integrated Marketing Communication",
+    "Digital Marketing",
+    "Business Risk Analysis",
+    "Legal Aspect in Economics",
+    "Hospitality & Service Excellent",
+    "Cross Cultural Management",
+    "Managing Growing Business"
+  ],
+  "characters": [
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan jurusan Business Creation ini memiliki kesempatan yang besar untuk menjadi entrepreneur yang sukses. Selain itu, mahasiswa juga berpeluang untuk menjadi intrapreneur, dan bekerja dalam bidang pengembangan bisnis, perencana bisnis, atau menjadi konsultan bisnis dalam skala swasta, publik ataupun pemerintah.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Konsultan Bisnis",
+    "Manajer Pengembangan Bisnis",
+    "Analis Manajemen Bisnis",
+    "Pengusaha/Wirausahawan"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/technopreneurship",
+    "ekonomi-bisnis/kewirausahaan"
+  ],
+  "major_group_id": 30,
+  "jlh_prodi": 1,
+  "dt_snbp": 31,
+  "dt_snbt": 47,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "321078",
+      "major_university_name": "D4 BISNIS KREATIF - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 30,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bisnis",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

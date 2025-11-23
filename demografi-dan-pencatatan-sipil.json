@@ -1,0 +1,78 @@
+{
+  "idx": 44,
+  "id": "demografi-dan-pencatatan-sipil",
+  "major_name": "Demografi dan Pencatatan Sipil",
+  "icon": null,
+  "description": "Program studi  Demografi dan Pencatatan Sipil adalah sebuah program studi yang mempelajari mengenai ilmu-ilmu kependudukan dan administrasinya. Kegiatan pencatatan sipil adalah kegiatan pencatatan peristiwa penting yang dialami oleh seseorang dalam register pencatatan sipil. Kegiatan ini sangat penting bagi warga Negara dan juga bagi Negara untuk menentukan status pribadi dan status hukum atas setiap peristiwa kependudukan dan peristiwa penting yang dialami oleh seorang Warga Negara Indonesia. Kegiatan pencatatan sipil meliputi pencatatan kelahiran, kematian, perkawinan, perceraian, dan pencatatan sipil lainnya. Begitu banyaknya kewajiban masyarakat dalam hal pencatatan sipil, namun tidak semuanya dipahami oleh masyarakat, baik dalam hal prosedurnya, persyaratannya, ataupun peraturannya. Maka itu, program studi yang berada di bawah Fakultas Hukum ini hadir untuk mencetak lulusan yang memiliki pemahaman mendalam mengenai ilmu kependudukan dan khususnya pencatatan sipil, agar mereka bisa mensosialisasikan hal ini lebih luas kepada masyarakat.",
+  "why": "Program studi ini cocok untuk kamu yang senang memperhatikan dinamika kependudukan Indonesia dan memiliki keinginan untuk mempelajari administrasi pencatatan sipil. Kemampuan menganalisis dan minat di bidang administratif yang besar sangat dibutuhkan jika kamu memilih program studi ini. Dan lagi, Prodi Demografi dan Pencatatan Sipil baru ada satu lho di Indonesia, tepatnya di Universitas Negeri Sebelas Maret dengan jenjang Diploma IV.",
+  "subjects": [
+    "Hukum Tata Negara",
+    "Ilmu Negara",
+    "Pendidikan Kewarganegaraan",
+    "Pengantar Demografi",
+    "Pengantar Hukum Indonesia",
+    "Pengantar Administrasi Kependudukan",
+    "Sejarah Pencatatan Sipil Indonesia",
+    "Hukum Perdata",
+    "Hukum Pidana",
+    "Hukum Perdata Internasional"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja utama dari seorang lulusan program studi Demografi dan Pencatatan Sipil tentunya berada di instansi pemerintahan yang bergerak di bidang pencatatan sipil. Kebutuhan akan tenaga ahli pencatatan sipil cukup besar lho, di Kementrian Dalam Negeri saja, kebutuhan SDM-nya mencapai 3 ribu orang. beberapa instansi yang bisa dimasuki oleh lulusan Demografi dan Pencatatan Sipil antara lain: Kementrian Dalam Negeri, Dinas Kependudukan dan Catatan Sipil (Disdukcapil), hingga perusahaan-perusahaan swasta yang bergerak di bidang riset demografi.",
+  "professions": [
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Manager Layanan Administrasi",
+    "Manajer Layanan Sosial dan Komunitas",
+    "Staff Administrasi"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-pemerintahan"
+  ],
+  "major_group_id": 46,
+  "jlh_prodi": 1,
+  "dt_snbp": 30,
+  "dt_snbt": 45,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "353071",
+      "major_university_name": "D4 DEMOGRAFI DAN PENCATATAN SIPIL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.42266,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 46,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Hukum",
+    "merdeka_subject": [
+      6,
+      11
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      6,
+      12
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

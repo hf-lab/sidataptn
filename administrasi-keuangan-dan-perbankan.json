@@ -1,0 +1,115 @@
+{
+  "idx": 4,
+  "id": "administrasi-keuangan-dan-perbankan",
+  "major_name": "Administrasi Keuangan dan Perbankan",
+  "icon": null,
+  "description": "Administrasi Keuangan dan Perbankan tersedia dalam jenjang Diploma III (D3). Di program studi ini akan dipelajari ilmu administrasi serta keuangan dan perbankan, antara lain adalah mempelajari berbagai jenis produk keuangan, bagaimana manajemen surat-surat penting, bagaimana melakukan penilaian terhadap kinerja perusahaan, pengelolaan manajemen perbankan, analisis perkreditan, pembukuan transaksi perbankan, dan sebagainya. Disini kita juga akan mendapatkan banyak pengetahuan tentang berbagai instansi keuangan di Indonesia.",
+  "why": "Kamu bercita-cita untuk menjadi pegawai bank? Nah, program vokasi Administrasi Keuangan dan Perbankan pas banget buat kamu yang punya minat untuk menggeluti bidang keuangan dan perbankan. Disini kamu akan belajar segala sesuatu mengenai kegiatan administrasi keuangan dalam kegiatan perbankan.",
+  "subjects": [
+    "Administrasi Pengelolaan Dana Bank",
+    "Administrasi Pengelolaan Operasional Bank",
+    "Administrasi Perbankan Syariah",
+    "Akuntansi Bank",
+    "Analisis dan Pengelolaan Kredit/Pembiayaan",
+    "Analisis Laporan Keuangan",
+    "Asas Asas Manajemen",
+    "Aspek Hukum dan Keuangan Perbankan",
+    "Audit Internal Bank",
+    "Komunikasi Bisnis",
+    "Manajemen Investasi",
+    "Manajemen Keuangan",
+    "Manajemen Risiko dan Tata Kelola",
+    "Matematika Keuangan",
+    "Pemasaran Produk Bank",
+    "Pengantar Perpajakan",
+    "Perbankan Konsumer dan Komersial",
+    "Praktek dan Simulasi Bank",
+    "Praktikum Aplikasi Komputer Untuk Bisnis",
+    "Prosedur Operasional Bank",
+    "Sistem Informasi Keuangan dan Perbankan",
+    "Sistem Keuangan dan Perbankan Indonesia",
+    "Treasury"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan D3 Administrasi Keuangan dan Perbankan akan mendapatkan gelar Ahli Madya (A.Md). Lulusan prodi ini dicetak untuk menjadi profesional yang dibutuhkan dalam bidang keuangan dan perbankan. Lulusan prodi ini dapat berkarir sebagai  staf administrasi keuangan pada instansi pemerintah, dunia perbankan, BUMN, maupun perusahaan swasta.",
+  "professions": [
+    "Penilai (Pajak dan Keuangan)",
+    "Analis Keuangan",
+    "Analis Keuangan Kuantitatif",
+    "Staff Administrasi",
+    "Dealer Perbankan",
+    "Analis Kredit",
+    "Manajer Keuangan",
+    "Teller",
+    "General Affairs",
+    "Account Payable Officer"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/administrasi-fiskal-perpajakan-",
+    "ekonomi-bisnis/manajemen-perbankan"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 3,
+  "dt_snbp": 62,
+  "dt_snbt": 84,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "321077",
+      "major_university_name": "D3 ADMINISTRASI KEUANGAN DAN PERBANKAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333074",
+      "major_university_name": "D4 ADMINISTRASI KEUANGAN PUBLIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371065",
+      "major_university_name": "D3 ADMINISTRASI KEUANGAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

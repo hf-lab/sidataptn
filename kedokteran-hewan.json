@@ -1,0 +1,249 @@
+{
+  "idx": 96,
+  "id": "kedokteran-hewan",
+  "major_name": "Kedokteran Hewan",
+  "icon": null,
+  "description": "Dokter hewan selalu jadi tujuan apabila hewan peliharaan kamu terkena penyakit atau cedera. Tapi dokter hewan bukan hanya menangani kesehatan hewan peliharaan saja, lho. Dokter hewan menangani berbagai permasalahan terkait kesehatan hewan mulai dari hewan peliharaan, hewan ternak, hingga hewan liar. Inilah yang akan kamu pelajari di program studi Kedokteran Hewan. Kamu akan mempelajari anatomi, fisiologi, dan siklus hidup hewan. Disini juga akan dipelajari bagaimana menganalisa kualitas hewan ternak, agar daging dan hasil ternak lainnya dipastikan aman bagi manusia. Selain itu kamu juga akan belajar Zoonosis, yaitu tentang penyakit hewan yang dapat menulari manusia.",
+  "why": "Sama hal nya dengan Ilmu Kedokteran dan Kedokteran Gigi, prodi Kedokteran Hewan juga tepat untuk kamu yang menyukai biologi. Apalagi untuk kamu yang sangat menyukai dan ingin melestarikan keberagaman satwa. Minat yang besar dalam bidang biologi pun akan diperlukan jika kamu berminat untuk mengambil program studi ini.",
+  "subjects": [
+    "Kimia",
+    "Biologi",
+    "Fisika",
+    "Penghayatan Profesi Kedokteran Hewan",
+    "Anatomi Veteriner",
+    "Biokimia Umum",
+    "Histologi Veteriner",
+    "Embriologi dan Genetika Perkembangan",
+    "Fisiologi",
+    "Mikrobiologi Medis",
+    "Parasitologi Veteriner: Enktoparasit",
+    "Pengantar Ilmu Nutrisi",
+    "Anatomi Topografi",
+    "Imunologi Medis",
+    "Teknik Formulasi Ransum dan Sistim Informasi Pakan",
+    "Farmakologi",
+    "Ilmu Kesehatan Masyarakat",
+    "Penyakit Infeksius",
+    "Parasitologi Veteriner: Endoparasit",
+    "Diagnostik Klinik Veteriner",
+    "Ilmu Bedah Umum",
+    "Ilmu dan Teknologi Reproduksi",
+    "Patologi Umum",
+    "Higiene Pangan Asal Hewan",
+    "Ilmu Penyakit Dalam",
+    "Radiologi Veteriner",
+    "Ilmu Bedah Khusus",
+    "Ilmu Kebidanan dan Kemajiran",
+    "Patologi Sistemik",
+    "Zoonosis",
+    "Epidemiologi dan Ekonomi Veteriner",
+    "Dietetik Klinik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan prodi Kedokteran Hewan pastinya jadi dokter hewan. Tapi bukan cuma dokter hewan, lulusan prodi ini juga dapat berkarir di berbagai lembaga penelitian, juga pusat karantina hewan, dan industri makanan. Selain membuka praktek dokter hewan sendiri, keahlian dokter hewan juga dibutuhkan oleh kepolisian dan militer, lho. Namun, untuk menjadi dokter hewan kamu harus melalui fase yang cukup panjang, sama dengan di pendidikan dokter pada umumnya, setelah lulus kuliah dan memeroleh gelar S.KH, kamu harus menempuh tahap coass dan mengikuti ujian kompetensi untuk mendapatkan gelar dokter hewan (drh).",
+  "professions": [
+    "Ahli Epidemiologi",
+    "Peneliti Hewan",
+    "Teknisi dan Ahli Teknologi Kedokteran Hewan",
+    "Pengajar Bidang Kesehatan",
+    "Penyuluh Kesehatan (Health Educators)",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Dokter Hewan (Veterinarians)",
+    "Ahli Ilmu Hewan dan Satwa Liar",
+    "Dosen Spesialis Kesehatan",
+    "Dokter Umum (General Practitioners)"
+  ],
+  "related_majors": [
+    "kesehatan/pendidikan-dokter-gigi",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 17,
+  "dt_snbp": 619,
+  "dt_snbt": 812,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "111001",
+      "major_university_name": "S1 PENDIDIKAN DOKTER HEWAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 14.3687,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131062",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142092",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333023",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.53686,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341009",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 5.75968,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361010",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.01202,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372029",
+      "major_university_name": "S1 PENDIDIKAN DOKTER HEWAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.44571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381004",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 7.06714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381018",
+      "major_university_name": "S1 KEDOKTERAN HEWAN (FIKKIA BANYUWANGI) - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 9.14634,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611002",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 8.06452,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631024",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 9.96564,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711038",
+      "major_university_name": "S1 KEDOKTERAN HEWAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 8.43882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151063",
+      "major_university_name": "D3 KESEHATAN HEWAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361057",
+      "major_university_name": "D4 TEKNOLOGI VETERINER - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 13.6364,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "621046",
+      "major_university_name": "KESEHATAN HEWAN K. BIMA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "921033",
+      "major_university_name": "D3 KESEHATAN HEWAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111064",
+      "major_university_name": "D3 KESEHATAN HEWAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

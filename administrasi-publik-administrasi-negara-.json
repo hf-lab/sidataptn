@@ -1,0 +1,539 @@
+{
+  "idx": 7,
+  "id": "administrasi-publik-administrasi-negara-",
+  "major_name": "Administrasi Publik (Administrasi Negara)",
+  "icon": null,
+  "description": "Program studi Administrasi Publik masih dikenal juga dengan nama Administrasi Negara di beberapa perguruan tinggi. Prodi ini mempelajari seluk beluk pemerintahan, masyarakat, dan kebijakan publik. Tentu saja Administrasi Publik juga mempelajari tentang bagaimana memberikan publik yang prima kepada masyarakat. Singkatnya, di prodi ini kamu akan mempelajari tentang sistem pemerintahan, pembuatan kebijakan hingga pengimplementasian dan evaluasi nya, dan pelayanan masyarakat, serta segala sesuatu yang berkaitan dengan kegiatan birokratis. Di prodi ini kamu juga bisa memilih konsentrasi ilmu administrasi, seperti konsentrasi pemerintahan daerah, konsentrasi administrasi pembangunan, dan kebijakan publik.",
+  "why": "Sudah bukan rahasia lagi kalau segala urusan birokrasi jadi urusan yang paling ‘malesin’ bagi kebanyakan orang. Biasanya urusan administrasi di organisasi-organisasi publik terkenal ribet, lama, dan banyak pungli. Karena itu, prodi ini hadir untuk kamu yang peduli akan kondisi pelayanan masyarakat yang buruk, dan kebijakan-kebijakan publik yang kurang memihak pada masyarakat. Prodi ini sangat pas untuk kamu yang ingin berkecimpung di dunia pemerintahan.",
+  "subjects": [
+    "Pengantar Ilmu Administrasi Publik",
+    "Teori Organisasi",
+    "Administrasi Pembangunan",
+    "Sistem Administrasi Negara Indonesia",
+    "Kebijakan Publik",
+    "Sistem Pemerintahan Daerah.",
+    "Filsafat Ilmu",
+    "Manajemen Sumber Daya Manusia",
+    "Sistem Hukum Indonesia",
+    "Struktur dan Proses Organisasi Publik",
+    "Perilaku Organisasi",
+    "Perencanaan SDM",
+    "E-Government",
+    "Ekonomi Sektor Pulbik",
+    "Isu-Isu Organisasi Publik",
+    "Manajemen Aset",
+    "Formulasi Kebijakan Publik",
+    "Administrasi Pemerintahan Daerah & Desa",
+    "Implementasi Kebijakan Publik",
+    "Evaluasi Kebijakan Publik",
+    "Manajemen Pertumbuhan Wilayah",
+    "Etika Administrasi Publik",
+    "Governasi Publik",
+    "Studi Kependudukan",
+    "Manajemen Sumber Daya Aparatur",
+    "Ekologi Administrasi",
+    "Pembangunan Kapasitas dan Kelembagaan Sektor Publik",
+    "Teori Birokrasi Publik",
+    "Etika Administrasi",
+    "Politik Pemilihan Tingkat Nasional & Daerah",
+    "Manajemen Keuangan Publik",
+    "Manajemen Pelayanan Publik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek lulusan prodi Administrasi Publik umumnya akan terjun ke instansi-instansi pemerintahan pusat maupun daerah baik dalam golongan PNS maupun non-PNS. Tidak hanya di instansi pemerintahan, tapi juga berbagai instansi non-pemerintahan yang bergerak di bidang pelayanan publik dan sosial, serta instansi yang bergerak di bidang ekonomi dan pembangunan. ",
+  "professions": [
+    "Representatif Layanan Konsumen",
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Pengawas dan Pemeriksa Lisensi / SIM",
+    "Manajer Regulasi",
+    "Konsultan Imigrasi",
+    "Pengawas Imigrasi dan Bea Cukai",
+    "Manajer Layanan Sosial dan Komunitas",
+    "Manager Layanan Administrasi",
+    "Staff Administrasi",
+    "General Affairs"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-pemerintahan",
+    "humaniora/administrasi-perkantoran-kesekretariatan-",
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/akuntansi-sektor-publik"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 49,
+  "dt_snbp": 2605,
+  "dt_snbt": 3733,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "362047",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 3.78062,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121033",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.30108,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131033",
+      "major_university_name": "S1 ILMU ADMINISTRASI PUBLIK - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 3.9521,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141040",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 6.00751,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353035",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.99334,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511039",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 6.22665,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333037",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 2.7248,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "531050",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 10.7955,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372058",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 9.89541,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381028",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 6.5371,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383048",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 8.18926,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383072",
+      "major_university_name": "D4 ADMINISTRASI NEGARA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 20.7977,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "385017",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 15.4286,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515007",
+      "major_university_name": "D4 ADMINISTRASI NEGARA - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 12.0141,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "521036",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 29.6296,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "355053",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK KAMPUS REMBANG - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 22.7273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541042",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 6.66667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611047",
+      "major_university_name": "S1 ADMINISTRASI NEGARA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 6.01504,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631038",
+      "major_university_name": "S1 ILMU ADM.NEGARA - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 13.7188,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711064",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 8.54271,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711073",
+      "major_university_name": "S1 HUKUM ADMINISTRASI NEGARA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 9.32358,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712062",
+      "major_university_name": "S1 ADMINISTRASI NEGARA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 6.33737,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721036",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 46.0396,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731040",
+      "major_university_name": "S1 ADMINSTRASI NEGARA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 8.65052,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371043",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 10.4636,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355044",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 6.47694,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "352011",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 12.1034,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351027",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 4.08163,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336016",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 15.3298,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333075",
+      "major_university_name": "D4 ADMINISTRASI PEMERINTAHAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321039",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 6.12557,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311028",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 11.9951,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191045",
+      "major_university_name": "S1 ILMU ADM. NEGARA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 15.1915,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171043",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 11.5527,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161032",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 11.2554,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142042",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 5.43774,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "112023",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 56.1798,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811039",
+      "major_university_name": "S1 IL. ADM. NEGARA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 127.273,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753021",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 103.175,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752057",
+      "major_university_name": "S1 ADMINISTRASI PUBLIK - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 19.837,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751049",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 20.0528,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912019",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 250,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722035",
+      "major_university_name": "S1 ILMU ADM NEGARA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 59.7122,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133014",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 66.3866,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132012",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 42.1525,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116015",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 98.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "113015",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 49.4506,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "632010",
+      "major_university_name": "S1 ADM. NEGARA - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 34.7368,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911025",
+      "major_university_name": "S1 ILMU ADMINISTRASI NEGARA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 80.9524,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

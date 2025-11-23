@@ -1,0 +1,145 @@
+{
+  "idx": 45,
+  "id": "desain-interior",
+  "major_name": "Desain Interior",
+  "icon": null,
+  "description": "Subjek pembelajaran program studi Desain Interior adalah tentang perancangan tata letak dalam ruangan baik rumah, perkantoran, mall, hotel, layout display gerai, bahkan tata panggung pertunjukan. Perancangan dan penataan tata letak dalam ruangan ini bertujuan untuk memaksimalkan penggunaan dan fungsi ruangan dan memberikan rasa nyaman dengan memaksimalkan space ruangan yang ada dan memperindah estetika ruangan. Tentu saja dengan mempertimbangkan aspek-aspek sosial psikologis manusia, serta budget yang dimiliki. ",
+  "why": "Keindahan bangunan tidak hanya dilihat dari arsitektur penampakan luarnya saja. Interior ruangan juga memberikan pengaruh yang sangat signifikan. Dengan mempelajari Desain Interior, kamu bisa menciptakan suasana ruangan yang nyaman. Jadi mahasiswa Desain Interior artinya kamu harus memiliki pengetahuan di bidang seni, psikologi, hingga ekonomi, sosial, dan politik. Pada beberapa perguruan tinggi, Desain Interior termasuk kedalam rumpun soshum, dan di perguruan tinggi lainnya Desain Interior termasuk kedalam rumpun saintek.",
+  "subjects": [
+    "Dasar Seni Rupa dan Desain",
+    "Rupa Dasar 2D",
+    "Rupa Dasar 3D",
+    "Pengantar Rekayasa & Desain",
+    "Desain Interior",
+    "Ergonomi Desain Interior",
+    "Teknik Presentasi Desain Interior",
+    "Sejarah Desain",
+    "Tinjauan Arsitektur",
+    "Desain Mebel",
+    "Tata Suara dan Cahaya Interior",
+    "Konstruksi dan Detail Interior",
+    "Pengantar Psikologi Desain Interior",
+    "Metodologi Desain",
+    "Tipologi Desain Interior",
+    "Utilitas Interior Bangunan",
+    "Etika Profesi Desain Interior"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan Desain Interior akan memeroleh gelar S.Ars dan dapat berkarir sebagai konsultan desain interior, desainer interior kendaraan bermotor, desainer interior untuk set panggung dan event, baik freelance ataupun dibawah naungan perusahaan kontraktor, ataupun instansi pemerintah dan BUMN.",
+  "professions": [
+    "Desainer Interior",
+    "Perancang Pameran",
+    "Konsultan Arsitek",
+    "Perancang Panggung dan Set",
+    "Desainer Furnitur",
+    "Visual Merchandiser"
+  ],
+  "related_majors": [
+    "teknik/arsitektur",
+    "seni/furniture-design",
+    "seni/desain-produk",
+    "ekonomi-bisnis/fashion-business"
+  ],
+  "major_group_id": 25,
+  "jlh_prodi": 7,
+  "dt_snbp": 225,
+  "dt_snbt": 291,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "353048",
+      "major_university_name": "S1 DESAIN INTERIOR - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 10.1818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "364009",
+      "major_university_name": "S1 DESAIN INTERIOR - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 8.86076,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382028",
+      "major_university_name": "S1 DESAIN INTERIOR - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 8.92193,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "354006",
+      "major_university_name": "S1 DESAIN INTERIOR - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 21.466,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385025",
+      "major_university_name": "S1 DESAIN INTERIOR - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613006",
+      "major_university_name": "S1 DESAIN INTERIOR - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "115009",
+      "major_university_name": "S1 DESAIN INTERIOR - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 25,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Desain",
+    "merdeka_subject": [
+      1,
+      10
+    ],
+    "ipa_subject": [
+      1,
+      10
+    ],
+    "ips_subject": [
+      1,
+      10
+    ],
+    "bahasa_subject": [
+      1,
+      10
+    ]
+  }
+}

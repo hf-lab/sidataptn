@@ -1,0 +1,175 @@
+{
+  "idx": 98,
+  "id": "kesehatan-dan-keselamatan-kerja",
+  "major_name": "Keselamatan dan Kesehatan Kerja",
+  "icon": null,
+  "description": "Keselamatan Kesehatan dan Kerja, atau yang biasa disebut K3 adalah program studi yang mempelajari pengelolaan bahaya dan resiko yang berpotensi terjadi di lingkungan kerja ataupun proyek. Prodi ini mempelajari bagaimana menangani bahaya yang ada di lingkungan kerja serta pencegahannya dengan tujuan untuk meminimalisir kecelakaan kerja serta resiko lainnya yang dapat terjadi. Untuk itu, kamu akan belajar bagaimana melakukan pengukuran terhadap faktor-faktor bahaya, melakukan pengawasan dan audit terhadap fasilitas di lingkungan kerja, dan sebagainya. \r\rK3 tidak hanya membahas tentang keselamatan kerja di lingkungan proyek saja, lho, melakinkan juga membahas tentang gizi kerja dan pengelolaan amdal. Awalnya K3 merupakan peminatan yang ada di prodi Kesehatan Masyarakat, namun seiring tuntutan yang tinggi akan pengelolaan aspek K3 yang baik di berbagai perusahaan, maka dibukalah prodi yang fokus mempelajari K3. ",
+  "why": "Kesejahteraan tenaga kerja adalah hal yang harus diperhatikan bagi setiap perusahaan yang bergerak di sektor apapun. Pemerintah pun semakin memperketat aturan mengenai kesehatan dan keselamatan di lingkungan kerja. Karena itu, para profesional siap kerja yang memahami konsep K3 saat ini sangat dibutuhkan. Prodi ini cocok untuk kamu yang mampu berpikir kritis dan cepat tanggap di segala situasi darurat. ",
+  "subjects": [
+    "Komunikasi Kesehatan",
+    "Ilmu Biomedik Dasar",
+    "Pengelolaan Bencana",
+    "Biostatistik Dasar",
+    "Epidemiologi",
+    "Kesehatan Global",
+    "Dasar K3",
+    "Dasar Kimia & Fisika K3",
+    "Regulasi & Kebijakan K3",
+    "Manajemen K3",
+    "Ergonomi",
+    "Kajian Pra Rancang",
+    "Kesehatan Kerja",
+    "Penyakit Akibat Kerja & Surveilans",
+    "Pemeliharaan & Peningkatan Kesehatan Kerja",
+    "Pelayanan Kesehatan Kerja",
+    "Toksikologi Industri",
+    "Manajemen Risiko Keselamatan",
+    "Kebakaran & Bahaya Utama",
+    "Konsep Kecelakaan & Investigasi",
+    "Keselamatan Publik",
+    "Program & Implementasi Keselamatan",
+    "Higiene Industri",
+    "Manajemen Bahaya Kimia & Biomonitoring",
+    "Manajemen Bahaya Fisik",
+    "Manajemen Bising & Getar",
+    "Manajemen Kualitas Udara dalam Ruangan",
+    "Higiene Makanan & Sanitasi Industri",
+    "Penilaian Faktor Manusia",
+    "Bahaya & Risiko Psikososial di Tempat Kerja",
+    "Kesalahan Manusia & Pencegahannya"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Banyak perusahaan kini semakin memperhatikan aspek K3 di lingkungan kerjanya, karena itu lulusan prodi K3 akan sangat dibutuhkan oleh perusahaan-perusahaan di berbagai industri, terutama yang bergerak di bidang manufaktur, minyak dan gas, pertambangan, konstruksi, dan rumah sakit. Terlebih dengan adanya peraturan pemerintah yang mewajibkan adanya minimal satu orang ahli K3 di setiap perusahaan.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Pengawas dan Penyelidik Kebakaran",
+    "Spesialis Kesehatan dan Keselamatan Kerja",
+    "Teknik Kesehatan dan Keselamatan Industri",
+    "Ahli Kesehatan dan Keselamatan Kerja",
+    "Manajer Kontrol Kualitas Sistem",
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Pengawas Konstruksi dan Bangunan",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan",
+    "Manajer Fasilitas"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "kesehatan/kesehatan-masyarakat",
+    "teknik/teknik-ekonomi-konstruksi-quantity-surveyor-",
+    "kesehatan/ilmu-gizi",
+    "kesehatan/kesehatan-lingkungan"
+  ],
+  "major_group_id": 41,
+  "jlh_prodi": 8,
+  "dt_snbp": 265,
+  "dt_snbt": 407,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "321027",
+      "major_university_name": "S1 KESELAMATAN DAN KESEHATAN KERJA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.14747,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353033",
+      "major_university_name": "D4 KESELAMATAN DAN KESEHATAN KERJA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 4.83871,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355087",
+      "major_university_name": "S1 KESELAMATAN DAN KESEHATAN KERJA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323017",
+      "major_university_name": "S1 REKAYASA KESELAMATAN KEBAKARAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381046",
+      "major_university_name": "D4 KESELAMATAN DAN KESEHATAN KERJA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "481001",
+      "major_university_name": "D4 TEKNIK KESELAMATAN DAN KESEHATAN KERJA - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 10.8787,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "542019",
+      "major_university_name": "S1 REKAYASA KESELAMATAN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 27.8075,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "113023",
+      "major_university_name": "S1 KESELAMATAN DAN KESEHATAN KERJA - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 41,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Kesehatan Masyarakat",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10,
+      6
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "idx": 43,
+  "id": "data-science",
+  "major_name": "Data Science",
+  "icon": null,
+  "description": "Data Science adalah ilmu yang mempelajari tentang bagaimana mengolah dan menginterpretasi data menurut formula statistika serta menggunakan bahasa pemrograman dan tools yang tepat dalam pengolahannya. Saat ini, Data Science umumnya tersedia sebagai peminatan dalam program studi Teknik Informatika, Sistem Informasi, Matematika, atau Statistik.",
+  "why": "Jika kamu senang menganalisis dan memecahkan masalah, Data Science adalah peminatan yang tepat untuk kamu. Ilmu yang akan kamu dapat di Data Science bersifat multidisipliner, atau nggak hanya berfokus di satu bidang saja. Nggak cuma belajar Statistik, kamu juga akan diajarkan bahasa pemrograman yang biasa digunakan untuk data mining. Selain itu, tentunya nggak hanya ilmu matematika dan pemrograman saja yang dibutuhkan, kemampuan komunikasi yang baik juga perlu untuk bisa menjelaskan hasil pengolahan data yang dilakukan. Dengan banyaknya perusahaan teknologi digital berbasis data yang berkembang, ilmuwan data semakin dibutuhkan oleh industri.",
+  "subjects": [
+    "Pengantar Data Science",
+    "Proyek Data Science 1",
+    "Proyek Data Science 2",
+    "Data Science pada Domain Spesifik",
+    "Metode Numerik",
+    "Statistika dengan R",
+    "Statistika Multivariat dengan R",
+    "Sistem Kecerdasan Bisnis",
+    "Pengantar Penambangan Data dengan Python",
+    "Penambangan Data",
+    "Pola Komputasi Big Data",
+    "Basis Data dan Pemrograman SQL untuk Big Data",
+    "Analisis Big Data",
+    "Teknologi Big Data dan Cloud Computing"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Saat ini, profesi Data Scientist dan Analis Data menjadi profesi yang paling dibutuhkan di berbagai industri. Seperti halnya Google, perusahaan teknologi digital membutuhkan tenaga ahli yang bisa mengolah dan menginterpretasi Big Data (data dalam jumlah sangat besar yang tak terstruktur). Berbagai industri lainnya, seperti perbankan, jasa, dan manufaktur, juga memerlukan informasi dari data yang mereka miliki untuk kelangsungan bisnis perusahaan.  ",
+  "professions": [
+    "Arsitek Big Data",
+    "Analis Data",
+    "Ilmuwan Data (Data Scientist)"
+  ],
+  "related_majors": [
+    "mipa/statistika",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/sistem-informasi-bisnis",
+    "komputer-teknologi/teknik-informatika",
+    "mipa/statistika-terapan-dan-komputasi"
+  ],
+  "major_group_id": 57,
+  "jlh_prodi": 13,
+  "dt_snbp": 491,
+  "dt_snbt": 598,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "353097",
+      "major_university_name": "S1 SAINS DATA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372094",
+      "major_university_name": "S1 SAINS DATA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382049",
+      "major_university_name": "S1 SAINS DATA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "192034",
+      "major_university_name": "S1 SAINS DATA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 23.4899,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "381025",
+      "major_university_name": "S1 TEKNOLOGI SAINS DATA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.15759,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383087",
+      "major_university_name": "S1 SAINS DATA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385012",
+      "major_university_name": "S1 SAINS DATA - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 11.7773,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482011",
+      "major_university_name": "D4 SAINS DATA TERAPAN - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 13.1868,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "358003",
+      "major_university_name": "S1 SAINS DATA - UINSAID",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN MAS SAID SURAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "368002",
+      "major_university_name": "S1 SAINS DATA - UINGUSDUR",
+      "university_name": "UIN K.H. ABDURRAHMAN WAHID PEKALONGAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "193003",
+      "major_university_name": "S1 SAINS DATA - RADENINTAN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN INTAN LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "367003",
+      "major_university_name": "S1 SAINS DATA - UINSALATIGA",
+      "university_name": "UIN SALATIGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "718005",
+      "major_university_name": "S1 SAINS DATA - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 57,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Sains Data ",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

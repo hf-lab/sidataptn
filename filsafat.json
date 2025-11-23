@@ -1,0 +1,125 @@
+{
+  "idx": 62,
+  "id": "filsafat",
+  "major_name": "Filsafat",
+  "icon": null,
+  "description": "Filsafat di kenal sebagai induk semua ilmu. Berbeda dengan program studi pada umumnya yang lebih menekankan pada ilmu praktis dan bersifat pragmatis, Filsafat lebih mempelajari tentang permasalahan mendasar manusia dan hubungannya dengan realita. Ilmu Filsafat lebih bersifat abstrak dan memerlukan pemahaman yang mendasar. Permasalahan seperti tujuan hidup, esensi manusia, moralitas, dan hati nurani, menjadi kajian utama di prodi ini.\r\rIlmu Filsafat sangat dekat dengan sejarah. Di prodi ini kamu akan mempelajari pemikiran-pemikiran para filsuf dari jaman kuno seperti Thales, Pythagoras, Socrates, sampai filsuf-filsuf di atas abad 20 seperti Sartre, Bertrand Russell, atau Jurgen Habermas. Filsafat membantu kamu untuk berpikir secara terstruktur dan mampu memroses informasi secara jernih.",
+  "why": "Terkadang kamu suka kepikiran tentang penciptaan alam semesta, atau apa hakikat mansia hidup di dunia. Nah, itu artinya kamu adalah tipe pemikir yang pastinya cocok di program studi Filsafat. Apalagi kalau kamu ingin mencari kebenaran yang hakiki dari suatu pengetahuan. Di sini kemampuan membaca, berpikir loogis, menulis, serta berdiskusi juga akan ikut terasah.",
+  "subjects": [
+    "Logika",
+    "Sejarah Filsafat Yunani",
+    "Sejarah Filsafat Abad Pertengahan",
+    "Filsfat Manusia",
+    "Epistemologi",
+    "Kebudayaan Indonesia",
+    "Filsafat Islam",
+    "Estetika",
+    "Sejarah Filsafat Kontemporer",
+    "Filsafat Sosial",
+    "Manusia dan Masyarakat  Indonesia",
+    "Filsafat Ketuhanan",
+    "Hermeneutika",
+    "Teori-Teori Keadilan",
+    "Filsafat Timur",
+    "Filsafat Bahasa",
+    "Fenomenologi",
+    "Etika Terapan",
+    "Filsafat Seni",
+    "Filsafat dan HAM",
+    "Paradigma Feminis",
+    "Pragmatisme",
+    "Filsafat Analitik",
+    "Filsafat dan Ideologi",
+    "Filsafat Lingkungan",
+    "Filsafat Politik",
+    "Multikulturalisme dan Pluralisme",
+    "Filsafat Agama",
+    "Filsafat Teknologi",
+    "Filsafat Ekonomi",
+    "Filsafat Hukum",
+    "Filsafat Akal Budi",
+    "Metafisika",
+    "Filsafat Ilmu",
+    "Etika Pancasila",
+    "Fenomenologi Agama",
+    "Teologi Pembebasan",
+    "Bioetika",
+    "Aksiologi Ilmu Pengetahuan dan Teknologi",
+    "Filsafat Ilmu Psikologi",
+    "Filsafat Ilmu Hayati",
+    "Perbandingan Ideologi",
+    "Teori Sosial Postmodernisme"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Rasa ingin tahu yang tinggi, kemampuan berpikir logis, serta pemahaman yang mendalam terhadap banyak pengetahuan yang di dapat selama berkuliah di prodi Filsafat membuat prospek lulusannya tidak terbatas pada lingkup sektor tertentu. Lulusan filsafat bisa berkarir sebagai pejabat pemerintahan, konselor, psikoterapis, hingga jurnalis. Kompetensi yang dimiliki lulusan Filsafat bisa diterapkan di mana saja. ",
+  "professions": [
+    "Manager Layanan Administrasi",
+    "Konselor Kesehatan Mental (Mental Health Counselors)",
+    "Penulis Teknis",
+    "Konselor Edukasi, Pengarahan, Sekolah dan Vokasi",
+    "Penulis Perjalanan",
+    "Manajer Ilmu Alam",
+    "Konselor Rehabilitasi (Rehabilitation Counselors)",
+    "Wartawan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Peneliti Naskah"
+  ],
+  "related_majors": [
+    "humaniora/sosiologi",
+    "pendidikan/pendidikan-agama-islam",
+    "pendidikan/teologi"
+  ],
+  "major_group_id": 5,
+  "jlh_prodi": 2,
+  "dt_snbp": 61,
+  "dt_snbt": 69,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321051",
+      "major_university_name": "S1 ILMU FILSAFAT - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.23256,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361066",
+      "major_university_name": "S1 FILSAFAT - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 8.04196,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 5,
+    "super_group": "HUMANIORA",
+    "group_name": "Filsafat",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

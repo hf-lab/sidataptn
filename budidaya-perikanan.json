@@ -1,0 +1,279 @@
+{
+  "idx": 38,
+  "id": "budidaya-perikanan",
+  "major_name": "Budidaya Perikanan",
+  "icon": null,
+  "description": "Program studi Budidaya Perikanan mempelajari tentang teknik budidaya perikanan darat dan laut yang ramah lingkungan dan ekonomis. Dalam melakukan budidaya perikanan diperlukan pengetahuan tentang teknik pembenihan ikan yang tepat dan produksi benih yang baik. Selain itu di program studi ini akan dipelajari juga tentang formulasi pakan ikan, mengelola dan mengendalikan kualitas air untuk budidaya ikan serta mengatasi hama dan penyakit pada ikan.",
+  "why": "Indonesia mempunyai sumberdaya perikanan yang yang belum termanfaatkan secara optimal. Untuk itu ilmu Budidaya Perikanan perlu dipelajari untuk dapat mengembangkan sektor perikanan Indonesia. Untuk kamu yang punya jiwa wirausaha dan ingin punya usaha budidaya perikanan, kamu bisa masuk program studi ini, karena di program studi ini kamu bakal dapat ilmu pengetahuan tentang budidaya perikanan secara mendalam.",
+  "subjects": [
+    "Ekologi Perairan",
+    "Iktiologi",
+    "Mikrobiologi Akuatik",
+    "Fisiologi Organisme Akuakultur",
+    "Biokimia Nutrisi",
+    "Dasar-dasar Genetika Ikan",
+    "Hukum & Peraturan Kelautan & Perikanan",
+    "Kewirausahaan Perikanan dan Kelautan",
+    "Parasit Organisme Akuatik",
+    "Kultur Ikan Hias dan Akuaskap",
+    "Nutrisi Ikan",
+    "Pengelolaan Kualitas Air Akuakultur",
+    "Fisiologi Reproduksi Organisme Akuakultur",
+    "Histologi",
+    "Kultur Pakan Alami",
+    "Pemuliabiakan Organisme Akuakultur",
+    "Teknologi Pengelolaan Kualitas Air",
+    "Penyuluhan dan Komunikasi Perikanan",
+    "Rekayasa Akuakultur",
+    "Teknologi dan manajemen Pembenihan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Secara umum, lulusan program studi Budidaya Perikanan dapat bekerja di sektor agrikultur/ pertanian , termasuk didalamnya perikanan. Baik di instansi pemerintah maupun swasta, ataupun usaha mandiri. Saat ini sedang gencar-gencarnya kampanye ‘Ayo Makan Ikan’ yang bertujuan untuk mengajak masyarakat meningkatkan angka konsumsi ikan. Selain karena ikan kaya akan manfaat, Indonesia juga memiliki sumberdaya ikan yang berlimpah. Sumberdaya ini harus dikelola dengan baik salah satunya adalah dengan melakukan pembudidayaan perikanan. Otomatis ahli budidaya ikan akan dibutuhkan di masa datang.",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Peneliti Hewan",
+    "Manager Pertanian dan Peternakan",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manajer Akuakultural",
+    "Peneliti dan Ahli Teknologi Pangan"
+  ],
+  "related_majors": [
+    "teknik/oseanografi",
+    "pertanian/budidaya-perairan-akuakultur-",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/ilmu-kelautan",
+    "pertanian/teknologi-hasil-perikanan"
+  ],
+  "major_group_id": 22,
+  "jlh_prodi": 22,
+  "dt_snbp": 654,
+  "dt_snbt": 740,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "311009",
+      "major_university_name": "S1 ILMU PERIKANAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 41.5385,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333011",
+      "major_university_name": "S1 PERIKANAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 19.4986,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333030",
+      "major_university_name": "S1 PERIKANAN PSDKU PANGANDARAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 23.3766,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341050",
+      "major_university_name": "D4 TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341051",
+      "major_university_name": "D4 TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN (KAMPUS SUKABUMI) - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "832009",
+      "major_university_name": "D3 TEKNOLOGI BUDIDAYA PERIKANAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "361024",
+      "major_university_name": "S1 AKUAKULTUR (BUDIDAYA PERIKANAN) - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 9.91379,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "113006",
+      "major_university_name": "S1 PERIKANAN - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 67.7966,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717009",
+      "major_university_name": "D4 TEKNOLOGI BUDIDAYA PERIKANAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 153.125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "631023",
+      "major_university_name": "S1 BUDIDAYA PERIKANAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 38.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642011",
+      "major_university_name": "D3 TEKNOLOGI BUDIDAYA PERIKANAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515010",
+      "major_university_name": "D3 BUDIDAYA PERIKANAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921043",
+      "major_university_name": "D3 BUDIDAYA PERIKANAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911022",
+      "major_university_name": "S1 ILMU PERIKANAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 128.571,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753008",
+      "major_university_name": "S1 ILMU PERIKANAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 160,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717004",
+      "major_university_name": "D4 TEKNOLOGI PEMBENIHAN IKAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 116.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515030",
+      "major_university_name": "D3 BUDI DAYA IKAN (KAMPUS KAB.SUKAMARA) - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515011",
+      "major_university_name": "D3 TEKNOLOGI BUDIDAYA PERIKANAN K. KAB. KAPUAS HULU - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "471013",
+      "major_university_name": "D4 TEKNOLOGI BUDI DAYA PERIKANAN/TEKNOLOGI AKUAKULTUR - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "351042",
+      "major_university_name": "D3 BUDI DAYA IKAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "291026",
+      "major_university_name": "D3 BUDIDAYA PERIKANAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291008",
+      "major_university_name": "D4 TEKNOLOGI PEMBENIHAN IKAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 170.968,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 22,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Perikanan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

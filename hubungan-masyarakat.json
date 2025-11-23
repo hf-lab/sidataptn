@@ -1,0 +1,134 @@
+{
+  "idx": 73,
+  "id": "hubungan-masyarakat",
+  "major_name": "Hubungan Masyarakat",
+  "icon": null,
+  "description": "Hubungan Masyarakat (Humas) atau disebut juga dengan Public Relation adalah program studi yang mempelajari bagaimana membentuk serta memelihara citra suatu organisasi/perusahaan di tengah masyarakat. Tugas seorang Humas adalah untuk mengelola hubungan komunikasi antara perusahaan dengan orang-orang di luar perusahaan (eksternal) seperti masyarakat, pemerintah, investor, dan sebagainya, juga antara perusahaan dengan orang-orang di dalam perusahaan (internal), yaitu karyawan. Seorang Humas juga harus dapat menjaga agar perusahaan dapat meraih simpati dan kepercayaan masyarakat. ",
+  "why": "Kalau kamu aktif dan suka berorganisasi, supel, dan suka menulis, kamu cocok memilih prodi Humas. Berkuliah di prodi ini mengharuskan kamu memiliki kepribadian yang menyenangkan dan mudah dekat dengan orang. Kamu juga cocok di prodi Humas kalau kamu menyukai public speaking. ",
+  "subjects": [
+    "Pengantar Ilmu Komunikasi",
+    "Teori Komunikasi",
+    "Psikologi Komunikasi",
+    "Filsafat dan Etika Komunikasi",
+    "Hukum dan Peraturan Kehumasan",
+    "Komunikasi Massa",
+    "Pengantar Kehumasan",
+    "Komunikasi Organisasi",
+    "Manajemen Humas",
+    "Teknik MC dan Protokoler",
+    "Marketing Public Relation",
+    "Perencanaan Kerja Humas",
+    "Retorika dan Public Speaking",
+    "Hubungan Masyarakat",
+    "Hubungan Media",
+    "Komputer Grafis Kehumasan",
+    "Krisis dan Strategi Humas",
+    "Lobby dan Negosiasi",
+    "MC dan Protokoler",
+    "Media Kehumasan",
+    "Online Public Relation",
+    "Public Relation Writing",
+    "Teknik Kegiatan PR dan Event Organizer"
+  ],
+  "characters": [
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan Prodi Hubungan Masyarakat memiliki prospek yang sangat luas. Banyak organisasi/perusahaan yang membutuhkan tenaga Humas atau Public Relation (PR), begitu juga instansi pemerintah. Lulusan Humas juga dapat berkarir di bidang event organizer, konsultan kehumasan, MC, dan sebagainya.",
+  "professions": [
+    "Spesialis Hubungan Masyarakat",
+    "Pengajar Komunikasi",
+    "Copywriter",
+    "Wartawan",
+    "Manajer Pemasaran Digital",
+    "Manajer Layanan Sosial dan Komunitas",
+    "Hubungan Masyarakat",
+    "Penyiar Televisi/Presenter/Pembawa Acara",
+    "Pengarah Acara Televisi",
+    "Manajer Sosial Media"
+  ],
+  "related_majors": [
+    "humaniora/jurnalistik",
+    "humaniora/manajemen-komunikasi",
+    "humaniora/digital-public-relation",
+    "humaniora/penyiaran-broadcasting-",
+    "ekonomi-bisnis/branding"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 5,
+  "dt_snbp": 162,
+  "dt_snbt": 249,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "323064",
+      "major_university_name": "D4 HUBUNGAN MASYARAKAT DAN KOMUNIKASI DIGITAL - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321074",
+      "major_university_name": "D3 HUBUNGAN MASYARAKAT - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333056",
+      "major_university_name": "S1 HUBUNGAN MASYARAKAT - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.12175,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "363021",
+      "major_university_name": "S1 HUBUNGAN MASYARAKAT - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 9.51949,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191072",
+      "major_university_name": "D3 HUBUNGAN MASYARAKAT - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

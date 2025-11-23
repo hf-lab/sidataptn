@@ -1,0 +1,202 @@
+{
+  "idx": 12,
+  "id": "agronomi-dan-hortikultura",
+  "major_name": "Agronomi dan Hortikultura",
+  "icon": null,
+  "description": "Di program studi Agronomi dan Hortikultura atau disingkat Agrohort, para mahasiswa belajar banyak tentang proses dan teknik pengelolaan tanaman pertanian mulai dari pengolahan tanah, penanaman benih, pemupukan, penanganan hama dan penyakit tanaman, sampai saat siap di panen. Nggak cuma mempelajari tentang pertanian tapi juga tentang pelestarian lingkungan. Agronomi adalah ilmu yang mempelajari pengelolaan tanaman pertanian di lapangan, kebun, sawah, agar dapat meningkatkan jumlah panen dengan kualitas yang baik. Sedangkan hortikultura mempelajari pembudidayaan tanaman dengan lebih berfokus pada perawatan yang intensif. ",
+  "why": "Program studi ini akan cocok banget buat kamu yang suka kegiatan bercocok tanam, dan suka tanaman. Apalagi untuk kamu yang menyukai kegiatan lapangan dan penelitian, serta concern sama permasalahan lingkungan.",
+  "subjects": [
+    "Fisiologi Tumbuhan",
+    "Ekologi Tanaman",
+    "Nutrisi Tanaman",
+    "Agronomi Tanaman Makanan",
+    "Tanaman Perkebnan",
+    "Tanaman Holtikultura",
+    "Pembiakan Tanaman",
+    "Ilmu Tanaman Pangan",
+    "Ilmu Tanaman Perkebunan",
+    "Teknik Budidaya Tanaman",
+    "Pengendalian Gulma",
+    "Praktik Usaha Pertanian",
+    "Manajemen Air dan Hara Tanaman",
+    "Pasca Panen Tanaman Pertanian",
+    "Produksi dan Pengolahan Benih",
+    "Tanaman Hias dan Bunga",
+    "Tanaman Karbohidrat Non Biji dan Pemanis",
+    "Tanaman Buah",
+    "Tanaman Penyegar Obat dan Aromatik",
+    "Penyimpanan dan Pengujian Mutu Benih"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Bidang pertanian mungkin kalah populer jika dibandingkan dengan Bisnis, Komunikasi, Hukum, atau Teknik. Meski begitu, jurusan ini tetap diminati karena prospek profesinya cukup terbuka lebar. Sebagai negara agraris, Indonesia masih sangat membutuhkan para ahli agronomi dan hortikultura. Seorang lulusan program studi Agronomi dan Hortikultura dapat bekerja di bidang pemerintahan seperti Kementrian Pertanian, maupun perusahaan-perusahaan yang bergerak di bidang perkebunan dan agrikultura.",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Manajer Pembibitan dan Rumah Kaca",
+    "Ahli Konservasi Tanah dan Air",
+    "Manajer Ilmu Alam",
+    "Manager Pertanian dan Peternakan",
+    "Peneliti Tanah dan Tumbuhan",
+    "Ahli Teknik Pertanian"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/agroekoteknologi",
+    "pertanian/ilmu-tanah-manajemen-sumberdaya-lahan-",
+    "pertanian/agroteknologi",
+    "teknik/rekayasa-hayati"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 13,
+  "dt_snbp": 433,
+  "dt_snbt": 508,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "171035",
+      "major_university_name": "S1 AGRONOMI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 38.6207,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341002",
+      "major_university_name": "S1 AGRONOMI DAN HORTIKULTURA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 14.1393,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361018",
+      "major_university_name": "S1 AGRONOMI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.3896,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191028",
+      "major_university_name": "S1 AGRONOMI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 81.5789,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371031",
+      "major_university_name": "S1 AGRONOMI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 16.4609,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472024",
+      "major_university_name": "D3 PRODUKSI TANAMAN HORTIKULTURA - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531034",
+      "major_university_name": "S1 AGRONOMI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 60.4651,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "242016",
+      "major_university_name": "D3 BUDI DAYA TANAMAN HORTIKULTURA - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291002",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN HORTIKULTURA - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 146.296,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291023",
+      "major_university_name": "D3 HORTIKULTURA - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642007",
+      "major_university_name": "D3 TANAMAN PANGAN DAN HORTIKULTURA - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717007",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN HORTIKULTURA - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 342.857,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721031",
+      "major_university_name": "S1 AGRONOMI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 280,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "idx": 54,
+  "id": "ekonomi-islam-ekonomi-syariah-",
+  "major_name": "Ekonomi Islam (Ekonomi Syariah)",
+  "icon": null,
+  "description": "Sama halnya dengan program studi Ekonomi, di prodi Ekonomi Islam atau juga dikenal dengan nama Ekonomi Syariah, kamu juga akan mempelajari ilmu dan teori ekonomi mikro dan ekonomi makro, cara mengelola sumber daya (alam, manusia, modal, dan waktu) yang terbatas untuk memenuhi kebutuhan manusia yang tidak terbatas, dan mencapai kesejahteraan. Namun, di prodi ini, kamu akan mempelajarinya dari perspektif Islam/Syariah. Dalam hal ini, segala aspek dalam kegiatan perekonomian seperti jual-beli, sewa-menyewa, hutang-piutang, simpan-pinjam, dan bagi hasil, telah diatur dalam ajaran Islam. Kamu akan mempelajari kebijakan ekonomi, keuangan, dan bisnis dalam Islam, serta bagaimana pengelolaan lembaga keuangan syariah.",
+  "why": "Sistem Ekonomi Islam atau Ekonomi Syariah di Indonesia sedang mengalami kenaikan tren. Banyak bermunculan lembaga keuangan yang berbasis Syariah. Mengingat Indonesia merupakan negara yang mayoritas penduduknya adalah muslim. Semakin banyak pula masyarakat yang sadar dan mulai beralih ke perbankan syariah untuk menghindari sistem riba dan berbagai aktivitas ekonomi yang tidak sesuai dengan syariat Islam. Karena itu pengetahuan Ekonomi Islam atau Ekonomi Syariah menjadi salah satu kebutuhan di masa sekarang ini.",
+  "subjects": [
+    "Metode Statistika",
+    "Filosofi Ekonomi Syariah",
+    "Prinsip Dasar Hukum Islam",
+    "Akuntansi Syariah",
+    "Makroekonomi Syariah",
+    "Mikroekonomi Syariah",
+    "Manajemen Produk Halal",
+    "Sejarah Pemikiran Ekonomi Islam",
+    "Fiqh Muamalah",
+    "Ushul Fiqh",
+    "Ekonometrika Terapan",
+    "Ekonomi Moneter Islam",
+    "Ekonomi Pembangunan Islam",
+    "Ekonomi Zakat",
+    "Infaq",
+    "Shadaqoh dan Wakaf",
+    "Ekonomi Keuangan Publik Islam",
+    "Manajemen Resiko Lembaga Keuangan Islam",
+    "Manajemen Keuangan Islam",
+    "Manajemen Portofolio dan Investasi Islam",
+    "Teori Keuangan dan Investasi Syariah",
+    "Analisa Laporan Keuangan Syariah dan Penganggaran"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Ekonomi Islam atau Ekonomi Syariah dapat berkarir di berbagai lembaga keuangan, baik lembaga keuangan bank, maupun lembaga keuangan bukan bank, baik berbasis syariah maupun non-syariah. Lulusan prodi ini juga dipersiapkan untuk menjadi seorang ahli ekonomi atau ekonom yang memiliki ilmu ekonomi syariah. ",
+  "professions": [
+    "Ekonom",
+    "Auditor",
+    "Pengajar Ekonomi",
+    "Analis Keuangan Kuantitatif",
+    "Analis Investasi",
+    "Akuntan",
+    "Analis Manajemen Bisnis",
+    "Analis Keuangan",
+    "Personal Financial Advisors",
+    "Akuntan Publik"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/ekonomi",
+    "ekonomi-bisnis/manajemen-keuangan-syariah",
+    "ekonomi-bisnis/bisnis-islam",
+    "ekonomi-bisnis/manajemen-bisnis-syariah",
+    "ekonomi-bisnis/manajemen-keuangan",
+    "ekonomi-bisnis/ekonomi-pembangunan",
+    "humaniora/peradilan-agama",
+    "ekonomi-bisnis/muamalah-hukum-ekonomi-islam-"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 18,
+  "dt_snbp": 881,
+  "dt_snbt": 1232,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "111062",
+      "major_university_name": "S1 EKONOMI ISLAM - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 22.2717,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311035",
+      "major_university_name": "S1 EKONOMI SYARIAH - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 10.8025,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321063",
+      "major_university_name": "S1 ILMU EKONOMI ISLAM - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.28169,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "324019",
+      "major_university_name": "S1 EKONOMI SYARIAH - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 6.35659,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333057",
+      "major_university_name": "S1 EKONOMI ISLAM - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.61098,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341026",
+      "major_university_name": "S1 EKONOMI SYARIAH - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 8.64865,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342020",
+      "major_university_name": "S1 EKONOMI SYARIAH - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 13.4615,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "355052",
+      "major_university_name": "S1 EKONOMI ISLAM - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 8.38323,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371061",
+      "major_university_name": "S1 EKONOMI SYARIAH - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 14.8036,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372075",
+      "major_university_name": "S1 EKONOMI ISLAM - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 12.4668,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381043",
+      "major_university_name": "S1 EKONOMI ISLAM - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 19.5822,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541062",
+      "major_university_name": "S1 EKONOMI SYARIAH - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 35.9712,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511057",
+      "major_university_name": "S1 EKONOMI ISLAM - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 26.2195,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384024",
+      "major_university_name": "S1 EKONOMI SYARIAH - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 60.9687,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "383068",
+      "major_university_name": "S1 EKONOMI ISLAM - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 23.6041,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371063",
+      "major_university_name": "S1 EKONOMI SYARIAH KAMPUS BONDOWOSO - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 26.3736,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151050",
+      "major_university_name": "S1 EKONOMI ISLAM - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 39.1304,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112029",
+      "major_university_name": "S1 EKONOMI SYARIAH - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 45.7286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

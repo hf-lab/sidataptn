@@ -1,0 +1,550 @@
+{
+  "idx": 84,
+  "id": "ilmu-komunikasi",
+  "major_name": "Ilmu Komunikasi",
+  "icon": null,
+  "description": "Komunikasi adalah suatu kajian ilmu yang sangat luas dan intens, pasalnya dalam kehidupan sehari-hari kita tidak pernah lepas dari komunikasi. Tapi jangan kira kalau ilmu komunikasi itu cuma pelajaran ngomong doang! Tahu nggak, kalau komunikasi itu ada banyak macam nya, mulai dari komunikasi intrapersonal (dengan diri sendiri), komunikasi interpersonal (dengan orang lain), komunikasi kelompok, komunikasi organisasi, hingga komunikasi massa.\r\rIlmu Komunikasi ini adalah induk dari ilmu turunannya yang lain seperti Jurnalistik, Penyiaran, Hubungan Masyarakat (Public Relation), Komunikasi Pemasaran, Desain Komunikasi Visual, Periklanan (Adveritising), Performing Arts Communication, dan lain-lain.\rPada program studi Ilmu Komunikasi kita diajarkan tentang bagaimana proses penyampaian pesan agar menjadi efektif dan dapat mencapai sasaran yang dituju. Lulusan program studi Ilmu Komunikasi akan mendapatkan gelar Sarjana Ilmu Komunkasi (S.I.Kom)",
+  "why": "Di program studi Ilmu Komunikasi, yang dipelajari bukan hanya cara mengobrol dengan orang lain. Ilmu komunikasi tidak hanya diperuntukkan untuk orang yang suka ngomong atau ekstrovert saja, karena Ilmu Komunikasi sangat luas cakupannya. Kamu yang suka menulis, desain grafis, dan fotografi juga cocok jadi mahasiswa Ilmu Komunikasi. Pelajaran yang di suguhkan di program studi ini juga sangat seru-seru, seperti public speaking, menulis berita, fotografi, desain dan animasi, membuat iklan, film, dan masih banyak lagi. \r\rDalam jurusan Ilmu Komunikasi, kamu akan belajar secara lebih dalam mengenai aspek-aspek komunikasi, baik secara teori dan praktik. Kita bisa juga bilang kalau Ilmu Komunikasi itu adalah gabungan antara ilmu dan seni dalam mengolah pesan. Dengan belajar Ilmu Komunikasi, kamu akan belajar memahami apa saja yang terjadi selama komunikasi itu berlangsung. ",
+  "subjects": [
+    "Pengantar Ilmu Komunikasi",
+    "Teori Ilmu Komunikasi",
+    "Sosiologi Komunikasi",
+    "Komunikasi Massa",
+    "Psikologi Komunitas",
+    "Komunikasi Keorganisasian",
+    "Komunikasi Antar Pribadi",
+    "Teknologi Komunikasi",
+    "Metode Penelitian Komunikasi",
+    "Pengantar Ilmu Jurnalistik",
+    "Filsafat Komunikasi",
+    "Komunikasi Politik",
+    "Hukum Etika Pers",
+    "Public Relations",
+    "Media Relations",
+    "Manajemen Media Massa",
+    "Komunikasi Lintas Budaya",
+    "Komunikasi Internasional",
+    "Public Speaking",
+    "Teknik Wawancara Cetak dan Elektronik",
+    "Penulisan Naskah Film dan TV",
+    "Ekonomi Politik Media",
+    "Jurnalistik Online",
+    "Penulisan Feature",
+    "Komunikasi Grafis",
+    "Komunikasi Pemasaran",
+    "Fotografi",
+    "Jurnalistik Radio",
+    "Kajian Iklan",
+    "Teknik Presentasi dan Negosiasi",
+    "Perkembangan Teknologi Komunikasi"
+  ],
+  "characters": [
+    "Kritis",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Komunikasi dibutuhkan dalam segala hal yang kita lakukan. Karena pada dasarnya ilmu komunikasi itu lahir dari berbagai disiplin ilmu sosial seperti sosiologi, ilmu politik, antropologi, dan hubungan internasional, nggak heran kalau prospek lulusan Ilmu Komunikasi juga sangat luas. Lulusan Ilmu Komunikasi nggak hanya bisa berkecimpung di industri media, tapi di berbagai macam organisasi. Sebagai humas atau PR di perusahaan atau di pemerintahan, pengamat komuikasi politik, pengamat media, masih banyak, deh pokoknya!",
+  "professions": [
+    "Representatif Layanan Konsumen",
+    "Manajer Pemasaran",
+    "Manager Asosiasi Properti, Real Estate dan Komunitas",
+    "Spesialis Hubungan Masyarakat",
+    "Pengajar Komunikasi",
+    "Telemarketer",
+    "Perencana Meeting, Convention dan Acara",
+    "Sales Periklanan",
+    "Manajer Layanan Sosial dan Komunitas",
+    "Pengajar Bisnis"
+  ],
+  "related_majors": [
+    "humaniora/jurnalistik",
+    "humaniora/marketing-communication",
+    "humaniora/televisi-dan-film",
+    "teknik/teknik-grafika",
+    "ekonomi-bisnis/branding",
+    "humaniora/hubungan-internasional",
+    "humaniora/penyiaran-broadcasting-",
+    "seni/fotografi",
+    "humaniora/manajemen-komunikasi",
+    "pertanian/penyuluhan-dan-komunikasi-pertanian"
+  ],
+  "major_group_id": 31,
+  "jlh_prodi": 50,
+  "dt_snbp": 2554,
+  "dt_snbt": 3860,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "323060",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 1.04039,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373084",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381037",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 3.59425,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362062",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 2.14049,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361082",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 1.27494,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355047",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 2.67252,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353036",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 2.14912,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "351031",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 2.34719,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334087",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 1.65198,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333052",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 1.03164,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "324016",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 3.72873,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321037",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 1.56566,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311029",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 7.52488,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541046",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 3.69515,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161034",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 6.64962,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142082",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121034",
+      "major_university_name": "S1 ILMU KOMUNIKASI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 2.16216,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511055",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 3.15315,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621036",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 5.27617,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131036",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 2.14106,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731044",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 9.80392,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "713034",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 19.6721,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711059",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 2.86822,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383064",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 5.15581,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751052",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 14.4424,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631041",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 12.1429,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611048",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 3.11665,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385019",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 8.19585,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386015",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 12.9817,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721041",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 29.2763,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531053",
+      "major_university_name": "S1 ILMU KOMUNIKASI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 9.25059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372063",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 3.4673,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "365024",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 6.88775,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363020",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 4.53172,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352016",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333066",
+      "major_university_name": "S1 ILMU KOMUNIKASI PSDKU PANGANDARAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 7.89474,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331022",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 5.22548,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191044",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 7.52126,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "172029",
+      "major_university_name": "S1 ILMU KOMUNIKASI - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 34.0314,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171054",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 9.54198,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141046",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 4.26252,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "132031",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 31.1526,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "123008",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 32.3077,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111059",
+      "major_university_name": "S1 ILMU KOMUNIKASI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 7.65492,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752055",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 15.0485,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811056",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 103.509,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "384017",
+      "major_university_name": "S1 ILMU KOMUNIKASI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 24.3433,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383095",
+      "major_university_name": "S1 ILMU KOMUNIKASI (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113017",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 42.9448,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112027",
+      "major_university_name": "S1 ILMU KOMUNIKASI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 37.1158,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 31,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Komunikasi",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      3
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

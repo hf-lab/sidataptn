@@ -1,0 +1,332 @@
+{
+  "idx": 33,
+  "id": "bisnis-digital",
+  "major_name": "Bisnis Digital",
+  "icon": null,
+  "description": "Program studi Bisnis Digital memiliki kekuatan pada pembelajaran bisnis dengan menggunakan teknologi digital. Prodi ini dikembangkan untuk mempersiapkan sumber daya manusia di bidang penguasaan start up digital, market place, big data, hingga artificial intelligence. Program studi ini merupakan yang pertama di Indonesia dan dibuka untuk jenjang sarjana di Universitas Padjadjaran (UNPAD)",
+  "why": "Perkembangan teknologi yang pesat membuat masyarakat bergantung pada teknologi. Tercatat pada 2020 nanti transaksi e-commerce di Indonesia bisa melampaui 130 milliar dollar atau 1.755 triliun ini merupakan peluang yang besar untuk memasuki Bisnis Digital.",
+  "subjects": [
+    "Pengantar Bisnis",
+    "Perilaku Konsumen",
+    "Pemasaran Internet",
+    "Statistika",
+    "Hukum Bisnis",
+    "Pengantar Manajemen",
+    "Akuntansi Manajemen",
+    "E-Commerce Business",
+    "Database",
+    "Analisa Bisnis Digital",
+    "Matematika Bisnis",
+    "Strategi Bisnis Digital dan Implementasi",
+    "E-Marketing & E-CRM",
+    "Sistem Informasi Manajemen",
+    "Etika Bisnis",
+    "Ekonomi Digital Baru"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Berkembangnya industri digital dalam beberapa tahun terakhir membuka lapangan pekerjaan baru di bidang-bidang yang terkait dengan Teknologi Informasi dan Komunikasi (TIK). Lulusan Bisnis Digital dapat bekerja di level manajerial pada berbagai industri mulai dari keuangan dan perbankan, hingga start-up. Dan tentunya, lulusan dari program studi ini juga bisa menjadi seorang Technopreneur atau wirausaha di bidang teknologi.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Manajer Pemasaran Digital",
+    "Konsultan Bisnis",
+    "Analis Manajemen Bisnis",
+    "Konsultan Pemasaran Digital",
+    "Manajer Pengembangan Bisnis"
+  ],
+  "related_majors": [
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/pemasaran-digital",
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/kewirausahaan"
+  ],
+  "major_group_id": 30,
+  "jlh_prodi": 28,
+  "dt_snbp": 1077,
+  "dt_snbt": 1388,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "122053",
+      "major_university_name": "S1 BISNIS DIGITAL - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 5.97484,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385027",
+      "major_university_name": "S1 BISNIS DIGITAL - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355086",
+      "major_university_name": "S1 BISNIS DIGITAL - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353096",
+      "major_university_name": "S1 BISNIS DIGITAL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323062",
+      "major_university_name": "S1 BISNIS DIGITAL - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 2.88809,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333064",
+      "major_university_name": "S1 BISNIS DIGITAL - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 1.60735,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712080",
+      "major_university_name": "S1 BISNIS DIGITAL - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 8.98345,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617010",
+      "major_university_name": "D4 BISNIS DIGITAL - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 17.5325,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562030",
+      "major_university_name": "D4 BISNIS DIGITAL - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542018",
+      "major_university_name": "S1 BISNIS DIGITAL - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 43.8849,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383075",
+      "major_university_name": "S1 BISNIS DIGITAL - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 5.2,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "368001",
+      "major_university_name": "S1 BISNIS DIGITAL - UINGUSDUR",
+      "university_name": "UIN K.H. ABDURRAHMAN WAHID PEKALONGAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "367001",
+      "major_university_name": "S1 BISNIS DIGITAL - UINSALATIGA",
+      "university_name": "UIN SALATIGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334098",
+      "major_university_name": "S1 BISNIS DIGITAL (KAMPUS UPI TASIKMALAYA) - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.01262,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "281009",
+      "major_university_name": "D4 BISNIS DIGITAL - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241032",
+      "major_university_name": "D4 BISNIS DIGITAL - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191074",
+      "major_university_name": "S1 BISNIS DIGITAL - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "181026",
+      "major_university_name": "S1 BISNIS DIGITAL - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151059",
+      "major_university_name": "S1 BISNIS DIGITAL - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 7.57576,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142086",
+      "major_university_name": "S1 BISNIS DIGITAL - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271034",
+      "major_university_name": "D4 BISNIS DIGITAL - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "232010",
+      "major_university_name": "D4 BISNIS DIGITAL - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 370.588,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "195002",
+      "major_university_name": "S1 BISNIS DIGITAL - UINBUKITTINGGI",
+      "university_name": "UIN SJECH M. DJAMIL DJAMBEK BUKITTINGGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "471009",
+      "major_university_name": "D4 BISNIS DIGITAL - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472019",
+      "major_university_name": "D4 BISNIS DIGITAL - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 95.4545,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "536006",
+      "major_university_name": "D4 BISNIS DIGITAL - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": 25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "133024",
+      "major_university_name": "S1 BISNIS DIGITAL - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113022",
+      "major_university_name": "S1 BISNIS DIGITAL - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 30,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bisnis",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

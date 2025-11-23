@@ -1,0 +1,352 @@
+{
+  "idx": 46,
+  "id": "desain-komunikasi-visual",
+  "major_name": "Desain Komunikasi Visual",
+  "icon": null,
+  "description": "Program studi Desain Komunikasi Visual (DKV) mempelajari ilmu tentang penyampaian pesan (komunikasi) dengan menggunakan elemen-elemen visual atau rupa. Disini kamu akan belajar untuk mengolah pesan secara informatif, komunikatif, dan efektif, serta se-kreatif mungkin agar pesan dapat mencapai sasaran dengan memperhatikan unsur bentuk, warna, tekstur, ruang, huruf, dan segala hal yang berkaitan dengan visual (pengelihatan). Di prodi ini kamu akan banyak kegiatan praktek untuk menciptakan karya desain di berbagai media, seperti poster, logo, ilustrasi, desain web, foto, video, animasi, dan sebagainya.\rAwalnya prodi ini dikenal dengan nama Desain Grafis. Namun seiring perkembangannya, Desain Grafis berkembang menjadi DKV. Perbedaan yang mendasar dari keduanya terletak pada medianya. Di awal perkembangannya Desain Grafis mengacu pada ruang lingkup grafis 2D (gambar) di media cetak. Namun DKV cakupannya lebih luas lagi, karna pesan visual kini tidak hanya dalam bentuk grafis 2D di media cetak, tapi juga grafis 3D dan grafis bergerak di media elektronik dan berbagai jenis media baru yang muncul seperti media interaktif web. Karena itu, banyak perguruan tinggi yang sudah mengganti nama prodi Desain Grafis menjadi DKV. Prodi DKV kini juga memiliki beragam peminatan di beberapa perguruan tinggi, seperti peminatan grafis, multimedia, dan periklanan.",
+  "why": "Kalau kamu ingin mengeksplor bakatmu dalam dunia desain lebih dalam, prodi DKV adalah pilihan yang tepat untuk kamu. Disini kamu akan mempelajari gabungan antara komunikasi dengan unsur estetika. Prodi ini juga tepat untuk kamu yang suka menggambar secara manual atapun menggunakan perangkat lunak desain grafis, fotografi, videografi, serta membuat animasi.",
+  "subjects": [
+    "Dasar Seni Rupa dan Desain",
+    "Rupa Dasar 2D",
+    "Pengantar Rekayasa & Desain",
+    "Kreativita dan Humanita",
+    "Rupa Dasar 3D",
+    "DKV Dasar",
+    "Tipografi Dasar",
+    "Ilustrasi Dasar",
+    "Fotografi Dasar",
+    "DKV Aplikatif",
+    "Tipografi Aplikatif",
+    "Ilustrasi Aplikatif",
+    "Fotografi Aplikatif",
+    "Metode Produksi",
+    "Komunikasi Visual",
+    "Komunikasi Visual Multimedia",
+    "Animasi",
+    "Narasi Visual",
+    "Motion Graphic",
+    "Bahasa Rupa",
+    "Tinjauan Desain",
+    "Grafis Portofolio",
+    "Komunikasi Visual Periklanan",
+    "Visual Branding",
+    "Videografi",
+    "Media Interaktif",
+    "Fotografi"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Keterampilan komunikasi",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan DKV memiliki peluang kerja yang luas, terutama di industri kreatif. Prospek karir lulusan DKV antara lain di agensi periklanan, konsultan branding, perusahaan penerbitan, pengembang web, humas di berbagai perusahaan dan instansi pemerintahan, dan masih banyak lagi. Lulusan DKV juga dapat menjadi desainer lepas (freelance) yang dapat memasarkan karyanya kemana saja. Desainer Komunikasi Visual saat ini masih lebih banyak dikenal dengan sebutan Desainer Grafis sebagai profesi. Selaku Desainer Grafis dibawah suatu perusahaan, kamu harus bisa memenuhi tuntutan perusahaan.",
+  "professions": [
+    "Desainer Produk Komersial dan Industri",
+    "Kurator Seni",
+    "Editor Film dan Video",
+    "Fotografer",
+    "Animator dan Seniman Multimedia",
+    "Seniman Kerajinan (Craft Artists)",
+    "Sutradara",
+    "Seniman, Termasuk Pelukis, Pemahat, dan Illustrator",
+    "Produser TV / Film / Video",
+    "Desainer Video Game"
+  ],
+  "related_majors": [
+    "seni/seni-rupa-murni",
+    "seni/desain-produk",
+    "seni/dkv-new-media",
+    "seni/fotografi",
+    "seni/seni-kriya",
+    "seni/animasi",
+    "seni/dkv-creative-advertising",
+    "teknik/teknik-grafika"
+  ],
+  "major_group_id": 25,
+  "jlh_prodi": 28,
+  "dt_snbp": 1111,
+  "dt_snbt": 1464,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "421011",
+      "major_university_name": "D4 DESAIN GRAFIS - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 13.5417,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334095",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.33842,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "364010",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 2.63158,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "354007",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 7.33945,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385011",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 19.407,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383066",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.8834,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382032",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 4.27046,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373053",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.38423,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372055",
+      "major_university_name": "D4 DESAIN GRAFIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 21.9388,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356072",
+      "major_university_name": "D3 DESAIN KOMUNIKASI VISUAL - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "354016",
+      "major_university_name": "D4 ANIMASI - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353049",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.86932,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "335012",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142053",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 18.9702,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422008",
+      "major_university_name": "D3 DESAIN GRAFIS (PSDKU MEDAN) - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422015",
+      "major_university_name": "D3 DESAIN GRAFIS - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542022",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 137.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613007",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 17.3285,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712019",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 33.8542,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383071",
+      "major_university_name": "D4 DESAIN GRAFIS - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 29.7297,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353084",
+      "major_university_name": "DESAIN KOMUNIKASI VISUAL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241033",
+      "major_university_name": "D4 ANIMASI - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192028",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 38.2488,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "143009",
+      "major_university_name": "S1 DESAIN DAN KOMUNIKASI VISUAL - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 41.3793,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422013",
+      "major_university_name": "D3 DESAIN GRAFIS (PSDKU MAKASSAR) - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612048",
+      "major_university_name": "D3 DESAIN KOMUNIKASI VISUAL - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "115006",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 252.381,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "913001",
+      "major_university_name": "S1 DESAIN KOMUNIKASI VISUAL - ISBI-TANAHPAPUA",
+      "university_name": "ISBI TANAH PAPUA",
+      "keketatan": 525,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 25,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Desain",
+    "merdeka_subject": [
+      1,
+      10
+    ],
+    "ipa_subject": [
+      1,
+      10
+    ],
+    "ips_subject": [
+      1,
+      10
+    ],
+    "bahasa_subject": [
+      1,
+      10
+    ]
+  }
+}

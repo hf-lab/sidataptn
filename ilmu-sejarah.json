@@ -1,0 +1,243 @@
+{
+  "idx": 88,
+  "id": "ilmu-sejarah",
+  "major_name": "Ilmu Sejarah",
+  "icon": null,
+  "description": "Ilmu Sejarah pada dasarnya mempelajari tentang segala peristiwa yang terjadi di masa lalu, mulai dari sejarah zaman kuno seperti Mesir, Yunani, India, yang dimulai sebelum masehi, sampai zaman modern di atas abad dua puluh. Bahkan Ilmu Sejarah juga mempelajari konteks yang sangat luas, mencakup aspek politik, budaya, ekonomi, agama, dan sosial. Belajar Ilmu Sejarah berarti memahami bagaimana sesuatu berubah dari waktu ke waktu, mempelajari pola dan nilai yang terkandung di dalamnya. Kamu akan memahami bahwa sejarah mempunyai peran besar dalam membentuk kondisi saat ini.\r\rBanyak yang menganggap belajar sejarah itu membosankan, padahal di prodi Ilmu Sejarah kamu akan belajar hal-hal seru lebih dari sekedar menghafal nama-nama tokoh terkenal dan tanggal-tanggal penting. Disini kamu juga akan belajar bagaimana membuat tulisan kreatif dan visualisasi sejarah melalui film dokumenter. ",
+  "why": "Kalau kamu menyukai cerita-cerita di balik sejarah dan memiliki daya analisis yang kuat, prodi Ilmu Sejarah merupakan pilihan yang tepat. Dengan hobi membaca dan menganalisis sesuatu, kamu akan mudah mengevaluasi sumber-sumber informasi primer ataupun sekunder, sehingga kamu akan lebih terbuka terhadap keberagaman versi sejarah.",
+  "subjects": [
+    "Pengantar Ilmu Sejarah",
+    "Geografi Sejarah",
+    "Sejarah Indonesia",
+    "Sejarah Dunia",
+    "Sejarah Militer di Indonesia",
+    "Pengantar Sejarah Pemikiran Politik Indonesia",
+    "Sejarah Perjuangan Kemerdekaan Indonesia",
+    "Bahasa Sumber Sejarah",
+    "Pengantar Filsafat dan Pemikiran Modern",
+    "Metode Sejarah",
+    "Sejarah Kesenian Indonesia",
+    "Sejarah Media Massa",
+    "Sejarah Maritim Indonesia",
+    "Sejarah Ekonomi Indonesia",
+    "Sejarah Diplomasi Indonesia",
+    "Sejarah Kesultanan di Nusantara",
+    "Historiografi",
+    "Retorika Sejarah",
+    "Sejarah Media Masa",
+    "Sejarah Birokrasi di Indonesia",
+    "Dinamika Bangsa Indonesia Sejak Masa RIS hingga Akhir Orde Baru",
+    "Sejarah Asia Tenggara Modern",
+    "Sejarah Hubungan Antar Bangsa di Asia Tenggara",
+    "Sejarah Masyarakat dan Budaya AS",
+    "Sejarah Masyarakat dan Budaya Australia",
+    "Sejarah Wanita di Australia"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan prodi Ilmu Sejarah akan menjadi ahli sejarah atau sejarahwan? Benar, tapi bukan cuma itu. Lulusan Ilmu Sejarah juga dapat berkarir sebagai pemandu wisata pada objek-objek bersejarah, juga sebagai peneliti dan pengajar.",
+  "professions": [
+    "Ahli Antropologi",
+    "Sejarahwan",
+    "Kurator Seni",
+    "Diplomat",
+    "Juru Arsip",
+    "Teknisi Museum dan Konservator",
+    "Arkeolog"
+  ],
+  "related_majors": [
+    "humaniora/sosiologi",
+    "budaya-bahasa/arkeologi",
+    "pendidikan/pendidikan-sejarah",
+    "humaniora/antropologi",
+    "budaya-bahasa/sejarah-dan-kebudayaan-islam"
+  ],
+  "major_group_id": 2,
+  "jlh_prodi": 17,
+  "dt_snbp": 443,
+  "dt_snbt": 564,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321035",
+      "major_university_name": "S1 ILMU SEJARAH - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 6.40569,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333045",
+      "major_university_name": "S1 ILMU SEJARAH - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.53846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353042",
+      "major_university_name": "S1 ILMU SEJARAH - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 7.2165,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355038",
+      "major_university_name": "S1 SEJARAH - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 12,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356056",
+      "major_university_name": "S1 ILMU SEJARAH - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 15.0943,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361070",
+      "major_university_name": "S1 SEJARAH - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.37584,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362043",
+      "major_university_name": "S1 ILMU SEJARAH - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 5.85009,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373052",
+      "major_university_name": "S1 ILMU SEJARAH - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 6.4257,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381038",
+      "major_university_name": "S1 ILMU SEJARAH - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 10.9589,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151053",
+      "major_university_name": "S1 ILMU SEJARAH - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 34.7368,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721047",
+      "major_university_name": "S1 ILMU SEJARAH - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 106.25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711058",
+      "major_university_name": "S1 ILMU SEJARAH - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 20.2381,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611031",
+      "major_university_name": "S1 ILMU SEJARAH - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 21.6981,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371058",
+      "major_university_name": "S1 ILMU SEJARAH - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 19.469,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "121028",
+      "major_university_name": "S1 ILMU SEJARAH - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 11.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751067",
+      "major_university_name": "S1 ILMU SEJARAH - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 181.818,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821026",
+      "major_university_name": "S1 ILMU SEJARAH - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 185.714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 2,
+    "super_group": "HUMANIORA",
+    "group_name": "Sejarah",
+    "merdeka_subject": [
+      2
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      8
+    ],
+    "bahasa_subject": [
+      8
+    ]
+  }
+}

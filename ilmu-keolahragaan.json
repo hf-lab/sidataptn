@@ -1,0 +1,245 @@
+{
+  "idx": 79,
+  "id": "ilmu-keolahragaan",
+  "major_name": "Ilmu Keolahragaan",
+  "icon": null,
+  "description": "Kalau mendengar kata “keolahragaan” pasti yang terlintas di pikiranmu adalah senam, renang, sepak bola dan berbagai kegiatan atletis lainnya, sehingga di program studi Ilmu Keolahragaan kamu akan mempelajari kegiatan-kegiatan tersebut. Tapi nyatanya prodi Ilmu Keolahragaan tidak cuma mempelajari olahraganya saja. Disini kamu akan dapat ilmu-ilmu kedokteran dasar seperti anatomi, fisiologi, biokimia, fisioterapi olahraga, obat dan doping, serta biofisika. \r\rKarena sejatinya tujuan olahraga adalah untuk kesehatan, pelajaran di prodi ini juga tidak akan jauh-jauh dari ilmu kesehatan. Disini kamu juga akan mempelajari teknik fisioterapi, massage (pijat), kesehatan mental, dan manajemen penanggulangan cedera saat olahraga. Kamu juga akan menganalisa jenis olahraga yang tepat untuk berbagai usia, kondisi fisik, dan olahraga yang tepat untuk program diet, dan tujuan kesehatan lainnya.\r",
+  "why": "Saat ini, kesadaran masyarakat untuk mengikuti pola hidup sehat semakin meningkat. Pola hidup sehat ini tentunya harus diimbangi dengan aktivitas olahraga untuk melatih tubuh agar tetap bugar. Namun olahraga juga tidak boleh dilakukan sembarangan, banyak faktor-faktor yang harus diperhatikan dalam olahraga yang pastinya menyangkut dengan kesehatan. Jangan sampai kegiatan olahraga yang tujuannya agar lebih sehat malah mendatangkan akibat yang buruk pada tubuh. ",
+  "subjects": [
+    "Kimia",
+    "Biologi",
+    "Atletik Dasar",
+    "Senam Dasar",
+    "Biokimia",
+    "Fisika",
+    "Matematika",
+    "Anatomi",
+    "Filsafat Olahraga",
+    "Renang Dasar",
+    "Kesehatan Mental",
+    "Histologi",
+    "Antropologi",
+    "Massage",
+    "Psikologi Olhraga",
+    "Fisiologi Umum",
+    "Sistem Energi",
+    "Sosiologi Olahraga",
+    "Kinesiologi Olahraga",
+    "Ilmu Gizi Olahraga",
+    "Fisioterapi Olahraga",
+    "Pertumbuhan dan Perkembangan Fisik",
+    "Olahraga Adaptif dan Rehabilitasi",
+    "Dasar Manajemen Olahraga",
+    "Biomekanika Olahraga",
+    "Metode Analisis Latihan Cabor",
+    "Organisasi dan Sistem Pertandingan",
+    "Doping",
+    "Kesehatan Olahraga",
+    "Manjemen Kebugaran",
+    "Olahraga Lansia",
+    "Wanita dan Olahraga",
+    "Cedera Olahraga",
+    "Analisis Mekanika Cabor",
+    "Olahraga dan Lingkungan Hidup"
+  ],
+  "characters": [
+    "Tekun",
+    "Terstruktur",
+    "Independen",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek karir lulusan Ilmu Keolahragaan cukup beragam. Lulusan Ilmu Keolahragaan dapat berkarir sebagai konsultan olahraga. Di lembaga pemerintahan, luulusan prodi ini juga dapat berkarir di Kementerian Pemuda dan Olahraga (Kemenpora). Prospek karir lainnya dari prodi ini adalah sebagai ahli pengukuran dan evaluasi olahraga, ahli medis olahraga, serta sebagai peneliti dan pengajar di bidang olahraga.",
+  "professions": [
+    "Pelatih Kesehatan Atlet (Olahragawan)",
+    "Manajer Kebugaran dan Kesehatan",
+    "Pengajar Ilmu Kebugaran",
+    "Dokter Pengobatan Olahraga",
+    "Atlet Sepak Bola",
+    "Pelatih dan Pemandu Olahraga",
+    "Pelatih Fitness dan Instruktur Aerobik",
+    "Penyuluh Kesehatan (Health Educators)",
+    "Terapis Fisik",
+    "Atlet"
+  ],
+  "related_majors": [
+    "kesehatan/fisioterapi",
+    "pendidikan/pendidikan-jasmani-kesehatan-dan-rekreasi",
+    "pendidikan/pendidikan-kepelatihan-olahraga",
+    "pendidikan/pelatihan-olahraga-pariwisata"
+  ],
+  "major_group_id": 49,
+  "jlh_prodi": 16,
+  "dt_snbp": 642,
+  "dt_snbt": 932,
+  "major_field": 10,
+  "prodi": [
+    {
+      "major_university_id": "311018",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323012",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 22.0859,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356008",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 36.7089,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362017",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 18.6916,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122010",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 53.8813,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "142015",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 43.9024,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "331011",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 58.4906,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334015",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 31.746,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373009",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 35.2113,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383013",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 48.7437,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712015",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 34.6591,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751036",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 45.7447,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192041",
+      "major_university_name": "S1 REKAYASA KEOLAHRAGAAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612006",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 68.75,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722013",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 150,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911021",
+      "major_university_name": "S1 ILMU KEOLAHRAGAAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 1150,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 49,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Keolahragaan",
+    "merdeka_subject": [
+      19,
+      17
+    ],
+    "ipa_subject": [
+      19,
+      17
+    ],
+    "ips_subject": [
+      19
+    ],
+    "bahasa_subject": [
+      19
+    ]
+  }
+}

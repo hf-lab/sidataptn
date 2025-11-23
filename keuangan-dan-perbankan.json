@@ -1,0 +1,371 @@
+{
+  "idx": 101,
+  "id": "keuangan-dan-perbankan",
+  "major_name": "Keuangan dan Perbankan",
+  "icon": null,
+  "description": "Pada program studi Keuangan dan Perbankan kamu akan mempelajari ilmu tentang keuangan, khususnya pengelolaan keuangan di sektor perbankan. Di prodi ini kamu juga akan mempelajari operasional perbankan baik bank konvensional maupun syariah, seperti tugas-tugas frontliner (teller dan customer services) dan tugas-tugas backoffice seperti administrasi, akuntansi, dan audit.",
+  "why": "Tenaga profesional di bidang Keuangan dan Perbankan akan terus dibutuhkan untuk menjawab kebutuhan para pelaku usaha. Dalam bidang keuangan, mahasiswa akan didik bagaimana melihat berbagai kesempatan untuk mengambil langkah investasi. Selanjutnya pada bidang perbankan, mahasiswa akan memahami proses bisnis dari bank atau secara keseluruhan sehingga lulusan dapat memiliki kompetensi di bidang perbankan.",
+  "subjects": [
+    "Pengantar Akuntansi",
+    "Manajemen Keuangan",
+    "Hukum Komersial",
+    "Business English for Banking",
+    "Manajemen Pemasaran",
+    "Aplikasi Komputer",
+    "Penganggaran Perusahaan",
+    "Analisa Laporan Keuangan",
+    "Akuntansi Perbankan",
+    "Bank dan Lembaga Keuangan Lain",
+    "Produk-Produk Bank",
+    "Jasa-Jasa Bank",
+    "Customer Service dan Etika Perbankan",
+    "Audit Perbankan",
+    "Lalu Lintas Pembayaran Luar Negeri",
+    "Pasar dan Instrumen Keuangan",
+    "Komunikasi Bisnis",
+    "Manajemen Perkreditan Bank",
+    "Manajemen Operasional",
+    "Perpajakan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang bekerja sendiri",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Program studi ini umumnya berjenjang Diploma, baik Diplima 3 (D3) ataupun Diploma 4 (D4) atau setara dengan Strata 1 (S1). Namun ada juga beberapa perguruan tinggi yang menyediakan prodi ini dalam jenjang S1. Karenanya lulusan prodi ini dapat bergelar Ahli Madya ataupun Sarjana Ekonomi. Lulusan memiliki kesempatan yang besar untuk berkarier di bidang keuangan. Prospek kerja di jurusan ini sangat terbuka lebar banyak profesi yang dapat bekerja sebagai manajer keuangan, perencana keuangan, manajer investasi,  analisis keuangan, analis kredit, konsultan, maupun profesi lainnya yang terkait dengan kegiatan investasi dan keuangan. ",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Pemeriksa Keuangan",
+    "Auditor",
+    "Analis Keuangan",
+    "Analis Keuangan Kuantitatif",
+    "Penilai (Pajak dan Keuangan)",
+    "Akuntan",
+    "Analis Kredit",
+    "Manajer Keuangan",
+    "Manager Investasi Pemodalan"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/manajemen-keuangan-syariah",
+    "ekonomi-bisnis/akuntansi-sektor-publik",
+    "ekonomi-bisnis/manajemen-keuangan",
+    "ekonomi-bisnis/manajemen-perbankan",
+    "komputer-teknologi/computerized-accounting",
+    "ekonomi-bisnis/manajemen-aset"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 31,
+  "dt_snbp": 1006,
+  "dt_snbt": 1452,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "324025",
+      "major_university_name": "D3 PERBANKAN DAN KEUANGAN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421020",
+      "major_university_name": "D4 MANAJEMEN KEUANGAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 5.44662,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421019",
+      "major_university_name": "D4 KEUANGAN DAN PEBANKAN SYARIAH - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 9.30233,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421018",
+      "major_university_name": "D4 KEUANGAN DAN PERBANKAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 8,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381054",
+      "major_university_name": "D4 PERBANKAN DAN KEUANGAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421035",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372076",
+      "major_university_name": "S1 EKONOMI, KEUANGAN DAN PERBANKAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.15655,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361087",
+      "major_university_name": "D4 PERBANKAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 9.91736,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431013",
+      "major_university_name": "D4 KEUANGAN SYARIAH - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 13.5514,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342024",
+      "major_university_name": "D3 PERBANKAN DAN KEUANGAN - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334089",
+      "major_university_name": "S1 ILMU EKONOMI DAN KEUANGAN ISLAM - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 9.02527,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431024",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "452011",
+      "major_university_name": "D4 ANALISIS KEUANGAN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 14.8148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452018",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "474015",
+      "major_university_name": "D4 KEUANGAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 21.978,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191070",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "474020",
+      "major_university_name": "D4 KEUANGAN (PSDKU KEDIRI) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 26.7857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562009",
+      "major_university_name": "D4 KEUANGAN DAN PERBANKAN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 12.5581,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "563009",
+      "major_university_name": "D4 PERBANKAN DAN KEUANGAN DIGITAL - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "452010",
+      "major_university_name": "D4 PERBANKAN SYARIAH - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 23.1343,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111076",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372091",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353075",
+      "major_university_name": "KEUANGAN DAN PERBANKAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "311045",
+      "major_university_name": "D3 PERBANKAN DAN KEUANGAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "222011",
+      "major_university_name": "D3 KEUANGAN DAN PERBANKAN - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "222007",
+      "major_university_name": "D4 KEUANGAN DAN PERBANKAN SYARIAH - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 22.7027,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "221014",
+      "major_university_name": "D4 MANAJEMEN KEUANGAN SEKTOR PUBLIK - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 63.4921,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151057",
+      "major_university_name": "D4 KEUANGAN DAERAH - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 50.9091,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141051",
+      "major_university_name": "D3 PERBANKAN DAN KEUANGAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121055",
+      "major_university_name": "KEUANGAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "191080",
+      "major_university_name": "D3 PERBANKAN DAN KEUANGAN PSDKU LAMPUNG TENGAH - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

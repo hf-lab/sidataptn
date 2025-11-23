@@ -1,0 +1,173 @@
+{
+  "idx": 92,
+  "id": "jurnalistik",
+  "major_name": "Jurnalistik",
+  "icon": null,
+  "description": "Jurnalistik bisa dikatakan sebagai program studi paling dinamis di antara yang lainnya. Jurnalistik merupakan sebuah kegiatan mencari, mengolah, dan menyebarluaskan berita kepada khalayak melalui media massa. Pada program studi jurnalistik kita akan diajarkan teknik mencari, menulis, dan menyunting berita, dan bagaimana pula berita tersebut didistribusikan malalui berbagai media baik cetak maupun elektronik. Para mahasiswa bisa memilih untuk mendalami jurnalistik sesuai dengan pilihan medianya.\r\rOleh karena itu, mahasiswa perlu memahami karakter media dan perubahannya. Proses pembentukan berita media cetak dan elektronik tentu saja berbeda. Para jurnalis media cetak harus memperkuat logika dan keahlian menulisnya, sedangkan jurnalis radio dan televisi mempelajari broadcasting sehingga harus selalu melatih kekuatan verbalnya. Selain itu, dengan cepatnya pertumbuhan media online saat ini, para jurnalis harus bisa memproses berita secara lebih cepat. \r",
+  "why": "Tentunya, buat kamu yang ingin menjadi jurnalis, kamu bisa memilih program studi ini. Berprofesi sebagai jurnalis memang cukup menantang. Kamu akan lebih sering berada di lapangan melakukan reportase, mewawancarai narasumber, bertemu dengan banyak orang, daripada hanya duduk di belakang meja. Jurnalis adalah profesi yang dinamis dan benar-benar membutuhkan kekuatan logika. Menantang kan?",
+  "subjects": [
+    "Bahasa Jurnalistik",
+    "Penulisan Berita",
+    "Broadcasting",
+    "Pengantar Ilmu Jurnalistik",
+    "Komunikasi Grafis",
+    "Kompetensi ICT",
+    "Jurnalistik Foto",
+    "Jurnalistik Radio",
+    "Jurnalistik Televisi",
+    "Psikologi Komunikasi",
+    "Jurnalisme Sastra",
+    "Komunikasi Politik",
+    "Jurnalistik Online",
+    "Teknik Wawancara",
+    "Jurnalistik Investigasi",
+    "Hukum Etika Pers",
+    "Penulisan Feature dan Artikel",
+    "Manajemen Media Massa",
+    "Sejarah Pers",
+    "Kajian Media dan Budaya"
+  ],
+  "characters": [
+    "Teliti",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Ketika profesi jurnalis tidak lagi menjadi monopoli para lulusan jurnalistik, maka profesi tersebut sangat diminati sekaligus ketat persaingannya. Tapi jangan khawatir, dengan masuk program studi jurnalistik artinya kamu akan mendapat ilmu yang lebih mendalam di bidang jurnalistik, yang pastinya akan menjadi keunggulan kamu. Bidang profesi yang ditawarkan untuk lulusan jurnalistik pun juga sangat luas. Tidak cuma dapat berkecimpung di industri media, lulusan program studi Jurnalistik juga bisa menjadi expert dan menjadi bagian dari lembaga pemerintahan seperti Komisi Penyiaran Indonesia (KPI), Lembaga Sensor Film (LSF), bahkan Kementerian Komunikasi dan Informasi (Menkominfo).",
+  "professions": [
+    "Penyiar Berita",
+    "Penyiar Televisi/Presenter/Pembawa Acara",
+    "Operator Kamera untuk Televisi, Video, dan Film",
+    "Fotografer",
+    "Pengarah Acara Televisi",
+    "Editor (Artikel/Tulisan)",
+    "Wartawan",
+    "Editor Film dan Video",
+    "Produser TV / Film / Video",
+    "Penulis Perjalanan"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-komunikasi",
+    "humaniora/marketing-communication",
+    "humaniora/televisi-dan-film",
+    "teknik/teknik-grafika",
+    "humaniora/hubungan-masyarakat",
+    "humaniora/penyiaran-broadcasting-",
+    "seni/fotografi",
+    "humaniora/manajemen-komunikasi"
+  ],
+  "major_group_id": 31,
+  "jlh_prodi": 9,
+  "dt_snbp": 313,
+  "dt_snbt": 475,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "161044",
+      "major_university_name": "S1 JURNALISTIK - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 27.9762,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "322025",
+      "major_university_name": "S1 JURNALISTIK - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 12.8352,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333059",
+      "major_university_name": "S1 JURNALISTIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 5.04323,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336018",
+      "major_university_name": "S1 ILMU KOM. KONST. JURNALISTIK - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 15.8859,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "421029",
+      "major_university_name": "D3 PENERBITAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "422012",
+      "major_university_name": "D3 PENERBITAN - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422020",
+      "major_university_name": "D3 PENERBITAN (PSDKU MAKASSAR) - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713018",
+      "major_university_name": "S1 JURNALISTIK - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 141.176,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751068",
+      "major_university_name": "S1 JURNALISTIK - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 66.2791,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 31,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Komunikasi",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      3
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

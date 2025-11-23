@@ -1,0 +1,223 @@
+{
+  "idx": 10,
+  "id": "agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+  "major_name": "Agrobisnis Perikanan (Sosial Ekonomi Perikanan)",
+  "icon": null,
+  "description": "Bagaimana mengelola sektor perikanan sebagai salah satu penggerak perekonomian Indonesia dipelajari pada program studi Agrobisnis Perikanan atau nama lainnya Sosial Ekonomi Perikanan. Pada program studi ini dipelajari teknik mengelola bisnis perikanan, baik perikanan laut maupun air tawar, juga budidaya perikanan dan biota laut/ air tawar. Program studi ini juga membekali mahasiswanya dengan jiwa entrepreneurship agar dapat mandiri di tengah persaingan bisnis komoditas perikanan.",
+  "why": "Program studi Agrobisnis Perikanan sebenarnya adalah disiplin ilmu yang menarik untuk dipelajari. Namun program studi perikanan dan pertanian cenderung kurang diminati dewasa ini, karena masih banyak pemikiran lulusannya akan jadi petani atau nelayan tradisional,  dan untuk menjadi petani atau nelayan tidak perlu pendidikan tinggi. Padahal sebaliknya, petani dan nelayan punya peranan besar bagi bangsa, dan seiring perkembangan zaman dibutuhkan pembaharuan dan modernisasi pada sektor pertanian, khususnya perikanan.",
+  "subjects": [
+    "Matematika Ekonomi",
+    "Sosiologi Pesisir",
+    "Avertebrata",
+    "Ikhtiologi",
+    "Ekologi Perairan",
+    "Teknologi Hasil Perikanan",
+    "Ekotoksikologi Perairan",
+    "Ekonomi Perikanan",
+    "Penyuluhan Dan Komunikasi Perikanan",
+    "Biologi Perikanan",
+    "Manajemen Industri Perikanan",
+    "Hukum Dan Peraturan Perikanan",
+    "Pemasaran Hasil Perikanan",
+    "Kewirausahaan Perikanan",
+    "Koperasi & Kemitraan Bisnis  Perikanan",
+    "Sistem dan Teknologi Aquakultur",
+    "Teknologi Pengemasan Hasil Perikanan",
+    "Teknologi Produksi Pakan Alami",
+    "Pengendalian Pencemaran"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan program studi Agrobisnis Perikanan akan meraih gelar Sarjana Perikanan (S.Pi) yang dapat berkarir di berbagai lembaga pemerintahan seperti Kementerian Kelautan dan Perikanan (KKP), Lembaga Ilmu Pengetahuan Indonesia (LIPI), Badan Pengkajian dan Penerapan Teknologi (BPPT), perusahaan swasta yang bergerak di bidang kemaritiman, perusahaan budidaya, bergabung di Lembaga Swadaya Masyarakat (LSM) Bidang Maritim, peneliti dan pengajar, serta menjadi entrepreneur dalam bisnis perikanan.",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Manajer Akuakultural"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/pemanfaatan-sumberdaya-perikanan",
+    "pertanian/budidaya-perikanan",
+    "pertanian/peternakan",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/teknologi-hasil-ternak",
+    "pertanian/manajemen-bisnis-unggas"
+  ],
+  "major_group_id": 22,
+  "jlh_prodi": 16,
+  "dt_snbp": 390,
+  "dt_snbt": 580,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "131010",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 81.25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372016",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 29.1667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372052",
+      "major_university_name": "S1 SOSIAL EKONOMI PERIKANAN (PSDKU KEDIRI) - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 29.7872,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517004",
+      "major_university_name": "D4 AGRIBISNIS PERIKANAN DAN KELAUTAN - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": 177.778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531012",
+      "major_university_name": "S1 SOSIAL EKONOMI PERIKANAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 84.4444,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541010",
+      "major_university_name": "S1 SOSIAL EKONOMI PERIKANAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711027",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 38.0597,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717012",
+      "major_university_name": "D4 AGRIBISNIS PERIKANAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 74.2424,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "728003",
+      "major_university_name": "D3 TEKNOLOGI BUDIDAYA IKAN - POLNUSTAR",
+      "university_name": "POLITEKNIK NEGERI NUSA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "832007",
+      "major_university_name": "D3 AGRIBISNIS PERIKANAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133010",
+      "major_university_name": "S1 SOSIAL EKONOMI PERIKANAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 133.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642005",
+      "major_university_name": "D4 AGRIBISNIS PERIKANAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721023",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 466.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751024",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 80,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752063",
+      "major_university_name": "D4 AGRIBISNIS PERIKANAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "811019",
+      "major_university_name": "S1 AGROBISNIS PERIKANAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 22,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Perikanan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

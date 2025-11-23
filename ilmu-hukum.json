@@ -1,0 +1,679 @@
+{
+  "idx": 76,
+  "id": "ilmu-hukum",
+  "major_name": "Ilmu Hukum",
+  "icon": null,
+  "description": "Pada program studi Ilmu Hukum, para mahasiswa mempelajari segala sesuatu tentang hukum baik praktek ataupun teorinya. Hukum mengatur bagaimana manusia bertindak dan bertingkah laku supaya tidak merugikan orang lain. Belajar tentang hukum memang lebih banyak mendalami konsep dan teori, juga beberapa kasus hukum yang terjadi. Tetapi, pada akhir masa kuliah biasanya para mahasiswa jurusan Ilmu Hukum mendapatkan kesempatan untuk praktek di berbagai firma hukum, kejaksaan, atau pengadilan, sehingga teori yang telah dipelajari selama ini  bisa dipahami relevansinya. ",
+  "why": "Apabila kamu punya kepedulian terhadap hukum di Indonesia, maka program studi Ilmu Hukum bisa menjadi pilihan yang tepat. Memang, situasi hukum di Indonesia masih jauh dari ideal. Penyelewengan dan pelanggaran hukum masih sering terjadi. Meskipun lulusan sarjana hukum sudah banyak, tapi praktek hukum pada dasarnya masih lemah. ",
+  "subjects": [
+    "Pancasila",
+    "Ilmu Negara",
+    "Pengantar Ilmu Hukum",
+    "Pengantar Hukum Indonesia",
+    "Pengantar Ilmu Ekonomi",
+    "Hukum Perdata",
+    "Hukum Tata Negara",
+    "Hukum Pidana",
+    "Hukum Adat",
+    "Hukum Internasional",
+    "Hukum Dagang",
+    "Hukum Acara Perdata",
+    "Hukum Acara Pidana",
+    "Hukum Harta Kekayaan",
+    "Hukum Sarana Pemerintahan",
+    "Hukum Pidana di Luar Kodifikasi",
+    "Hukum Pajak",
+    "Praktik Peradilan Perdata",
+    "Hukum Agraria",
+    "Hukum Islam",
+    "Hukum Perdagangan Internasional",
+    "Hukum Perjanjian Internasional",
+    "Hukum Acara PTUN",
+    "Hukum Pertanahan",
+    "Hukum Lingkungan",
+    "Filsafat Hukum",
+    "Hukum Perburuhan",
+    "Praktik Perancangan kontrak",
+    "Praktik Peradilan Pidana",
+    "Praktik Perancangan Peraturan Perundang undangan",
+    "Praktik Penyelesaian sengketa alternatif (ADR)",
+    "Metodologi Penelitian Hukum",
+    "Etika dan Tanggung Jawab Profesi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Setelah lulus dari prodi Ilmu Hukum, kamu akan mendapatkan gelar Sarjana Hukum (S.H), setelah itu kamu bisa memilih untuk berkarir sebagai hakim atau jaksa. selain itu kamu juga dapat memilih mau berkarir sebagai pengacara publik/swasta dan notaris. Untuk menjadi notaris, kamu harus melalui pendidikan kenotariatan terlebih dahulu. Selain profesi-profesi klasik tersebut, sebagai lulusan Ilmu Hukum kamu juga akan dibutuhkan di berbagai perusahaan sebagai legal staff atau di bagian personalia/HRD.",
+  "professions": [
+    "Teknisi Ilmu Forensik",
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Pengacara",
+    "Asisten Legal dan Paralegal",
+    "Analis Intelijen",
+    "Pegawai Identifikasi dan Rekam Jejak Kepolisian",
+    "Pegawai Yudisial",
+    "Staff Legal",
+    "Detektif dan Investigator Swasta",
+    "Dosen Ilmu Hukum"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-politik",
+    "humaniora/kriminologi"
+  ],
+  "major_group_id": 46,
+  "jlh_prodi": 64,
+  "dt_snbp": 6654,
+  "dt_snbt": 10102,
+  "major_field": 9,
+  "prodi": [
+    {
+      "major_university_id": "751053",
+      "major_university_name": "S1 ILMU HUKUM - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 20.7273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351025",
+      "major_university_name": "S1 HUKUM - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 5.48456,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353038",
+      "major_university_name": "S1 ILMU HUKUM - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.13262,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355040",
+      "major_university_name": "S1 HUKUM - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 6.35866,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356043",
+      "major_university_name": "S1 ILMU HUKUM - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.6287,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "357032",
+      "major_university_name": "S1 ILMU HUKUM - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 38.3051,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361067",
+      "major_university_name": "S1 HUKUM - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.22997,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "365029",
+      "major_university_name": "S1 ILMU HUKUM (IH) - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 15.3515,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371041",
+      "major_university_name": "S1 ILMU HUKUM - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 17.9467,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372056",
+      "major_university_name": "S1 ILMU HUKUM - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.46766,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381027",
+      "major_university_name": "S1 ILMU HUKUM - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.44794,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383057",
+      "major_university_name": "S1 ILMU HUKUM - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 11.2444,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352014",
+      "major_university_name": "S1 HUKUM - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 13.8482,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385021",
+      "major_university_name": "S1 HUKUM - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 11.5031,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386041",
+      "major_university_name": "S1 HUKUM - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 18.6275,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511035",
+      "major_university_name": "S1 ILMU HUKUM - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 20.4659,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531046",
+      "major_university_name": "S1 HUKUM - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 20.4587,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541056",
+      "major_university_name": "S1 HUKUM - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 13.3566,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611032",
+      "major_university_name": "S1 ILMU HUKUM - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 10.802,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621029",
+      "major_university_name": "S1 ILMU HUKUM - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 19.3374,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631037",
+      "major_university_name": "S1 ILMU HUKUM - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 24.3813,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711055",
+      "major_university_name": "S1 ILMU HUKUM - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 6.51479,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "713017",
+      "major_university_name": "S1 ILMU HUKUM - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 14.6597,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333033",
+      "major_university_name": "S1 ILMU HUKUM - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.90864,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111044",
+      "major_university_name": "S1 ILMU HUKUM - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 15.4854,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121027",
+      "major_university_name": "S1 ILMU HUKUM - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.88122,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "123010",
+      "major_university_name": "S1 HUKUM - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 28.4722,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131041",
+      "major_university_name": "S1 ILMU HUKUM - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 9.08414,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "132015",
+      "major_university_name": "S1 ILMU HUKUM - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 52.5773,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141033",
+      "major_university_name": "S1 HUKUM - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 10.9496,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142081",
+      "major_university_name": "S1 ILMU HUKUM - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151038",
+      "major_university_name": "S1 ILMU HUKUM - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 22.3206,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161028",
+      "major_university_name": "S1 HUKUM - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 22.5024,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "324017",
+      "major_university_name": "S1 HUKUM - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 10.4407,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336014",
+      "major_university_name": "S1 ILMU HUKUM - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 12.6582,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331014",
+      "major_university_name": "S1 ILMU HUKUM - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 10.6681,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171040",
+      "major_university_name": "S1 ILMU HUKUM - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 14.1033,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322022",
+      "major_university_name": "S1 ILMU HUKUM - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 9.25926,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321033",
+      "major_university_name": "S1 ILMU HUKUM - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.55926,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311024",
+      "major_university_name": "S1 HUKUM - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 19.0963,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191038",
+      "major_university_name": "S1 HUKUM - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 24.2347,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "753020",
+      "major_university_name": "S1 HUKUM - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 184.615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741023",
+      "major_university_name": "S1 HUKUM - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 30.9417,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731048",
+      "major_university_name": "S1 ILMU HUKUM - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 39.5377,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722036",
+      "major_university_name": "S1 ILMU HUKUM - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 51.2821,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912025",
+      "major_university_name": "S1 ILMU HUKUM - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 212.121,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721043",
+      "major_university_name": "S1 ILMU HUKUM - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 79.726,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811038",
+      "major_university_name": "S1 IL. HUKUM - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 104.632,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821023",
+      "major_university_name": "S1 ILMU HUKUM - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 78.866,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911027",
+      "major_university_name": "S1 ILMU HUKUM - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 83.5443,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752050",
+      "major_university_name": "S1 ILMU HUKUM - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 25.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612042",
+      "major_university_name": "S1 ILMU HUKUM - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 29.5213,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551019",
+      "major_university_name": "S1 HUKUM - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 36.9863,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521037",
+      "major_university_name": "S1 ILMU HUKUM - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 41.7537,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384014",
+      "major_university_name": "S1 ILMU HUKUM - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 44.2492,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383094",
+      "major_university_name": "S1 ILMU HUKUM (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "181016",
+      "major_university_name": "S1 HUKUM - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 27.8125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133019",
+      "major_university_name": "S1 ILMU HUKUM - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 71.0938,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116008",
+      "major_university_name": "S1 ILMU HUKUM - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 56.9106,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "114016",
+      "major_university_name": "S1 HUKUM - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 33.945,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113020",
+      "major_university_name": "S1 ILMU HUKUM - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 51.8519,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112028",
+      "major_university_name": "S1 HUKUM - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 55.9494,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811058",
+      "major_university_name": "S1 ILMU HUKUM (PSDKU KAB. MBD) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 7000,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811062",
+      "major_university_name": "S1 ILMU HUKUM (PSDKU KAB. ARU) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 2333.33,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 46,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Hukum",
+    "merdeka_subject": [
+      6,
+      11
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      6,
+      12
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

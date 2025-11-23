@@ -1,0 +1,80 @@
+{
+  "idx": 56,
+  "id": "ekonomi-sumberdaya-dan-lingkungan",
+  "major_name": "Ekonomi Sumberdaya dan Lingkungan",
+  "icon": null,
+  "description": "Ekonomi Sumberdaya dan Lingkungan mempelajari aspek ekonomi dan sosial dalam pengelolaan sumberdaya alam dan mengkaji dampaknya terhadap masyarakat secara keseluruhan, baik pelaku maupun penerima dampak. Ekonomi dan sumberdaya lingkungan sendiri adalah bidang ilmu yang berkaitan dengan isu-isu besar seperti sumberdaya alam, kebijakan lingkungan, serta pengembangan pertanian dalam arti luas.",
+  "why": "Kalau kamu menyenangi bidang ekonomi dan concern terhadap isu-isu lingkungan, khususnya sumberdaya alam yang nggak bisa diperbaharui, jurusan ini adalah jurusan yang pas buat kamu. Semakin pesatnya pertumbuhan ekonomi Indonesia, kesadaran pemerintah dan masyarakat akan pentingnya menjaga kelestarian sumberdaya dan lingkungan pun semakin meningkat. Di sini kamu nggak hanya mempelajari ekonomi dari segi finansial aja, melainkan juga dampak dan pengaruh dari sebuah kegiatan perekonomian terhadap keberlanjutan sumberdaya alam dan lingkungan sekitarnya.",
+  "subjects": [
+    "Ekonomi Pertanian",
+    "Ekonomi Lingkungan",
+    "Ekonomi Sumberdaya Air",
+    "Ekonomi Wisata",
+    "Teori Harga Pertanian",
+    "Ekonomi Perikanan",
+    "Perencanaan dan Kebijakan Sumberdaya",
+    "Pemodelan Ekonomi Sumberdaya dan Lingkungan",
+    "Valuasi Ekonomi Sumberdaya dan Lingkungan"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan Ekonomi Sumberdaya dan Lingkungan dapat bekerja di berbagai bidang, terutama yang berhubungan dengan pertanian, sumberdaya, dan juga lingkungan. Beberapa contoh lapangan pekerjaan yang bisa dimasuki oleh lulusan Ekonomi Sumberdaya dan Lingkungan adalah: instansi pemerintahan (Kementrian Pertanian, Kementrian Perhutanan, BAPPENAS, Kementrian Lingkungan Hidup), perusahaan dan korporasi swasta, dan juga lembaga pendidikan.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Manajer Layanan Sosial dan Komunitas",
+    "Pengajar Ekonomi",
+    "Ahli Ekonomi Lingkungan",
+    "Analis Manajemen Bisnis",
+    "Konsultan Bisnis"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-kependudukan-dan-lingkungan-hidup",
+    "teknik/rekayasa-infrastruktur-lingkungan"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 1,
+  "dt_snbp": 59,
+  "dt_snbt": 39,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "341006",
+      "major_university_name": "S1 EKONOMI SUMBERDAYA DAN LINGKUNGAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 15.4185,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

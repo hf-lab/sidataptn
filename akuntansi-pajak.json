@@ -1,0 +1,160 @@
+{
+  "idx": 17,
+  "id": "akuntansi-pajak",
+  "major_name": "Akuntansi Pajak",
+  "icon": null,
+  "description": "Akuntansi Pajak adalah program studi yang mempelajari mengenai akuntansi dalam bidang khusus, yaitu perpajakan. Mahasiswa pada prodi ini akan memahami berbagai prinsip dan teori akuntansi yang dapat diterapkan dalam perpajakan. Fungsi dari Akuntansi Pajak adalah mengolah data kuantitatif yang selanjutnya akan disajikan dalam bentuk laporan keuangan yang berisi perhitungan perpajakan. Mahasiswa Akuntansi Pajak juga mempelajari bagaimana melakukan strategi perpajakan, agar pembayaran pajak dapat menjadi lebih optimal tanpa adanya pelanggaran terhadap aturan perpajakan, serta memberikan analisa dan prediksi mengenai potensi pajak perusahaan di masa mendatang. ",
+  "why": "Mahasiswa dengan ketelitian dan daya analisis yang tinggi cocok banget dengan program studi ini.  Selain itu program studi ini mengintegrasikan ilmu akuntasi dan perpajakan, sehingga prodi ini dirasa lengkap banget dan menjawab kebutuhan dunia kerja saat ini yang membutuhkan profesional yang memiliki pengetahuan multidisiplin.",
+  "subjects": [
+    "Perpajakan",
+    "Akuntansi Keuangan",
+    "Penaggaran Perusahaan",
+    "Akuntansi Biaya",
+    "Pengantar Aplikasi Komputer"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja untuk prodi Akuntansi Pajak termasuk sangat umum karena dapat bekerja pada hampir seluruh instansi, baik itu bisnis, non-profit, maupun pemerintah. Lulusan Akuntansi Pajak dapat bekerja sebagai akuntan sekaligus di bidang perpajakan baik swasta maupun pemerintah. \rProdi ini dirancang untuk menghasilkan lulusan akuntansi yang dapat bergerak di banyak sektor ekonomi. Para lulusan juga dapat menekuni profesi sebagai konsultan pajak perorangan maupun organisasi.",
+  "professions": [
+    "Penilai (Pajak dan Keuangan)",
+    "Pemeriksa Keuangan",
+    "Pegawai Pajak/ Pegawai Persiapan Pajak",
+    "Auditor",
+    "Ahli Perencanaan Pajak",
+    "Ekonom",
+    "Pemeriksa dan Pengumpul Pajak, dan Agen Revenue",
+    "Akuntan",
+    "Analis Keuangan",
+    "Akuntan Publik"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/akuntansi-bisnis",
+    "ekonomi-bisnis/administrasi-fiskal-perpajakan-",
+    "ekonomi-bisnis/akuntansi-sektor-publik"
+  ],
+  "major_group_id": 26,
+  "jlh_prodi": 10,
+  "dt_snbp": 385,
+  "dt_snbt": 583,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "333067",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "352027",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355082",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "473006",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "563002",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": 45,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617006",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 23.0769,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111065",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "291012",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 29.7753,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "537009",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727011",
+      "major_university_name": "D4 AKUNTANSI PERPAJAKAN - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 26,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Akuntansi",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

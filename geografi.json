@@ -1,0 +1,209 @@
+{
+  "idx": 70,
+  "id": "geografi",
+  "major_name": "Geografi",
+  "icon": null,
+  "description": "Program studi Geografi mempelajari tata ruang penggunaan dan penempatan tanah dan permukaan bumi. Siswa yang berkonsentrasi pada geografi fisik misalnya akan fokus mempelajari dan menganalisa permukaan tanah, dan mempelajari topik seperti iklim, tanah, dan air. Melakui konteks budaya dan manusia, geografi mengeksplorasi hubungan antara manusia dan tempat.\r\rProgram studi geografi ditujukan untuk memberikan bekal bagi mahasiswa agar memahami penerapan perspektif regional dalam berbagai pengembangan wilayah, dalam hal ini termasuk penguasaan teknologi Sistem Informasi Geografi (SIG).\r\rJurusan ini menghasilkan siswa yang dapat memecahkan masalah, memberikan solusi pada penelitian, dapat memanfaatkan teknologi dan berpandangan luas. Jurusan geografi melibatkan berbagai kursus dalam disiplin untuk mengekspos siswa kepada aspek yang luas dan menarik. ",
+  "why": "Prodi ini cocok bagi siswa yang suka mengamati sesuatu kemudian melakukan eksperimen terkait permukaan bumi, wilayah, iklim & cuaca. Jurusan ini mendorong siswa untuk mencari solusi dari sebuah masalah melalui penemuan baru. Berkat perkembangan teknologi, ilmu dan teknologi geografi pun berkembang dengan pesat. Penemuan-penemuan baru  membuat manusia merasakan kepentingan ilmu geografi untuk mengenal bumi tempat mereka tinggal dengan lebih baik.",
+  "subjects": [
+    "Fisika Dasar",
+    "Geologi",
+    "Praktikum Kartografi Dasar",
+    "Kartografi",
+    "Hidrologi",
+    "Oseanografi",
+    "Erosi dan Konservasi Tanah",
+    "Interpretasi Foto Udara",
+    "Interpretasi Citra Visual",
+    "Demografi",
+    "Ekologi dan Lingkungan",
+    "Biogeografi",
+    "Geografi Tanah",
+    "Geomorfologi Regional Indonesia",
+    "Sistem Informasi Geografis",
+    "Geografi Perkotaan",
+    "Geografi Transportasi",
+    "Geografi Industri",
+    "Evaluasi Sumber Daya Lahan",
+    "Geografi Pertanian",
+    "Geohidrologi",
+    "Pembangunan Wilayah",
+    "Geografi Pariwisata",
+    "Geografi Pemasaran",
+    "Geografi Politik",
+    "Geografi Kesehatan",
+    "Pengelolaan Daerah Aliran Sungai",
+    "Geografi Pesisir",
+    "Analisis Perencanaan Wilayah",
+    "Aplikasi SIG",
+    "Kimia Dasar",
+    "Matematika Dasar"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan geografi biasanya terlibat dalam riset, penelitian lapangan dan menulis laporan. Selain itu banyak juga yang bekerja sebagai konsultan lingkungan untuk industri teknik dan manufaktur. Kemampuan analisa dan mengolah data yang dimiliki juga memungkinkan seorang lulusan jurusan geografi untuk diterima di bidang lainnya.",
+  "professions": [
+    "Ahli Sistem Informasi Geografis",
+    "Peneliti dan Ahli Teknologi Informasi Geospasial",
+    "Ahli Tambang dan Geologi",
+    "Ahli Teknik Lingkungan",
+    "Teknisi Pemetaan",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Pengajar Geografi",
+    "Ahli Peta Geografi",
+    "Ahli Ekologi Industri",
+    "Pengajar Ilmu Atmosfir, Ilmu Bumi, Ilmu Kelautan, Ilmu Luar Angkasa"
+  ],
+  "related_majors": [
+    "teknik/teknik-geodesi",
+    "mipa/meteorologi",
+    "teknik/teknik-geomatika",
+    "mipa/penginderaan-jauh-dan-sistem-informasi-geografi",
+    "teknik/survei-dan-pemetaan",
+    "mipa/geofisika",
+    "ekonomi-bisnis/manajemen-transportasi",
+    "mipa/kartografi-dan-penginderaan-jauh",
+    "pendidikan/pendidikan-geografi"
+  ],
+  "major_group_id": 53,
+  "jlh_prodi": 11,
+  "dt_snbp": 343,
+  "dt_snbt": 488,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "321008",
+      "major_university_name": "S1 GEOGRAFI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 11.4068,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323061",
+      "major_university_name": "S1 GEOGRAFI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 7.07269,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356042",
+      "major_university_name": "S1 GEOGRAFI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 15.2961,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361003",
+      "major_university_name": "S1 GEOGRAFI LINGKUNGAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 12.3711,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373062",
+      "major_university_name": "S1 GEOGRAFI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 11.2565,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142051",
+      "major_university_name": "S1 GEOGRAFI (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 12.6984,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531040",
+      "major_university_name": "S1 GEOGRAFI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 138.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712009",
+      "major_university_name": "S1 GEOGRAFI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 18.1818,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751031",
+      "major_university_name": "S1 GEOGRAFI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 25.3521,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612044",
+      "major_university_name": "S1 GEOGRAFI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 38.2353,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722012",
+      "major_university_name": "S1 ILMU GEOGRAFI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 250,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 53,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Geografi,Geografi Lingkungan, Sains Informasi, Geografi",
+    "merdeka_subject": [
+      18,
+      10
+    ],
+    "ipa_subject": [
+      14,
+      10
+    ],
+    "ips_subject": [
+      18,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "idx": 20,
+  "id": "antropologi",
+  "major_name": "Antropologi",
+  "icon": null,
+  "description": "Antropologi adalah program studi yang mempelajari seluk-beluk, unsur-unsur kebudayaan yang dihasilkan dalam kehidupan manusia. Ilmu Antropologi dibagi menjadi antropologi fisik dan antropologi budaya. Antropologi fisik fokus mempelajari ciri-ciri fisik dan forensik. Sedangkan antropologi budaya fokus mempelajari interaksi dan hubungan antar manusia. Antropologi memang ilmu yang mempelajari tentang manusia, karenanya disini kamu akan memahami beraga bentuk fisik masyarakat serta kebudayaan yang dihasilkannya.",
+  "why": "Kalau kamu tertarik dengan kehidupan manusia dan aneka kebudayaan yang dihasilkannya, maka program studi Antropologi cocok untukmu. Menjadi antropolog adalah profesi yang sangat menantang. Ada banyak kebudayaan tersebar di seluruh dunia yang layak untuk dieksplorasi dan dipelajari. Prodi ini sangat cocok untuk kamu yang suka jalan-jalan dan petualangan, karena nantinya kamu akan berkesempatan untuk mengeksplor masyarakat dan kebudayaan di berbagai daerah dan melakukan penelitian.",
+  "subjects": [
+    "Folklore",
+    "Sejarah Teori Antropologi",
+    "Antropologi Pariwisata",
+    "Antropologi Kependidikan",
+    "Etnografi Wilayah Sulawesi",
+    "Etnografi Wilayah Sumatera",
+    "Studi Tubuh Nalar dan Masyarakat",
+    "Etnografi Diaspora di Indonesia",
+    "Migrasi dan Perubahan Sosial Budaya",
+    "Antropologi Hukum",
+    "Etnofotografi",
+    "Etnografi Kesejahteraan Sosial",
+    "Antropologi Ekologi",
+    "Kebudayaan dan Indrawi Manusia",
+    "Perubahan Iklim dan Bencana Alam",
+    "Etnografi Wilayah Maluku dan NTT",
+    "Kesukubangsaan dan Nasionalisme",
+    "Studi Gender",
+    "Antropologi Kesehatan",
+    "Antropologi Ekonomi",
+    "Antropologi Agama",
+    "Etnografi Wilayah Jawa & Bali",
+    "Etnografi Wilayah Papua",
+    "Studi Literatur Antropologii",
+    "Etnovideografi",
+    "Kajian Transgresi Sosial",
+    "Kajian Pemberdayaan Masyarakat",
+    "Etnografi Wilayah Eropa",
+    "Etnografi Wilayah Asia Tenggara",
+    "Kajian Konsumsi dan Gaya Hidup"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Sama seperti ilmu sosial dan humaniora yang lain, lulusan Antropologi berpeluang untuk bekerja di banyak bidang, terlepas dari disiplin ilmu yang dipelajari. Namun idealnya lulusan Antropologi dapat berkarir dalam bidang riset dan akademisi. Lulusan Antropologi juga dapat berkarir di bidang pemasaran karena pengetahuan etnografi yang dimilikinya. Dan pastinya lulusan Antropologi dapat menjadi seorang Antropolog yang tugasnya meneliti, mengevaluasi, dan menetapkan kebijakan publik mengenai asal-usul manusia baik secara fisik, sosial, bahasa, dan perkembangan budaya.",
+  "professions": [
+    "Ahli Antropologi",
+    "Juru Arsip",
+    "Dosen Ilmu Politik",
+    "Penulis Perjalanan",
+    "Pekerja Kemanusiaan",
+    "Sosiolog",
+    "Teknisi Museum dan Konservator",
+    "Kurator Seni",
+    "Blogger"
+  ],
+  "related_majors": [
+    "budaya-bahasa/ilmu-sejarah",
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "budaya-bahasa/sejarah-dan-kebudayaan-islam",
+    "humaniora/sosiologi",
+    "budaya-bahasa/arkeologi"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 22,
+  "dt_snbp": 632,
+  "dt_snbt": 889,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "121029",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 10.5882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381033",
+      "major_university_name": "S1 ANTROPOLOGI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 8.19672,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372088",
+      "major_university_name": "S1 ANTROPOLOGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 8.79479,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361068",
+      "major_university_name": "S1 ANTROPOLOGI BUDAYA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.92841,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355051",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 10.148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "335005",
+      "major_university_name": "S1 ANTROPOLOGI BUDAYA - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 13.7931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333041",
+      "major_university_name": "S1 ANTROPOLOGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.35897,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321043",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.98291,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141036",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 13.8514,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122041",
+      "major_university_name": "S1 PENDIDIKAN ANTROPOLOGI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 31.5985,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511064",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 46.3415,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611030",
+      "major_university_name": "S1 ANTROPOLOGI BUDAYA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711057",
+      "major_university_name": "S1 ANTROPOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 23.913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712074",
+      "major_university_name": "S1 PENDIDIKAN ANTROPOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 41.4894,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721048",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731042",
+      "major_university_name": "S1 ANTROPOLOGI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 60.9756,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143010",
+      "major_university_name": "S1 ANTROPOLOGI BUDAYA - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112026",
+      "major_university_name": "S1 ANTROPOLOGI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 147.826,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751051",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 177.143,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821035",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 156.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911026",
+      "major_university_name": "S1 ANTROPOLOGI SOSIAL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 566.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921026",
+      "major_university_name": "S1 ANTROPOLOGI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1250,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

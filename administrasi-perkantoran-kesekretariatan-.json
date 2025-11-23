@@ -1,0 +1,302 @@
+{
+  "idx": 6,
+  "id": "administrasi-perkantoran-kesekretariatan-",
+  "major_name": "Administrasi Perkantoran (Kesekretariatan)",
+  "icon": null,
+  "description": "Program studi Administrasi Perkantoran atau Kesekretariatan membekalimu dengan pengetahuan, keterampilan, dan sikap dalam menyelesaikan pekerjaan-pekerjaan organisasi, membantu dan menangani pekerjaan dan tugas-tugas pimpinan. Sejalan dengan tuntutan pekerjaan Administrasi Perkantoran, para mahasiswa mempelajari pengetahuan dan keterampilan dalam bidang korespondensi, manajemen kearsipan, mengetik 10 jari manual dan elektrik, manajemen perkantoran, teknologi infornmasi (komputer) dan internet, bahasa Inggris, dan lain-lain. Melakukan perencanaan, pendataan, pendistribusian informasi, data-data, dan surat-menyurat perkantoran, dan menyediakan peralatan perkantoran merupakan pekerjaan Administrasi Perkantoran.\r\rProdi Administrasi Perkantoran menghasilkan profesional yang bertanggung jawab dalam mengatur aktivitas perusahaan dan perantara antara atasan dengan pihak-pihak yang ingin berhubungan dengan atasan. Maka dari itu profesi ini tidak bisa dianggap remeh. Biasanya profesi administrasi seperti sekretaris memang identik dengan wanita, hal ini disebabkan karena pekerjaan administrasi membutuhkan tingkat ketelitian dan kerapihan yang tinggi. Namun tidak menutup kemungkinan juga bagi pria untuk bekerja di bidang administrasi.",
+  "why": "Jika kamu senang berpakaian rapih dan berpenampilan menarik, menguasai bahasa asing, dan memiliki keahlian dalam korespondensi, komunikasi, tata penyimpanan file, hingga mengorganisir acara pertemuan bisnis. maka prodi ini cocok buat kamu. ",
+  "subjects": [
+    "Azas Manajemen",
+    "Mengetik Elektronik",
+    "Stenografi",
+    "Manajemen Perkantoran",
+    "Akuntansi",
+    "Praktek Komputer",
+    "Pengetahuan Kesekretariatan",
+    "Humas dan Protokol",
+    "Teknik Penulisan Laporan",
+    "Hukum Ketenagakerjaan",
+    "Bahasa Inggris",
+    "Manajemen Kearsipan",
+    "Statistik",
+    "Manajemen Personalia",
+    "Manajemen Layanan Prima",
+    "Manajemen Bisnis dan Organisasi",
+    "Koresponden Bahasa Inggris",
+    "Korespondensi Bahasa Indonesia",
+    "Praktik Mengetik dan Simulasi Kantor",
+    "Manajemen Komplain",
+    "Hukum Perdagangan Sipil",
+    "Sistem Perbankan Indonesia"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi ini bisa bekerja di berbagai industri menjadi staff administrasi (produksi, dokumen, operasional, ekspor impor), resepsionis, personalia, sekretaris, asisten sekretaris di Berbagai lembaga atau organisasi pemerintah atau swasta.",
+  "professions": [
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Staff Legal",
+    "Staff Administrasi",
+    "General Affairs",
+    "Pegawai Yudisial",
+    "Asisten Legal dan Paralegal",
+    "Sekretaris Medis",
+    "Resepsionis"
+  ],
+  "related_majors": [
+    "humaniora/administrasi-publik-administrasi-negara-",
+    "pendidikan/administrasi-pendidikan",
+    "humaniora/administrasi-bisnis-administrasi-niaga-"
+  ],
+  "major_group_id": 29,
+  "jlh_prodi": 24,
+  "dt_snbp": 678,
+  "dt_snbt": 875,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "331027",
+      "major_university_name": "S1 ADMINISTRASI RUMAH SAKIT - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323074",
+      "major_university_name": "D4 ADMINISTRASI PERKANTORAN DIGITAL - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323057",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.71901,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383063",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.2208,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373045",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.85831,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511069",
+      "major_university_name": "D3 ADMINISTRASI PERKANTORAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362086",
+      "major_university_name": "D4 ADMINISTRASI PERKANTORAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362039",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 3.4298,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353069",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 4.31937,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351051",
+      "major_university_name": "D3 ADMINISTRASI PERKANTORAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321071",
+      "major_university_name": "D3 ADMINISTRASI RUMAH SAKIT - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321070",
+      "major_university_name": "D3 ADMINISTRASI PERKANTORAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191064",
+      "major_university_name": "D3 ADMINISTRASI PERKANTORAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712071",
+      "major_university_name": "S1 PEND. ADMINISTRASI PERKANTORAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 7.75988,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141050",
+      "major_university_name": "D3 ADMINISTRASI PERKANTORAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122046",
+      "major_university_name": "S1 PENDIDIKAN ADMINISTRASI PERKANTORAN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 6.15883,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716034",
+      "major_university_name": "D4 ADMINISTRASI PERKANTORAN DIGITAL - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111072",
+      "major_university_name": "D3 SEKRETARI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911044",
+      "major_university_name": "S1 MANAJEMEN ADMINISTRASI PERKANTORAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 72.973,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "371074",
+      "major_university_name": "D3 KESEKRETARIATAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171061",
+      "major_university_name": "D3 KESEKRETARIATAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121061",
+      "major_university_name": "KESEKRETARIATAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "112035",
+      "major_university_name": "KESEKRETARIATAN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "511068",
+      "major_university_name": "D3 KESEKRETARIATAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 29,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Administrasi Bisnis\r",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}
