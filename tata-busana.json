@@ -1,0 +1,244 @@
+{
+  "idx": 243,
+  "id": "tata-busana",
+  "major_name": "Tata Busana",
+  "icon": null,
+  "description": "Program studi Tata Busana sering juga disebut dengan nama Fashion Design di beberapa perguruan tinggi. Pada program studi ini di pelajari teknik mendesain, belajar membuat pola, menjahit, dan seluk beluk produksi busana atau fashion. Nggak Cuma soal produksi, disini kita juga diajarin tentang analisa tren, bagaimana marketing dan manajemen bisnis fashion. Biasanya, di akhir perkuliahannya anak Tata Busana (Fashion Design) akan mengadakan fashion show sebagai tugas final mereka. Seru kan?\r\rBiasanya di perguruan tinggi negeri program studi ini bernama program studi Tata Busana, tapi di beberapa perguruan tinggi swasta yang mengadopsi kurikulum internasional program studi ini lebih dikenal dengan nama Fashion Design. Memang artinya sama aja, sih. Mata kuliahnya pun hampir sama aja. Namun di program studi Fashion Design di perguruan tinggi swatsa umumnya, kita akan belajar tentang fashion dari perspektif Paris sebagai kiblat fashion dunia dengan pencampuran budaya Indonesia. \r\rProgram studi Tata Busana (Fashion Design) umumnya berjenjang pendidikan Diploma 2 (D2), Diploma 3 (D3) dan Diploma 4 (D4) atau setara Strata 1 (S1). Pada perguruan tinggi swasta juga tersedia program kursus untuk yang minat belajar tentang fashion dalam waktu 1 tahun saja, dan di akhir kita akan di beri sertifikat dari perguruan tinggi yang bersangkutan. ",
+  "why": "Dunia mode selalu mengalami perubahan, terutama di negara-negara pusat mode seperti London, Paris, Milan dan New York. Penting bagi industri pakaian untuk mengikuti tren yang berlaku agar pakaian produksi mereka laku dijual. Oleh karena itu, pakar di bidang desain mode dan tekstil sangat diperlukan oleh industri ini. \r\rKalau kamu suka menggambar dan mendesain pakaian, seorang fashionista, ingin jadi desainer terkenal, boleh banget ambil program studi Tata Busana (Fashion Design) dalam pilihan mu. Selain itu, jurusan ini membutuhkan kreativitas yang tinggi. Kamu juga harus mempunyai minat terhadap beragam kebudayaan dan tradisi yang mempengaruhi gaya pakaian suatu masyarakat. ",
+  "subjects": [
+    "Komunikasi Dunia Mode",
+    "Mengelola Program/Merk Ekslusif",
+    "Pengembangan Produk Mode dan Manajemen Garmen",
+    "Penelitian Desain degan Metode Menyaput",
+    "Komposisi Pola Pakaian",
+    "Tekhnik Aplikasi Ilustrasi dan Visual Presentasi",
+    "Studi Pemanfaatan Tekstil dalam Proses Produksi Pakaian",
+    "Prinsip Menjahit",
+    "Sejarah Kostum",
+    "Tekhnik Pengembangan Disain",
+    "Detail Produksi Pakaian Jadi",
+    "Analisis Tren",
+    "Mekanisasi Garmen",
+    "Lingkungan dan Perilaku Konsumen",
+    "Menggambar Mode",
+    "Fashion and Society",
+    "Fashion Concepts",
+    "Fashion Phenomena",
+    "Buying and selling products and services",
+    "Garments Production",
+    "Collection Elaboration and Prototypes",
+    "Study and Utilization of Raw Materials",
+    "Graphic Process Application and Visual Presentation",
+    "Defining Characteristics of A Collection"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Prospek kerja di dunia fesyen sangat terbuka lebar. Baju dan pakaian tak lagi hanya sekadar pakai, akan tetapi telah berkembang menjadi mode. Apabila kamu mengambil jurusan ini dan mempunyai kemampuan serta keahlian yang sangat hebat di bidang fashion design, tak perlu takut untuk tidak bisa berkarya.\r\rAda banyak profesi yang bisa digeluti lulusan Tata Busana (Fashion Design) selain sebagai perancang busana atau desainer, seperti desainer tekstil, pattern maker, fashion stylist, fashion illustrator, konsultan fashion, dan jurnalis fashion. Selain itu, peluang untuk berwirausaha dengan mengembangkan merk fashion sendiri, atau pun bekerja dengan perusahaan-perusahaan besar yang telah memiliki merk ternama di dunia bisa jadi pilihan.",
+  "professions": [
+    "Fashion Designer",
+    "Visual Merchandiser",
+    "Blogger",
+    "Perancang Perhiasan",
+    "Fashion Stylist",
+    "Make Up Artist"
+  ],
+  "related_majors": [
+    "seni/tata-boga",
+    "ekonomi-bisnis/fashion-business",
+    "seni/desain-produk"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 17,
+  "dt_snbp": 542,
+  "dt_snbt": 761,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "122050",
+      "major_university_name": "S1 PENDIDIKAN TATA BUSANA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 8.6072,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334065",
+      "major_university_name": "S1 PENDIDIKAN TATA BUSANA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 4.45104,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362076",
+      "major_university_name": "D4 TATA BUSANA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356037",
+      "major_university_name": "S1 PENDIDIKAN TATA BUSANA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 6.12245,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362037",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK BUSANA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 2.92237,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712092",
+      "major_university_name": "D3 TATA BUSANA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383060",
+      "major_university_name": "S1 PENDIDIKAN TATA BUSANA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.4514,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373070",
+      "major_university_name": "D4 DESAIN MODE - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 37.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373048",
+      "major_university_name": "S1 PENDIDIKAN TATA BUSANA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.42056,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323071",
+      "major_university_name": "D4 DESAIN MODE - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323053",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL DESAIN FASHION - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.26679,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142075",
+      "major_university_name": "D3 TATA BUSANA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "354013",
+      "major_university_name": "D4 DESAIN MODE BATIK - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 73.1707,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143012",
+      "major_university_name": "D4 DESAIN MODE - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 87.8049,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383074",
+      "major_university_name": "D4 TATA BUSANA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "422003",
+      "major_university_name": "D4 DESAIN MODE - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": 77.193,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613011",
+      "major_university_name": "D4 DESAIN MODE - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 59.6491,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "idx": 257,
+  "id": "teknik-geologi",
+  "major_name": "Teknik Geologi",
+  "icon": null,
+  "description": "Teknik Geologi adalah ilmu yang mempelajari komposisi bumi, struktur, sifat-sifat fisik, sejarah, dan proses pembentukannya. Ketika para mahasiswa mempelajari Geologi, maka mereka juga belajar untuk bisa memberikan solusi terhadap permasalahan bumi. Pada program studi ini, mahasiswa akan mempelajari banyak hal tentang ilmu bumi yang meliputi perminyakan, pertambangan, geotermal, mitigasi bencana, dan lain sebagainya. ",
+  "why": "Kamu bisa memilih jurusan ini terutama jika kamu menyukai tentang ilmu Bumi dan melakukan penelitian tentang seluk beluk Bumi. Apalagi jika kamu memiliki ketertarikan pada ilmu alam seperti Fisik, Biologi, Kimia, Matematika, dna juga Geografi; pelajaran-pelajaran yang akan kamu dapatkan di program studi ini pasti menarik banget buatmu.",
+  "subjects": [
+    "Geologi Dasar",
+    "Mineralogi",
+    "Ilmu Ukur Tanah",
+    "Fisika",
+    "Paleontologi",
+    "Geokimia Umum",
+    "Geologi Struktur",
+    "Mikro Paleontologi",
+    "Sedimentologi",
+    "Geologi Kelautan",
+    "Geofisika",
+    "Tektonika",
+    "Mineral Optik dan Petrografi",
+    "Geologi Sejarah",
+    "Geologi Lapangan",
+    "Geokomputasi",
+    "Statistika",
+    "Hidrogeologi",
+    "Sistem Informasi Geografis",
+    "Geologi Batubara",
+    "Geologi Migas",
+    "Geologi Indonesia",
+    "Geomorfologi dan Penginderaan Jauh",
+    "Petrologi",
+    "Kartografi dan Ilmu Ukur Tanah",
+    "Metode Pemetaan Geologi",
+    "Analisis Stratigrafi",
+    "Analisis Batuan",
+    "Geologi Panas Bumi",
+    "Vulkanologi",
+    "Thermodinamika",
+    "Petrologi Batuan Metamorf",
+    "Mitigasi Bencana Geologi",
+    "Mikrofosil Foram",
+    "Eksplorasi Panas Bumi dan Suksesi Vulkanik",
+    "Geologi Isotop",
+    "Manajemen Air Tanah",
+    "Geomekanika",
+    "Analisis Kestabilan Lereng",
+    "Geologi Struktur Indonesia"
+  ],
+  "characters": [
+    "Teliti",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja seorang lulusan Teknik Geologi cukup mumpuni, lho, gaes. Gimana nggak, lulusan Teknik Geologi biasanya bekerja di perusahaan-perusahaan tambang besar seperti Adaro, Antam, Kideco, dan masih banyak lagi. Selain itu, mereka juga bisa masuk ke perusahaan perminyakan seperti Pertamina, Exxon, Chevron, British Petroleum, dan lain-lain. Nggak lupa, instansi-instansi pemerintahan seperti Kementrian Lingkungan Hidup, Energi dan Sumber Daya Mineral, hingga BPPT dan LIPI juga membutuhkan tenaga lulusan Teknik Geologi. ",
+  "professions": [
+    "Ahli Sistem Informasi Geografis",
+    "Peneliti dan Ahli Teknologi Informasi Geospasial",
+    "Ahli Peta Geografi",
+    "Ahli Teknik Lingkungan",
+    "Pengajar Ilmu Atmosfir, Ilmu Bumi, Ilmu Kelautan, Ilmu Luar Angkasa",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Tambang dan Geologi",
+    "Ahli Pengeboran Bumi (Non Minyak dan Gas)",
+    "Ahli Hidrologi",
+    "Teknisi Geologi dan Perminyakan"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/teknik-mesin",
+    "teknik/teknik-geomatika",
+    "teknik/meteorologi-terapan",
+    "teknik/teknik-geodesi",
+    "mipa/metrologi",
+    "teknik/teknik-perminyakan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 24,
+  "dt_snbp": 845,
+  "dt_snbt": 1221,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "142083",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751026",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731023",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 23.8806,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711016",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 9.42623,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541028",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 17.2414,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363001",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 12.3558,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361032",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.66667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355026",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 8.19672,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351014",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 6.95652,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333017",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 8.10811,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332018",
+      "major_university_name": "S1 FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN * KAMPUS CIREBON (FITB*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 10.101,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332001",
+      "major_university_name": "S1 FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN (FITB) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 14.1643,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321029",
+      "major_university_name": "S1 GEOLOGI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 10.2273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171032",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 13.125,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151022",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 29.7521,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111033",
+      "major_university_name": "S1 TEKNIK GEOLOGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 29.2683,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192010",
+      "major_university_name": "S1 TEKNIK GEOLOGI - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 33.6842,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531068",
+      "major_university_name": "S1 REKAYASA GEOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191077",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752020",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 33.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811029",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 28.8462,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921038",
+      "major_university_name": "D3 TEKNIK GEOLOGI TERAPAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911054",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921018",
+      "major_university_name": "S1 TEKNIK GEOLOGI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 780,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

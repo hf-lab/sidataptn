@@ -1,0 +1,152 @@
+{
+  "idx": 250,
+  "id": "teknik-biomedik-teknobiomedik-",
+  "major_name": "Teknik Biomedik (Teknobiomedik)",
+  "icon": null,
+  "description": "Teknik Biomedik atau Biomedical Engineering adalah suatu teknik terapan dalam bidang medis/kedokteran yang membutuhkan berbagai macam disiplin ilmu dalam penguasaan terhadap materi-materinya yang meliputi pengaplikasian teknik dan prinsip teknik dalam bidang medis atau kedokteran. \r\rJurusan ini menggabungkan kemampuan desain dan pemecahan masalah seorang insinyur terhadap ilmu medis dan biologis, karena menggabungkan beberapa jenis elemen-elemen teknik dan kedokteran yang bertujuan untuk meningkatkan tingkat kesembuhan pasien dan kesehatan seseorang secara umum.   \r\rPada jurusan ini akan mempelajari ilmu pengetahuan serta teknik-teknik dasar, yang meliputi hal hal sebagai berikut: ilmu dasar elektronika dan komputer, anatomi tubuh, ilmu faal, ilmu fisika medis, biomedical tranduser serta instrumentasi, desain sistem dan proyek biomedical. Teknik Biomedik juga melibatkan pembelajaran seputar dunia biologi dengan cara yang baru dan diharapkan sekali untuk d apat mengembangkan peralatan atau metode-metode baru untuk memudahkan diagnosis dan ilmu pengobatan, serta untuk memperbaiki organ/ bagian badan yang sakit pada tubuh manusia.",
+  "why": "Para lulusan Teknik Biomedik diharapkan memiliki penguasaan dalam basis matematika, fisika, kimia, dan biologi yang kuat serta ilmu perekayasaan yang menonjol karena bidang pekerjaan yang nanti kedepannya akan berhubungan erat dengan rekayasa medis dan instrumentasi kesehatan. Teknik Biomedik merupakan suatu tempat / wadah bagi para mahasiswa yang ingin melanjutkan pendidikan yang fokus dan terspesialisasi pada pelayanan kesehatan.\r\rDiasuh oleh staf pengajar yang kompeten untuk mendukung bidang teknik biomedik, yaitu yang terkonsentrasi pada bidang Biologi Kontrol, Biologi Molekuler, Biologi Reproduksi, Histopatologi, Biofisika, Instrumentasi medik, Rekayasa genetik dan Kimia medisinal.",
+  "subjects": [
+    "Biologi Dasar",
+    "Kimia Dasar",
+    "Fisika Dasar",
+    "Kalkulus",
+    "Kimia Fisik",
+    "Ilmu Bahan",
+    "Biokimia",
+    "Anatomi Manusia untuk Teknik",
+    "Elektronika Analog",
+    "Fisika Medis",
+    "Rangkaian Listrik",
+    "Matematika Teknik",
+    "Fisiologi Manusia untuk Teknik",
+    "Sistem Pengukuran",
+    "Pemrograman Komputer",
+    "Medan Elektromagnetik",
+    "Elektronika Digital",
+    "Biomaterial",
+    "Pengolahan Sinyal",
+    "Biomekanika",
+    "Komputasi Biomedis",
+    "Sistem Instrument.Medis",
+    "Modalitas Citra Medis",
+    "Biotransportasi",
+    "Analisis Sinyal Biomedis",
+    "Embeded System",
+    "Pemrosesan Citra Biomedis",
+    "Sistem Rekam Medis",
+    "Biofotonik",
+    "Dinamika dan Kontrol Medis",
+    "Analisis Biomaterial",
+    "Sistem Cerdas"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan jurusan ini memiliki peluang yang besar di lapangan kerja dalam bidang kesehatan baik di lembaga layanan kesehatan sebagai tenaga ahli mitra, di bidang industri, maupun bidang pendidikan. \r\rSelain itu lulusan jurusan ini juga memiliki prospek kerja di bidang layanan kesehatan non klinik yaitu menangani peralatan fisik, analisis biologi, dan analisis bahan kimia yang diperlukan dalam bidang medis; dan Bidang Penelitian kesehatan, yaitu sebagai tenaga peneliti yang mengembangkan bahan dan sarana pendukung layanan kesehatan.",
+  "professions": [
+    "Teknisi Proses Biofuel",
+    "Ahli Biostatistik",
+    "Ahli Biologi Molekul dan Sel",
+    "Ahli Biomedis",
+    "Ahli Biokimia dan Biofisika",
+    "Peneliti Bioinformatika",
+    "Ahli Kimia",
+    "Ahli Biologi",
+    "Ahli Teknologi Laboratorium Medis dan Klinis",
+    "Ahli Nanosistem"
+  ],
+  "related_majors": [
+    "kesehatan/pendidikan-dokter",
+    "teknik/teknologi-bioproses",
+    "komputer-teknologi/bioinformatika",
+    "teknik/teknik-elektromedik",
+    "kesehatan/farmasi",
+    "kesehatan/biomedicine",
+    "kesehatan/teknologi-laboratorium-medik-analis-kesehatan-"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 5,
+  "dt_snbp": 123,
+  "dt_snbt": 190,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "321032",
+      "major_university_name": "S1 TEKNIK BIOMEDIS - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.36134,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "192032",
+      "major_university_name": "S1 TEKNIK BIOMEDIS - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 15.2416,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361047",
+      "major_university_name": "S1 TEKNIK BIOMEDIS - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.92157,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381013",
+      "major_university_name": "S1 TEKNIK BIOMEDIS - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.24272,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382029",
+      "major_university_name": "S1 TEKNIK BIOMEDIK - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 6.06061,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

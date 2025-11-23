@@ -1,0 +1,228 @@
+{
+  "idx": 242,
+  "id": "tata-boga",
+  "major_name": "Tata Boga",
+  "icon": null,
+  "description": "Program studi Tata Boga mempelajari teknik penyajian makanan dengan memperhatikan kualitas, rasa, estetika, dan kebutuhan gizi. Kamu akan belajar mengolah berbagai hidangan dari daerah dan negara. Misalnya masakan barat, masakan Cina, masakan timur tengah, masakan italia, dan masakan nusantara. Tidak hanya belajar mengolah makanan, tapi kamu juga akan belajar bagaimana meracik minuman dan mempelajari cara menghidangkannya. Tentu saja kamu juga aspek sanitasi dan hygiene, gizi, dan pelayanan adalah ilmu yang juga harus kamu pelajari di prodi Tata Boga. ",
+  "why": "Masih banyak yang beranggapan kalau prodi Tata Boga identik dengan perempuan. Padahal banyak laki-laki yang sukses berkecimpung di dunia Tata Boga. Selain itu, masih banyak juga yang beranggapan masak-memasak itu mudah. Faktanya di prodi ini kamu tidak hanya belajar memasak dalam prakteknya, namun banyak juga teori yang harus di perhatikan dalam pengolahan, penyajian, dan penhidangan makanan dalam industri kuliner. ",
+  "subjects": [
+    "Etika",
+    "Kimia Dasar",
+    "Matematika",
+    "Sosiologi",
+    "Dasar-dasar Manajemen",
+    "Ilmu Gizi",
+    "Higiene",
+    "Sanitasi",
+    "Kewirausahaan",
+    "Dasar Boga",
+    "Kimia Makanan",
+    "Dekorasi Makanan",
+    "Gizi Terapan",
+    "Kudapan dan Minuman Nusantara",
+    "Pengolahan Makanan Nusantara",
+    "Teknologi Makanan",
+    "Dekorasi Kue",
+    "Pengolahan Makanan Oriental",
+    "Pengolahan Makanan Kontinental",
+    "Makanan untuk Fisiologis Khusus",
+    "Pastry",
+    "Tata Hidang",
+    "Analisis Mutu Pangan",
+    "Bakery",
+    "Pengelolaan Usaha Boga",
+    "Kesehatan dan Keselamatan Kerja"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Terstruktur",
+    "Independen",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Kuliner tidak akan pernah ada matinya. Perkembangan di sektor pariwisata juga ikut serta meningkatkan antusiasme di bidang kuliner. Lulusan Tata Boga dapat berkarir di industri kuliner sendiri, maupun di industri pariwisata. Lulusannya dapat berkarir sebagai koki atau chef, baker, barista, atau bartender di berbagai hotel, restoran, dan kafe. Selain itu, lulusan Tata Boga juga memiliki kesempatan untuk mengembangkan usaha kuliner sendiri. ",
+  "professions": [
+    "Manajer Layanan Makanan (Food Service Managers)",
+    "Barista",
+    "Dekorator Kue",
+    "Baker (Pembuat Roti)",
+    "Chef dan Kepala Koki (Chef and Head Cook)",
+    "Pramusaji"
+  ],
+  "related_majors": [
+    "kesehatan/ilmu-gizi",
+    "seni/tata-busana",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "seni/tata-rias-dan-kecantikan",
+    "ekonomi-bisnis/manajemen-perhotelan",
+    "ekonomi-bisnis/manajemen-industri-katering"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 15,
+  "dt_snbp": 521,
+  "dt_snbt": 771,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323052",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL SENI KULINER - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 2.71226,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323070",
+      "major_university_name": "D4 SENI KULINER DAN PENGOLAHAN JASA MAKANAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334064",
+      "major_university_name": "S1 PENDIDIKAN TATA BOGA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 3.87973,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356036",
+      "major_university_name": "S1 PENDIDIKAN TATA BOGA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 6.41248,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362038",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK BOGA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 2.43346,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362084",
+      "major_university_name": "D4 TATA BOGA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122039",
+      "major_university_name": "S1 PENDIDIKAN TATA BOGA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 10.7209,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142064",
+      "major_university_name": "D3 TATA BOGA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373047",
+      "major_university_name": "S1 PENDIDIKAN TATA BOGA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.82524,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373069",
+      "major_university_name": "D4 TATA BOGA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 11.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383059",
+      "major_university_name": "S1 PENDIDIKAN TATA BOGA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.4283,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383073",
+      "major_university_name": "D4 TATA BOGA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 18.6813,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712081",
+      "major_university_name": "D4 TATA BOGA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 9.94152,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "563008",
+      "major_university_name": "D3 TATA BOGA - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612043",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL SENI KULINER - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 26.4706,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "idx": 264,
+  "id": "teknik-kimia",
+  "major_name": "Teknik Kimia",
+  "icon": null,
+  "description": "Teknik Kimia merupakan cabang ilmu teknik mempelajari bagaimana proses dan cara mengubah bahan baku/mentah dan bahan kimia menjadi sebuah produk yang lebih bernilai secara komersial dengan memanfaatkan proses-proses kimia, seperti reaksi kimia dan biokimia maupun perubahan sifat fisik dan kimia bahan mentah. Mahasiswa jurusan Teknik Kimia dididik untuk dapat merencanakan dan merancang alat-alat proses, mengoperasikan, mengendalikan dan memelihara pabrik / industri, mengkontruksi pendirian suatu pabrik (dalam batas batas tertentu), mengadakan penelitian dan pengembangan proses, bahkan merencanakan serta mengelola penjualan dan pelayanan.",
+  "why": "Kehidupan manusia tidak dapat dipisahkan dengan berbagai produk yang dihasilkan dari berbagai proses-proses kimia. Produk-produk yang dimaksud adalah produk seperti pakaian, bahan bakar pupuk, plastik, bahan peledak, produk farmasi yang dikonsumsi, hingga makanan yang dikonsumsi setiap hari. Oleh sebab itu, kamu yang tertarik dengan proses pengolahan bahan mentah menjadi suatu produk melalui reaksi kimia sangat cocok untuk masuk ke jurusan ini.",
+  "subjects": [
+    "Kimia Dasar",
+    "Mikrobiologi",
+    "Fisika Dasar",
+    "Kimia Analisa",
+    "Kalkulus",
+    "Kimia Organik",
+    "Kimia Fisika",
+    "Azas Teknik Kimia",
+    "Analisa & Pengolahan Data",
+    "Matematika Rekayasa",
+    "Transfer Momentum",
+    "Pengantar Ilmu Lingkungan",
+    "Tekno Ekonomi",
+    "Transfer Panas",
+    "Operasi Teknik Kimia",
+    "Thermodinamika Teknik Kimia",
+    "Manajemen Pabrik Kimia",
+    "Ekonomi Teknik",
+    "Desain Pabrik Kimia",
+    "Sistem Utilitas Pabrik",
+    "Matematika Teknik Kimia",
+    "Teknik Reaksi Kimia",
+    "Aplikasi Teknik Kimia",
+    "Komputasi Numerik Terapan",
+    "Desain Alat Industri Kimia",
+    "Pengendalian Proses",
+    "Sintesa dan Simulasi Proses",
+    "Teknologi Pengolahan Hasil Pertanian",
+    "Teknologi Material",
+    "Teknologi Energi dan Petrokimia",
+    "Teknologi Pemisahan dan Pemurnian",
+    "Bioteknologi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Teknik Kimia dapat bekerja di berbagai macam jenis industri kimia seperti: industri perminyakan dan gas alam, pertambangan batu bara, industri semen, industri pupuk, industri polimer, industri pulp dan kertas, industri petrokimia, industri plastik, industri farmasi, industri makanan dan minuman, industri keramik, industri gelas dan industri pengolahan limbah. Selain di Industri kimia, seorang sarjana Teknik Kimia dapat juga bekerja di bidang penelitian, pendidikan, pemasaran, manufaktur peralatan industri jasa konsultan dan kewirausahaan.",
+  "professions": [
+    "Spesialis Kimia",
+    "Ahli Teknik Kimia",
+    "Ahli Kimia",
+    "Pengajar Kimia"
+  ],
+  "related_majors": [
+    "teknik/teknik-industri",
+    "mipa/kimia",
+    "mipa/biokimia",
+    "teknik/teknik-material",
+    "teknik/teknologi-pulp-dan-kertas",
+    "mipa/fisika",
+    "teknik/teknik-nuklir",
+    "teknik/rekayasa-hayati",
+    "teknik/teknik-fisika"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 44,
+  "dt_snbp": 1666,
+  "dt_snbt": 2242,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "131016",
+      "major_university_name": "S1 TEKNIK KIMIA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 7.69231,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311005",
+      "major_university_name": "S1 TEKNIK KIMIA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 19.1083,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "382038",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KIMIA INDUSTRI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382008",
+      "major_university_name": "S1 TEKNIK KIMIA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 9.45559,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372037",
+      "major_university_name": "S1 TEKNIK KIMIA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 9.46746,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371030",
+      "major_university_name": "S1 TEKNIK KIMIA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 27.5556,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363006",
+      "major_university_name": "S1 TEKNIK KIMIA - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 20.1005,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361033",
+      "major_university_name": "S1 TEKNIK KIMIA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 8.67052,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356018",
+      "major_university_name": "S1 TEKNIK KIMIA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 15.4242,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355075",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KIMIA INDUSTRI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355020",
+      "major_university_name": "S1 TEKNIK KIMIA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 10.1124,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353083",
+      "major_university_name": "D3 TEKNIK KIMIA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353011",
+      "major_university_name": "S1 TEKNIK KIMIA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.54871,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331010",
+      "major_university_name": "S1 TEKNIK KIMIA - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 18.7134,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321014",
+      "major_university_name": "S1 TEKNIK KIMIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 9.64286,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431033",
+      "major_university_name": "D3 TEKNIK KIMIA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171003",
+      "major_university_name": "S1 TEKNIK KIMIA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 18.4211,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121006",
+      "major_university_name": "S1 TEKNIK KIMIA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 9.39457,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811036",
+      "major_university_name": "S1 TEKNIK KIMIA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 250,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "474006",
+      "major_university_name": "D4 TEKNOLOGI KIMIA INDUSTRI - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 19.9219,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474023",
+      "major_university_name": "D3 TEKNIK KIMIA - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511030",
+      "major_university_name": "S1 TEKNIK KIMIA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 46.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531017",
+      "major_university_name": "S1 TEKNIK KIMIA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 45.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541025",
+      "major_university_name": "S1 TEKNIK KIMIA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 35.7143,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542005",
+      "major_university_name": "S1 TEKNIK KIMIA - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 54.0541,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562003",
+      "major_university_name": "D4 TEKNOLOGI KIMIA INDUSTRI - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 58.1818,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385003",
+      "major_university_name": "S1 TEKNIK KIMIA - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 21.7822,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562014",
+      "major_university_name": "D3 PETRO DAN OLEO KIMIA - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716004",
+      "major_university_name": "D4 TEKNOLOGI KIMIA INDUSTRI - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111004",
+      "major_university_name": "S1 TEKNIK KIMIA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 42.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "363022",
+      "major_university_name": "D3 TEKNIK KIMIA - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "271031",
+      "major_university_name": "D3 TEKNIK KIMIA - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271006",
+      "major_university_name": "D4 TEKNOLOGI KIMIA INDUSTRI - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 58.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "221002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KIMIA INDUSTRI - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 36.5591,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192016",
+      "major_university_name": "S1 TEKNIK KIMIA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 41.2371,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191019",
+      "major_university_name": "S1 TEKNIK KIMIA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 46.875,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151031",
+      "major_university_name": "S1 TEKNIK KIMIA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 39.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131055",
+      "major_university_name": "D3 TEKNIK KIMIA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "291004",
+      "major_university_name": "D4 TEKNOLOGI REKASAYA KIMIA INDUSTRI - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 237.5,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271021",
+      "major_university_name": "D3 TEKNIK KIMIA (KAMPUS KAB SIAK) - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221027",
+      "major_university_name": "D3 TEKNOLOGI KIMIA - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716015",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KIMIA - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716027",
+      "major_university_name": "TEKNIK KIMIA MINERAL KAMPUS KABUPATEN BONE - POLITEKNIK NEGERI UJUNG PANDANG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112003",
+      "major_university_name": "S1 TEKNIK KIMIA - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 94.0741,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

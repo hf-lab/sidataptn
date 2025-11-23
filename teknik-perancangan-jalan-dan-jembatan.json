@@ -1,0 +1,323 @@
+{
+  "idx": 276,
+  "id": "teknik-perancangan-jalan-dan-jembatan",
+  "major_name": "Teknik Perancangan Jalan dan Jembatan",
+  "icon": null,
+  "description": "Teknik Perancangan Jalan dan Jembatan adalah salah satu ilmu teknik yang menspesialisasikan dalam perancangan dan pembuatan jalan dan jembatan, khususnya jalan bebas hambatan, atau yang lebih dikenal dengan sebutan jalan tol. Program studi ini masih merupakan bagian dari jurusan Teknik Sipil, karenanya pelajarannya tidak akan jauh-jauh dari Teknik Sipil. Kamu akan belajar berbagai aspek dalam pembuatan jalanan dan jembatan, mulai dari pembuatan desain jalan dan jembatan, mempelajari geografi dan struktur tanah, memilih bahan baku, dampak sosial dari pembangunan, pembuatan jalan tersebut dan cara merawat jalanan dan jembatan yang sudah selesai. Selain itu, di prodi ini kamu akan banyak mempelajari tentang perhitungan biaya dan manajemen kontrak konstruksi.",
+  "why": "Pertumbuhan jalan di Indonesia, terutama di kota-kota besar, harus dibarengi dengan pertumbuhan jumlah kendaraan, jika tidak, akan menimbulkan berbagai permasalahan, salah satunya kemacetan. Untuk itu dibangun infrastruktur tambahan seperti jalan tol dan jembatan. Pembangunan ini membutuhkan tenaga-tenaga profesional di bidang sipil dan perencanaan yang siap kerja. Prodi ini merupakan program vokasi dengan jenjang studi Diploma IV (D4), sehingga selama perkuliahan kamu akan mendapatkan kegiatan praktek dengan porsi lebih besar dibanding teori, karenanya setelah lulus, kamu akan siap untuk terjun ke dunia kerja, khususnya berbagai proyek pembangunan jalan dan jembatan.",
+  "subjects": [
+    "Matematika Terapan",
+    "Fisika Terapan",
+    "Mekanika Teknik",
+    "Ilmu Ukur Tanah",
+    "Teknologi Bahan",
+    "Gambar Teknik",
+    "Praktek Drainase",
+    "Praktek Batu",
+    "Praktek Uji Bahan",
+    "Praktek Ukur Tanah",
+    "Praktek Beton",
+    "Praktek Formwork",
+    "Dasar-dasar Manajemen Konstruksi",
+    "Hidrolika",
+    "Praktek Pelaksanaan Konstruksi",
+    "Praktek Pelayanan Lalin & Pemeliharaan Jalan Tol",
+    "Konstruksi Beton",
+    "Pondasi",
+    "Ekonomi Teknik",
+    "Geometrik Jalan Tol",
+    "Praktek Uji Tanah",
+    "Kontrak Manajemen Konstruksi",
+    "Praktek Perkerasan Jalan Tol",
+    "Hidrologi",
+    "Penjadwalan Proyek Konstruksi",
+    "Beton Prategang",
+    "Estimasi Biaya",
+    "Teknik Lalulintas",
+    "Ekonomi dan Keuangan Jalan Tol",
+    "Drainase Jalan Tol",
+    "Studi Kelayakan Jalan Tol",
+    "Pengadaan Tanah Jalan Tol",
+    "Konstruksi Jembatan",
+    "Pemeliharaan Jalan Tol"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Untuk prospek kerja, lulusan Teknik Perancangan Jalan dan Jembatan umumnya bisa langsung terjun ke dunia kerja, dan banyak dicari oleh perusahaan-perusahaan yang bergerak di bidang konstruksi, seperti konsultan perencana konstruksi, pengembang (developer), kontraktor, hingga pengusaha supplier bahan konstruksi atau pemborong. Lulusan prodi ini juga dapat berkarir di instansi pemerintahan dan BUMN, misalnya Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) atau Kementerian Perhubungan (Kemenhub) dan PT Jasa Marga sebagai BUMN yang merupakan penyelenggara jalan tol di Indonesia.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Teknisi Sipil",
+    "Drafter Sipil",
+    "Pengawas Konstruksi dan Bangunan"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "ekonomi-bisnis/manajemen-transportasi",
+    "teknik/teknik-ekonomi-konstruksi-quantity-surveyor-",
+    "teknik/teknik-perencanaan-wilayah-dan-kota-planologi-",
+    "teknik/teknik-bangunan-dan-landasan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 25,
+  "dt_snbp": 651,
+  "dt_snbt": 826,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "431001",
+      "major_university_name": "D4 TEKNIK PERANCANGAN JALAN DAN JEMBATAN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 7.8125,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "641001",
+      "major_university_name": "D4 PERANCANGAN JALAN DAN JEMBATAN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241005",
+      "major_university_name": "D4 PERANCANGAN JALAN DAN JEMBATAN - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 13.4831,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452002",
+      "major_university_name": "D4 PERANCANGAN JALAN DAN JEMBATAN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 12.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421002",
+      "major_university_name": "D4 TEKNIK PERANCANGAN JALAN DAN JEMBATAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 13.8122,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562004",
+      "major_university_name": "D4 REKAYASA JALAN & JEMBATAN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 33.0357,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "516002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": 70.1754,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474024",
+      "major_university_name": "D3 TEKNOLOGI KONSTRUKSI JALAN, JEMBATAN, DAN BANGUNAN AIR - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474009",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 13.2597,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271001",
+      "major_university_name": "D4 PERANCANGAN JALAN DAN JEMBATAN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 23.7458,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "232003",
+      "major_university_name": "D4 TEKNIK PERANCANGAN JALAN DAN JEMBATAN - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 97.6744,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "222001",
+      "major_university_name": "D4 TEKNIK PERANCANGAN JALAN DAN JEMBATAN - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 14.3617,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731063",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "831003",
+      "major_university_name": "D4 TEKNIK KONSTRUKSI JALAN DAN JEMBATAN - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 184,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727002",
+      "major_university_name": "D4 TEKNIK JALAN JEMBATAN - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 151.515,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 50.7042,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "563001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": 74.5455,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "931001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "537002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": 157.895,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "536002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": 141.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515029",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "471010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI JALAN DAN JEMBATAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 155.556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271008",
+      "major_university_name": "D4 PERANCANGAN JALAN DAN JEMBATAN PSDKU OKU - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 172.727,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221019",
+      "major_university_name": "D3 TEKNOLOGI KONSTRUKSI JALAN DAN JEMBATAN - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

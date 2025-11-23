@@ -1,0 +1,402 @@
+{
+  "idx": 300,
+  "id": "teknologi-pangan",
+  "major_name": "Teknologi Pangan",
+  "icon": null,
+  "description": "Program studi Teknologi Pangan mempelajari proses produksi makanan dan memastikan makanan yang diproduksi aman untuk dikonsumsi dan memenuhi kebutuhan gizi konsumen. Maka dari itu, di prodi ini kamu juga akan mempelejari komponen kimiawi dan biologis di dalam makanan yang dapat berefek pada tubuh manusia. Selain itu, prodi Teknologi Pangan turut mempelajari efek sosial dari makananan yang kita konsumsi,termasuk bagaimana makananan mempengaruhi aspek ekonomi, psikologi dan kebudayaan kita. Disini kamu akan belajar bagaimana teknologi pengawetan, pemrosesan, pengemasan, penyimpanan, hingga produk makanan tersebut sampai di tangan konsumen untuk di konsumsi. ",
+  "why": "Dewasa ini masyarakat mulai sadar dan peduli bagaimana makananan dapat memengaruhi kesehatan mereka, Oleh karena itu, masyarakat kini lebih selektif dalam memilih dan membeli makanan. Bagaimana produk makanan diolah sehingga memproduksi makanan yang berkualitas akan dipelajari di program studi ini. Kalau kamu tertarik mendalami ilmu tentang pengolahan bahan pangan atau ingin bekerja di industri makanan dan minuman, program studi ini bisa banget menjadi pilihanmu.",
+  "subjects": [
+    "Kalkulus",
+    "Biologi Dasar",
+    "Fisika Dasar",
+    "Kimia Organik",
+    "Kimia Analitik",
+    "Kimia Fisik",
+    "Mikrobiologi Dasar",
+    "Kimia Pangan",
+    "Biokimia Pangan Dasar",
+    "Mikrobiologi Pangan",
+    "Satuan Operasi Industri Pangan",
+    "Prinsip Proses Pengolahan Pangan",
+    "Teknologi Fermentasi Pangan",
+    "Keamanan dan Sanitasi Pangan",
+    "Metabolisme Komponen Pangan",
+    "Prinsip Teknik Pangan",
+    "Karakteristik Bahan Pangan",
+    "Teknologi Pengolahan Pangan",
+    "Evaluasi Sensori",
+    "Analisis Pangan",
+    "Peraturan Pangan",
+    "Jaminan Mutu Pangan",
+    "Bahan Tambahan Pangan",
+    "Teknologi Pengemasan dan Penyimpanan",
+    "Evaluasi Biologis Komponen Pangan",
+    "Pangan Fungsional",
+    "Teknologi Flavor",
+    "Teknologi Pengolahan Minyak dan Lemak",
+    "Sistem Jaminan Halal",
+    "Teknologi Pengalengan Pangan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek karir bagi lulusan Teknologi Pangan tidak lain adalah di industri produk makanan. Sangat banyak idustri yang bergerak di bidang makanan, baik makanan cepat saji, makanan kaleng, produk olahan susu, dan sebagainya. Industri ini membutuhkan lulusan Teknologi Pangan sebagai ahli quality control yang memeriksa dan melakukan pengecekan terhadap kualitas bahan baku, alat, dan produk yang dihasilkan, juga sebagai pengembang produk yang dapat menyumbang inovasi baru untuk produk-produk yang dihasilkan.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Manager Pertanian dan Peternakan",
+    "Ahli Teknik Pertanian",
+    "Teknisi Ilmu Pangan",
+    "Manajer Kontrol Kualitas Sistem",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Ahli Diet dan Nutrisi",
+    "Ahli Teknologi Rasa"
+  ],
+  "related_majors": [
+    "kesehatan/ilmu-gizi",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-",
+    "mipa/mikrobiologi",
+    "pertanian/teknologi-hasil-ternak"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 34,
+  "dt_snbp": 1151,
+  "dt_snbt": 1555,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "121017",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.1958,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341018",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 4.16298,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353006",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.92157,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "192024",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 17.6344,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711009",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 16.5165,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621017",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 19.2214,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611005",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 11.5108,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511025",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 28.0899,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385005",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 6.80128,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382042",
+      "major_university_name": "S1 TEKNIK PANGAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 3.53982,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372009",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.56045,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361041",
+      "major_university_name": "S1 TEKNOLOGI PANGAN DAN HASIL PERTANIAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 4.90342,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355030",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.04626,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "352021",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351018",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 4.82759,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333014",
+      "major_university_name": "S1 TEKNOLOGI  PANGAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 5.00835,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311017",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 11.4815,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "358002",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UINSAID",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN MAS SAID SURAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721011",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 97.2222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642009",
+      "major_university_name": "TEKNOLOGI PANGAN - POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "271027",
+      "major_university_name": "D3 TEKNOLOGI PANGAN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542020",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 89.5833,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472011",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PANGAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 57.8313,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472004",
+      "major_university_name": "D4 TEKNIK PRODUKSI TANAMAN PANGAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 46.7532,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291017",
+      "major_university_name": "D3 TEKNOLOGI PANGAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472026",
+      "major_university_name": "D3 TEKNOLOGI INDUSTRI PANGAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "242010",
+      "major_university_name": "D3 TEKNOLOGI PANGAN - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "642006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PANGAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 1000,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "242004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PANGAN - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": 142.308,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "717005",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PANGAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "718004",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751022",
+      "major_university_name": "S1 ILMU DAN TEKNOLOGI PANGAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 58.1395,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752024",
+      "major_university_name": "S1 ILMU TEKNOLOGI PANGAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 231.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911055",
+      "major_university_name": "S1 TEKNOLOGI PANGAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

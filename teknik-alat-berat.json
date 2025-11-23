@@ -1,0 +1,166 @@
+{
+  "idx": 247,
+  "id": "teknik-alat-berat",
+  "major_name": "Teknik Alat Berat",
+  "icon": null,
+  "description": "Teknik Alat Berat adalah suatu program studi yang mempelajari penerapan ilmu fisika dalam praktik mesin-mesin besar yang berfungsi untuk membantu kegiatan konstruksi. Mesin-mesin besar yang dimaksud adalah alat berat seperti escavator, bulldozer, grader, wheel loader, forklift, dan sebagainya. Pada program studi ini akan dipelajari teknik perancangan dan produksi alat berat, serta metode perawatannya. Program studi Teknik Alat Berat berbasis vokasi dengan jenjang Diploma 3 (D3).",
+  "why": "Sumber daya alam yang tersedia di muka bumi ini sangat berlimpah, dan untuk mengeksploitasinya manusia membutuhkan bantuan tenaga dari alat berat. Karenanya alat berat punya peranan yang penting dalam kegiatan pertambangan dan konstruksi. Kalau ingin mempelajari Teknik Alat Berat, tidak cukup dengan hanya suka matematika dan fisika, kamu juga harus punya fisik yang kuat. Nggak heran, bisa dibayangkan besarnya komponen-komponen mesin alat berat, kan?",
+  "subjects": [
+    "Matematika Teknik",
+    "Fisika Teknik",
+    "Praktek Gambar Teknik",
+    "Mekanika Struktur",
+    "Bahan Teknik",
+    "Metrologi",
+    "Listrik Dasar",
+    "Thermodinamika",
+    "Elektronika",
+    "Elemen Mesin",
+    "Perpindahan Panas",
+    "Mesin Listrik",
+    "Mekanika Fluida",
+    "Mesin Diesel",
+    "Pengantar Alat Berat",
+    "Kinematik dan Dinamika Teknik",
+    "Kontrol dan Otomasi",
+    "Sistem Hidrolik",
+    "Sistem Penggerak",
+    "Sistem Pendingin",
+    "Undercarriage and Tyre",
+    "Perawatan Mesin",
+    "Standarisasi dan Sistem Mutu",
+    "Bahan Bakar dan Minyak Pelumas",
+    "Praktek Pengelasan Logam"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Berbagai industri masih sangat membutuhkan tenaga ahli di bidang alat berat, bukan hanya sebagai operator, tapi juga sebagai tenaga maintenance, teknisi, dan manufaktur. Tenaga ahli di bidang alat berat nantinya akan dibutuhkan di perusahaan-perusahaan distributor alat berat, juga di bidang konstruksi dan pertambangan.",
+  "professions": [
+    "Mekanik Mesin Industri"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/teknik-refrigerasi-dan-tata-udara",
+    "teknik/teknik-mesin"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 9,
+  "dt_snbp": 225,
+  "dt_snbt": 301,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "241018",
+      "major_university_name": "D3 TEKNIK ALAT BERAT - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421016",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMELIHARAAN ALAT BERAT - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 27.3438,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562024",
+      "major_university_name": "D3 TEKNIK ALAT BERAT - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361055",
+      "major_university_name": "D4 TEKNIK PENGELOLAAN DAN PERAWATAN ALAT BERAT - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "536017",
+      "major_university_name": "D3 ALAT BERAT - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "563006",
+      "major_university_name": "D3 ALAT BERAT - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716026",
+      "major_university_name": "D3 PERAWATAN ALAT BERAT - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "537008",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMELIHARAAN ALAT BERAT - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "552002",
+      "major_university_name": "D3 TEKNIK ALAT BERAT - PNN",
+      "university_name": "POLITEKNIK NEGERI NUNUKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

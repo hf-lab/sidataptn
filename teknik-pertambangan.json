@@ -1,0 +1,345 @@
+{
+  "idx": 281,
+  "id": "teknik-pertambangan",
+  "major_name": "Teknik Pertambangan",
+  "icon": null,
+  "description": "Program studi Teknik Pertambangan merupakan salah satu cabang dari ilmu teknik yang berfokus pada ilmu tentang eksplorasi dan eksploitasi bahan galian/sumber daya mineral seperti emas, perak, alumunium, besi, dan sebagainya, serta batu bara. Pada program studi Teknik Pertambangan kita akan mempelajari proses pertambangan yang terdiri dari kegiatan penyelidikan umum (prospeksi), eksplorasi penambangan, pengolahan bahan tambang (eksploitasi), pengangkutan, sampai dengan pemasaran hasil tambang.\r\rSerupa dengan program studi “serumpun”nya, Teknik Perminyakan, program studi ini merupakan program studi yang sangat banyak peminatnya. Katanya, sih lulusan program studi ini duitnya banyak, lho!",
+  "why": "Bumi ini menyimpan kekayaan alam yang sangat berlimpah. Tinggal bagaimana manusia memafaatkan kekayaan alam tersebut sebaik mungkin. Terlebih di Indonesia, ada banyak mineral dan logam mulia yang bersarang di perut bumi Indonesia. Namun sayangnya Indonesia belum mandiri buat mengolah kekayaan alamnya sendiri dan masih banyak mengandalkan asing. \r\rBerhubung kegiatan pertambangan di dunia masih banyak di kuasai asing, maka kesempatan untuk bergabung di industri pertambangan perusahaan asing pun juga terbuka lebar. That’s why para ahli yang bekerja di industri ini banyak yang berkarier di luar negeri dengan gaji fantastis. Nggak heran kenapa banyak yang minat masuk program studi ini, kan?\r",
+  "subjects": [
+    "Kalkulus",
+    "Fisika Dasar",
+    "Pengantar Teknologi Sumberdaya Bumi",
+    "Eksplorasi Tambang",
+    "Geologi Dasar",
+    "Kristalografi dan Mineralogi",
+    "Matematika Teknik",
+    "Teknik Gas Bumi",
+    "Teknik Reservoir",
+    "Fisika Teknik",
+    "Ekonomi Mineral",
+    "Komputasi Tambang",
+    "Manajemen Pertambangan",
+    "Geomorfologi",
+    "Mekanika Batuan",
+    "Kebijakan Mineral",
+    "Metalurgi Umum",
+    "Pemetaan Geologi",
+    "Genesa Bahan Galian",
+    "Teknik Eksplorasi",
+    "Teknik Peledakan",
+    "Amdal Pertambangan",
+    "Kesehatan dan Keselamatan Kerja",
+    "Hidrogeologi",
+    "Geoteknik Tambang",
+    "Pengolahan Bahan Galian",
+    "Sistem Penyaliran Tambang",
+    "Evaluasi Proyek Tambang",
+    "Hukum Pertambangan dan Ketenagakerjaan",
+    "Gambar Teknik",
+    "Mekanika Teknik",
+    "Mekanika Tanah"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan Teknik Pertambangan nantinya bisa bekerja di berbagai perusahaan pertambangan, menjadi akademisi, bergabung di instansi pemerintah seperti Kementerian Energi dan Sumber Daya Mineral, BUMN, dan sebagainya. Psst, lulusan Teknik Pertambangan nggak melulu harus turun lapangan dan mengunjungi area-area tambang yang memiliki resiko kecelakaan tinggi lho. Mereka juga bisa bekerja sebagai surveyor pertambangan, analis, dan bahkan konsultan.",
+  "professions": [
+    "Ahli Teknik Energi",
+    "Ahli Pengeboran Bumi (Non Minyak dan Gas)",
+    "Admin Database",
+    "Ahli Tambang dan Geologi",
+    "Ahli Hidrologi",
+    "Teknisi Laboratorium Non Klinis"
+  ],
+  "related_majors": [
+    "teknik/teknik-metalurgi",
+    "teknik/teknik-geologi",
+    "teknik/teknik-perminyakan",
+    "teknik/teknik-sipil",
+    "teknik/teknik-material",
+    "teknik/teknik-alat-berat"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 27,
+  "dt_snbp": 776,
+  "dt_snbt": 1284,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "371039",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 6.91964,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "751029",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 2.77311,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711034",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 3.31126,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541020",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 5.44662,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "363002",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 5.93376,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171002",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 4.6332,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151021",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 15.6904,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142016",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 2.76923,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "181003",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 21.1538,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192026",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 12.0401,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322016",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 14.0741,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474022",
+      "major_university_name": "D3 TEKNOLOGI PERTAMBANGAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511026",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 11.4679,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111029",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 6.81818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "521012",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 13.6816,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531016",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 6.09756,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "821018",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 27.5862,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911015",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 20.9877,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631021",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 36.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142068",
+      "major_university_name": "D3 TEKNIK PERTAMBANGAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "516006",
+      "major_university_name": "D3 TEKNOLOGI PERTAMBANGAN - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "753004",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 70.8333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536016",
+      "major_university_name": "D3 TEKNIK PERTAMBANGAN - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142074",
+      "major_university_name": "D3 TEKNIK PERTAMBANGAN (KAMPUS KABUPATEN SAWAHLUNTO) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911048",
+      "major_university_name": "D3 TEKNIK MINERAL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921013",
+      "major_university_name": "S1 TEKNIK PERTAMBANGAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 96,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921042",
+      "major_university_name": "D3 TEKNIK PERTAMBANGAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

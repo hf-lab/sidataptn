@@ -1,0 +1,261 @@
+{
+  "idx": 265,
+  "id": "teknik-konstruksi-gedung",
+  "major_name": "Teknik Konstruksi Gedung",
+  "icon": null,
+  "description": "Program studi Teknik Konstruksi Gedung mempelajari tentang bagaimana caranya merencanakan, melaksanakan pekerjaan, dan pengawasan pada konstruksi gedung skala kecil; membantu merencanakan, melaksanakan pekerjaan, dan melaksanakan pengawasan pada konstruksi gedung skala medium; membantu mengelola sumberdaya (alat, bahan, tenaga, waktu, dan dana) pada pekerjaan skala medium; membantu menganalisis dan menerapkan data hasil pengujian mutu di lapangan maupun di laboratorium dalam pekerjaan skala medium; membantu menyusun dokumen kontrak; menyusun laporan pelaksanaan pekerjaaan; melaksanakan pekerjaan teknis lapangan pada pekerjaan kompleks; mengidentifikasi kerusakan dan melaksanakan perbaikan bangunan gedung skala medium.",
+  "why": "Kalau kamu tertarik mempelajari seluk-beluk sebuah konstruksi gedung dan ingin memiliki keterampilan dalam bidang pembangunan infrastruktur, program studi ini cocok banget buat kamu. Di prodi ini kamu nggak hanya mempelajari mengenai perencanaan dan perancangan, tapi juga teknis pembangunan, perawatan, hingga perbaikan kerusakan gedung dalam berbagai ukuran.",
+  "subjects": [
+    "Matematika Terapan",
+    "Gambar Teknik",
+    "Mekanika Tanah",
+    "Mekanika Rekayasa",
+    "Bahan Bangunan",
+    "Hidrolika",
+    "Manejemen Konstruksi",
+    "Hidrolika",
+    "Konstruksi Baja",
+    "Alat Berat",
+    "Rekayasa Pondasi",
+    "Konstruksi Kayu",
+    "Rekayasa Jalan",
+    "Konstruksi Beton",
+    "Bengkel Pemipaan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dengan semakin gencarnya pembangunan infrastruktur dalam beberapa tahun terakhir, prospek kerja lulusan Teknik Konstruksi Gedung pun dapat dibilang cukup mumpuni. Alumni dari program studi ini dapat bekerja sebagai pengawas konstruksi sipil, konsultan perencana infrastruktur, atau kontraktor di perusahaan-perusahaan konstruksi.",
+  "professions": [],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "teknik/teknik-bangunan-dan-landasan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 21,
+  "dt_snbp": 450,
+  "dt_snbt": 683,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "323011",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL KONSTRUKSI  BANGUNAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 23.3766,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323068",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371066",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421001",
+      "major_university_name": "D4 TEKNIK KONSTRUKSI GEDUNG - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 14.2292,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562032",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431002",
+      "major_university_name": "D4 TEKNIK PERAWATAN DAN PERBAIKAN GEDUNG - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 12.4464,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431022",
+      "major_university_name": "D3 TEKNIK KONSTRUKSI GEDUNG - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452001",
+      "major_university_name": "D4 TEKNIK PERAWATAN DAN PERBAIKAN GEDUNG - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 14,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716002",
+      "major_university_name": "D4 JASA KONSTRUKSI - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 27.4074,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716001",
+      "major_university_name": "D4 PERANCANGAN BANGUNAN GEDUNG - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 24.0741,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617024",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN AIR - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "617005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 62.7907,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "452026",
+      "major_university_name": "D3 KONSTRUKSI GEDUNG - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421032",
+      "major_university_name": "D3 KONSTRUKSI GEDUNG - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382034",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN AIR - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "222002",
+      "major_university_name": "D4 MANAJEMEN REKAYASA KONSTRUKSI GEDUNG - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 36,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "221011",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN GEDUNG - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 124.242,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716017",
+      "major_university_name": "D3 TEKNIK KONSTRUKSI GEDUNG - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727001",
+      "major_university_name": "D4 KONSTRUKSI BANGUNAN GEDUNG - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 121.951,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "562033",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN AIR - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221016",
+      "major_university_name": "D3 TEKNOLOGI KONSTRUKSI BANGUNAN AIR - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

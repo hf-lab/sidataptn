@@ -1,0 +1,177 @@
+{
+  "idx": 263,
+  "id": "teknik-kelautan",
+  "major_name": "Teknik Kelautan",
+  "icon": null,
+  "description": "Teknik Kelautan adalah sebuah program studi untuk para mahasiswa yang ingin mempelajari rekayasa kelautan. Program studi ini sama sekali tidak berhubungan dengan biota dan jenis-jenis hewan di laut, melainkan mempelajari bangunan dan struktur yang berhubungan dengan laut. Sebenarnya Teknik Kelautan adalah pengembangan dari Teknik Sipil, namun lebih spesifik mempelajari struktur-struktur di garis pantai dan lepas pantai. Selain itu, Teknik Kelautan juga mempelajari teknik perkapalan dan manajemen sumber daya kelautan. ",
+  "why": "Indonesia adalah negeri maritim dengan lebih dari 70% wilayahnya adalah laut. Oleh karena itu, tidak salah apabila kamu mengambil jurusan teknik kelautan. Para lulusan program studi ini punya peran penting dalam pembangunan di daerah laut, seperti pengeboran minyak lepas pantai, pemecah ombak, reklamasi, pelindung abrasi, dan infrastruktur transportasi laut. ",
+  "subjects": [
+    "Kalkulus",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Analisa Rekayasa Dasar",
+    "Mekanika Fluida",
+    "Statistika & Probabilitas",
+    "Geoteknik Kelautan",
+    "Bahan Bangunan Laut",
+    "Mekanika Gelombang Air",
+    "Mekanika Bahan",
+    "Metode Numerik",
+    "Pengetahuan Fisik Laut",
+    "Hidrodinamika",
+    "Analisis Struktur Met Matrik",
+    "Struktur Beton Bertulang",
+    "Akustik Bawah Air",
+    "Gelombang Acak",
+    "Dinamika Struktur",
+    "Struktur Baja",
+    "Proses Pantai",
+    "Manajemen Konstruksi Bangunan Laut",
+    "Lingkungan Laut",
+    "Perencanaan Prasarana Pelabuhan",
+    "Bangunan Pantai",
+    "Anjungan Lepas Pantai",
+    "Perencanaan Dermaga Pelabuhan",
+    "Pipa Bawah Laut",
+    "Struktur Terapung"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Teknik Kelautan tentu keahliannya sangat dibutuhkan oleh banyak industri, terutama jika industri tersebut punya hubungan erat dengan laut. Misal PLN ingin membangun pembangkit tenaga gelombang laut, atau Pertamina ingin mendirikan pengeboran lepas pantai, mereka pasti membutuhkan tenaga ahli teknik kelautan. ",
+  "professions": [
+    "Manajer Arsitektur dan Insinyur",
+    "Teknisi Sipil",
+    "Manajer Konstruksi",
+    "Ahli Perkapalan",
+    "Pengajar Ilmu Atmosfir, Ilmu Bumi, Ilmu Kelautan, Ilmu Luar Angkasa",
+    "Insinyur Sipil",
+    "Pengawas Konstruksi dan Bangunan",
+    "Manajer Akuakultural",
+    "Manajer Transportasi",
+    "Insinyur Perkapalan"
+  ],
+  "related_majors": [
+    "teknik/teknik-perkapalan",
+    "teknik/teknik-sistem-perkapalan",
+    "teknik/oseanografi"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 9,
+  "dt_snbp": 208,
+  "dt_snbt": 350,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "382018",
+      "major_university_name": "S1 TEKNIK KELAUTAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 20.2247,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "832001",
+      "major_university_name": "D4 TEKNOLOGI KELAUTAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": 2700,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "192019",
+      "major_university_name": "S1 TEKNIK KELAUTAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 63.0252,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511029",
+      "major_university_name": "S1 TEKNIK KELAUTAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 67.7419,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542014",
+      "major_university_name": "S1 TEKNIK KELAUTAN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 106.667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711030",
+      "major_university_name": "S1 TEKNIK KELAUTAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 38.1295,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "717018",
+      "major_university_name": "D3 TEKNIK KELAUTAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727016",
+      "major_university_name": "D3 EKOWISATA BAWAH LAUT - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751042",
+      "major_university_name": "S1 TEKNIK KELAUTAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

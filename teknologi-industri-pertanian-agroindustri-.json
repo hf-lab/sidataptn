@@ -1,0 +1,444 @@
+{
+  "idx": 298,
+  "id": "teknologi-industri-pertanian-agroindustri-",
+  "major_name": "Teknologi Industri Pertanian (Agroindustri)",
+  "icon": null,
+  "description": "Program studi Industri Pertanian atau Agroindustri mempelajari tentang teknologi industri pertanian dengan model pembelajaran berbasis riset. Mahasiswa akan mendalami bidang agroindustri dengan penguasaan kaidah-kaidah penelitian yang bersifat filosofis, aplikatif, dan mandiri. Pembelajaran dengan dasar penelitian akan menghasilkan mahasiswa yang mampu menciptakan temuan baru dalam agrikultur dengan mengedepankan value inovatif serta dapat membuat karya ilmiah menarik yang layak dipublikasikan.\r\rMendengar kata ‘pertanian’ yang terbayang pasti sawah, menanam, mencangkul. Namun pada program studi Teknologi Industri Pertanian menitikberatkan pada proses kegiatan pasca panen. Artinya pada program studi ini akan dipelajari cara mengolah hasil pertanian agar menghasilkan produk-produk yang berkualitas tinggi.",
+  "why": "Kalau bicara tentang pertanian, pastinya pelajaran yang kamu pikirkan adalah biologi. Itu memang betul, tapi di program studi ini kamu juga akan mempelajari hasil pertanian dari aspek ekonomi, manajemen, dan entrepreneurship-nya. Hasil pertanian merupakan salah satu penggerak perekonomian yang utama bagi Indonesia. Hasil pertanian (merangkap hasil laut dan perkebunan) dapat diolah menjadi produk-produk sandang, pangan, dan papan yang berkualitas tinggi dan dapat dimanfaatkan oleh masyarakat.",
+  "subjects": [
+    "Biologi",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Kalkulus",
+    "Pengantar Agroindustri",
+    "Matematika Industri",
+    "Pengantar Bioteknologi",
+    "Pengetahuan Bahan Hasil Pertanian",
+    "Biokimia",
+    "Mikrobiologi Umum",
+    "Analisis Bahan Hasil Pertanian",
+    "Dasar Teknik Proses dan Bioproses",
+    "Mikrobiologi Industri",
+    "Mesin dan Instrumentasi Industri",
+    "Ekonomi Teknik",
+    "Teknologi Pengolahan",
+    "Teknologi Fermentasi",
+    "Ilmu Gizi",
+    "Perencanaan Proyek Industri",
+    "Pengemasan",
+    "Penyimpanan dan Penggudangan",
+    "Teknologi Pengolahan Hasil Perairan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi ini memiliki prospek masa depan yang diarahkan sebagai enabler dan entrepreneur. Lulusan yang memiliki kemampuan penguasaan teknologi dan pengembangannya dalam bidang usaha berbasis industri pertanian akan memberikan nilai lebih. Tidak hanya itu, lulusan ini sangat menarik minat para perusahaan-perusahaan nasional atau multinasional yang bergerak di bidang agroindustri, pangan, manufaktur, perkebunan, dan pengembangan teknologi.",
+  "professions": [
+    "Manajer Produksi Industri",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Pengusaha/Wirausahawan",
+    "Manager Pertanian dan Peternakan",
+    "Ahli Teknik Pertanian",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "pertanian/mikrobiologi-pertanian",
+    "mipa/mikrobiologi",
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/teknologi-industri-benih",
+    "pertanian/agroekoteknologi",
+    "pertanian/teknologi-pasca-panen",
+    "pertanian/ilmu-tanah-manajemen-sumberdaya-lahan-",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/produksi-ternak"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 39,
+  "dt_snbp": 1363,
+  "dt_snbt": 1481,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "131029",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 8.80829,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361058",
+      "major_university_name": "D4 PENGEMBANGAN PRODUK AGROINDUSTRI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 11.3445,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361042",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.1852,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341062",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI DAN PENGEMBANGAN MASYARAKAT PERTANIAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341017",
+      "major_university_name": "S1 TEKNIK INDUSTRI PERTANIAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 7.02875,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334017",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI AGRO INDUSTRI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 9.52381,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333021",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.30233,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531007",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 20.1613,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191032",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 30.2752,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521019",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 42.4242,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517001",
+      "major_university_name": "D4 AGROINDUSTRI PANGAN - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "537010",
+      "major_university_name": "D4 PENGEMBANGAN PRODUK AGROINDUSTRI - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "611006",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 29.3578,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "516008",
+      "major_university_name": "D3 AGROINDUSTRI - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "472007",
+      "major_university_name": "D4 TEKNIK PRODUKSI BENIH - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 52.9412,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712022",
+      "major_university_name": "S1 PENDIDIKAN TEKNOLOGI PERTANIAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 9.39394,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "717001",
+      "major_university_name": "D4 AGROINDUSTRI - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 44.4444,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "141030",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 11.1498,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472002",
+      "major_university_name": "D4 MANAJEMEN AGROINDUSTRI - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "453002",
+      "major_university_name": "D4 PENGEMBANGAN PRODUK AGROINDUSTRI - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": 58.1395,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "434001",
+      "major_university_name": "D3 AGROINDUSTRI - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372020",
+      "major_university_name": "S1 TEKNIK INDUSTRI PERTANIAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 16.5862,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151034",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 29.9213,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161005",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 30.3738,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192022",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 28.0899,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "281008",
+      "major_university_name": "D4 PERTANIAN PRESISI - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291019",
+      "major_university_name": "PRODUKSI TANAMAN PANGAN - POLITEKNIK NEGERI LAMPUNG",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "341040",
+      "major_university_name": "TEKNOLOGI INDUSTRI BENIH - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "341041",
+      "major_university_name": "TEKNOLOGI INDUSTRI BENIH (KAMPUS SUKABUMI) - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "371024",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 25.3788,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472016",
+      "major_university_name": "D4 PSDKU MANAJEMEN AGROINDUSTRI KAB. SIDOARJO - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291006",
+      "major_university_name": "D4 PENGEMBANGAN PRODUK AGRO INDUSTRI - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 438.462,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "537007",
+      "major_university_name": "D3 AGROINDUSTRI - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "242003",
+      "major_university_name": "D4 TEKNOLOGI BENIH - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": 210.526,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642002",
+      "major_university_name": "D4 TEKNOLOGI INDUSTRI HORTIKULTURA - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 214.286,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "471012",
+      "major_university_name": "D4 PENGEMBANGAN PRODUK AGROINDUSTRI - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "384003",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 67.0886,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821005",
+      "major_university_name": "S1 TEKNOLOGI PERTANIAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 138.462,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "931005",
+      "major_university_name": "D3 AGRO INDUSTRI - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

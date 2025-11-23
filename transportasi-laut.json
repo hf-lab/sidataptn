@@ -1,0 +1,138 @@
+{
+  "idx": 306,
+  "id": "transportasi-laut",
+  "major_name": "Transportasi Laut",
+  "icon": null,
+  "description": "Program studi Transportasi Laut mempelajari tentang perencanaan dan analisa angkutan laut, multimoda, kegiatan dan infrastruktur pelabuhan, dan desain konseptual kapal yang berorientasi internasional. Pendidikan Transportasi Laut bersifat multidisipliner mencakup diantaranya teknik perkapalan, kepelabuhanan, ekonomi, logistik, informatika dan matematika yang merupakan cerminan dunia nyata sektor transportasi laut.\r\rProgram studi ini memiliki tiga bidang keahlian, antara lain Angkutan Laut (Pelayaran), Kepelabuhanan dan Infrastruktur, dan Logistik Maritim. ",
+  "why": "Indonesia merupakan negara maritim dan transportasi laut mempunyai peranan vital dalam pembangunan nasional, serta merupakan infrastruktur dan tulang punggung kehidupan berbangsa dan bernegara. Dengan demikian, dapat dikatakan bahwa sektor transportasi (khususnya transportasi laut, bagi negara kepulauan seperti Indonesia) merupakan fundamen (dasar) dari seluruh kehidupan ekonomi dan kualitas hidup suatu bangsa. ",
+  "subjects": [
+    "Menggambar Teknik",
+    "Mekanika Teknik",
+    "Teori Bangunan Kapal",
+    "Perancangan Kapal",
+    "Ekonomi Teknik",
+    "Perlengkapan Kapal",
+    "Hambatan dan Populasi Kapal",
+    "Sistem dan Permesinan Kapal",
+    "Analisis Jaringan Transportasi Laut",
+    "Perencanaan Pelabuhan",
+    "Bisnis Pelayaran",
+    "Rekayasa Logistik",
+    "Manajemen Pelabuhan",
+    "Peraturan Statutori",
+    "Pembiayaan dan Asuransi Kapal",
+    "Permodelan Transportasi Laut",
+    "Telematika Transportasi Laut",
+    "Produksi dan Reparasi Kapal",
+    "Transportasi Multimoda",
+    "Manajemen Rantai Pasok",
+    "Perencanaan Infrastruktur Kepelabuhan",
+    "Ekonomi Transportasi Laut"
+  ],
+  "characters": [
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan jurusan ini sangat dibutuhkan untuk memenuhi lapang pekerjaan di bidang industri pelayaran, pelabuhan, galangan kapal, logistik dan angkutan multimoda, industri minyak dan gas, perbankan dan asuransi, serta sektor pemerintahan.",
+  "professions": [
+    "Ahli Teknik Transportasi",
+    "Analis Logistik",
+    "Manajer Transportasi",
+    "Perencana Transportasi",
+    "Pelaut",
+    "Ahli Logistik",
+    "Manager Logistik",
+    "Konsultan Bea Cukai",
+    "Manajer Supply Chain"
+  ],
+  "related_majors": [
+    "teknik/teknik-perkapalan",
+    "teknik/teknik-sistem-perkapalan",
+    "ekonomi-bisnis/manajemen-transportasi",
+    "ekonomi-bisnis/manajemen-logistik"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 5,
+  "dt_snbp": 180,
+  "dt_snbt": 189,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "454004",
+      "major_university_name": "D4 TRANSPORTASI LAUT - POLIMARIN",
+      "university_name": "POLITEKNIK MARITIM NEGERI INDONESIA ",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382023",
+      "major_university_name": "S1 TEKNIK TRANSPORTASI LAUT - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 15,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562026",
+      "major_university_name": "D3 KETATALAKSANAAN PELAYARAN NIAGA DAN KEPELABUHAN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232015",
+      "major_university_name": "D3 KETATALAKSANAAN PELAYARAN NIAGA - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811037",
+      "major_university_name": "S1 TEKNIK TRANSPORTASI LAUT - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 466.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

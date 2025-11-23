@@ -1,0 +1,118 @@
+{
+  "idx": 292,
+  "id": "teknologi-bioproses",
+  "major_name": "Teknologi Bioproses",
+  "icon": null,
+  "description": "Program studi Teknologi Bioproses mempelajari tentang pemanfaatan biomassa berupa mikroorganisme beserta produk-produknya untuk proses yang menghasilkan keuntungan dalam skala industri. Bidang keilmuan dari Teknologi Bioproses sendiri merupakan gabungan dari 2 disiplin ilmu, yaitu Bioteknologi dan Teknik Kimia. Ilmu Bioteknologi pada program studi ini mempelajari secara umum sifat-sifat mikroorganisme (bakteri, alga, jamur, virus), sel-sel tumbuhan dan hewan, enzim, serta metode-metode pemanfaatan hayati atau proses pengolahannya. Sementara itu, dari sisi Teknik Kimia, program studi ini mempelajari bagaimana caranya memproduksi suatu produk dari skala laboratorium ke skala massal.",
+  "why": "Kalau kamu tertarik dengan pelajaran Biologi dan penasaran bagaimana penerapannya dalam kehidupan sehari-hari maupun industri, program studi ini pastinya bakal menarik banget untukmu. Pada program studi ini, kamu nggak hanya diajak untuk mempelajari teori mengenai mikroorganisme, tumbuhan, dan serba-serbi biologis lainnya, melainkan kamu juga akan mendapatkan pemahaman mengenai bagaimana mengubah itu semua menjadi sebuah produk yang dapat bermanfaat bagi masyarakat luas.",
+  "subjects": [
+    "Kalkulus",
+    "Aljabar Linear",
+    "Kimia Dasar",
+    "Kimia Organik",
+    "Kimia Fisika",
+    "Kimia Analitik Instrumental",
+    "Neraca Massa dan Energi",
+    "Biologi Sel",
+    "Peristiwa Perpindahan",
+    "Komputasi Numerik",
+    "Mekanika Fluida dan Partikel",
+    "Biologi Molekuler",
+    "Rekayasa Biokimia",
+    "Perpindahan Panas",
+    "Biokatalisis",
+    "Pengendalian Proses",
+    "Kultur Sel",
+    "Rekayasa Genetika",
+    "Separasi",
+    "Ekonomi Teknik",
+    "Rekayasa Bioreaktor",
+    "Perancangan Alat Proses",
+    "Perancangan Produk Hayati",
+    "Perancangan Pabrik",
+    "Manajemen Proyek",
+    "Pengelolaan Limbah Proses Hayati"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Teknologi Bioproses memiliki prospek kerja yang cukup luas. beberapa bidang industri yang dapat dimasuki antara lain: Industri pangan, Industri Biomaterial,, Industri Biomedikal, Industri Energi Industri Vaksin dan obat-obatan, hingga Industri Farmasi.",
+  "professions": [
+    "Ahli Kimia",
+    "Ahli Biologi",
+    "Ahli Teknik Energi",
+    "Peneliti Tanah dan Tumbuhan",
+    "Ahli Mikrobiologi",
+    "Ahli Biologi Molekul dan Sel",
+    "Ahli Teknik Kimia",
+    "Ahli Biokimia dan Biofisika",
+    "Ahli Teknik Biologi",
+    "Konselor Genetis"
+  ],
+  "related_majors": [
+    "pertanian/mikrobiologi-pertanian",
+    "mipa/biokimia",
+    "mipa/bioentrepreneurship",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "mipa/biologi",
+    "teknik/teknik-biomedik-teknobiomedik-",
+    "kesehatan/biomedicine"
+  ],
+  "major_group_id": 52,
+  "jlh_prodi": 2,
+  "dt_snbp": 45,
+  "dt_snbt": 68,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "321024",
+      "major_university_name": "S1 TEKNOLOGI BIOPROSES - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 14.2857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372042",
+      "major_university_name": "S1 TEKNOLOGI BIOPROSES - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 31.6239,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 52,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Bioteknologi,Biokewirausahaan, Bioinformatika",
+    "merdeka_subject": [
+      17,
+      10
+    ],
+    "ipa_subject": [
+      17,
+      10
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "idx": 279,
+  "id": "teknik-perminyakan",
+  "major_name": "Teknik Perminyakan",
+  "icon": null,
+  "description": "Hampir sama dengan Teknik Pertambangan, program studi Teknik Perminyakan mempelajari ilmu tentang eksplorasi,  eksploitasi sumber daya alam. Bedanya terletak pada objeknya. Jika Teknik Pertambangan mempelajari tantang penambangan mineral padat, maka Teknik Perminyakan mempelajari tentang penambangan fluida, yaitu berupa minyak bumi, gas alam, dan panas bumi. Aspek yang dipelajari antara lain adalah teknik reservoir, pengeboran, produksi, hingga manajemen perekonomian minyak dan gas (migas). \r\rNggak cuma belajar tentang eksplorasi, eksploitasi, dan cara pengolahan minyaknya saja, mahasiswa program studi Teknik Perminyakan dituntut untuk inovatif dalam menemukan teknik yang lebih efisien dalam eksplorasi, eksploitasi dan pengolahannya, dan dalam menghasilkan energi dengan tingkat emisi rendah.  ",
+  "why": "Minyak dan gas merupakan sumber daya yang membutuhkan teknik penanganan yang tepat, karena perlu waktu lama bagi minyak dan gas untuk terbaharukan. Karenanya ahli di bidang perminyakan sangat dibutuhkan. Untuk kuliah di program studi Teknik Perminyakan kamu memang harus berkutat dengan matematika, fisika, dan kimia. Tapi jangan khawatir, kalau kamu nggak terlalu jago di mata pelajaran tersebut, bukan berarti kamu nggak cocok masuk program studi Teknik Perminyakan, karena di zaman yang serba canggih ini proses perhitungan bisa digunakan dengan kalkulator dan software khusus perminyakan. Selain itu di semester awal akan dipelajari matematika dan fisika dasar sebelum masuk ke mata kuliah khusus dan praktikum.",
+  "subjects": [
+    "Kalkulus",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Pengantar Teknologi Sumberdaya Bumi",
+    "Sistem Alam & Semesta",
+    "Matematika Teknik",
+    "Termodinamika Dasar",
+    "Pemrograman Komputer",
+    "Geologi Dasar",
+    "Fluida Reservoir",
+    "Petrofisika",
+    "Mekanika Kekuatan Material",
+    "Teknik Reservoir",
+    "Teknik Pemboran",
+    "Pengujian Formasi",
+    "Geologi Migas",
+    "Perancangan Sumur Pengangkatan Buatan",
+    "Karakterisasi & Pemodelan Reservoir",
+    "Teknik Gas Bumi",
+    "Teknik Panas Bumi",
+    "Peningkatan Perolehan Minyak",
+    "Analisis Log Sumur",
+    "Stimulasi Sumur",
+    "Pengolahan Lapangan dan Transportasi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi Teknik Perminyakan menjadi salah satu program studi paling banyak diincar karena para lulusannya dipercaya akan punya prospek karir yang luar biasa. Lulusannya bakal jadi “tukang minyak” dengan penghasilan ratusan ribu dolar, karena nggak dipungkiri kalau sumber daya yang satu ini adalah aset yang mahal.\r\rPara lulusannya dapat berkarir di berbagai perusahaan sektor migas nasional dan internasional seperti Pertamina, Chevron, Medco, Total dan sebagainya, atau bekerja di bidang pemerintahan seperti Kementerian Energi dan Sumber Daya Mineral (ESDM), Badan Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi (BP Migas), dan Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas). Dunia perbankan dan asuransi ternyata juga membutuhkan lulusan Teknik Perminyakan sebagai tenaga analis resiko terhadap kredit/klaim yang diajukan dalam kegiatan eksploitasi migas.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Ahli Teknik Energi",
+    "Ahli Teknik Minyak Bumi",
+    "Spesialis Kesehatan dan Keselamatan Kerja",
+    "Ahli Tambang dan Geologi",
+    "Teknisi Geologi dan Perminyakan"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/teknik-geologi",
+    "teknik/teknik-metalurgi",
+    "mipa/geofisika"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 12,
+  "dt_snbp": 476,
+  "dt_snbt": 631,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "192038",
+      "major_university_name": "S1 REKAYASA MINYAK DAN GAS - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 31.25,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "221020",
+      "major_university_name": "D3 TEKNOLOGI PENGOLAHAN MINYAK DAN GAS - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332002",
+      "major_university_name": "S1 FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN (FTTM) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 6.222,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332017",
+      "major_university_name": "S1 FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN * KAMPUS CIREBON (FTTM*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 7.30594,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "363003",
+      "major_university_name": "S1 TEKNIK PERMINYAKAN - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 9.94879,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371040",
+      "major_university_name": "S1 TEKNIK PERMINYAKAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 8.87574,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811035",
+      "major_university_name": "S1 TEKNIK PERMINYAKAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 9.49367,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "831004",
+      "major_university_name": "D4 TEKNIK PRODUKSI MIGAS - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 27.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "831005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM KELISTRIKAN MINYAK DAN GAS - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 280,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "831006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM MEKANIKAL MINYAK DAN GAS - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 522.222,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921032",
+      "major_university_name": "D3 TEKNIK PERMINYAKAN DAN GAS BUMI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921046",
+      "major_university_name": "S1 TEKNIK PERMINYAKAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

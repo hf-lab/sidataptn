@@ -1,0 +1,479 @@
+{
+  "idx": 267,
+  "id": "teknik-lingkungan",
+  "major_name": "Teknik Lingkungan",
+  "icon": null,
+  "description": "Dahulu, program studi Teknik Lingkungan bernama Teknik Penyehatan. Ilmu yang dipelajari di program studi ini berkaitan erat dengan kesehatan. Para mahasiswa Teknik Lingkungan akan belajar tentang bagaimana menciptakan lingkungan yang sehat dan bebas penyakit dengan teknik dan teknologi. Ruang lingkup jurusan ini adalah konservasi sumber daya air, pengelolaan kesehatan lingkungan, upaya pengendalian pencemaran, pengolahan limbah, plumbing/perpipaan, sistem drainase, hingga pengendalian dan pencemaran udara.",
+  "why": "Kelestarian lingkungan adalah sesuatu yang mutlak dan tak bisa ditawar lagi. Saat ini hampir semua orang, lembaga, atau perusahaan, kembali dengan slogan go green masing-masing. Mereka sadar betapa pentingnya kelestarian lingkungan. Kamu bisa mengambil peluang dari situasi ini dengan memilih jurusan Teknik Lingkungan.",
+  "subjects": [
+    "Mekanika Fluida",
+    "Statistika Lingkungan",
+    "Matematika Rekayasa",
+    "Kesehatan Lingkungan",
+    "Pengetahuan Struktur",
+    "Kimia Lingkungan",
+    "Mikrobiologi Lingkungan",
+    "Hidrologi dan Hidrogeologi",
+    "Epidemiologi Lingkungan",
+    "Pengelolaan Kualitas Air",
+    "Pengolahan Fisik & Kimia",
+    "Laboratorium Lingkungan",
+    "Pengelolaan Persampahan",
+    "Teknik Penyediaan Air Minum",
+    "Pencemaran Tanah",
+    "Pencemaran Udara",
+    "Sewerage & Drainase Berkelanjutan",
+    "Pengelolaan Sumber Daya Air",
+    "Kebijakan dan Hukum Lingkungan",
+    "Manajemen Teknik Lingkungan",
+    "Design Teknik Lingkungan",
+    "Kesehatan Lingkungan Kerja",
+    "Perencanaan dan Pengelolaan Proyek",
+    "Rekayasa Lingkungan",
+    "Infrastruktur dan Sanitasi",
+    "Bangunan Air",
+    "Fisika Lingkungan",
+    "Pengelolaan Limbah Industri"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Dengan semakin populernya praktek go green, peluang kerja para lulusan Teknik Lingkungan pun semakin baik. Pabrik-pabrik pencemar lingkungan pasti mendapatkan reputasi buruk. Seorang lulusan Teknik Lingkungan biasanya akan bekerja di industri-industri yang bergerak di bidangpetrokimia, pertambangan, minyak dan lain sebagainya. Beberapa contoh perusahaan yang kerap membutuhkan lulusan Teknik Lingkungan antara lain PT Pertamina, Krakatau Steel, PT Unilever, Total, Kimia Farma, Chevron, Biofarma, Aneka Tambang.",
+  "professions": [
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Ahli Konservasi Tanah dan Air",
+    "Ahli Lingkungan",
+    "Ahli Teknik Lingkungan",
+    "Ahli Ekologi Industri",
+    "Pengajar Teknik",
+    "Pengawas Pemenuhan Lingkungan Hidup",
+    "Perencana Restorasi Lingkungan",
+    "Ahli Hidrologi",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "teknik/oseanografi",
+    "teknik/teknik-sumberdaya-air-teknik-pengairan-",
+    "kesehatan/kesehatan-lingkungan",
+    "teknik/rekayasa-infrastruktur-lingkungan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 42,
+  "dt_snbp": 1306,
+  "dt_snbt": 1878,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "356025",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 8.47059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541019",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 8.59107,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531018",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 12.3867,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511007",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 23.1959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "386002",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 16.8224,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385009",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 9.375,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382014",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 7.71704,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381014",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 7.38916,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372043",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 10.7505,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371035",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 11.8156,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363004",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 10.1925,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621025",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 28,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355024",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 6.72478,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341058",
+      "major_university_name": "D4 TEKNIK DAN MANAJEMEN LINGKUNGAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121025",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 5.55556,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131025",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 5.56522,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141016",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 8.01336,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151027",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711037",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 10.7872,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321020",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 7,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331013",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 12.0833,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332027",
+      "major_university_name": "S1 FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN * TEKNOLOGI LINGKUNGAN (FTSL*L) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353031",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 7.42706,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611027",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 16.7665,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "561008",
+      "major_university_name": "D3 PENGELOLAAN LINGKUNGAN - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721028",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 70,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731031",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 48.9796,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116004",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "542013",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 38.0165,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541072",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811068",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "481006",
+      "major_university_name": "D4 TEKNIK PENGOLAHAN LIMBAH - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 41.5254,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "453001",
+      "major_university_name": "D4 TEKNIK PENGENDALIAN PENCEMARAN LINGKUNGAN - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": 52.7778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374023",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "366004",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UINSAIZU",
+      "university_name": "UIN PROFESOR KIAI HAJI SAIFUDDIN ZUHRI PURWOKERTO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "357034",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192009",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 31.0458,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191037",
+      "major_university_name": "S1 TEKNIK LINGKUNGAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 16.4835,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161055",
+      "major_university_name": "S1 ILMU LINGKUNGAAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291018",
+      "major_university_name": "D3 TEKNIK SUMBERDAYA LAHAN DAN LINGKUNGAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751028",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752066",
+      "major_university_name": "S1 ILMU LINGKUNGAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

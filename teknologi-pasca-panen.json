@@ -1,0 +1,432 @@
+{
+  "idx": 301,
+  "id": "teknologi-pasca-panen",
+  "major_name": "Teknologi Pasca Panen",
+  "icon": null,
+  "description": "Program studi Teknologi Pasca Panen menggabungkan ilmu-ilmu pertanian dan kehutanan serta teknik yang diaplikasikan dalam perekayasaan yang berbasis bioproses serta biosistem. Para mahasiswa diarahkan untuk memproses, menjaga, memanipulasi, dan memaksimalkan hasil panen dengan menggunakan prinsip-prinsip rekayasa untuk mencapai efisiensi energi dan materi yang optimal serta mengaplikasikan berbagai teknologi yang tersedia. ",
+  "why": "Permasalahan utama dalam penyediaan komoditas bahan kebutuhan pokok adalah tingginya kehilangan hasil pasca panen yang disebabkan karena penanganan hasil panen yang tidak sesuai dan iklim yang tidak menentu. Oleh sebab itu dibutuhkan kemampuan yang dapat melengkapi bidang studi pertanian yang dapat bersinergi untuk mengatasi masalah-masalah kehilangan hasil pasca panen. Jurusan ini cocok untuk kamu yang berminat di bidang pertanian dan ingin mengatasi masalah pangan.",
+  "subjects": [
+    "Matematika",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Kimia Organik",
+    "Matematika Rekayasa",
+    "Sifat Fungsional Bioproduk",
+    "Neraca Massa & Energi",
+    "Termodinamika Proses",
+    "Biokimia",
+    "Mikrobiologi Pasca Panen",
+    "Fisiologi Pasca Panen",
+    "Sensor & Instrumentasi Pasca Panen",
+    "Statistika Pasca Panen",
+    "Peristiwa Perpindahan",
+    "Analisis Instrumentasi Kimia",
+    "Unit Operasi Pasca Panen",
+    "Pengendalian Hama & Patogen Pasca Panen",
+    "Teknologi Kilang Hayati / Biorefinery",
+    "Penyusutan Produk Pasca Panen",
+    "Teknologi Pengawetan",
+    "Perancangan Sistem Proses Pasca Panen",
+    "Teknologi Penyimpanan Produk Pasca Panen",
+    "Teknologi Pengemasan Produk Pasca Panen",
+    "Mesin-Mesin Pasca Panen",
+    "Proses Pengendalian Kualitas & Keamanan Bioproduk",
+    "Pengetahuan Pasca Panen Tradisional",
+    "Manajemen Logistik & Rantai Pasok",
+    "Manajemen Agribisnis & Kewirausahaan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi ini dapat bekerja dalam bidang industri pertanian, industri perkebunan, industri peternakan, industri kesehatan dan farmasi, pasar modern, industri benih, instansi pemerintah, institusi pendidikan untuk memenuhi kebutuhan peneliti dan tenaga pengajar. Selain itu, lulusan jurusan ini juga dapat menjadi inovator peralatan pertanian dan pengolahan hasil pertanian, ",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Ahli Teknik Pertanian",
+    "Manager Pertanian dan Peternakan"
+  ],
+  "related_majors": [
+    "pertanian/mikrobiologi-pertanian",
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/teknologi-hasil-perikanan",
+    "teknik/rekayasa-kehutanan",
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/teknologi-industri-benih"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 38,
+  "dt_snbp": 1059,
+  "dt_snbt": 1419,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "355016",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 14.5374,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131013",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 10.8475,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353077",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERTANIAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341061",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI DAN MANAJEMEN PERKEBUNAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341030",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERAIRAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 7.76471,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171013",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 23.4568,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191007",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 33.1858,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371006",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 17.7474,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113010",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 66.1765,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "372015",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 23.8636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "381021",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 17.8723,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "516003",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERKEBUNAN - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531008",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 58.9286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541003",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 35.1852,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541031",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 68.2927,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711048",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 30.5882,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811007",
+      "major_university_name": "S1 TEK. HASIL PERTANIAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271010",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PERKEBUNAN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 42.029,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171023",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 57.8431,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361025",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 16.7832,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111010",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 26.2774,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151007",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 27.2277,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141020",
+      "major_university_name": "S1 TEKNOLOGI PANGAN DAN HASIL PERTANIAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 21.4592,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131008",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 43.8272,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921001",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1233.33,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811018",
+      "major_university_name": "S1 TEK. HASIL PERIKANAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 444.444,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753011",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 2050,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752016",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 260.976,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751030",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 363.636,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741018",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERTANIAN - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 56.1905,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721022",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 350,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717010",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TANAMAN PERKEBUNAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 213.043,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "561005",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERKEBUNAN - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "551009",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 113.158,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133009",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 127.273,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521015",
+      "major_university_name": "S1 TEKNOLOGI HASIL PERIKANAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 155.556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "151062",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERIKANAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515023",
+      "major_university_name": "D3 TEKNOLOGI PENGOLAHAN HASIL PERKEBUNAN K, KAB KAPUAS HULU - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

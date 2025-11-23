@@ -1,0 +1,102 @@
+{
+  "idx": 269,
+  "id": "teknik-logistik",
+  "major_name": "Teknik Logistik",
+  "icon": null,
+  "description": "Program studi Teknik Logistik mempelajari perancangan dan manajemen untuk memastikan aliran barang, informasi, modal dan uang berada pada tempat dan waktu yang tepat dengan jumlah dan kualitas yang sesuai dengan kebutuhan. Berbeda dengan Manajemen Logistik, prodi Teknik Logistik lebih mengedepankan pemecahan masalah dengan menggunakan prinsip-prinsip keteknikan yang termasuk di dalamnya ilmu-ilmu eksak seperti fisika dan matematika sementara Manajemen Logistik lebih fokus pada sisi manajemennya. Saat ini prodi Teknik Logistik bisa kamu temui di Universitas Pertamina dan Universitas Pertamina dan Universitas Internasional Semen Indonesia.",
+  "why": "Program studi ini cocok untuk kamu yang tertarik mempelajari seluk beluk industri/pabrik khususnya terkait supply chain dan pengelolaan logistik suatu barang. Sebagai cabang dari Teknik Industri, di program studi ini kamu juga akan mempelajari tentang tingkat pelayanan konsumen, strategi lokasi fasilitas logistik, strategi keputusan persediaan, dan strategi keputusan transportasi darat, laut, udara, dan intermoda. ",
+  "subjects": [
+    "Fisika Dasar",
+    "Kimi Dasar",
+    "Bahasa Inggris",
+    "Production Planning",
+    "Inventory Control",
+    "Sistem Transportasi",
+    "Sistem Informasi Logistik",
+    "Sistem Pergudangan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Seorang lulusan program studi Teknik Logistik dapat bekerja di berbagai bidang seperti perusahaan transportasi dan distribusi (termasuk di pelabuhan, bandara, terminal, dan stasiun), pergudangan, ekspor, impor, minyak dan gas, manufaktur, jasa pelayanan logistik, lembaga konsultasi, atau procurement and sales, baik sebagai staf operasional maupun planner yang kemudian dapat menjajaki karir hingga menjadi manajer dan menempati posisi puncak perusahaan. Selain itu, lulusan Teknik Logistik juga bisa menjadi peneliti atau pengajar di lembaga penelitian ataupun di universitas",
+  "professions": [
+    "Ahli Logistik",
+    "Manager Logistik",
+    "Analis Logistik",
+    "Manajer Gudang dan Distribusi"
+  ],
+  "related_majors": [
+    "teknik/teknik-industri",
+    "ekonomi-bisnis/manajemen-logistik",
+    "teknik/manajemen-rekayasa-industri"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 3,
+  "dt_snbp": 108,
+  "dt_snbt": 140,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "334030",
+      "major_university_name": "S1 TEKNIK LOGISTIK - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 12.2616,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542021",
+      "major_university_name": "S1 TEKNIK LOGISTIK - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 75.6098,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112019",
+      "major_university_name": "S1 TEKNIK LOGISTIK - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 62.1212,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

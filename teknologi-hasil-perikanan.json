@@ -1,0 +1,231 @@
+{
+  "idx": 295,
+  "id": "teknologi-hasil-perikanan",
+  "major_name": "Teknologi Hasil Perikanan",
+  "icon": null,
+  "description": "Program studi Teknologi Hasil Perikanan mempelajari bagaimana mengolah hasil perikanan dari pasca panen hingga menghasilkan produk perikanan berkualitas tinggi yang zero waste dan ramah lingkungan, juga mempelajari manajemen industri dan bisnis perikanan. Program studi ini dikenal juga dengan nama Teknologi Industri Perikanan, mirip dengan program studi “kembarannya” yaitu Teknologi Industri Pertanian. Sama-sama mempelajari tentang proses pasca panen, hanya saja program studi ini lebih mengarah pada sektor perikanan. Disini akan dipelajari teknologi budidaya ikan, teknik fermentasi, pengelolaan limbah hasil perikanan, hingga bagaimana menyelesaikan permasalahan terkait perikanan.  ",
+  "why": "Laut Indonesia kaya akan ikan dan berbagai hasil laut lainnya yang kaya akan manfaat. Bahkan Indonesia seharusnya dapat mendominasi sektor perikanan di Asia Tenggara. Sayangnya masih banyak kecurangan-kecurangan yang terjadi membuat perikanan Indonesia tertinggal, seperti pencurian ikan. Jika kamu peduli dengan kondisi sektor perekonomian negara kita ini, program studi ini bisa jadi pilihanmu.",
+  "subjects": [
+    "Kimia Dasar",
+    "Fisika Dasar",
+    "Biologi Umum",
+    "Avertebrata Air",
+    "Dasar-Dasar Budidaya Perairan",
+    "Ikhtiologi",
+    "Dasar-Dasar Teknologi Hasil Perikanan",
+    "Gizi Ikani",
+    "Food Additive",
+    "Ekologi Perairan",
+    "Teknologi Refrigerasi",
+    "Teknologi Pengolahan Hasil PerikananTradisional",
+    "Pemanfaatan Limbah Hasil Perikanan",
+    "Metode Penangkapan Ikan",
+    "Pengemasan Hasil Perikanan",
+    "Sanitasi dan Hygiene",
+    "Manajemen Akuakultur Payau",
+    "Diversifikasi dan PengembanganProduk Perikanan",
+    "Pengendalian Mutu Hasil Perikanan",
+    "Undang-undang dan PeraturanPerikanan",
+    "Sosiologi Masyarakat Perikanan",
+    "Teknologi Fermentasi",
+    "ManajemenIndustri Hasil Perikanan",
+    "Rancang Bangun Alat Tangkap Ikan",
+    "Penyuluhan dan PemberdayaanMasy.arakat Perikanan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan program studi Teknologi Hasil Perikanan pasti akan selalu dibutuhkan mengingat Indonesia adalah negara maritim dengan wilayahnya 2/3 adalah lautan. Indonesia membutuhkan tenaga ahli yang dapat mengelola hasil perairan Indonesia dengan maksimal. Alumni program studi ini bisa bekerja di instansi pemerintahan seperti Kementerian Kelautan dan Perikanan (KKP), dan Kementerian Riset dan Teknologi (Kemenristek, bekerja di perusahaan swasta yang bergerak di bidang perikanan dan hasil laut, atau mengembangkan usaha perikanan sendiri.",
+  "professions": [
+    "Manajer Akuakultural",
+    "Pengusaha/Wirausahawan",
+    "Ahli Teknik Pertanian"
+  ],
+  "related_majors": [
+    "pertanian/teknologi-pangan",
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/teknologi-hasil-ternak",
+    "pertanian/teknologi-pasca-panen",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/produksi-ternak",
+    "pertanian/budidaya-perikanan"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 16,
+  "dt_snbp": 291,
+  "dt_snbt": 332,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "181023",
+      "major_university_name": "S1 PERIKANAN TANGKAP - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "341031",
+      "major_university_name": "S1 TEKNOLOGI & MANAJEMEN PERIKANAN TANGKAP - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 30,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355013",
+      "major_university_name": "S1 PERIKANAN TANGKAP - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 20.979,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515024",
+      "major_university_name": "TEKNOLOGI PENGOLAHAN HASIL PERIKANAN - POLITEKNIK NEGERI PONTIANAK",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "717017",
+      "major_university_name": "D3 PENANGKAPAN IKAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "728002",
+      "major_university_name": "D3 TEKNOLOGI PENANGKAPAN IKAN - POLNUSTAR",
+      "university_name": "POLITEKNIK NEGERI NUSA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "832003",
+      "major_university_name": "D4 MANAJEMEN REKAYASA PERIKANAN TANGKAP - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": 3400,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "832008",
+      "major_university_name": "D3 TEKNOLOGI PENANGKAPAN IKAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "832010",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERIKANAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291022",
+      "major_university_name": "D3 PERIKANAN TANGKAP - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515025",
+      "major_university_name": "D3 TEKNOLOGI PENANGKAPAN IKAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531010",
+      "major_university_name": "S1 PERIKANAN TANGKAP - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 400,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "552004",
+      "major_university_name": "D3 TEKNOLOGI HASIL PERIKANAN - PNN",
+      "university_name": "POLITEKNIK NEGERI NUNUKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711078",
+      "major_university_name": "D4 TEKNOLOGI AKUAKULTUR DAN PASCA PANEN PERIKANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "741012",
+      "major_university_name": "S1 PERIKANAN TANGKAP - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 79.6875,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751038",
+      "major_university_name": "S1 PERIKANAN TANGKAP - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 840,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

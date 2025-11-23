@@ -1,0 +1,78 @@
+{
+  "idx": 297,
+  "id": "teknologi-industri-benih",
+  "major_name": "Teknologi Industri Benih",
+  "icon": null,
+  "description": "Pada program diploma Teknologi Industri Benih kita akan mempelajari bagaimana menghasilkan benih atau bibit-bibit tanaman tropika yang bermutu tinggi untuk pertanian dan perkebunan. Kita akan diberi keterampilan dalam memproduksi, mengolah, menyimpan, pengujian mutu, dan pemasaran benih.",
+  "why": "Ilmu tentang pertanian sejatinya sangat luas dan tidak akan pernah ada habisnya untuk dipelajari. Teknologi yang terus berkembang juga akan memberikan dampak positif bagi sektor agraria untuk terus tumbuh. Semua hasil pertanian dan perkebunan dan segala olahannya dimulai dari benih yang berkualitas. Karenanya ilmu teknologi industri benih sangat penting untuk dipelajari. So, jangan ragu untuk memilih program studi ini, terutama bagi kamu yang suka beraktivitas di lapangan dan kegiatan praktikum.",
+  "subjects": [
+    "Ekologi Tanaman",
+    "Produksi Benih",
+    "Pupuk dan Pemupukan",
+    "Perlindungan Tanaman",
+    "Manajemen Agribisnis",
+    "Uji Mutu Benih",
+    "Pemuliaan Tanaman Terapan",
+    "Pascapanen dan Pengemasan",
+    "Komunikasi dan Penyuluhan",
+    "Bioteknologi Perbenihan",
+    "Peraturan Perbenihan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusannya bergelar ahli madya yang nantinya dapat bekerja di Kementerian Pertanian dan ditempatkan di balai-balai penelitian dan pengembangan benih di seluruh Indonesia. Lulusan Teknologi Industri Benih dapat menjadi supervisor produksi benih tanaman,  tenaga ahli pada Badan Pengawas Sertifikasi dan Penjamin Mutu Benih seperti BPSBTPH, BP2MB dan Karantina Tanaman, dan menjadi penyuluh pertanian yang handal. Program studi ini juga mempersiapkan lulusannya dengan jiwa kewirausahaan agar dapat bersaing dalam industri benih tanaman tropika.",
+  "professions": [
+    "Manager Pertanian dan Peternakan",
+    "Manajer Pembibitan dan Rumah Kaca",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Ahli Teknik Pertanian"
+  ],
+  "related_majors": [
+    "pertanian/rekayasa-pertanian",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/teknologi-pasca-panen",
+    "pertanian/pemuliaan-tanaman"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 1,
+  "dt_snbp": 56,
+  "dt_snbt": 56,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "291001",
+      "major_university_name": "D4 TEKNOLOGI PERBENIHAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 245,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

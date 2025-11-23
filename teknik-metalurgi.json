@@ -1,0 +1,156 @@
+{
+  "idx": 272,
+  "id": "teknik-metalurgi",
+  "major_name": "Teknik Metalurgi",
+  "icon": null,
+  "description": "Teknik Metalurgi mempelajari sifat-sifat kimia yang terkandung dalam logam. Dari kandungan kimia tersebut, para mahasiswa akan memahami fungsi masing-masing jenis logam untuk kehidupan sehari-hari. Program studi Teknik Metalurgi memang kalah populer jika dibandingkan dengan teknik pertambangan dan perminyakan, teknik sipil, atau teknik industri. Meski begitu, para insinyur metalurgi sangat dibutuhkan saat ini. Selain ekstraksi logam, metalurgi juga mempelajari produksi logam.",
+  "why": "Meskipun metalurgi kalah populer, tapi kamu bisa memilih program studi ini karena prospek kariernya tak kalah menjanjikan jika dibandingkan dengan  jurusan teknik yang lain. Di Inggris, para insinyur metalurgi mendapatkan gaji pemula sekitar £20,000- £25,000 per tahun. Untuk kuliah di jurusan ini, paling tidak kamu mempunyai ketertarikan pada logam dan mesin.",
+  "subjects": [
+    "Operasi Teknik Metalurgi",
+    "Termodinamika Metalurgi",
+    "Matematika Terapan",
+    "Kekuatan Material",
+    "Kristal dan Mineral",
+    "Teknik Tenaga Listrik",
+    "Kimia Fisik",
+    "Metode Numerik",
+    "Fenomena Transport Metalurgi",
+    "Pengolahan Mineral",
+    "Kinetika Metalurgi",
+    "Perhitungan Metalurgi Proses",
+    "Metalurgi Fisik",
+    "Pirometalurgi",
+    "Tanur dan Bahan Bakar",
+    "Transformasi Fasa dan Perlakuan Panas",
+    "Pemanfaatan Mineral Industri",
+    "Ekonomi Teknik",
+    "Manajemen Rekayasa Industri",
+    "Karakterisasi Bahan",
+    "Konsentrasi Flotasi",
+    "Metalurgi Besi dan Baja",
+    "Hidro-elektrometalurgi",
+    "Teknik Pengecoran",
+    "Pengendalian Korosi Logam",
+    "Metalurgi Pembentukan Logam",
+    "Pengolahan Bahan Galian"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Peluang berkarier di bidang ini cukup bagus walaupun membutuhkan keahlian yang spesifik. Tidak banyak orang bisa dengan mudah menguasai bidang metalurgi walaupun banyak industri yang membutuhkan profesi ini. Beberapa industri yang memerlukan tenaga metalurgi adalah otomotif, pertambangan, elektronik, transportasi, penerbangan, bahkan semen dan pupuk.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Manajer Produksi Industri",
+    "Ahli Teknik Material",
+    "Ahli Pengeboran Bumi (Non Minyak dan Gas)",
+    "Manajer Kontrol Kualitas Sistem",
+    "Ahli Teknik Industri",
+    "Ahli Tambang dan Geologi"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/teknik-material",
+    "mipa/metrologi",
+    "teknik/teknik-perminyakan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 7,
+  "dt_snbp": 213,
+  "dt_snbt": 350,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "231022",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA METALURGI - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311004",
+      "major_university_name": "S1 TEKNIK METALURGI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 16.2534,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321012",
+      "major_university_name": "S1 TEKNIK METALURGI & MATERIAL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 10.2041,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363011",
+      "major_university_name": "S1 METALURGI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 20.2417,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432012",
+      "major_university_name": "D3 TEKNOLOGI PENGECORAN LOGAM - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542006",
+      "major_university_name": "S1 TEKNIK MATERIAL DAN METALURGI - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 59.7403,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "718008",
+      "major_university_name": "S1 TEKNIK METALURGI - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

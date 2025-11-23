@@ -1,0 +1,183 @@
+{
+  "idx": 258,
+  "id": "teknik-geomatika",
+  "major_name": "Teknik Geomatika",
+  "icon": null,
+  "description": "Teknik Geomatika adalah ilmu perpaduan antara ilmu Geodesi dan ilmu Informatika. Oleh sebab itu, program studi ini mempelajari bagaimana mengintegrasikan pengumpulan, pemodelan, analisis, hingga manajemen data spasial (berbasis lokasi) yang berdasarkan pada ilmu Geodesi. Hal ini dilakukan dengan cara mentransformasi data dari berbagai sumber pengukuran tersebut ke dalam suatu sistem informasi/ ilmu Informatika. Mahasiswa di jurusan ini juga akan mempelajari bebagai bidang ilmu Geodesi maupun Informatika sehingga diharapkan lulusan Teknik Geomatika dapat menjadi cakap dan terampil dalam penguasaan teknologi survei dan pemetaan yang berdasarkan ilmu dan teknologi kebumian serta teknologi informasi dalam rangka menunjang pembangunan bidang kelautan, permukiman dan energi yang berwawasan lingkungan.",
+  "why": "Ilmu kebumian sangat penting peranannya. Hal ini disebabkan karena hampir semua lapangan kerja dan industri menggunakan peran insting spasial geodesi, contohnya perminyakan, pertambangan, dan teknologi informasi. Selain itu, perkembangan teknologi dan informasi membuat kemudahan dalam mempelajari kebumian. Oleh sebab itu, jurusan ini sangat cocok untuk kamu yang tertarik dengan dunia kebumian dengan pemanfaatan teknologi dan informasi.",
+  "subjects": [
+    "Kalkulus",
+    "Fisika",
+    "Geomatika Dasar",
+    "Kartografi",
+    "Matematika Geodesi",
+    "Pemetaan Teristris",
+    "Fotogrametri",
+    "Toponimi",
+    "Kadaster",
+    "Proyeksi Peta",
+    "Geofisika",
+    "Sistem Basis Data",
+    "Hitung Perataan",
+    "Survei Rekayasa",
+    "Perencanaan Wilayah",
+    "Fotogrametri Dijital",
+    "Pemetaan Dijital",
+    "Survei GPS",
+    "Sistem Informasi Geografis",
+    "Penginderaan Jauh",
+    "Survei Hidrografi",
+    "Geodesi Fisik",
+    "Survei Pemetaan SDM",
+    "Geodesi Satelit Lanjut",
+    "Aplikasi CAD",
+    "Oseanografi",
+    "Pengelolaan Wilayah Pesisir",
+    "Geologi dan Geofisika Laut"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Umumnya, alumni jurusan Teknik Geomatika akan menjadi seorang Geodet/Surveyor. Berbagai bidang pekerjaan yang berhubungan dengan kebumian dapat dimasuki oleh lulusan jurusan ini, seperti perminyakan, pertambangan, kelautan, kontruksi, dan lain sebagainya. Selain itu, lulusan jurusan ini juga tak jarang menjadi dosen.",
+  "professions": [
+    "Ahli Sistem Informasi Geografis",
+    "Peneliti dan Ahli Teknologi Informasi Geospasial",
+    "Teknisi Pemetaan",
+    "Pengamat Tanah dan Properti",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Peta Geografi",
+    "Surveyor Bangunan",
+    "Teknisi Geotermal"
+  ],
+  "related_majors": [
+    "teknik/teknik-geodesi",
+    "mipa/geofisika",
+    "mipa/kartografi-dan-penginderaan-jauh",
+    "teknik/teknik-ekonomi-konstruksi-quantity-surveyor-",
+    "teknik/survei-dan-pemetaan",
+    "teknik/teknik-geologi",
+    "mipa/geografi",
+    "mipa/penginderaan-jauh-dan-sistem-informasi-geografi",
+    "pendidikan/pendidikan-geografi"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 9,
+  "dt_snbp": 214,
+  "dt_snbt": 365,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "361059",
+      "major_university_name": "D4 TEKNOLOGI SURVEI DAN PEMETAAN DASAR - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 13.2353,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "363014",
+      "major_university_name": "S1 TEKNIK GEOMATIKA - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 17.3077,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382015",
+      "major_university_name": "S1 TEKNIK GEOMATIKA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 17.5097,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192001",
+      "major_university_name": "S1 TEKNIK GEOMATIKA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 80.7692,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "231017",
+      "major_university_name": "D3 TEKNOLOGI GEOMATIKA - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "561010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA GEOMATIKA DAN SURVEI - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191068",
+      "major_university_name": "D3 TEKNIK SURVEY DAN PEMETAAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "536007",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA GEOMATIKA DAN SURVEI - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "561007",
+      "major_university_name": "D3 TEKNOLOGI GEOMATIKA - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

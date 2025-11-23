@@ -1,0 +1,285 @@
+{
+  "idx": 282,
+  "id": "teknik-pertanian-dan-biosistem",
+  "major_name": "Teknik Pertanian dan Biosistem",
+  "icon": null,
+  "description": "Pada program studi Teknik Pertanian dan Biosistem kamu akan belajar pertanian dari sisi engineering nya, yang artinya, disini kamu akan mempelajari alat-alat permesinan yang digunakan dalam kegiatan pertanian. Pastinya jika sudah menyangkut \"teknik\" akan berkaitan dengan gambar teknik, instrumentasi, dan pemrograman. Pastinya juga nggak akan lepas dari ilmu agronomi. Intinya ilmu keteknikan ini nantinya akan diterapkan dalam dunia pertanian. \r\rDisini kamu akan mempelajari, mengembangkan, bahkan menciptakan teknologi yang bisa mempermudah dan meningkatkan hasil pertanian. Contoh inovasi dalam teknik pertanian adalah teknik hidroponik sebagai media baru dalam penanaman, transplanter untuk penanaman padi agar lebih cepat, hingga sumber energi hayari yang berasal dari tumbuh-tumbuhan untuk memecahkan krisis energi.\r",
+  "why": "Kalau kamu ingin belajar teknik tapi di satu sisi juga ingin mempelajari pertanian, program studi ini merupakan pilihan yang tepat. Ilmu yang didapat dari prodi Teknik Peranian sangat lengkap dan pastinya sangat menarik untuk dipelajari karena nggak dipungkiri kalau kita hidup dari hasil pertanian. Beras yang kita masak, sayuran yang menyehatkan, semuanya diperoleh dari hasil pertanian. Inovasi dan pengembangan teknik untuk mempermudah proses pertanian, meningkatkan efektivitas dan mutu pertania, serta untu menyelesaikan permasalahan pertanian sangat diperlukan. Karenanya jangan ragu untuk masuk program studi Teknik Pertanian.",
+  "subjects": [
+    "Mekanisasi Pertanian",
+    "Pengetahuan Bahan Teknik",
+    "Thermodinamika",
+    "Ekonomi Teknik",
+    "Gambar Teknik",
+    "Elektronika Industri",
+    "Mesin Dan Peralatan Pengolahan Hasil Pertanian",
+    "Sistem Informasi Geografis",
+    "Instrumentasi & Kontrol Otomatik",
+    "Teknik Pasca Panen Hortikultura",
+    "Sistem Manajemen Teknik Pertanian",
+    "Teknik Pemetaan dan Penginderaan Jarak Jauh",
+    "Sosiologi Industri",
+    "Teknik Pengolahan Pangan",
+    "Teknik Pengemasan",
+    "Teknik Pendinginan dan Pembekuan",
+    "Energi Terbarukan",
+    "Teknik Hidroponik",
+    "Rancangan Teknik",
+    "Konservasi Lahan Pertanian",
+    "Teknik Irigasi dan Drainase"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Senang berhitung",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Teknik Pertanian tidak kalah saing dibandingkan lulusan program studi teknik lainnya dalam urusan prospek kerja. Lulusan Teknik Pertanian memiliki keterampilan permesinan, sistem informasi, industri, bahkan sipil, dan pastinya pengetahuan di bidang pertanian yang sangat dibutuhkan oleh berbagai perusahaan yang bergerak di bidang pangan, alat teknik, dan agroindustri. Juga di instansi pemerintah terkait seperti Departemen Pertanian, Departemen Perindustrian dan Perdagangan, serta Lembaga Penelitian dan Pengembangan.",
+  "professions": [
+    "Ahli Teknik Energi",
+    "Manager Pertanian dan Peternakan",
+    "Ahli Teknik Mesin",
+    "Ahli Teknik Industri",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Ahli Teknik Pertanian"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/pemuliaan-tanaman",
+    "pertanian/rekayasa-pertanian",
+    "pertanian/ilmu-tanah-manajemen-sumberdaya-lahan-"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 22,
+  "dt_snbp": 788,
+  "dt_snbt": 1072,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "121014",
+      "major_university_name": "S1 KETEKNIKAN PERTANIAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.71842,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151033",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 17.5676,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171014",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 15.7895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191010",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 28.8462,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621018",
+      "major_university_name": "S1 KETEKNIKAN PERTANIAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 27.3356,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333015",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 12.4105,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341015",
+      "major_university_name": "S1 TEKNIK PERTANIAN DAN BIOSISTEM - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 10.2941,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351007",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 10.5398,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372017",
+      "major_university_name": "S1 TEKNIK PERTANIAN DAN BIOSISTEM - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 12.7226,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361040",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.2041,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721010",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 85.0746,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711011",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 16.4179,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517003",
+      "major_university_name": "D4 TEKNIK MESIN PERTANIAN - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": 105.882,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "371007",
+      "major_university_name": "S1 TEKNIK PERTANIAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 26.8182,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111011",
+      "major_university_name": "S1 TEKNIK PERTANIAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 24.812,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192021",
+      "major_university_name": "S1 TEKNIK BIOSISTEM - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 91.2088,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141019",
+      "major_university_name": "S1 TEKNIK PERTANIAN DAN BIOSISTEM - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 18.8406,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472031",
+      "major_university_name": "D3 KETEKNIKAN PERTANIAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611007",
+      "major_university_name": "S1 TEKNIK PERTANIAN DAN BIOSISTEM - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 22.2222,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "242008",
+      "major_university_name": "D3 TEKNOLOGI MEKANISASI PERTANIAN - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912005",
+      "major_university_name": "S1 KETEKNIKAN PERTANIAN - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921022",
+      "major_university_name": "S1 TEKNIK PERTANIAN DAN BIOSISTEM - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 950,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

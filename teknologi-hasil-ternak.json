@@ -1,0 +1,100 @@
+{
+  "idx": 296,
+  "id": "teknologi-hasil-ternak",
+  "major_name": "Teknologi Hasil Ternak",
+  "icon": null,
+  "description": "Teknologi Hasil Ternak merupakan salah satu program studi yang mempelajari tentang peternakan. Yang menjadi fokus pada program studi ini adalah pengolahan dan rekayasa produk hasil hewan berupa makanan (daging, susu, telur) dan hasil ikutan (kulit, tulang, bulu) menjadi produk olahan yang fungsional dan berkualitas. Tentunya pengelolaan limbah produksi juga akan di pelajari di sini.\r\rLalu apa bedanya program studi ini dengan program studi Produksi Ternak? Jika dalam program studi Produksi Ternak yang menjadi fokus adalah bagaimana membuat hewan ternak untuk menghasilkan produk hasil ternak yang baik, maka pada Teknologi Hasil Ternak yang menjadi fokus adalah tahap setelah hasil hewan ternak didapatkan untuk kemudian diolah menjadi produk industri.\r",
+  "why": "Kalau kamu tertarik dengan hal-hal menyangkut produk hasil ternak seperti susu, keju, yoghurt, daging, dan telur yang biasa kamu konsumsi sehari-hari, bagaimana untuk menghasilkan produk hasil ternak yang berkualitas baik untuk dikonsumsi, kamu bisa masuk ke program studi Teknologi Hasil Ternak.",
+  "subjects": [
+    "Dasar Teknologi Hasil Ternak",
+    "Mikrobiologi Produk Hasil Ternak",
+    "Karakteristik Kimiawi dan Biokimiawi Hasil Ternak",
+    "Gizi dan Pangan Fungsional Hasil Ternak",
+    "Inovasi Teknologi Susu",
+    "Inovasi Teknologi Produk Unggas",
+    "Inovasi Teknologi Madu Tropika",
+    "Inovasi Teknologi Daging",
+    "Pengendalian Limbah",
+    "Inovasi Teknologi Hasil Ikutan Ternak",
+    "Inovasi Teknologi Wol",
+    "Omics Hasil Ternak",
+    "Etika Bisnis Peternakan",
+    "Inovasi dan Komersialisasi Hasil Ternak",
+    "Penyuluhan dan Komunikasi Peternakan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi ini punya peluang bekerja di industri peternakan. Sebagai Research and Development (RnD), konsultan agribisnis, Quality Control produk peternakan, dan sebagainya. Karena dibekali dengan ilmu kewirausahaan pad masa studi, maka lulusan Teknologi Hasil Ternak juga bisa mengembangkan usaha pengolahan hasil ternak atau retail produk peternakan sendiri. ",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Peneliti Hewan",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manager Pertanian dan Peternakan",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/teknologi-pangan",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-",
+    "pertanian/peternakan",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/manajemen-bisnis-unggas"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 2,
+  "dt_snbp": 90,
+  "dt_snbt": 66,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "341038",
+      "major_university_name": "S1 TEKNOLOGI HASIL TERNAK - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 9.15033,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "471002",
+      "major_university_name": "D4 TEKNOLOGI PENGOLAHAN HASIL TERNAK - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": 83.3333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

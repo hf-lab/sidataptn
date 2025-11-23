@@ -1,0 +1,492 @@
+{
+  "idx": 291,
+  "id": "teknik-tenaga-listrik",
+  "major_name": "Teknik Tenaga Listrik",
+  "icon": null,
+  "description": "Teknik Tenaga Listrik adalah bidang ilmu yang mempelajari teknik-teknik yang berhubungan dengan tenaga listrik dan permasalahannya sehingga tenaga listrik dapat disalurkan dengan baik. Teknik Tenaga Listrik secara khusus berkaitan dengan pembangkitan dan transmisi daya listrik dari satu tempat ke tempat lain. ",
+  "why": "Perkembangan di bidang ilmu teknik ketenaga listrikan berlangsung cepat pada beberapa dekade terakhir. Listrik dinilai semakin penting di dalam kehidupan modern. Sehingga perlu dikembangkan teknologi pengadaan listrik yang lebih efisien. Kamu juga akan banyak bersinggungan dengan bidang ilmu komputer, karena operasi sistem tenaga listrik modern memer­lukan Real Time Computers untuk membantu tenaga pelaksana dalam mengelola sistem tenaga listrik.",
+  "subjects": [
+    "Pengantar Analisis Rangkaian",
+    "Rangkaian Elektrik",
+    "Sistem Digital & Mikroprosesor",
+    "Matematika Teknik",
+    "Rekayasa Termal & Mekanika Fluida",
+    "Sistem Pengukuran",
+    "Sinyal & Sistem",
+    "Medan Elektromagnetik",
+    "Elektronika",
+    "Mesin-mesin Listrik",
+    "Analisis Numerik Untuk Tenaga Listrik",
+    "Analisis Sistem Tenaga",
+    "Material Elektroteknik",
+    "Sistem Kendali",
+    "Ekonomi Teknik",
+    "Pembangkit Tenaga Listrik",
+    "Elektronika Daya",
+    "Teknik Tegangan Tinggi",
+    "Proteksi Sistem Tenaga",
+    "Pemanfaatan Energi Listrik",
+    "Sistem Distribusi Tenaga Listrik",
+    "Desain Sistem Tenaga Listrik",
+    "Ekonomi Energi",
+    "Transmisi Daya Arus Searah dan FACTS"
+  ],
+  "characters": [
+    "Teliti",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan Program Studi Teknik Tenaga Listrik dapat bekerja di bidang pembangki­tan, transmisi, distribusi dan pemanfaatan tenaga listrik sebagai perancang, peneliti, insinyur operasi dan pemeliharaan sistem dan peralatan tenaga listrik di instansi pemerintahan dan berbagai industri ketenagalistrikan.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Teknisi Produksi Manufaktur",
+    "Ahli Listrik",
+    "Auditor Energi",
+    "Ahli Teknik Sistem Solar Energi",
+    "Manajer Kontrol Kualitas Sistem",
+    "Ahli Teknik Elektronik",
+    "Ahli Teknik Energi",
+    "Ahli Teknik Mesin",
+    "Ahli Teknik Manufaktur"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "mipa/metrologi",
+    "teknik/teknik-telekomunikasi",
+    "teknik/teknik-mesin",
+    "teknik/teknik-refrigerasi-dan-tata-udara",
+    "teknik/teknik-listrik-bandara"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 44,
+  "dt_snbp": 1164,
+  "dt_snbt": 1638,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "383026",
+      "major_university_name": "D4 TEKNIK LISTRIK - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 30.9524,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474027",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474003",
+      "major_university_name": "D4 SISTEM KELISTRIKAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 21.1864,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "452020",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA INSTALASI LISTRIK - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 20.3883,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431036",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431006",
+      "major_university_name": "D4 TEKNOLOGI PEMBANGKIT TENAGA LISTRIK - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 17.2619,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421034",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421005",
+      "major_university_name": "D4 TEKNIK OTOMASI LISTRIK INDUSTRI - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 15.9091,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355079",
+      "major_university_name": "D4 TEKNIK LISTRIK INDUSTRI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562002",
+      "major_university_name": "D4 TEKNIK LISTRIK - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 27.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716009",
+      "major_university_name": "D4 TEKNIK LISTRIK - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 12.749,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "222013",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142063",
+      "major_university_name": "D3 TEKNIK LISTRIK - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515015",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562022",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617014",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641004",
+      "major_university_name": "D4 TEKNIK INSTALASI LISTRIK - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 26.1261,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641011",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "481012",
+      "major_university_name": "D3 TEKNIK KELISTRIKAN KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "481010",
+      "major_university_name": "D4 TEKNIK KELISTRIKAN KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 35.3982,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716025",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "727003",
+      "major_university_name": "D4 TEKNIK LISTRIK - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 113.636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "453003",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222022",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA INSTALASI LISTRIK - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "232001",
+      "major_university_name": "D4 TEKNIK LISTRIK - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 92.3077,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "241008",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA INSTALASI LISTRIK - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 19.8925,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241024",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271026",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 19.3548,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "473007",
+      "major_university_name": "D3 TEKNIK LISTRIK - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536009",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "516005",
+      "major_university_name": "D3 TEKNOLOGI LISTRIK - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "563003",
+      "major_university_name": "D3 TEKNOLOGI LISTRIK - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "241021",
+      "major_university_name": "D3 TEKNIK LISTRIK (KAMPUS KAB PELALAWAN) - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "483002",
+      "major_university_name": "D3 TEKNIK LISTRIK INDUSTRI - POLTERA",
+      "university_name": "POLITEKNIK NEGERI MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221026",
+      "major_university_name": "D3 TEKNOLOGI LISTRIK - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722053",
+      "major_university_name": "D3 TEKNIK LISTRIK - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111067",
+      "major_university_name": "D3 TEKNIK LISTRIK - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "727018",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731059",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA INSTALASI LISTRIK - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "831012",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921037",
+      "major_university_name": "D3 TEKNIK LISTRIK - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "931002",
+      "major_university_name": "D3 TEKNIK LISTRIK - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "idx": 260,
+  "id": "teknik-industri",
+  "major_name": "Teknik Industri",
+  "icon": null,
+  "description": "Teknik Industri merupakan ilmu yang mempelajari proses industri baik dari sisi manajemen ataupun teknik. Ilmu teknik industri sebenarnya adalah turunan dari teknik mesin. Walau demikian, para mahasiswa juga harus mempelajari disiplin lain seperti matematika, fisika, fisiologi, bahkan manajemen saintifik. Teknik industri berfokus kepada perancangan, peningkatan, dan pemasangan sistem terintegrasi yang membutuhkan peran manusia, material, peralatan dan energi.\r\rTeknik Industri sendiri dibagi menjadi tiga bidang besar. Pertama, sistem manufaktur yang mempelajari peningkatan kualitas, produktivitas, dan efisiensi sistem produksi. Kedua adalah manajemen industri, di mana para mahasiswa harus mempelajari manajemen keuangan, manajemen operasional, manajemen inovasi, perencanaan dan pengendalian produksi, dan ekonomi teknik. Ketiga adalah sistem industri dan tekno ekonomi, seperti logistik, statistik, penelitian operasional, dan sistem basis data.\r",
+  "why": "Apabila kamu menyukai teknik sekaligus manajemen, jurusan Teknik Industri bisa menjadi pilihan yang tepat. Dengan perekonomian Indonesia yang sedang berkembang, banyak industri yang melaju pesat. Berbeda dengan jurusan teknik yang lain, Teknik Industri punya keunikan lintas berbagai disiplin ilmu, terutama manajemen. Lapangan kerja pun terbuka sangat lebar. ",
+  "subjects": [
+    "Matematika",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Menggambar Teknik",
+    "Teori Probabilitas",
+    "Material Teknik",
+    "Mekanika Teknik Dasar",
+    "Matriks dan Ruang Vektor",
+    "Statistika Industri",
+    "Elektronika Industri",
+    "Pengantar Ergonomi",
+    "Psikologi Industri",
+    "Proses Manufaktur",
+    "Praktikum Perancangan Sistem Terintegrasi",
+    "Kalkulus",
+    "Analisis Biaya",
+    "Pemodelan Sistem",
+    "Perencanaan & Pengendalian Produksi",
+    "Pengendalian & Penjaminan Mutu",
+    "Rekayasa Sistem Kerja",
+    "Otomasi Sistem Produksi",
+    "Ekonomi Teknik",
+    "Sistem Produksi",
+    "Organisasi & Manajemen Perusahaan Industri",
+    "Keselamatan",
+    "Kesehatan",
+    "dan Lingkungan Kerja",
+    "Proyek Rekayasa Inter- Disiplin",
+    "Perancangan Tata Letak Pabrik",
+    "Sistem ERP",
+    "Pemodelan Stokastik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Teknik Industri mempunyai prospek yang bagus. Ketersediaan lapangan kerja sangat luas, dari industri kecil sampai industri besar. Para lulusan teknik industri bisa mengambil peran beberapa fungsi seperti divisi spesialisasi teknik industri, divisi produksi, divisi engineering, divisi perencanaan biaya, bahkan divisi HRD. ",
+  "professions": [
+    "Spesialis Robotik",
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Manajer Produksi Industri",
+    "Pengajar Teknik",
+    "Teknik Kesehatan dan Keselamatan Industri",
+    "Operator Pabrik dan Sistem",
+    "Teknisi Produksi Manufaktur",
+    "Ahli Teknik Elektronik",
+    "Ahli Teknik Industri",
+    "Ahli Teknik Material"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/teknik-kimia",
+    "teknik/manajemen-rantai-pasok",
+    "teknik/manajemen-rekayasa-industri",
+    "teknik/teknik-logistik"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 44,
+  "dt_snbp": 2079,
+  "dt_snbt": 2457,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "353009",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.94958,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355023",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 3.95284,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121005",
+      "major_university_name": "S1 TEKNIK INDUSTRI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 3.80048,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711031",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 7.29927,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362090",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "324003",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 5.89496,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373021",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.48341,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "352024",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361039",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.37079,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "363007",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 8.87199,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "365006",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 11.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372024",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 5.4846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332029",
+      "major_university_name": "S1 FAKULTAS TEKNOLOGI INDUSTRI * REKAYASA INDUSTRI (FTI*RI) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381022",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.49618,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382010",
+      "major_university_name": "S1 TEKNIK INDUSTRI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 4.89796,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "611028",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 11.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385004",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 8.90472,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542011",
+      "major_university_name": "S1 TEKNIK INDUSTRI - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 27.1552,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511006",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 18.3246,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541018",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 7.86164,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321018",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.09938,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111025",
+      "major_university_name": "S1 TEKNIK INDUSTRI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 15.4286,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "132005",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 17.5824,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141015",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 5.37746,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "192014",
+      "major_university_name": "S1 TEKNIK INDUSTRI - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 17.3451,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621049",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311003",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 7.29295,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351024",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 6.38629,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331002",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 10.5951,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332008",
+      "major_university_name": "FAKULTAS TEKNOLOGI INDUSTRI (FTI) - KAMPUS GANESA - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 9.18755,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "332014",
+      "major_university_name": "FAKULTAS TEKNOLOGI INDUSTRI (FTI) - KAMPUS JATINANGOR - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 7.31261,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "332015",
+      "major_university_name": "S1 FAKULTAS TEKNOLOGI INDUSTRI * KAMPUS CIREBON (FTI*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 5.66572,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332028",
+      "major_university_name": "S1 FAKULTAS TEKNOLOGI INDUSTRI * SISTEM DAN PROSES (FTI*SP) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333072",
+      "major_university_name": "D4 TEKNOLOGI INDUSTRI KIMIA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "821039",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752023",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 29.4118,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811013",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 89.4737,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "421012",
+      "major_university_name": "D4 TEKNOLOGI INDUSTRI CETAK KEMASAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 38.2022,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "384005",
+      "major_university_name": "S1 TEKNIK INDUSTRI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 35.1351,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133022",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "114010",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 18.1818,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113003",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 72.4638,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112005",
+      "major_university_name": "S1 TEKNIK INDUSTRI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 35.9133,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "221015",
+      "major_university_name": "D3 TEKNOLOGI INDUSTRI - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

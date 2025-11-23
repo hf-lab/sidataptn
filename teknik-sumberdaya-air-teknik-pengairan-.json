@@ -1,0 +1,124 @@
+{
+  "idx": 288,
+  "id": "teknik-sumberdaya-air-teknik-pengairan-",
+  "major_name": "Teknik Sumberdaya Air (Teknik Pengairan)",
+  "icon": null,
+  "description": "Program studi Teknik Sumberdaya Air atau yang juga dikenal dengan nama Teknik Pengairan adalah sebuah prodi yang mempelajari ilmu-ilmu teknik sipil dalam perencanaan, desain, pengoperasian, serta pemeliharaan bangunan air yang berkaitan dengan sumberdaya air. Contoh bangunan air yang dimaksud adalah pembangkit listrik tenaga air, bangunan irigasi dan drainasi pada persawahan, sistem drainase perkotaan dan bangunan, waduk, dan lainnya. \r\rDi prodi ini kita juga akan belajar tentang teknik pengelolaan dan pemanfaatan sumberdaya air yang benar, dan pengelolaan dampak lingkungan dan pencemaran sumberdaya air. Program studi ini bisa dibilang multidisiplin karena meliputi ilmu Teknik Sipil, Planologi, Penginderaan Jauh dan Sistem Informasi Geografis (SIG), termasuk Pertanian. ",
+  "why": "Sistem pengairan sangat penting untuk dikelola dengan baik. BPengelolaan ini bukan cuma untuk pengairan lahan pertanian, tapi juga drainasi di perkotaan. Sebuah kota yang memiliki sistem drainasi yang buruk dapat menyebabkan masalah seperti banjir. Karena prodi ini merupakan sebuah prodi multidisiplin, maka di sini kamu bakal dapat banyak pengetahuan di bidang teknik. Selain itu perguruan tinggi di Indonesia yang menyelenggarakan program studi ini juga masih terbatas. So, saingan lulusan program studi ini masih terbilang sedikit, sedangkan ahli di bidang teknik pengairan sangat di butuhkan.",
+  "subjects": [
+    "Mekanika Fluida",
+    "Menggambar Konstruksi Bangunan Air",
+    "Hidrolika Saluran Tertutup",
+    "Perencanaan Jaringan Irigasi",
+    "Sistem Drainasi",
+    "Hidrolika Terapan",
+    "Hidrologi Teknik Terapan",
+    "Sistem Informasi Geografis",
+    "Perencanaan Wilayah dan Kota",
+    "Sistem Jaringan Perpipaan",
+    "Pengelolaan DAS",
+    "Perencanaan dan Pengelolaan Waduk",
+    "Teknik Lingkungan dan Amdal",
+    "Teknik Konservasi Waduk",
+    "Konstruksi Baja",
+    "Konstruksi Beton",
+    "Pengolahan Kualitas Air",
+    "Bangunan Irigasi",
+    "Rancangan Drainasi",
+    "Hidrometeorologi",
+    "Hidrogeologi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan program studi Teknik Sumberdaya Air memiliki prospek kerja yang cukup luas. Lulusannya dapat bekerja di instansi pemerintahan dan BUMN yang menangani sarana dan prasarana pengelolaan sumberdaya air seperti Kementrian Pekerjaan Umum, Dinas Pengairan Daerah, Dinas Pertanian, PLN, PDAM, perusahaan konsultan dan kontraktor, dan tenaga pengajar. ",
+  "professions": [
+    "Insinyur Sipil",
+    "Ahli Konservasi Tanah dan Air",
+    "Ahli Hidrologi",
+    "Teknisi Pipa dan Saluran Air",
+    "Pengawas Konstruksi dan Bangunan",
+    "Ahli Teknik Lingkungan",
+    "Spesialis Pengairan"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "pertanian/manajemen-sumber-daya-perairan",
+    "teknik/teknik-lingkungan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 4,
+  "dt_snbp": 90,
+  "dt_snbt": 146,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "361116",
+      "major_university_name": "S1 TEKNIK SUMBER DAYA AIR - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241004",
+      "major_university_name": "D4 TEKNIK PERENCANAAN IRIGASI DAN RAWA - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 46.0317,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372007",
+      "major_university_name": "S1 TEKNIK PENGAIRAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 16.5289,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "641002",
+      "major_university_name": "D4 TEKNIK PERANCANGAN IRIGASI DAN PENANGANAN PANTAI - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 40.2516,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "idx": 245,
+  "id": "tata-rias-dan-kecantikan",
+  "major_name": "Tata Rias dan Kecantikan",
+  "icon": null,
+  "description": "Para mahasiswa yang mengambil program studi Tata Rias ini akan mempelajari tata rias Indonesia dan internasional, Beberapa hal yang dipelajari adalah cara menyanggul, menata rambut, memotong rambut, merias wajah menggunakan bahan dan alat kosmetika. Program studi ini diharapkan bisa menyiapkan sumber daya manusia yang profesional dan ahli di bidang tata rias.",
+  "why": "Program studi ini sangat cocok buat kamu yang ingin mendalami dunia tata rias. Saat ini tata rias masih sangat dibutuhkan terutama di bidang event dan entertainment. Dan jangan salah, nggak cuma cewek aja lho yang bisa masuk ke dunia tata rias, tapi cowok juga. Banyak make-up artist ternama yang merupakan laki-laki, ",
+  "subjects": [
+    "Dasar Rias",
+    "Anatomi dan Fisiologi",
+    "Dasar Busana",
+    "Dasar Seni & Desain",
+    "Ilmu Kesehatan Kulit & Rambut",
+    "Sejarah Mode Tata Rias",
+    "Senam Kecantikan",
+    "Perawatan dan Tata Rias Rambut",
+    "Menggambar Mode Tata kecantikan",
+    "Keriting Dasar",
+    "Pangkas Rambut Dasar",
+    "Dekorasi Ruang Khusus Kecantikan",
+    "Sanggul Tradisional",
+    "Perawatan Kulit dan Tata Rias Wajah",
+    "Pewarnaan Rambut",
+    "Kewirausahaan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Senang bekerja sendiri",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Kecantikan dan penampilan fisik bisa menjadi komoditas yang menghasilkan uang. Saat ini, kita hidup pada zaman di mana setiap orang sangat memperhatikan penampilan sebagai suatu hal yang sangat penting. Kesempatan ini bisa dimanfaatkan oleh para lulusan program studi Tata Rias.",
+  "professions": [
+    "Penata Rias Pertunjukan dan Teater",
+    "Konsultan Kecantikan (Beauty Consultant)",
+    "Juru Rias Pengantin",
+    "Penata Rambut, Penata Gaya Rambut, dan Ahli Kosmetik",
+    "Terapis Kecantikan",
+    "Make Up Artist"
+  ],
+  "related_majors": [
+    "seni/seni-tari",
+    "seni/tata-boga"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 10,
+  "dt_snbp": 291,
+  "dt_snbt": 451,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "356065",
+      "major_university_name": "S1 PENDIDIKAN TATA KECANTIKAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 7.69231,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362077",
+      "major_university_name": "D4 TATA RIAS DAN KECANTIKAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122040",
+      "major_university_name": "S1 PENDIDIKAN TATA RIAS - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 13.5802,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142048",
+      "major_university_name": "D4 PENDIDIKAN TATA RIAS DAN KECANTIKAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 9.00563,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323054",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TATA RIAS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.44168,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323072",
+      "major_university_name": "D4 KOSMETIK DAN PERAWATAN KECANTIKAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383055",
+      "major_university_name": "S1 PENDIDIKAN TATA RIAS - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 16.1692,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "143016",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TATA RIAS - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "335009",
+      "major_university_name": "D4 TATA RIAS DAN BUSANA - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 19,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383098",
+      "major_university_name": "S1 PENDIDIKAN TATA RIAS (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

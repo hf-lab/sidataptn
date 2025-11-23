@@ -1,0 +1,283 @@
+{
+  "idx": 277,
+  "id": "teknik-perencanaan-wilayah-dan-kota-planologi-",
+  "major_name": "Teknik Perencanaan Wilayah dan Kota (Planologi)",
+  "icon": null,
+  "description": "Teknik Teknik Perencanaan Wilayah dan Kota atau biasa dikenal dengan Planologi adalah sebuah program studi yang mempelajari dasar-dasar perencanaan, morfologi kota, perpetaan, struktur tanah, transportasi, serta desain. Selain ilmu-ilmu mengenai keteknikan, juga dipelajari ilmu sosial ekonomi perkotaan.\rBerbeda dengan jurusan Arsitektur Lanskap yang lebih mengutamakan sisi keindahan dan estetika lokasi, Teknik Perencanaan Wilayah dan Kota lebih mempertimbangkan aspek sosial, ekonomi, dan politik dalam pembangunan.\r\rLulusan sarjana Teknik Planologi yang biasa disebut sebagai planner, nantinya akan memiliki kompetensi untuk melakukan perencanaan sebuah kota, menentukan tata guna lahan, sistem transportasi, serta mengatur aktivitas-aktivitas yang ada di dalamnya. Sebagai contoh, di sebuah kota terdapat berbagai macam komponen fisik seperti wilayah perkantoran, pemukiman, industri, sistem transportasi, dll. Serta disisi lain juga terdapat komponen non-fisik seperti kemacetan, kepadatan penduduk, dll. Seorang planner harus menguasai semua aspek tersebut untuk dapat melakukan perencanaan yang baik sesuai dengan karakteristik wilayah yang ada.",
+  "why": "Saat ini pembangunan wilayah atau daerah kurang begitu memperhatikan tata kota yang baik. Namun, semakin baik perekonomian sebuah negara, penataan kota mau tidak mau harus mendapatkan perhatian karena berhubungan erat dengan infrastruktur. Program studi Perencanaan Wilayah dan Kota bisa menjadi pilihan tepat buat kamu yang punya idealisme untuk membangun kota dengan penataan yang baik.\r\rJika kamu ingin menekuni bidang ini, kamu harus memiliki bakat dan minat dalam Bidang Matematika, Geologi, serta Sejarah Konstruksi, karena ini akan menjadi konten utama dari program studi Planologi.",
+  "subjects": [
+    "Pengantar Ekonomika Perencanaan",
+    "Ekonomika Wilayah dan Kota",
+    "Pembiayaan Pembangunan",
+    "Pengembangan Komunitas",
+    "Pengantar Perencanaan Wilayah dan Kota",
+    "Prasarana Wilayah dan Kota",
+    "Proses Perencanaan",
+    "Komputasi Perencanaan",
+    "Teknik Analisa Perncanaan",
+    "Morfologi Kota",
+    "Pola Lokasi dan Struktur Ruang",
+    "Pengantar Data Spasial",
+    "Aspek Kependudukan dalam Perencanaan",
+    "Tata Guna Lahan",
+    "Sistem Perumahan",
+    "Hukum Perencanaan",
+    "Perencanaan Wilayah",
+    "Perencanaan Perdesaan",
+    "Manajemen dan Administrasi Pembangunan",
+    "Perancangan Kota"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Ada berbagai kesempatan kerja yang tersedia bagi mereka dengan gelar Sarjana Planologi. Beberapa bidang pekerjaan yang bisa dimasuki oleh lulusan Planologi antara lain: konstruksi dan bangunan, perencanaan kota dan wilayah, pemetaan, hingga arsitektur. Selain itu lulusan Planologi juga dapat bekerja di sektor lain seperti Bisnis, Keuangan, Sumber Daya Manusia dan bahkan di sektor Hukum Kontrak dan Hukum Komersial.",
+  "professions": [
+    "Ajudan Perencanaan Kota dan Wilayah",
+    "Arsitek",
+    "Perencana Transportasi",
+    "Surveyor Bangunan",
+    "Perencanaan Kota dan Wilayah",
+    "Ahli Peta Geografi",
+    "Konsultan Arsitek"
+  ],
+  "related_majors": [
+    "teknik/teknik-sipil",
+    "teknik/arsitektur-lanskap",
+    "teknik/teknik-perancangan-jalan-dan-jembatan"
+  ],
+  "major_group_id": 24,
+  "jlh_prodi": 22,
+  "dt_snbp": 723,
+  "dt_snbt": 1076,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "181022",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353016",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA (PWK) - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 4.2618,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355022",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.03597,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361005",
+      "major_university_name": "S1 PEMBANGUNAN WILAYAH - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361030",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 4.00668,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371029",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 10.0251,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372019",
+      "major_university_name": "S1 PERENCANAAN WILAYAH & KOTA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.96056,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382016",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 6.81818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511024",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 10.6952,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111038",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 7.9646,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542008",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 35.3293,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711033",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 10.3734,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515001",
+      "major_university_name": "D4 PERENCANAAN PERUMAHAN & PEMUKIMAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 56.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811025",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 162.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731024",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 20.2532,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721009",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 55,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "713006",
+      "major_university_name": "S1 TEKNIK PERENCANAAN WILAYAH DAN KOTA - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192003",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 28.6374,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515005",
+      "major_university_name": "D4 DESAIN KAWASAN BINAAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 128.571,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741014",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 70.8738,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752037",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 104.651,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911020",
+      "major_university_name": "S1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 72.2222,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 24,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Perencanaan Wilayah\r",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

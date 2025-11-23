@@ -1,0 +1,507 @@
+{
+  "idx": 274,
+  "id": "teknik-otomasi-manufaktur-dan-mekatronika",
+  "major_name": "Teknik Otomasi Manufaktur dan Mekatronika",
+  "icon": null,
+  "description": "Program studi Teknik Otomasi Manufaktur dan Mekatronika membekali kita dengan kompetensi inti pada perancangan dan pembuatan tekonologi terpadu dalam mekatronik dam otomasi manufaktur. Mekatronika adalah perpaduan dari teknik listrik, informasi, mekanik dan sistem kendali yang merupakan kompetensi dalam pembuatan alat atau komponen digunakan untuk membangun sistem otomatis.\r\rSementara otomasi manufaktur menangani keterbatasan manusia dengan sifat kerja yang berulang-ulang yang dihasilkan dari integrasi aplikasi dan beberapa perangkat elektronik. Menyediakan layanan dalam sistem kendali otomasi yang berkualitas dan andal bagi industri manufaktur, elektronika, agro, pertambangan, tekstil, pengolahan makanan dan minuman, dan peralatan elektronik rumah sakit.",
+  "why": "Jurusan Teknik Otomasi Manufaktur dan Mekatronika sangat cocok untuk teman-teman yang senang bermain dengan logika. Kalau kalian untuk teman-teman yang hobi membuat proyek engineering sendiri, dan untuk teman-teman yang bercita terjun di dunia industri",
+  "subjects": [
+    "Pendidikan Dasar Mekanik",
+    "Ilmu Mesin",
+    "Pendidikan Dasar Informatika",
+    "Elektronika",
+    "PLC (Programmable Logic Controller)"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Ada banyak lowongan kerja yang tersedia dalam sektor manufaktur dan produksi. Biasanya tamatan baru yang belum mempunyai pengalaman kerja di bidang yang bersangkutan akan menempati posisi sebagai trainee di suatu perusahaan manufaktur. Ada banyak perusahaan-perusahaan yang merekrut para lulusan dari Jurusan Manufaktur dan Produksi, terutama perusahaan-perusahaan di sektor pangan, obat-obatan dan fashion.\r\rBagi para lulusan yang lebih menyenangi aspek teori bisa melamar di posisi manajemen produksi, di mana perannya adalah mengawasi proses manufaktur dan memastikan bahwa metode yang digunakan sesuai dengan ketentuan kontrak dan hukum yang berlaku. Selain itu, mereka juga berperan dalam menjaga kesejahteraan tenaga kerja.\r\rPengetahuan yang luas yang dipelajari semasa kuliah memungkinkan para lulusan dari Jurusan Manufaktur dan Produksi diterima bekerja di bidang lain seperti ukum, keuangan, komersial dan jurnalisme.",
+  "professions": [
+    "Ahli Teknik Industri",
+    "Ahli Matematika",
+    "Ahli Teknik Mesin"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/industrial-robotics-design",
+    "teknik/manajemen-rekayasa-industri"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 48,
+  "dt_snbp": 1212,
+  "dt_snbt": 1535,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "431009",
+      "major_university_name": "D4 TEKNIK OTOMASI INDUSTRI - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 14.9038,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334035",
+      "major_university_name": "S1 MEKATRONIKA DAN KECERDASAN BUATAN * KAMPUS UPI DI PURWAKARTA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 42.0168,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "421003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 16.7665,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382037",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382035",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431004",
+      "major_university_name": "D4 PROSES MANUFAKTUR - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 18.4049,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362024",
+      "major_university_name": "S1 TEKNIK MANUFAKTUR - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 9.90712,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355076",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 15.0943,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANCANGAN MANUFAKTUR - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 20.6186,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334031",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMASI INDUSTRI DAN ROBOTIKA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 23.0769,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323067",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323066",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 27.3973,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "482006",
+      "major_university_name": "D4 TEKNIK MEKATRONIKA - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 21.4876,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "231012",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA MANUFAKTUR - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "231001",
+      "major_university_name": "D4 TEKNIK MEKATRONIKA - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": 31.3043,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "432004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MATERIAL MAJU - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 35.4839,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MEKATRONIKA - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 26.9841,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432008",
+      "major_university_name": "D3 TEKNOLOGI MANUFAKTUR - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "471005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "433001",
+      "major_university_name": "D4 PERANCANGAN MANUFAKTUR - POLINDRA",
+      "university_name": "POLITEKNIK NEGERI INDRAMAYU",
+      "keketatan": 60.8108,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "434006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "471003",
+      "major_university_name": "D4 TEKNIK MANUFAKTUR KAPAL - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": 113.793,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221028",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MEKATRONIKA - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "472013",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MEKATRONIKA - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 90.566,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "481002",
+      "major_university_name": "D4 TEKNIK DESAIN DAN MANUFAKTUR - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 51.0204,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "481005",
+      "major_university_name": "D4 TEKNIK OTOMASI - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 33.9869,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712026",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL MEKATRONIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 45.9459,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716005",
+      "major_university_name": "D4 TEKNIK MEKATRONIKA - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 33.7079,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716006",
+      "major_university_name": "D4 TEKNIK MANUFAKTUR - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 47.1429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384012",
+      "major_university_name": "S1 TEKNIK MEKATRONIKA - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 80.8219,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "222025",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241003",
+      "major_university_name": "D4 TEKNIK MANUFAKTUR - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 16.5563,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "281007",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANCANGAN MANUFAKTUR - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "352019",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANCANGAN MANUFAKTUR - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352023",
+      "major_university_name": "S1 TEKNIK MEKATRONIKA - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362014",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MEKATRONIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 26.2295,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373023",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 133.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "453009",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MEKATRONIKA - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "483006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - POLTERA",
+      "university_name": "POLITEKNIK NEGERI MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "536020",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "617003",
+      "major_university_name": "D4 TEKNIK OTOMASI - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 105.128,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "421014",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR (KAMPUS KOTA PEKALONGAN) - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 440,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222024",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMASI - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 118.421,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727013",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MEKATRONIKA - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731058",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MANUFAKTUR - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

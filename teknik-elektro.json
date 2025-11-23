@@ -1,0 +1,1188 @@
+{
+  "idx": 252,
+  "id": "teknik-elektro",
+  "major_name": "Teknik Elektro",
+  "icon": null,
+  "description": "Teknik elektro merupakan ilmu teknik yang mempelajari sifat-sifat elektron yang kita kenal sebagai listrik. Mahasiswa Teknik Elektro mempelajari aplikasi dan pemanfaatan listrik dalam kehidupan sehari-hari, serta teknologi yang terkait. Cakupan teknik elektro sangat luas, mulai dari sumber pembangkit tenaga listrik, sistem jaringan distribusi, sampai pada pemanfaatannya oleh pengguna akhir.\r\rTeknik Elektro pun dipecah menjadi beberapa konsentrasi, seperti teknik elektronika, teknik listrik, teknik instrumentasi, sampai teknik komputer dan telekomunikasi.\r",
+  "why": "Apabila kamu tertarik untuk mempelajari energi listrik, maka tak ada salahnya untuk memilih jurusan ini. Lagipula listrik adalah energi yang sangat dibutuhkan oleh masyarakat, dan perkembangan teknologi yang semakin cepat menjadikan Teknik Elektro menjadi semakin relevan. Dengan beberapa konsentrasi yang ada di program studi ini kamu bahkan nggak hanya akan belajar tentang instalasi listrik aja, tapi juga mengenai IT dan bahkan robotik.",
+  "subjects": [
+    "Matematika",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Pengantar Desain Teknik",
+    "Rangkaian Elektrik",
+    "Sistem Digital",
+    "Matematika Teknik",
+    "Struktur Diskrit",
+    "Elektronika",
+    "Medan Elektromagnetik",
+    "Sinyal dan Sistem",
+    "Pemecahan Masalah dengan C",
+    "Pengolahan Sinyal Digital",
+    "Arsitektur Sistem Komputer",
+    "Material Teknik Elektro",
+    "Sistem Kendali",
+    "Sistem Tenaga Elektrik",
+    "Kalkulus",
+    "Mikroprosesor",
+    "Termodinamika dan Penggerak Awal",
+    "Iluminasi dan Instalasi Listrik",
+    "Distribusi Daya Listrik",
+    "Pembangkit Tenaga Listrik",
+    "Teknik Tegangan Tinggi",
+    "Proses Stokastik",
+    "Sistem Mikroprosesor",
+    "Desain dan Instalasi Tenaga Listrik",
+    "Pengaman Sistem Tenaga Listrik",
+    "Distribusi Tenaga Listrik",
+    "Pemeliharaan Peralatan Listrik",
+    "Sistem Energi Baru dan Terbarukan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Seiring dengan pesatnya perkembangan teknologi, jurusan teknik elektro juga semakin relevan. Prospek kerja yang terkait dengan bidang Teknik Elektro pun bisa dibilang cukup mumpuni seperti: teknisi telekomunikasi, teknisi radar, sonar, dan navigasi; spesialis network system, hingga ahli robotik. Untuk industrinya sendiri, seorang lulusan Teknik Elektro dapat masuk ke dalam hampir semua industri seperti telekomunikasi, manufaktur, IT, pembangkit listrik, hingga perminyakan dan pertambangan.",
+  "professions": [
+    "Ahli Teknik Elektronik",
+    "Pengajar Teknik",
+    "Ahli Teknik Mekatronik",
+    "Ahli Robotik",
+    "Ahli Teknik Energi Angin",
+    "Ahli Listrik",
+    "Teknik Penerbangan",
+    "Teknik Keamanan Produk",
+    "Ahli Teknik Sistem Solar Energi",
+    "Mekanik Utama Otomotif"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "komputer-teknologi/teknik-informatika"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 121,
+  "dt_snbp": 3757,
+  "dt_snbt": 5376,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "324010",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 12.6168,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332021",
+      "major_university_name": "S1 SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA * KOMPUTASI (STEI*K) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 3.17784,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334016",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 10.7914,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353028",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.44444,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431008",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 9.0625,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 6.3253,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122015",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 12.8141,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131018",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 11.6705,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141017",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 9.6519,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142085",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151029",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 25.3731,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171005",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 11.5132,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "231010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ELEKTRONIKA - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241001",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA INDUSTRI - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 12.8472,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271003",
+      "major_university_name": "D4 TEKNIK ELEKTRO - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 8.43882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311002",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 18.5759,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321011",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 7.19424,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323009",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK ELEKTRO - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 20.3008,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323014",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK ELEKTRONIKA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 36.3636,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 21.7544,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "332022",
+      "major_university_name": "S1 SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA * REKAYASA (STEI*R) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 8.50662,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333022",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 5.81114,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334013",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 35.4331,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336007",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 20.4969,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342006",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 12.987,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351008",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 8.63309,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 28.1356,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "355021",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 8.59729,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356007",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 39.3258,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356022",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.3553,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361017",
+      "major_university_name": "S1 ELEKTRONIKA DAN INSTRUMENTASI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.7143,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361034",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.17978,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361050",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ELEKTRO - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 11.7021,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362022",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 3.00752,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362078",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362080",
+      "major_university_name": "D4 TEKNIK ELEKTRO - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371016",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 20.0637,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372005",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 11.4961,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373019",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 8.05556,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381023",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 10.7527,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382007",
+      "major_university_name": "S1 TEKNIK ELEKTRO - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 10.3832,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383016",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 11.8081,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431035",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "452009",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ELEKTRONIKA - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 24.4898,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "452024",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474004",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 18.6047,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482001",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 12.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482003",
+      "major_university_name": "D4 TEKNIK ELEKTRO INDUSTRI - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 10.6383,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541030",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 20,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621010",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 25.4072,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631017",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 24.3542,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711014",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 14.1196,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111006",
+      "major_university_name": "S1 TEKNIK ELEKTRO - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 27.8481,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111070",
+      "major_university_name": "TEKNIK ELEKTRONIKA - UNSYIAH",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "112004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 57.7922,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122007",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 36.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131057",
+      "major_university_name": "D3 TEKNIK ELEKTRO - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "132004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142010",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 15.7576,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142011",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRONIKA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 25.4902,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142017",
+      "major_university_name": "D4 TEKNIK ELEKTRO INDUSTRI (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 6.98925,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142077",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM ELEKTRONIKA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161017",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 39.0977,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "181002",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 65.5172,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191014",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 34.6154,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192002",
+      "major_university_name": "S1 TEKNIK ELEKTRO - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 23.4146,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222021",
+      "major_university_name": "D3 ELEKTRONIKA - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241031",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271020",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "281002",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": 31.25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311012",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK ELEKTRO - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 58.8235,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "362005",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRONIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 23.1884,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362008",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 18.8235,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371072",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ELEKTRONIKA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373014",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 26.3636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373027",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM ELEKTRONIKA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 102.128,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "374025",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "383010",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 39.0244,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384007",
+      "major_university_name": "S1 TEKNIK ELEKTRO - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 65.2174,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "421028",
+      "major_university_name": "D3 ELEKTRONIKA INDUSTRI - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "453005",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474008",
+      "major_university_name": "D4 TEKNIK OTOMOTIF ELEKTRONIK - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 26.8293,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474010",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA (PSDKU KEDIRI) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 29.7872,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474038",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482013",
+      "major_university_name": "D3 TEKNIK ELEKTRO INDUSTRI - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "482016",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511003",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 48.9362,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515027",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM ELEKTRONIKA - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531069",
+      "major_university_name": "S1 REKAYASA ELEKTRO - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542004",
+      "major_university_name": "S1 TEKNIK ELEKTRO - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 57.0093,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551001",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611012",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 31.2195,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612045",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA SISTEM ELEKTRONIKA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631007",
+      "major_university_name": "S1 PEND. TEKNIK ELEKTRO - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 50.5263,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641010",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712010",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 26.3158,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712011",
+      "major_university_name": "S1 PEND. TEKNIK ELEKTRONIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712032",
+      "major_university_name": "D4 TEKNIK ELEKTRONIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 34.7826,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712034",
+      "major_university_name": "D4 TEKNIK ELEKTRO - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 24.7253,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716020",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721005",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 57.4257,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731012",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 29.4479,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751018",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 21.1055,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911011",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 54.8387,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116001",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 247.059,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133001",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 134.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221018",
+      "major_university_name": "D3 TEKNOLOGI ELEKTRONIKA - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232019",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "281005",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474013",
+      "major_university_name": "D4 TEKNIK OTOMOTIF ELEKTRONIK (PSDKU PAMEKASAN) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 366.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "536019",
+      "major_university_name": "D3 ELEKTRONIKA - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "563004",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612007",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK ELEKTRO - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712094",
+      "major_university_name": "S1 REKAYASA ELEKTRO - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722009",
+      "major_university_name": "S1 PEND. TEK ELEKTRO - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 313.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751080",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752009",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 64.3836,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821003",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 147.059,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911049",
+      "major_university_name": "D3 TEKNIK ELEKTRONIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912001",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 357.143,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921014",
+      "major_university_name": "S1 TEKNIK ELEKTRO - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 366.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

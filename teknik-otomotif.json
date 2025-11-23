@@ -1,0 +1,265 @@
+{
+  "idx": 275,
+  "id": "teknik-otomotif",
+  "major_name": "Teknik Otomotif",
+  "icon": null,
+  "description": "Jurusan pendidikan Teknik Otomotif siap membekali mahasiswa dengan cakupan kompetensi lulusan: pengetahuan teknik otomotif (menguasai sejarah dan perkembangan teknik otomotif, dasar teknik otomotif, dan gambaran umum dunia otomotif), perawatan otomotif (menguasai teknik perawatan mesin, chasis, bodi, dan kelistrikan otomotif), teknologi Otomotif (menguasai teknik pembuatan komponen otomotif), dan enterpreneur (menguasai dasar-dasar manajemen dan pelayanan kepada konsumen serta mampu menjadi enterpreneur dalam bidang otomotif). Dalam pembelajarannya Teknik Otomotif dibagi menjadi perancangan, pengembangan, produksi, dan perawatan otomotif.\r\rJurusan ini membekali kita dengan potensi untuk mengembangakan dan memadukan kegiatan/praktek dengan teori keteknikan. Selain itu, pada jurusan ini juga akan rutin mengadakan penelitian dan pengabdian kepada masyarakat sebagai wujud penerapan IPTEK melalui pelaksaaan pendidikan dan pengajaran serta penelitian bidang pendidikan/ketrampilan teknik bagi kepentingan pembangunan.",
+  "why": "Apabila kamu tertarik pada otomotif, kepekaan sosial, kepribadian yang tangguh dan santun, serta mampu berkomunikasi dengan baik, jurusan ini bisa menjadi tepat buat kamu. \r\rPada jurusan ini, kamu akan sering melaksanakan penelitian dengan penuh tanggungjawab dalam mengembangkan ilmu pengetahuan dan teknologi otomotif ramah lingkungan. Dengan mempelajari ilmu pada jurusan ini, kamu juga akan mengembangkan kewirausahaan di bidang Teknik Otomotif yang peduli terhadap sesama",
+  "subjects": [
+    "Teknik Otomotif",
+    "Matematika",
+    "Fisika",
+    "Kimia Teknik",
+    "Statistika Struktur",
+    "Mekanika Bahan",
+    "Pengetahuan Bahan Teknik",
+    "Kinematika dan Dinamika",
+    "Elemen Mesin",
+    "Pesawat Angkat",
+    "Termodinamika Teknik",
+    "Mekanika Fluida",
+    "Teknik Tenaga Listrik",
+    "Keselamatan dan Kesehatan Kerja",
+    "CAD",
+    "Mesin Konversi Energi",
+    "Peralatan Otomotif",
+    "Diagnosis Gangguan Mesin",
+    "Autotronik",
+    "Sistem Chasis",
+    "Sistem Rem dan Roda",
+    "AC Mobil",
+    "Perancangan Mesin Otomotif",
+    "Elektronika",
+    "Teknologi Sepeda Motor",
+    "Elektronika Analog dan Digital",
+    "Bahan Bakar dan Pelumas Otomotif",
+    "Elemen Mekanik Otomotif",
+    "Sistem AC",
+    "Desain Otomotif",
+    "Mekanika Gerak Kendaraan",
+    "Engine Management System",
+    "Teknologi Pengecatan",
+    "Manajemen Industri Otomotif",
+    "Teknologi Motor Diesel",
+    "Kemudi Rem dan Suspensi",
+    "Teknologi Bodi Kendaraan",
+    "Pneumatik dan Hidrolik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Peluang kerja menjadi mekanik otomotif tidak hanya berhubungan dengan bengkel saja, jika anda memang berkompeten, anda juga bisa mendesain body maupun mesin kendaraan sendiri dan mempresentasikan prototype kendaraan anda, kepada produsen-produsen kendaraan bermotor yang ternama. Kebanyakan lulusan sarjana otomotif justru tidak bekerja di bengkel, mereka lebih banyak bekerja dibelakang komputer sebagai Engineer, Maintenance Planner, dan Designer.\r\rPerusahaan-perusahaan yang dapat dimasuki oleh lulusan jurusan ini diantaranya adalah Halliburton, Total E & P, Medco, Badak LNG, Astra, McDermott, Saipem, Schlumberger, dan masih banyak lagi.",
+  "professions": [
+    "Spesialis Otomotif",
+    "Insinyur Lokomotif",
+    "Ahli Teknik Manufaktur",
+    "Teknisi Las"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/teknik-refrigerasi-dan-tata-udara",
+    "teknik/industrial-robotics-design",
+    "teknik/aeronautika-dan-astronautika-teknik-penerbangan-",
+    "teknik/automotive-and-robotics-engineering"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 18,
+  "dt_snbp": 484,
+  "dt_snbt": 656,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "334024",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 30.6122,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351054",
+      "major_university_name": "S1 TEKNIK MESIN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356017",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 20.6186,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362006",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 9.32945,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373008",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 23.8806,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716024",
+      "major_university_name": "D3 TEKNIK OTOMOTIF - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712013",
+      "major_university_name": "S1 PEND. TEKNIK OTOMOTIF - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 27.2727,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "473009",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMOTIF - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374024",
+      "major_university_name": "S1 TEKNIK MESIN - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "373024",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMOTIF - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 87.2727,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122013",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 38.3648,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191075",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMOTIF - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142071",
+      "major_university_name": "D3 TEKNIK OTOMOTIF - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142013",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK OTOMOTIF - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 19.6429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474012",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMOTIF (PSDKU LUMAJANG) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 161.111,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "536013",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA OTOMOTIF - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "537005",
+      "major_university_name": "D3 TEKNOLOGI OTOMOTIF - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "142065",
+      "major_university_name": "D3 TEKNIK OTOMOTIF (KAMPUS KABUPATEN SAWAHLUNTO) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

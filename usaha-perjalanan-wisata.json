@@ -1,0 +1,244 @@
+{
+  "idx": 307,
+  "id": "usaha-perjalanan-wisata",
+  "major_name": "Usaha Perjalanan Wisata",
+  "icon": null,
+  "description": "Program studi Usaha Perjalanan Wisata (UPW) adalah program studi yang mempelajari kegiatan yang bersifat komersial yang mengatur, menyediakan, dan menyelenggarakan pelayanan bagi seseorang, sekelompok orang yang melakukan perjalanan dengan tujuan utama yaitu berwisata. Di jurusan ini, kamu akan terbiasa untuk membicarakan dan mendiskusikan berbagai topik seperti bagaimana mengatur segala pelayanan bagi para wisatawan mulai dari membuat itinerary sampai dengan budgeting suatu kegiatan wisata. Kamu juga akan mempelajari hal-hal pendukung lain seperti melakukan penelitian untuk membangun suatu daerah menjadi daerah wisata dan memberdayakan masyarakat sekitar, belajar untuk melestarikan budaya dan menjadikan budaya sebagai daya tarik bagi turis lokal maupun mancanegara, dan sebagainya.",
+  "why": "Indonesia merupakan negara yang memiliki banyak sekali destinasi wisata yang dapat dipilih oleh para wisatawan baik dari dalam negeri maupun mancanegara. Wisata Indonesia memiliki banyak peminat dikarenakan Indonesia memiliki alam yang indah, flora dan fauna yang unik dan Indonesia pun memiliki beragam budaya yang dapat dipamerkan. Industri pariwisata abad 21 secara lokal dan global pun sudah menjadi Industri yang sustainable dimana jalan-jalan sudah menjadi kebutuhan primer manusia, sehingga dipastikan akan terus berkembang dan selalu membuka peluang kerja di masa yang akan datang.",
+  "subjects": [
+    "Bahasa Inggris Dasar",
+    "Bahasa Inggris untuk Hospitality",
+    "Bahasa Jepang",
+    "Bahasa Perancis",
+    "Pengantar Hospitality dan Pariwisata",
+    "Perencanaan dan Manajemen Event",
+    "Perencanaan Operasi Perjalanan Wisata",
+    "Guiding",
+    "Tarif & Dokumen Pasasi Dasar",
+    "Tata Operasi Darat Dasar",
+    "Tata Operasi dan Dokumen",
+    "Geografi Pariwisata Indonesia",
+    "Geografi Pariwisata Internasional",
+    "Pabean",
+    "Imigrasi dan Karantina",
+    "Kreatifitas Atraksi Wisata",
+    "Reservasi Penerbangan",
+    "Akuntansi Perjalanan Wisata",
+    "Psikologi Pelayanan",
+    "Sejarah Kebudayaan Indonesia",
+    "Kewirausahaan Hospitality",
+    "Pengelolaan Destinasi Pariwisata",
+    "Statistika Pariwisata Deskriptif",
+    "Riset Hospitality dan Pariwisata",
+    "Manajemen Olah Raga dan Rekreasi",
+    "Sistem Informasi Manajemen"
+  ],
+  "characters": [
+    "Observan",
+    "Berwawasan luas",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Sebagai negara yang kaya akan keindahan alam, keunikan flora dan fauna, budaya yang plural dan keren, pastinya, Indonesia selalu menarik wisatawan mancanegara maupun lokal dalam jumlah yang besar setiap tahunnya. Nah, maka dari itu, gaes, seorang lulusan jurusan Usaha Perjalanan Wisata sangat dibutuhkan. Lulusan jurusan ini dapat bekerja sebagai Konsultan Pariwisata, Peneliti Pariwisata, Travel Agent, Pengelola Objek Wisata, Manajer Event, bekerja di industri pariwisata atau menjadi wirausahawan di bidang pariwisata.",
+  "professions": [
+    "Agen Perjalanan",
+    "Penulis Perjalanan",
+    "Pemandu Wisata",
+    "Manajer Event"
+  ],
+  "related_majors": [
+    "profesi-dan-ilmu-terapan/pariwisata",
+    "ekonomi-bisnis/manajemen-pariwisata",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata"
+  ],
+  "major_group_id": 50,
+  "jlh_prodi": 18,
+  "dt_snbp": 447,
+  "dt_snbt": 613,
+  "major_field": 10,
+  "prodi": [
+    {
+      "major_university_id": "323065",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353081",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361092",
+      "major_university_name": "D4 BISNIS PERJALANAN WISATA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.453,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421021",
+      "major_university_name": "D4 USAHA JASA KONVENSI, PERJALANAN INSENTIF DAN PAMERAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 13.6483,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431032",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "241013",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 79.7468,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271015",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 30.9353,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121057",
+      "major_university_name": "PERJALANAN WISATA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "371075",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474019",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 23.2,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562007",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 68.75,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611043",
+      "major_university_name": "S1 INDUSTRI PERJALANAN WISATA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 16.8385,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617017",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "641008",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 59.6386,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821037",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727017",
+      "major_university_name": "D3 USAHA PERJALANAN WISATA - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "421024",
+      "major_university_name": "D4 USAHA JASA KONVENSI, PERJALANAN INSENTIF, DAN PAMERAN (KAMPUS KAB. DEMAK) - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 176.19,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291016",
+      "major_university_name": "D3 PERJALANAN WISATA - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 50,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pariwisata",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

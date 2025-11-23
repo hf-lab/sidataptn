@@ -1,0 +1,133 @@
+{
+  "idx": 255,
+  "id": "teknik-fisika",
+  "major_name": "Teknik Fisika",
+  "icon": null,
+  "description": "Teknik Fisika adalah disiplin ilmu yang mempelajari berbagai gejala-gejala fisika melalui penerapan aplikasi dalam berbagai bidang ilmu dasar, ilmu terapan, dan pemanfaatan teknologi. Jurusan ini tidak hanya berfokus pada suatu spesialisasi, namun juga berkaitan dengan hal-hal keteknikan dan teknologi dengan ilmu fisika murni maupun terapan untuk mengatasi berbagai masalah yang berhubungan dengan berbagai bidang industri. Selain itu, Teknik Fisika juga mempelajari hal-hal seperti perencanaan, desain, konstruksi atau manajemen alat-alat berat, dan lain sebagainya. Karena itulah, seorang mahasiswa Teknik Fisika akan memperoleh berbagai pengetahuan mengenai ilmu-ilmu dasar (kimia, fisika, dan matematika) serta ilmu-ilmu keteknikan (teknik mesin, teknik elektro, teknik kimia, teknik material)",
+  "why": "Jurusan ini cocok untuk kamu yang tertarik di bidang teknologi maupun ilmu-ilmu dasar, seperti fisika, kimia, dan matematika. Apalagi, dengan Perkembangan teknologi mutakhir (advanced technologies) yang cepat dalam beberapa tahun terakhir, kebutuhan akan insinyur-insinyur yang mempunyai kemampuan antar-disiplin dan kemampuan untuk secara cepat mengasimilasi dirinya untuk memanfaatkan berbagai ilmu pasti dan ilmu alam meningkat. Nah, lulusan Teknik Fisika akan sangat dibutuhkan untuk memenuhi hal tersebut.",
+  "subjects": [
+    "Matematika",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Pengantar Rekayasa & Desain",
+    "Menggambar Teknik",
+    "Teknologi Informasi",
+    "Matematika Rekayasa",
+    "Pemodelan Probabilitas dan Statistik",
+    "Mekanika Material",
+    "Termodinamika",
+    "Rangkaian Listrik dan Elektronika",
+    "Medan Elektromagnetik",
+    "Teknik Komputasi",
+    "Sistem Logika dan Digital",
+    "Mekanika Fluida",
+    "Fenomena Gelombang",
+    "Konversi Energi",
+    "Dinamika Sistem dan Simulasi",
+    "Metoda Pengukuran",
+    "Mekanika Kuantum",
+    "Sensor dan Aktuator",
+    "Transfer Kalor dan Massa",
+    "Pemrosesan Sinyal",
+    "Fisika Material",
+    "Lingkungan dan Energi",
+    "Kontrol Otomatik",
+    "Teknik Akustik",
+    "Desain Sistem Termal",
+    "Etika Rekayasa dan Kerja Praktek",
+    "Metoda Perancangan dan Eksperimen",
+    "Manajemen Rekayasa Industri"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan Teknik Fisika dapat bekerja sebagai insinyur profesional dalam bidang instrumentasi, bidang tata udara, tata cahaya dan suara, bidang rekayasa sistem dan teknologi informasi dan sebagainya di industri proses, konsultan / kontraktor, perusahaan – perusahaan rekayasa (engineering companies), di dalam negeri maupun di luar negeri. Selain itu juga lulusan Teknik Fisika dapat bekerja sebagai dosen di perguruan tinggi, peneliti dan birokrat pada lembaga-lembaga pemerintah, maupun menjadi wirausaha dalam bidang kerekayasaan.",
+  "professions": [
+    "Ahli Fisika"
+  ],
+  "related_majors": [
+    "mipa/fisika",
+    "teknik/teknik-nuklir",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "mipa/fisika-medis",
+    "mipa/kimia",
+    "mipa/geofisika",
+    "teknik/teknik-kimia",
+    "teknik/teknologi-pulp-dan-kertas"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 4,
+  "dt_snbp": 119,
+  "dt_snbt": 171,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "361038",
+      "major_university_name": "S1 TEKNIK FISIKA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 21.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382009",
+      "major_university_name": "S1 TEKNIK FISIKA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 28.169,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116018",
+      "major_university_name": "S1 TEKNIK FISIKA - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "192018",
+      "major_university_name": "S1 TEKNIK FISIKA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 126.923,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "idx": 266,
+  "id": "teknik-konversi-energi",
+  "major_name": "Teknik Konversi Energi",
+  "icon": null,
+  "description": "Teknik Konversi Energi adalah salah satu bidang teknik yang mempelajari dan merancang mesin yang bisa merubah dari satu bentuk energi ke bentuk energi lainnya. Bentuk dari sumber energi maupun energi yang dikonversikannya bisa sangat bermacam-macam dan luas, seperti energi panas, gerak, air, gelombang, angin, hingga energi surya. Untuk program studi Konversi Energi yang ada di perguruan tinggi biasanya khusus mempelajari perubahan bentuk energi-energi tersebut menjadi energi listrik, karena seperti yang kita tahu, listrik telah menjadi kebutuhan utama masyarakat luas. Untuk memenuhi kebutuhan tersebut, diperlukan sebuah sumber daya yang dapat terus diperbaharui untuk menghasilkan listrik secara efisien.",
+  "why": "Energi merupakan salah satu isu yang sangat penting dan strategis bagi pemerintah dalam upaya peningkatan kesejahteraan rakyat, mencerdaskan kehidupan bangsa serta mendorong kegiatan ekonomi. Oleh karena itu pengelolaan energi yang andal, aman, dengan harga yang bersaing dan berwawasan lingkungan menjadi sangat penting dan menjadi skala prioritas utama dalam program pembangunan infrastruktur di Indonesia.",
+  "subjects": [
+    "Matematika Terapan",
+    "Elektronika",
+    "Kimia Terapan",
+    "Rangkaian Listrik",
+    "Gambar Teknik Mesin",
+    "Termodinamika",
+    "Gambar Teknik Listrik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Kebutuhan akan energi terbarukan yang dapat menghasilkan listrik secara efisien tanpa merusak lingkungan tengah mengalami peningkatan dalam beberapa tahun kebelakang. Hal ini otomatis membuat tenaga profesional yang paham mengenai bagaimana cara mengkonversi beragam sumber daya yang dapat diperbaharui untuk menjadi energi listrik dicari oleh banyak industri. Lulusan dari program studi ini pun dapat bekerja di berbagai perusahaan pembangkit listrik, perusahaan manufaktur, perusahaan pertambangan, utilitas energi ataupun menjadi akademisi.",
+  "professions": [
+    "Ahli Teknik Energi",
+    "Ahli Teknik Energi Angin",
+    "Auditor Energi"
+  ],
+  "related_majors": [
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "teknik/teknik-energi-terbarukan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 18,
+  "dt_snbp": 455,
+  "dt_snbt": 655,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "431007",
+      "major_university_name": "D4 TEKNIK KONSERVASI ENERGI - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 19.4631,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431030",
+      "major_university_name": "D3 TEKNIK KONVERSI ENERGI - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192023",
+      "major_university_name": "S1 TEKNIK SISTEM ENERGI - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 90,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222014",
+      "major_university_name": "D3 TEKNIK KONVERSI ENERGI - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "231003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": 43.6364,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271005",
+      "major_university_name": "D4 TEKNIK ENERGI - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 45.5172,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373026",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 109.091,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382036",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONVERSI ENERGI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421015",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONVERSI ENERGI - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 54.878,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452022",
+      "major_university_name": "D3 TEKNIK KONVERSI ENERGI - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "481016",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI BERKELANJUTAN - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "482007",
+      "major_university_name": "D4 SISTEM PEMBANGKIT ENERGI - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 27.1739,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716018",
+      "major_university_name": "D3 TEKNOLOGI KONVERSI ENERGI (KAMPUS KAB. KOLAKA) - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716003",
+      "major_university_name": "D4 TEKNIK PEMBANGKIT ENERGI - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 35.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716029",
+      "major_university_name": "D3 TEKNIK KONVERSI ENERGI - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "221005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PEMBANGKIT ENERGI - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

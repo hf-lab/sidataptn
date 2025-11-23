@@ -1,0 +1,101 @@
+{
+  "idx": 294,
+  "id": "teknologi-hasil-hutan",
+  "major_name": "Teknologi Hasil Hutan",
+  "icon": null,
+  "description": "Teknologi Hasil Hutan merupakan program studi yang menyajikan dan mengembangkan ilmu pengetahuan dan teknologi untuk mengelola dan mengolah hasil hutan kayu dan non-kayu dengan efisien untuk kesejahteraan umat manusia secara luas. Pada program studi ini kita akan mempelajari teknik eksplorasi hasil hutan, dan pengolahan kayu untuk dimanfaatkan menjadi bahan konstruksi, furnitur, pulp kertas, energi biomassa, dan banyak lagi melalui proses pengeringan, pengawetan, serta cara dalam meningkatkan kualitas hasil hutan. Selain ilmu dalam mengolah hasil hutan menjadi produk-produk yang bermanfaaat, di program studi ini juga akan dipelajari ilmu tentang manajemen industri hasil hutan, dan pengelolaan limbah dari industri hasil hutan.",
+  "why": "Sebagian besar wilayah hutan di Indonesia telah diubah menjadi pemukiman, lahan pertanian dan perkebunan. Hal ini menyebabkan munculnya peluang untuk para generasi muda untuk mencari solusi kreatif dan efektif untuk melestarikan hutan. Oleh sebab itu, pengembangan teknologi hasil hutan dapat memberikan solusi yang dapat dilakukan melalui pengembangan teknologi-teknologi baru yang dapat mengolah hasil hutan kayu dan non kayu menjadi produk yang bernilai tinggi. Program studi ini cocok untuk kamu yang berminat untuk memajukan dan melestarikan bidang perhutanan. ",
+  "subjects": [
+    "Anatomi dan Identifikasi Kayu",
+    "Sifat Dasar Kayu",
+    "Hasil Hutan Non Kayu",
+    "Pengolahan Primer Kayu",
+    "Pengolahan Sekunder Kayu",
+    "Pengeringan Kayu",
+    "Perekatan Kayu",
+    "Teknologi Pulp dan Kertas",
+    "Variasi Sifat Kayu",
+    "Energi Biomassa",
+    "Teknologi Pengolahan Produk Ekstraktif",
+    "Kewirausaahan Hasil Hutan",
+    "Metodologi Penelitian",
+    "Peningkatan Mutu Kayu",
+    "Kolokium",
+    "Arsitektur Bangunan Kayu",
+    "Karakteristik Permesinan Kayu",
+    "Pemanfaatan Komponen Kimia Hasil Hutan",
+    "Komposit Kayu",
+    "Konservasi Sumberdaya Alam Hayati",
+    "Inventarisasi Sumberdaya Hutan",
+    "Kebijakan dan Perundangan Kehutanan",
+    "Silvikultur",
+    "Dendrologi",
+    "Teknologi Kayu Lapis & Kayu Lamina",
+    "Hasil Hutan Bukan Kayu",
+    "Sifat Fisis Kayu"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Hutan merupakan paru-paru bumi yang sangat penting untuk dijaga. Eksploitasi hutan yang berlebihan dan tidak sesuai prosedur telah berakibat kekacauan terhadap keseimbangan alam dan menyebabkan berbagai bencana. Para ahli di bidang Teknologi Hasil Hutan yang kompeten sangat dibutuhkan agar hasil hutan dapat dikelola dengan lebih baik. Para lulusan Teknologi Hasil Hutan memiliki prospek kerja di Departemen Kehutanan, industri pengolahan kayu dan kertas, industri mebel dan bahan konstruksi.",
+  "professions": [
+    "Ahli Konservasi Tanah dan Air",
+    "Pengawas Hutan",
+    "Ahli Konservasi Hutan",
+    "Manajer Ilmu Alam",
+    "Spesialis Konservasi Alam"
+  ],
+  "related_majors": [
+    "pertanian/kehutanan",
+    "pertanian/konservasi-sumberdaya-hutan-dan-ekowisata",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/teknologi-pasca-panen",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/manajemen-hutan"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 1,
+  "dt_snbp": 50,
+  "dt_snbt": 33,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "341016",
+      "major_university_name": "S1 TEKNOLOGI HASIL HUTAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 12.7119,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

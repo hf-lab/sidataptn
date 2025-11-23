@@ -1,0 +1,119 @@
+{
+  "idx": 270,
+  "id": "teknik-material",
+  "major_name": "Teknik Material",
+  "icon": null,
+  "description": "Program studi Teknik Material adalah sebuah disiplin ilmu yang mempelajari tentang serba-serbi sebuah materi mulai dari struktur, sifat, karakteristik, hingga interaksinya. Mahasiswa Teknik Material mengkaji mengenai sifat-sifat fisik dan kimia dari sebuah material serta aplikasinya dalam berbagai sektor kehidupan. Lulusan dari prodi ini nantinya diharapkan untuk menjadi seorang ahli Teknik Material yang mampu membuat dan merekayasa material sehingga dihasilkan material yang unggul dan berdaya-guna tinggi. ",
+  "why": "Bidang keilmuan Teknik Material memiliki cakupan yang sangat luas dan bersinggungan dengan banyak bidang lainnya. Teknik Material dapat terkait dengan ilmu komputer dimana sebuah program komputer digunakan untuk melakukan komputasi material untuk melihat struktur molekul material menggunakan komputer. Teknik Material juga dapat terkait dengan ilmu biologi untuk mengkaji dan memproduksi biomaterial.\r\rKalau kamu tertarik untuk mempelajari tentang pembuatan material, termasuk material yang ramah lingkungan, program studi ini pas banget buat kamu.",
+  "subjects": [
+    "Gambar Teknik",
+    "Statika Struktur",
+    "Analisis Teknik Dasar",
+    "Sifat Mekanik Material",
+    "Mekanika Material",
+    "Karakterisasi Material",
+    "Gambar Mesin Praktikum CAD",
+    "Kimia Fisik",
+    "Analisis Numerik",
+    "Kimia Polimer",
+    "Termodinamika Material",
+    "Material Keramik",
+    "Laboratorium Teknik Material",
+    "Material Logam",
+    "Manajemen & Ekonomi Kerekayasaan",
+    "Fenomena Transport dalam Teknik Material",
+    "Material Polimer",
+    "Transformasi Fasa",
+    "Bahan Baku Keramik",
+    "Proses Pengerjaan Material Logam",
+    "Pemrosesan Keramik",
+    "Material Elektronik & Magnetik",
+    "Material Komposit",
+    "Metoda Komputasi dalam Teknik Material",
+    "Pemrosesan Polimer",
+    "Elektrokimia dan Koros",
+    "Prinsip Perancangan Material"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Pada dasarnya semua benda yang kita temui sehari-hari tersusun dari material. Hal ini membuat hampir semua bidang industri membutuhkan seorang insinyur Teknik Material yang terampil dalam bidangnya. Beberapa prospek kerja dari lulusan Teknik Material antara lain ada pada bidang manufaktur dimana mereka bisa berperan dalam proses produksi, pengembangan produk, pengawasan mutu dan kualitas produk, serta perawatan peralatan. Selain itu, lulusan Teknik material juga dapat bekerja di industri energi dan sumberdaya mineral, pendidikan, bahkan pemerintahan.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Ahli Kimia",
+    "Ahli Pengeboran Bumi (Non Minyak dan Gas)",
+    "Manajer Kontrol Kualitas Sistem",
+    "Ahli Tambang dan Geologi"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "teknik/teknik-metalurgi",
+    "teknik/teknik-kimia"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 3,
+  "dt_snbp": 128,
+  "dt_snbt": 181,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "382011",
+      "major_university_name": "S1 TEKNIK MATERIAL - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 14.742,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192025",
+      "major_university_name": "S1 TEKNIK MATERIAL - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 70.6897,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112018",
+      "major_university_name": "S1 TEKNIK MATERIAL - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 145.455,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

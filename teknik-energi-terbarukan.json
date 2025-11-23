@@ -1,0 +1,129 @@
+{
+  "idx": 254,
+  "id": "teknik-energi-terbarukan",
+  "major_name": "Teknik Energi Terbarukan",
+  "icon": null,
+  "description": "Program studi Teknik Energi Terbarukan hadir atas kebutuhan akan energi dari sumber daya alam yang bisa diperbaharui. Energi terbarukan yang berasal dari matahari, angin, biomassa, air, dan panas bumi akan menjadi andalan bagi manusia di masa depan. Pemanfaatannya akan mengurangi penggunaan bahan bakar fosil serta memperkecil dampak negatifnya terhadap perubahan iklim.",
+  "why": "Sudah bukan rahasia lagi kalau energi dari sumber daya alam yang tidak dapat diperbaharui kini telah menipis stoknya dan tidak lagi ramah lingkungan. Prodi Teknik Energi Terbarukan akan memberikan pengetahuan bagi kamu yang tertarik mengembangkan teknologi untuk dunia yang lebih \"hijau\" di masa depan. Selain itu, kalau kamu memiliki ketertarikan pada bidang kimia, fisika, dan biologi, Teknik Energi Terbarukan juga bis ajadi pilihan prodi yang pas untukmu.",
+  "subjects": [
+    "Ekonomi Teknik",
+    "Matematika Dasar",
+    "Matematika Teknik",
+    "Teknik Instrumentasi",
+    "Dasar-Dasar Elektronika",
+    "Termodinamika Dasar",
+    "Mekanika Fluida",
+    "Manajemen dan Audit Energi",
+    "Pengantar Energi Terbarukan",
+    "Bahan Bakar dan Proses Pembakaran",
+    "Termodinamika Teknik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja lulusan Teknik Energi Terbarukan terbilang cukup mumpuni dan luas. Seiring berkembangnya zaman dan teknologi, pencarian akan sumber-sumber energi yang lebih ramah lingkungan pun semakin gencar. Seorang lulusan Teknik Energi Terbarukan dapat bekerja sebagai Ahli rekayasa energi terbarukan, Ahli manajemen energi dan energi terbarukan, Pelaku bisnis energi terbarukan, dan Konsultan energi terbarukan.",
+  "professions": [
+    "Ahli Teknik Energi",
+    "Ahli Teknik Sistem Solar Energi",
+    "Auditor Energi",
+    "Ahli Teknik Energi Angin"
+  ],
+  "related_majors": [
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "teknik/teknik-konversi-energi"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 6,
+  "dt_snbp": 146,
+  "dt_snbt": 161,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "222023",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "453011",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472003",
+      "major_university_name": "D4 TEKNIK ENERGI TERBARUKAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 69.5652,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "716030",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617027",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752035",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

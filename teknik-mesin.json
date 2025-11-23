@@ -1,0 +1,1325 @@
+{
+  "idx": 271,
+  "id": "teknik-mesin",
+  "major_name": "Teknik Mesin",
+  "icon": null,
+  "description": "Teknik mesin dikenal juga dengan sebutan teknik mekanika. Pada program studi Teknik Mesin, kamu akan mempelajari prinsip-prinsip fisika yang kemudian diimplementasikan pada analisis, desain, manufaktur, dan pemeliharaan mesin. Oleh karena itu, sebagai mahasiswa teknik mesin, kamu harus memperdalam kemampuan pada beberapa cabang ilmu teknik mesin, seperti mekanika, kinematika, teknik material, dan termodinamika. \r\rPemahaman tentang mesin sangat dibutuhkan oleh banyak industri terutama otomotif dan manufaktur. Disini kamu diharapkan untuk dapat selalu update tentang mesin. Sebab, mesin selalu berkembang mengikuti pengetahuan teknologi. Semakin modern, mesin semakin canggih.",
+  "why": "Apabila kamu menyukai mesin dan hal-hal yang berkaitan dengan teknik, kamu bisa memilih jurusan Teknik Mesin. Keunggulan dari Teknik Mesin adalah, lulusannya dibutuhkan oleh berbagai macam industri. Bidang manufaktur misalnya, perawatan dan pembaharuan mesin membutuhkan tenaga ahli teknik mesin. Begitu pula dengan perusahaan otomotif yang selalu mengembangkan mesin dan teknologinya. Kamu yang ingin masuk jurusan ini, pastinya harus menyenangi matematika serta fisika, karena dalam perkuliahan keduanya akan sangat banyak dibahas.",
+  "subjects": [
+    "Fisika",
+    "Kalkulus",
+    "Kimia Dasar",
+    "Prinsip Rekayasa & Ilmu Kealamiahan Dasar",
+    "Aljabar Linier",
+    "Gambar Mesin",
+    "Material Teknik",
+    "Statika Struktur",
+    "MatematikaTeknik",
+    "Elemen Mesin",
+    "Getaran Mekanis",
+    "Kinematika & Dinamika",
+    "Mekanika Kekuatan Bahan",
+    "Struktur & Sifat Material",
+    "Termodinamika",
+    "Mekanika Fluida",
+    "Metrologi Industri & Kontrol Kualitas",
+    "Proses Produksi",
+    "Statistik & Perancangan Percobaan",
+    "Perpindahan Panas",
+    "Manajemen Perawatan & Kehandalan",
+    "Teknik Pembentukan Logam",
+    "Teknik Pengukuran",
+    "Mesin Fluida & Perpindahan",
+    "Teknik Pengaturan",
+    "Perancangan Produk",
+    "Motor Bakar Torak",
+    "Mekatronika",
+    "Refrigerasi & Pengkondisian Udara",
+    "Praktikum"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Teknik mesin merupakan salah satu jurusan di Fakultas Teknik. Peluang kerja lulusan Teknik Mesin sangat bervariasi. Hampir semua industri seperti manufaktur, otomotif, pertambangan, konstruksi, dan komunikasi membutuhkan keahlian Teknik Mesin. Lulusan Teknik Mesin dibutuhkan untuk pengembangan teknologi dan perawatan mesin pada berbagai industri, mulai dari transportasi, alat elektronik, hingga alat berat untuk pertanian, pertambangan, serta alat konstruksi. Masih banyak miskonsepsi tentang prospek kerja lulusan Teknik Mesin. Contohnya, masih banyak anggapan bahwa lulusan Teknik Mesin akan menjadi montir di bengkel. Padahal lulusan Teknik Mesin memiliki prospek karir yang cemerlang sebagai teknisi pemeliharaan mesin, teknisi struktural, konsultan mekanik, teknisi modelling/drafting, dan sebagainya.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Spesialis Otomotif",
+    "Teknisi Mekanik Radio",
+    "Operator Pabrik dan Sistem",
+    "Ahli Teknik Elektronik",
+    "Manajer Kontrol Kualitas Sistem",
+    "Mekanik Mesin Industri",
+    "Spesialis Robotik",
+    "Teknisi Produksi Manufaktur",
+    "Ahli Listrik"
+  ],
+  "related_majors": [
+    "teknik/teknik-elektro",
+    "teknik/teknik-perkapalan",
+    "teknik/teknik-geologi",
+    "mipa/metrologi",
+    "teknik/teknik-otomasi-manufaktur-dan-mekatronika",
+    "teknik/teknik-industri",
+    "teknik/aeronautika-dan-astronautika-teknik-penerbangan-",
+    "teknik/teknik-otomotif",
+    "teknik/teknik-refrigerasi-dan-tata-udara",
+    "teknik/teknik-tenaga-listrik"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 135,
+  "dt_snbp": 4346,
+  "dt_snbt": 5935,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "121003",
+      "major_university_name": "S1 TEKNIK MESIN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.25532,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131017",
+      "major_university_name": "S1 TEKNIK MESIN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 10.3718,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323018",
+      "major_university_name": "S1 TEKNIK MESIN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.33333,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353010",
+      "major_university_name": "S1 TEKNIK MESIN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.22797,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362082",
+      "major_university_name": "D4 TEKNIK MESIN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431027",
+      "major_university_name": "D3 TEKNIK MESIN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111003",
+      "major_university_name": "S1 TEKNIK MESIN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 27.1605,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122055",
+      "major_university_name": "D3 TEKNIK MESIN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141013",
+      "major_university_name": "S1 TEKNIK MESIN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 9.62145,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142021",
+      "major_university_name": "S1 TEKNIK MESIN (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 6.38978,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171004",
+      "major_university_name": "S1 TEKNIK MESIN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 13.7066,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191013",
+      "major_university_name": "S1 TEKNIK MESIN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 30.5085,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192012",
+      "major_university_name": "S1 TEKNIK MESIN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 25.4072,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222017",
+      "major_university_name": "D3 TEKNIK MESIN - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "231018",
+      "major_university_name": "D3 TEKNIK MESIN - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "231019",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PENGELASAN DAN FABRIKASI - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311001",
+      "major_university_name": "S1 TEKNIK MESIN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 19.2926,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321010",
+      "major_university_name": "S1 TEKNIK MESIN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 6.09137,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323010",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK MESIN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 26.2821,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "324001",
+      "major_university_name": "S1 TEKNIK MESIN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 10.8384,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331003",
+      "major_university_name": "S1 TEKNIK MESIN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 18.7805,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332009",
+      "major_university_name": "S1 FAKULTAS TEKNIK MESIN DAN DIRGANTARA (FTMD) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 8.90183,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334014",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 18.9573,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352003",
+      "major_university_name": "S1 TEKNIK MESIN - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 25.7669,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353022",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 14.6465,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355019",
+      "major_university_name": "S1 TEKNIK MESIN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 7.87293,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356006",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 28.4672,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356019",
+      "major_university_name": "S1 TEKNIK MESIN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.17293,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361035",
+      "major_university_name": "S1 TEKNIK MESIN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 7.26698,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361054",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MESIN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 12.5874,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362007",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 8.67209,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362085",
+      "major_university_name": "D4 MESIN OTOMOTIF - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371015",
+      "major_university_name": "S1 TEKNIK MESIN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 18.1319,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372004",
+      "major_university_name": "S1 TEKNIK MESIN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 9.49796,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373018",
+      "major_university_name": "S1 TEKNIK MESIN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 6.28931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382006",
+      "major_university_name": "S1 TEKNIK MESIN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 10.3038,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383017",
+      "major_university_name": "S1 TEKNIK MESIN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.3616,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383022",
+      "major_university_name": "D4 TEKNIK MESIN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 17.6796,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385013",
+      "major_university_name": "S1 TEKNIK MESIN - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 13.7705,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421027",
+      "major_university_name": "D3 TEKNIK MESIN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431003",
+      "major_university_name": "D4 TEKNIK PERANCANGAN DAN KONSTRUKSI MESIN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 8.59599,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432005",
+      "major_university_name": "D4 REKAYASA PERANCANGAN MEKANIK - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": 54.8387,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432007",
+      "major_university_name": "D3 PEMELIHARAAN MESIN - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452003",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 8.13953,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452019",
+      "major_university_name": "D3 TEKNIK MESIN - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474007",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 11.1359,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474036",
+      "major_university_name": "D3 TEKNIK MESIN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511031",
+      "major_university_name": "S1 TEKNIK MESIN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 17.6,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531019",
+      "major_university_name": "S1 TEKNIK MESIN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 22.4044,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542003",
+      "major_university_name": "S1 TEKNIK MESIN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 42.7885,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621009",
+      "major_university_name": "S1 TEKNIK MESIN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 36.036,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711013",
+      "major_university_name": "S1 TEKNIK MESIN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 16.8182,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111069",
+      "major_university_name": "D3 TEKNIK MESIN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "112002",
+      "major_university_name": "S1 TEKNIK MESIN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 83.4356,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "113002",
+      "major_university_name": "S1 TEKNIK MESIN - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 64.5161,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114008",
+      "major_university_name": "S1 TEKNIK MESIN - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 39.3443,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122006",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 26.5823,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131058",
+      "major_university_name": "D3 TEKNIK MESIN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142012",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 21.7391,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142072",
+      "major_university_name": "D3 TEKNIK MESIN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161016",
+      "major_university_name": "S1 TEKNIK MESIN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 36.2416,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171025",
+      "major_university_name": "S1 PEND TEKNIK MESIN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 41.8605,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "181001",
+      "major_university_name": "S1 TEKNIK MESIN - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 67.7419,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191067",
+      "major_university_name": "D3 TEKNIK MESIN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "221010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PENGELASAN DAN FABRIKASI - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 121.053,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "221023",
+      "major_university_name": "D3 TEKNOLOGI MESIN - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PENGELASAN DAN FABRIKASI - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232002",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 98.0392,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232012",
+      "major_university_name": "D3 TEKNIK MESIN - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241009",
+      "major_university_name": "D4 REKAYASA PERANCANGAN MEKANIK - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 58.8235,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241026",
+      "major_university_name": "D3 TEKNIK MESIN - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271002",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 19.8347,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271022",
+      "major_university_name": "D3 TEKNIK MESIN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "281001",
+      "major_university_name": "D4 TEKNIK MESIN DAN MANUFAKTUR - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": 40.2597,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "281004",
+      "major_university_name": "D3 TEKNIK PERAWATAN DAN PERBAIKAN MESIN - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311013",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK MESIN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 95.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "331025",
+      "major_university_name": "D3 TEKNIK MESIN - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353086",
+      "major_university_name": "TEKNIK MESIN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "371070",
+      "major_university_name": "D4 REKAYASA PERANCANGAN MEKANIK - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373005",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 35.2459,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383011",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 37.4046,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384011",
+      "major_university_name": "S1 TEKNIK MESIN - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 47.1154,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422010",
+      "major_university_name": "D3 PEMELIHARAAN MESIN - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "432010",
+      "major_university_name": "D3 TEKNOLOGI PEMBUATAN PERKAKAS PRESISI - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "432011",
+      "major_university_name": "D3 TEKNOLOGI PERANCANGAN PERKAKAS PRESISI - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "433004",
+      "major_university_name": "D3 TEKNIK MESIN - POLINDRA",
+      "university_name": "POLITEKNIK NEGERI INDRAMAYU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "434002",
+      "major_university_name": "D3 PEMELIHARAAN MESIN - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "453006",
+      "major_university_name": "D3 TEKNIK MESIN - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472009",
+      "major_university_name": "D4 MESIN OTOMOTIF - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 34.0426,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474011",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN (PSDKU KEDIRI) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 27.4336,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474029",
+      "major_university_name": "D3 TEKNIK MESIN, KAMPUS KEDIRI - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "483001",
+      "major_university_name": "D3 TEKNIK MESIN ALAT BERAT - POLTERA",
+      "university_name": "POLITEKNIK NEGERI MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515002",
+      "major_university_name": "D4 TEKNIK MESIN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": 17.0886,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515017",
+      "major_university_name": "D3 TEKNIK MESIN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517009",
+      "major_university_name": "D3 TEKNIK MESIN - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521011",
+      "major_university_name": "S1 PEND. TEKNIK MESIN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 62.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "536012",
+      "major_university_name": "D3 TEKNIK MESIN - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551010",
+      "major_university_name": "S1 TEKNIK MESIN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 29.2308,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562001",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 17.2589,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562015",
+      "major_university_name": "D3 PERAWATAN DAN PERBAIKAN MESIN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611011",
+      "major_university_name": "S1 TEKNIK MESIN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 22.4299,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617018",
+      "major_university_name": "D3 TEKNIK MESIN - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631006",
+      "major_university_name": "S1 PEND. TEKNIK MESIN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 48.3146,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631018",
+      "major_university_name": "S1 TEKNIK MESIN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 33.9181,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641012",
+      "major_university_name": "D3 MESIN OTOMOTIF - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641015",
+      "major_university_name": "D3 TEKNIK MESIN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712012",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 12.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712031",
+      "major_university_name": "D4 MESIN OTOMOTIF - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 33.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712033",
+      "major_university_name": "D4 TEKNIK MESIN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 21.9178,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716023",
+      "major_university_name": "D3 TEKNIK MESIN - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721006",
+      "major_university_name": "S1 TEKNIK MESIN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 53.8462,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722022",
+      "major_university_name": "S1 TEKNIK MESIN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727005",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 166.667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731011",
+      "major_university_name": "S1 TEKNIK MESIN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 31.1688,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751017",
+      "major_university_name": "S1 TEKNIK MESIN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 14.9425,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911014",
+      "major_university_name": "S1 TEKNIK MESIN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 73.913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112015",
+      "major_university_name": "S1 PENDIDIKAN VOKASIONAL TEKNIK MESIN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 88.8889,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271009",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN PSDKU SIAK - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 57.5758,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "281006",
+      "major_university_name": "D3 TEKNIK PERANCANGAN MEKANIK - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "421026",
+      "major_university_name": "D3 TEKNIK MESIN (KAMPUS KAB. DEMAK) - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515026",
+      "major_university_name": "D3 TEKNOLOGI MESIN (KAMPUS KAB. SANGGAU) - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "516004",
+      "major_university_name": "D3 PEMELIHARAAN MESIN - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612012",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 51.7241,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "617025",
+      "major_university_name": "D4 REKAYASA PERANCANGAN MEKANIK - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "641003",
+      "major_university_name": "D4 TEKNIK MESIN PRODUKSI DAN PERAWATAN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 50.4587,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722011",
+      "major_university_name": "S1 PEND. TEK MESIN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 520,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751083",
+      "major_university_name": "D3 TEKNIK MESIN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752026",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK MESIN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 58.8235,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753017",
+      "major_university_name": "S1 TEKNIK MESIN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 126.923,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811012",
+      "major_university_name": "S1 TEKNIK  MESIN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 206.122,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821002",
+      "major_university_name": "S1 TEKNIK MESIN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 144.118,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "831011",
+      "major_university_name": "D3 TEKNIK MESIN - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911053",
+      "major_university_name": "D3 TEKNIK MESIN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912002",
+      "major_university_name": "S1 TEKNIK MESIN - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 571.429,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "931006",
+      "major_university_name": "D3 TEKNIK PERAWATAN DAN PERBAIKAN MESIN - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

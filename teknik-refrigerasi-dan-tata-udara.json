@@ -1,0 +1,131 @@
+{
+  "idx": 285,
+  "id": "teknik-refrigerasi-dan-tata-udara",
+  "major_name": "Teknik Refrigerasi dan Tata Udara",
+  "icon": null,
+  "description": "Teknik Refrigerasi dan Tata Udara atau Teknik Pendigin dan Tata Udara adalah jurusan yang mempelejari tentang teknik teknik pendiginan suatu ruangan atau benda. Mahasiswa program studi ini juga mempelajari tentang aliran udara yang dapat digunakan untuk mengatur temperatur suatu ruagan atau benda. Teknik refigerasi tidak hanya digunakan untuk peralatan rumah tangga seperti kulkas, tetapi juga digunakan untuk kegiatan komersial seperti pengawetan makanan, pengaturan temperatur di gudang, rumah, gedung dan lain lain. Teknik refigerasi berhubungan langsung dengan berbagai ilmu teknik lainnya seperti fisika, mesin, listrik, kimia, industri, arsitektur dan lain lain.",
+  "why": "Sistem refigerasi dan tata udara secara tidak langsung berdampak pada hidup kita loh. Misalnya ketika kita membeli minuman bersoda di toko, tentu kita ingin minuman tersebut dingin dan tidak hangat. Itu hanyalah contoh kecil bagaimana sistem refigerasi sangatlah penting di kehidupan sehari hari kita. Bila kamu ingin mengetahui bagaimana cara kerja refigerasi dan tata udara maka pilihlah jurusan ini.",
+  "subjects": [
+    "Kimia Teknik",
+    "Manajemen SDM",
+    "Gambar Teknik",
+    "Material Teknik",
+    "Fisika",
+    "Matematika",
+    "Mekanika Teknik",
+    "Fabrikasi Logam",
+    "Kinematika dan Dinamika",
+    "Perpindahan Panas",
+    "Mekanika Fluida",
+    "Elemen Mesin",
+    "Teknik Korosi dan Pengendaliannya",
+    "Konversi Energi",
+    "Pneumatik dan Hidrolik",
+    "Sistem Kontrol Refrigerasi dan Tata Udara",
+    "Teknik Refrigerasi",
+    "Insulasi Refrigasi dan Tata Udara",
+    "Teknik Tata Udara",
+    "Komponen Refrigerasi dan Tata Udara",
+    "Kompressor dan Alat Kontrol Sistem Refrigerasi",
+    "Sistem Kelistrikan Refrigerasi dan Tata Udara",
+    "Sistem Tata Udara Otomotif",
+    "Estimasi Beban Refrigerasi",
+    "Estimasi Beban Tata Udara",
+    "Pompa & Cooling Tower",
+    "Pemeliharaan dan Perbaikan Refrigerasi & Tata Udara",
+    "Autocad dan Gambar Refrigerasi & Tata Udara",
+    "Multi Refrigerasi dan Kriogenik"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan dari jurusan Teknik Refigerasi dan Tata Udara dapat berkerja di berbagai industri yang membutuhkan refigerasi sebagai supervisi, kepala divisi atau manajer dari sistem refigerasi. Selain itu lulusan dari Teknik Refigerasi dan Tata Udara dapat bekerja sama dengan arsitek dalam merancang sistem tata udara dan refigerasi di dalam gedung tersebut.",
+  "professions": [
+    "Mekanik Mesin Industri",
+    "Ahli Teknik Energi Angin",
+    "Mekanik Motor",
+    "Ahli Teknik Mesin",
+    "Mekanik Utama Otomotif"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/automotive-and-robotics-engineering",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "teknik/teknik-otomotif",
+    "teknik/teknik-tenaga-listrik",
+    "teknik/teknik-alat-berat"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 4,
+  "dt_snbp": 109,
+  "dt_snbt": 153,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "431005",
+      "major_university_name": "D4 TEKNIK PENDINGIN DAN TATA UDARA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 23.5294,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431019",
+      "major_university_name": "D3 TEKNIK PENDINGIN DAN TATA UDARA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617020",
+      "major_university_name": "D3 TEKNIK PENDINGIN DAN TATA UDARA - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "433006",
+      "major_university_name": "D3 TEKNIK PENDINGIN DAN TATA UDARA - POLINDRA",
+      "university_name": "POLITEKNIK NEGERI INDRAMAYU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

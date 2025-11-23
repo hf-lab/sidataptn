@@ -1,0 +1,1098 @@
+{
+  "idx": 286,
+  "id": "teknik-sipil",
+  "major_name": "Teknik Sipil",
+  "icon": null,
+  "description": "Program studi Teknik Sipil mempelajari proses merancang, membangun, serta merenovasi, tidak hanya bangunan gedung, tapi juga infrastruktur jalan,  jembatan, bendungan, dan infrastruktur lainnya. Mempelajari ilmu Teknik Sipil, kamu akan memahami unsur-unsur bangunan seperti beton, baja, aspal, dan lain-lain. Kamu juga akan memahami bagaimana perancangan struktur bangunan yang kuat, layak, dan efisien. Di jurusan Teknik Sipil kamu juga akan mempelajari dasar rancangan arsitektur. Teknik sipil punya peran yang sangat penting terhadap kehidupan manusia, ilmunya berkembang sejalan dengan kebutuhan dan pergerakan manusia. Kemajuan teknologi transportasi akan berpengaruh pada pembangunan infrastruktur, seperti perluasan jalan, pembangunan jalan toll, underpass, flyover, dan lain-lain. Perubahan lingkunganpun akan berpengaruh terhadap pembangunan. Unsur cuaca, iklim, struktur tanah, dan gempa bumi, menjadi pertimbangan penting dalam pembangunan gedung dan infrastruktur. Karena itu para profesional di bidang Teknik Sipil haruslah cermat dan teliti.",
+  "why": "Teknik sipil menjadi salah satu program studi yang punya peran penting dalam perkembangan suatu negara, terutama dalam pembangunan infrastruktur dan ekonomi. Sebagai negara berkembang, Indonesia sedang gencar melakukan pembangunan infrastruktur di mana-mana. Karenanya, para ahli di bidang Teknik Sipil akan sangat di butuhkan untuk menyukseskan pembangunan. Program studi ini menyediakan peluang untuk bekerja dan berkarya yang sangat besar. Syaratnya, kamu harus punya minat besar dalam bidang desain dan konstruki. Selain itu kamu harus menguasai matematika dan fisika dengan baik, sebab kedua bidang itu menjadi pondasi dalam pembelajaran Teknik Sipil.",
+  "subjects": [
+    "Kalkulus",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Pengantar Rekayasa dan Desain",
+    "Menggambar Teknik",
+    "Rekayasa Bahan Konstruksi Sipil",
+    "Matematika Rekayasa",
+    "Mekanika Fluida & Hidraulika",
+    "Mekanika Bahan",
+    "Mekanika Tanah",
+    "Rekayasa Hidrologi",
+    "Rekayasa Lalu Lintas",
+    "Analisis Struktur",
+    "Struktur Beton",
+    "Irigasi dan Drainase",
+    "Perancangan Geometrik Jalan",
+    "Manajemen Konstruksi",
+    "Struktur Baja",
+    "Utilitas Bangunan",
+    "Dasar- dasar Arsitektur",
+    "Teknik Pondasi",
+    "Konstruksi Jalan",
+    "Ekonomi Teknik",
+    "Rekayasa Lingkungan",
+    "Perancangan Perkerasan Jalan",
+    "Struktur Bangunan Tahan Gempa",
+    "Survei dan Pemetaan Lanjut",
+    "Manajemen Kualitas Konstruksi",
+    "Computer Aided Design (CAD)",
+    "Aspek Hukum Jasa Konstruksi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Perekonomian Indonesia masih berkembang, pembangunan masih akan berlangsung untuk jangka waktu yang cukup panjang. Jika kamu mengambil jurusan Teknik Sipil, kamu tidak perlu khawatir akan peluang kerja. Sejauh kamu memiliki kompetensi dan kualitas keahlianmu bisa diandalkan, maka kamu bisa bekerja di berbagai perusahaan properti, konstruksi, atau pengembang. Peluang kerja lulusan Teknik Sipil juga terbuka lebar di instansi pemerintah seperti di Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR), Badan Perencanaan Nasional (BPN), dan BUMN yang bergerak di bidang konstruksi.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Manajer Arsitektur dan Insinyur",
+    "Drafter Arsitektur",
+    "Insinyur Sipil",
+    "Pengawas dan Penyelidik Properti Pemerintah",
+    "Manajer Kontrol Kualitas Sistem",
+    "Arsitek",
+    "Drafter Sipil",
+    "Teknisi Sipil",
+    "Pengawas Konstruksi dan Bangunan"
+  ],
+  "related_majors": [
+    "teknik/teknik-pertambangan",
+    "teknik/arsitektur",
+    "kesehatan/kesehatan-dan-keselamatan-kerja",
+    "teknik/teknik-perancangan-jalan-dan-jembatan",
+    "ekonomi-bisnis/manajemen-transportasi",
+    "teknik/teknik-lingkungan",
+    "teknik/teknik-perencanaan-wilayah-dan-kota-planologi-",
+    "mipa/metrologi",
+    "teknik/teknik-tenaga-listrik",
+    "teknik/teknik-bangunan-dan-landasan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 110,
+  "dt_snbp": 4149,
+  "dt_snbt": 5700,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "121002",
+      "major_university_name": "S1 TEKNIK SIPIL - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 4.46602,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131015",
+      "major_university_name": "S1 TEKNIK SIPIL - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 6.66667,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171001",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 6.917,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353007",
+      "major_university_name": "S1 TEKNIK SIPIL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.00795,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356020",
+      "major_university_name": "S1 TEKNIK SIPIL - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 6.29515,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362025",
+      "major_university_name": "S1 TEKNIK SIPIL - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 1.42857,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541017",
+      "major_university_name": "S1 TEKNIK SIPIL - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 5.45852,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711012",
+      "major_university_name": "S1 TEKNIK SIPIL - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 6.06299,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111002",
+      "major_university_name": "S1 TEKNIK SIPIL - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 11.9118,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122016",
+      "major_university_name": "S1 TEKNIK SIPIL - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 8.77193,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141014",
+      "major_university_name": "S1 TEKNIK SIPIL - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 6.88337,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142019",
+      "major_university_name": "S1 TEKNIK SIPIL - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 3.97959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151032",
+      "major_university_name": "S1 TEKNIK SIPIL - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 13.7339,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161015",
+      "major_university_name": "S1 TEKNIK SIPIL - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 13.5857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191004",
+      "major_university_name": "S1 TEKNIK SIPIL - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 15.5979,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "192005",
+      "major_university_name": "S1 TEKNIK SIPIL - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 17.945,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241030",
+      "major_university_name": "D3 TEKNIK SIPIL - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311006",
+      "major_university_name": "S1 TEKNIK SIPIL - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 11.1111,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321009",
+      "major_university_name": "S1 TEKNIK SIPIL - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.55556,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331028",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332013",
+      "major_university_name": "FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN (FTSL) - KAMPUS JATINANGOR - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 9.11162,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "332026",
+      "major_university_name": "S1 FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN * INFRASTRUKTUR SIPIL DAN KELAUTAN (FTSL*SI) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334018",
+      "major_university_name": "S1 TEKNIK SIPIL - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 4.77897,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341021",
+      "major_university_name": "S1 TEKNIK SIPIL DAN LINGKUNGAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 4.92958,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "342005",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 7.40741,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351009",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 5.31561,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352002",
+      "major_university_name": "S1 TEKNIK SIPIL - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 13.9373,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353087",
+      "major_university_name": "TEKNIK SIPIL - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355017",
+      "major_university_name": "S1 TEKNIK SIPIL - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 4.91453,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355081",
+      "major_university_name": "D4 TEKNIK INFRASTRUKTUR SIPIL DAN PERANCANGAN ARSITEKTUR - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361036",
+      "major_university_name": "S1 TEKNIK SIPIL - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 4.84305,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361053",
+      "major_university_name": "D4 TEKNIK PENGELOLAAN DAN PEMELIHARAAN INFRASTRUKTUR SIPIL - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 9.04523,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361061",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PELAKSANAAN BANGUNAN SIPIL - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 10.9756,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362009",
+      "major_university_name": "S1 PENDIDIKAN TEKNIK SIPIL & PERENCANAAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 8.14249,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362083",
+      "major_university_name": "D4 TEKNIK SIPIL - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371017",
+      "major_university_name": "S1 TEKNIK SIPIL - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 10.8696,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372003",
+      "major_university_name": "S1 TEKNIK SIPIL - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 4.78469,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373015",
+      "major_university_name": "S1 TEKNIK SIPIL - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.10784,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382012",
+      "major_university_name": "S1 TEKNIK SIPIL - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 5.41516,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382033",
+      "major_university_name": "D4 TEKNIK SIPIL - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383014",
+      "major_university_name": "S1 TEKNIK SIPIL - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 7.04846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385010",
+      "major_university_name": "S1 TEKNIK SIPIL - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 7.96915,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386009",
+      "major_university_name": "S1 TEKNIK SIPIL - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 11.465,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "431020",
+      "major_university_name": "D3 TEKNIK KONSTRUKSI SIPIL - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "432014",
+      "major_university_name": "D4 MANAJEMEN TEKNOLOGI REKAYASA - POLMAN-BANDUNG",
+      "university_name": "POLITEKNIK MANUFAKTUR BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452021",
+      "major_university_name": "D3 KONSTRUKSI SIPIL - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "474037",
+      "major_university_name": "D3 TEKNIK SIPIL - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511002",
+      "major_university_name": "S1 TEKNIK SIPIL - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 16.3306,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531014",
+      "major_university_name": "S1 TEKNIK SIPIL - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 18.0531,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542007",
+      "major_university_name": "S1 TEKNIK SIPIL - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 30.5221,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611004",
+      "major_university_name": "S1 TEKNIK SIPIL - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 12.2483,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621008",
+      "major_university_name": "S1 TEKNIK SIPIL - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 12.6263,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631016",
+      "major_university_name": "S1 TEKNIK SIPIL - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 6.38298,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716014",
+      "major_university_name": "D3 TEKNIK KONSTRUKSI SIPIL - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "721007",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 32.1678,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731009",
+      "major_university_name": "S1 TEKNIK SIPIL - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 13.8843,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751015",
+      "major_university_name": "S1 TEKNIK SIPIL - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 7.15328,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752017",
+      "major_university_name": "S1 TEKNIK SIPIL - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 21.0526,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911010",
+      "major_university_name": "S1 TEKNIK SIPIL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 12.1495,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112001",
+      "major_university_name": "S1 TEKNIK SIPIL - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 45.8746,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113001",
+      "major_university_name": "S1 TEKNIK SIPIL - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 44.7761,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114009",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 38.7755,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122056",
+      "major_university_name": "D4 MANAJEMEN KONSTRUKSI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131060",
+      "major_university_name": "D3 TEKNIK SIPIL - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142059",
+      "major_university_name": "D3 TEKNIK SIPIL BANGUNAN GEDUNG - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "181004",
+      "major_university_name": "S1 TEKNIK SIPIL - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 31.1111,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222018",
+      "major_university_name": "D3 TEKNIK SIPIL - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241006",
+      "major_university_name": "D4 MANAJEMEN REKAYASA KONSTRUKSI - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 19.084,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271030",
+      "major_university_name": "D3 TEKNIK SIPIL - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332004",
+      "major_university_name": "FAKULTAS TEKNIK SIPIL & LINGKUNGAN (FTSL)  - KAMPUS GANESA - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 10.5038,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "373025",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA DAN PEMELIHARAAN BANGUNAN SIPIL - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 46.1538,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "374022",
+      "major_university_name": "S1 TEKNIK SIPIL - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383023",
+      "major_university_name": "D4 TEKNIK SIPIL - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 14.5161,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421039",
+      "major_university_name": "D3 KONSTRUKSI SIPIL - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "471007",
+      "major_university_name": "D3 TEKNIK SIPIL - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474002",
+      "major_university_name": "D4 MANAJEMEN REKAYASA KONSTRUKSI - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 16.2879,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "515021",
+      "major_university_name": "D3 TEKNIK SIPIL - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "521004",
+      "major_university_name": "S1 TEKNIK SIPIL - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 39.5604,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536015",
+      "major_university_name": "D3 TEKNIK SIPIL - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551002",
+      "major_university_name": "S1 TEKNIK SIPIL - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 38.6861,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "563007",
+      "major_university_name": "D3 TEKNIK SIPIL - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617001",
+      "major_university_name": "D4 MANAJEMEN PROYEK KONSTRUKSI - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 61.2613,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617013",
+      "major_university_name": "D3 TEKNIK SIPIL - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641009",
+      "major_university_name": "D3 TEKNIK SIPIL - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712035",
+      "major_university_name": "D4 TEKNIK SIPIL BANGUNAN GEDUNG - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 18.6916,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "722020",
+      "major_university_name": "S1 TEKNIK SIPIL - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 85.7143,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727009",
+      "major_university_name": "D3 TEKNIK SIPIL - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731028",
+      "major_university_name": "S1 TEKNIK SIPIL (PSDKU MOROWALI) - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731030",
+      "major_university_name": "S1 TEKNIK SIPIL (PSDKU TOUNA) - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 833.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731053",
+      "major_university_name": "TEKNIK SIPIL - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "741004",
+      "major_university_name": "S1 TEKNIK SIPIL - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 21.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "753003",
+      "major_university_name": "S1 TEKNIK SIPIL - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 170.588,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811026",
+      "major_university_name": "S1 TEKNIK SIPIL - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 59.887,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821001",
+      "major_university_name": "S1 TEKNIK SIPIL - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 28.7081,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912003",
+      "major_university_name": "S1 TEKNIK SIPIL - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 250,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111071",
+      "major_university_name": "D3 TEKNIK SIPIL - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191071",
+      "major_university_name": "D3 TEKNIK SIPIL - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "232020",
+      "major_university_name": "D3 TEKNIK SIPIL - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241022",
+      "major_university_name": "D3 TEKNOLOGI SIPIL (KAMPUS KAB. TANAH DATAR) - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "474025",
+      "major_university_name": "D3 TEKNOLOGI SIPIL (KAMPUS KAB LUMAJANG) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515022",
+      "major_university_name": "D3 TEKNIK SIPIL K. KAB. KAPUAS HULU - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "552003",
+      "major_university_name": "D3 TEKNIK SIPIL INFRASTRUKTUR PERKOTAAN - PNN",
+      "university_name": "POLITEKNIK NEGERI NUNUKAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716021",
+      "major_university_name": "TEKNIK SIPIL KABUPATEN BONE - POLITEKNIK NEGERI UJUNG PANDANG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722054",
+      "major_university_name": "D3 TEKNIK SIPIL - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751079",
+      "major_university_name": "D3 TEKNIK SIPIL - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "831002",
+      "major_university_name": "D4 MANAJEMEN PROYEK KONSTRUKSI - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "831010",
+      "major_university_name": "D3 TEKNIK SIPIL - POLNAM",
+      "university_name": "POLITEKNIK NEGERI AMBON",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911051",
+      "major_university_name": "D3 TEKNIK SIPIL - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921023",
+      "major_university_name": "S1 TEKNIK SIPIL - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 104.348,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "931003",
+      "major_university_name": "D3 TEKNIK SIPIL - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

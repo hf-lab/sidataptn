@@ -1,0 +1,317 @@
+{
+  "idx": 278,
+  "id": "teknik-perkapalan",
+  "major_name": "Teknik Perkapalan",
+  "icon": null,
+  "description": "Program studi Teknik Perkapalan mempelajari seluk beluk atau semua hal yang berkaitan dengan kapal. Lebih spesifiknya, pengetahuan tentang perancangan dan pembangunan kapal (naval architecture and shipbuilding), dimulai dari bentuk kapal, struktur, produksi, perbaikan, sampai pada pengoperasian kapal yang sudah siap menjadi alat transportasi, serta pengembangan sistem transportasi dan bisnis pengoperasian armada kapal.\r\rLalu apa bedanya dengan prodi Teknik Sistem Perkapalan? Jika prodi Teknik Sistem Perkapalan lebih fokus mempelajari sistem pada instrumen-instrumen kapal seperti mesin, pipa, kelistrikan, dan sistem kontrol, maka Teknik Perkapalan mempelajari perancangan dan konstruksi kapal, sistem navigasi kapal, hingga ke aspek hukum laut.",
+  "why": "Idealnya, di negara maritim, kapal menjadi transportasi yang sangat umum. Meskipun di Indonesia pergerakan masyarakat lebih banyak di darat, pemerintah mulai menyadari dan mengungkapkan komitmennya untuk memperkuat jalur laut. Peran kapal sebagai moda transportasi pun akan menjadi populer. Oleh karena itu, apabila kamu suka laut dan ingin mengenal lebih dalam tentang dunia perkapalan, prospek untuk memilih program studi ini sangat bagus. ",
+  "subjects": [
+    "Pengantar Teknik Perkapalan",
+    "Mekanika Teknik",
+    "Termodinamika",
+    "Teori Bangunan Kapal",
+    "Matematika Terapan",
+    "Proses Produksi",
+    "Ekonomi Teknik",
+    "Konstruksi Kapal",
+    "Permesinan Kapal",
+    "Kapal Ikan",
+    "Perancangan Kapal",
+    "Kekuatan Kapal",
+    "Tahanan dan Propulsi Kapal",
+    "Elemen Mesin",
+    "Getaran Kapal",
+    "Manajemen Pelayaran",
+    "Manajemen Pelabuhan",
+    "Sistem Transportasi Laut.",
+    "Menggambar Teknnik",
+    "Metode Numerik dan Komputer",
+    "Teknologi Las",
+    "Simulasi dan Pemodelan",
+    "Dinamika Kapal",
+    "Kapal Militer",
+    "Teknologi Perawatan & Reparasi Kapal",
+    "Perencanaan Operasi Kapal",
+    "Sistem Transportasi Laut"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Dengan komitmen pemerintah untuk memajukan jalur laut, maka prospek profesi lulusan teknik perkapalan cukup bagus. Meskipun ilmu yang didapatkan dari jurusan ini sangat spesifik, ada banyak bidang yang bisa ia masuki. Beberapa di antaranya adalah pembangunan kapal baru, pemeliharaan dan reparasi kapal, pembangunan sarana industri lepas pantai, pemeliharaan dan reparasi peralatan lepas pantai, industri komponen, jasa konsultasi dan rekayasa.",
+  "professions": [
+    "Ahli Perkapalan",
+    "Manager Logistik",
+    "Insinyur Perkapalan",
+    "Pelaut",
+    "Ahli Teknik Transportasi",
+    "Manajer Transportasi",
+    "Perencana Transportasi"
+  ],
+  "related_majors": [
+    "teknik/teknik-kelautan",
+    "teknik/transportasi-laut",
+    "teknik/teknik-mesin",
+    "teknik/teknik-sistem-perkapalan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 25,
+  "dt_snbp": 731,
+  "dt_snbt": 990,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "231013",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI PERKAPALAN - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321019",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 8.21918,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324002",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 14.8936,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355025",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 15.6156,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711015",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 18.3761,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382017",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 11.215,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "481009",
+      "major_university_name": "D4 TEKNIK PERMESINAN KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 28,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811011",
+      "major_university_name": "S1 TEKNIK SISTIM PERKAPALAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 466.667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811010",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 310.526,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711032",
+      "major_university_name": "S1 TEKNIK SISTEM PERKAPALAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 47.619,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542009",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 128.571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "483003",
+      "major_university_name": "D3 TEKNIK BANGUNAN KAPAL - POLTERA",
+      "university_name": "POLITEKNIK NEGERI MADURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "481017",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI PERKAPALAN - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "481014",
+      "major_university_name": "D3 TEKNIK PERANCANGAN DAN KONSTRUKSI KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "481013",
+      "major_university_name": "D3 TEKNIK PERMESINAN KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "481008",
+      "major_university_name": "D4 TEKNIK PERANCANGAN DAN KONSTRUKSI KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 45.045,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "382024",
+      "major_university_name": "S1 TEK. SIST PERKAPALAN (GLR GANDA ITS*JERMAN) - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 17.8218,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382019",
+      "major_university_name": "S1 TEKNIK SISTEM PERKAPALAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 20,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371036",
+      "major_university_name": "S1 TEKNIK KONSTRUKSI PERKAPALAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 25.9843,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "355078",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KONSTRUKSI PERKAPALAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "232005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA ARSITEKTUR PERKAPALAN - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 92.3077,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "481015",
+      "major_university_name": "D3 TEKNIK BANGUNAN KAPAL - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "232013",
+      "major_university_name": "D3 TEKNIK PERKAPALAN - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "753018",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 137.5,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133011",
+      "major_university_name": "S1 TEKNIK PERKAPALAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 260.87,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

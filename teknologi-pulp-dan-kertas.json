@@ -1,0 +1,97 @@
+{
+  "idx": 302,
+  "id": "teknologi-pulp-dan-kertas",
+  "major_name": "Teknologi Pulp dan Kertas",
+  "icon": null,
+  "description": "Program studi Teknologi Pulp dan Kertas adalah program vokasi (Diploma) yang mempelajari tentang proses pembuatan pulp (bubur kertas, bahan setengah jadi) menjadi hasil akhir berupa kertas atau proses pembuatan keduanya secara terpisah baik dari segi keteknikan maupun segi aplikasi operasional. Pembuatan pulp dan kertas melibatkan bahan baku berupa kayu dan bahan kimia. Program studi ini menggabungkan berbagai keilmuan dalam rumpun teknik, diantaranya Teknik Kimia, Teknik Mesin, Teknik Lingkungan, dan Teknik Industri. Umumnya berada di bawah payung keilmuan Teknik Kimia, program studi Teknologi Pulp terbilang baru dan langka di Indonesia.",
+  "why": "Indonesia merupakan salah satu negara dengan industri pulp dan kertas yang tengah berkembang. Didukung pula dengan alam Indonesia sebagai penyedia bahan baku terbesar. Akan tetapi, sumber daya manusia dengan keahlian di bidang ini masih sangat sedikit. Kini, semakin banyak industri yang bekerjasama dengan instansi pendidikan untuk mengembangkan program studi pulp dan kertas dengan harapan lulusannya dapat langsung terserap industri 100%.",
+  "subjects": [
+    "Matematika Terapan",
+    "Fisika Terapan",
+    "Kimia Terapan",
+    "Pengantar Industri Pulp dan Kertas",
+    "Komputasi Proses Terapan",
+    "Kimia Analisis Pulp dan Kertas",
+    "Menggambar Teknik",
+    "Bahan Kayu dan Non-Kayu",
+    "Termodinamika Terapan",
+    "Neraca Massa dan Energi",
+    "Teknologi Pembuatan Pulp",
+    "Teknologi Pembuatan Kertas",
+    "Mikrobiologi Industri",
+    "Kimia Selulosa",
+    "Instrumentasi dan Pengendalian Proses",
+    "Mekanika Fluida dan Partikel",
+    "Chemical Plant and Preparation",
+    "Karakteristik dan Pengujian Pulp",
+    "Karakteristik dan Pengujian Kertas",
+    "Papermaking Chemical Preparation",
+    "Chemical Recovery",
+    "Teknologi Pemisahan dan Pemurnian",
+    "Teknik Reaksi Kimia",
+    "Ekonomi Teknik",
+    "Teknologi Biopolimer",
+    "Utilitas Pabrik Pulp dan Kertas",
+    "Ilmu Lingkungan dan Pengolahan Limbah Industri",
+    "Keselamatan dan Kesehatan Kerja (K3)",
+    "Kertas Cetak",
+    "Bahasa Inggris Teknik"
+  ],
+  "characters": [
+    "Teliti",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Karena program studi ini merupakan hasil kerjasama industri dan instansi pendidikan tinggi, nggak heran kalau prospeknya sangat cerah. Lulusan program studi pulp and paper dibekali dengan ilmu dan kemampuan praktis untuk dapat langsung memenuhi kebutuhan industri akan sumber daya yang mumpuni dalam bidangnya, bahkan menyediakan ikatan dinas agar lulusan dapat terserap langsung oleh perusahaan pengolah pulp dan kertas.",
+  "professions": [
+    "Operator Pabrik dan Sistem",
+    "Teknisi Laboratorium Non Klinis",
+    "Ahli Teknik Kimia"
+  ],
+  "related_majors": [
+    "teknik/teknik-mesin",
+    "teknik/teknik-fisika",
+    "teknik/teknik-kimia"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 1,
+  "dt_snbp": 18,
+  "dt_snbt": 24,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "131059",
+      "major_university_name": "D3 TEKNOLOGI PULP DAN KERTAS - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}
