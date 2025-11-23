@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info Program Studi Indonesia</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        .animate-fade-in {
+            animation: fadeIn 0.4s ease-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .glassmorphism {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <!-- Navbar -->
+    <nav class="bg-white shadow-sm sticky top-0 z-50 border-b border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex items-center space-x-2">
+                    <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center">
+                        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        </svg>
+                    </div>
+                    <h1 class="text-2xl font-bold text-gray-800">InfoProdi</h1>
+                </div>
+                <button onclick="toggleSearch()" class="px-6 py-2.5 bg-blue-500 hover:bg-blue-600 text-white rounded-xl font-semibold transition flex items-center space-x-2 shadow-sm">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                    </svg>
+                    <span>Cari Prodi</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Modal -->
+    <div id="searchModal" class="hidden fixed inset-0 bg-black bg-opacity-40 z-50 flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl shadow-2xl w-full max-w-3xl max-h-[80vh] flex flex-col animate-fade-in">
+            <div class="p-6 border-b border-gray-100">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="text-2xl font-bold text-gray-800">Pilih Program Studi</h3>
+                    <button onclick="toggleSearch()" class="text-gray-400 hover:text-gray-600 transition p-2">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </button>
+                </div>
+                
+                <div class="relative">
+                    <svg class="absolute left-4 top-3.5 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                    </svg>
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        placeholder="Cari program studi..." 
+                        class="w-full pl-12 pr-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none"
+                        onkeyup="filterMajors()"
+                    >
+                </div>
+            </div>
+            
+            <div id="majorsList" class="overflow-y-auto p-6 space-y-2">
+                <!-- Will be populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        
+        <!-- Loading State -->
+        <div id="loading" class="flex justify-center items-center h-96">
+            <div class="text-center">
+                <div class="inline-block animate-spin rounded-full h-16 w-16 border-4 border-gray-200 border-t-blue-500"></div>
+                <p class="mt-4 text-gray-600 font-medium">Memuat data...</p>
+            </div>
+        </div>
+
+        <!-- Error State -->
+        <div id="error" class="hidden bg-red-50 border-l-4 border-red-500 rounded-xl p-6 animate-fade-in">
+            <div class="flex items-start">
+                <div class="flex-shrink-0">
+                    <svg class="w-6 h-6 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                </div>
+                <div class="ml-3">
+                    <h3 class="text-red-800 font-semibold text-lg">Terjadi Kesalahan</h3>
+                    <p id="errorMessage" class="text-red-700 mt-1"></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Content -->
+        <div id="content" class="hidden animate-fade-in">
+            
+            <!-- Hero Section -->
+            <div class="bg-gradient-to-r from-blue-500 to-blue-600 rounded-3xl overflow-hidden mb-8 shadow-lg">
+                <div class="px-8 py-12 md:px-12 md:py-16">
+                    <div class="flex flex-col md:flex-row items-start md:items-center justify-between">
+                        <div class="flex items-start space-x-4 mb-6 md:mb-0">
+                            <div class="bg-white bg-opacity-20 rounded-2xl p-4 backdrop-blur-sm">
+                                <span id="majorIcon" class="text-5xl">🎓</span>
+                            </div>
+                            <div>
+                                <h1 id="majorName" class="text-3xl md:text-4xl font-bold text-white mb-2"></h1>
+                                <p class="text-blue-100 text-lg">Program Studi Terakreditasi</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Stats -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                <div class="bg-white rounded-2xl shadow-sm p-6 border border-gray-100 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center">
+                            <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <p class="text-gray-500 text-sm font-medium mb-1">Jumlah Program Studi</p>
+                    <p id="statProdi" class="text-3xl font-bold text-gray-800">-</p>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-sm p-6 border border-gray-100 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center">
+                            <svg class="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <p class="text-gray-500 text-sm font-medium mb-1">Peminat SNBP</p>
+                    <p id="statSNBP" class="text-3xl font-bold text-gray-800">-</p>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-sm p-6 border border-gray-100 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center">
+                            <svg class="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                    <p class="text-gray-500 text-sm font-medium mb-1">Peminat SNBT</p>
+                    <p id="statSNBT" class="text-3xl font-bold text-gray-800">-</p>
+                </div>
+            </div>
+
+            <!-- Main Content Grid -->
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                
+                <!-- Left Column - Main Content -->
+                <div class="lg:col-span-2 space-y-6">
+                    
+                    <!-- About Section -->
+                    <div class="bg-white rounded-2xl shadow-sm p-8 border border-gray-100">
+                        <h2 class="text-2xl font-bold text-gray-800 mb-6">Tentang Program Studi</h2>
+                        <p id="description" class="text-gray-600 leading-relaxed text-justify"></p>
+                    </div>
+
+                    <!-- Why Section -->
+                    <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8 border border-blue-200">
+                        <div class="flex items-start space-x-4 mb-4">
+                            <div class="w-10 h-10 bg-blue-500 rounded-xl flex items-center justify-center flex-shrink-0">
+                                <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                                </svg>
+                            </div>
+                            <h2 class="text-2xl font-bold text-gray-800">Mengapa Memilih Prodi Ini?</h2>
+                        </div>
+                        <p id="why" class="text-gray-700 leading-relaxed text-justify"></p>
+                    </div>
+
+                    <!-- Prospects Section -->
+                    <div class="bg-white rounded-2xl shadow-sm p-8 border border-gray-100">
+                        <h2 class="text-2xl font-bold text-gray-800 mb-6">Prospek Karir</h2>
+                        <p id="prospects" class="text-gray-600 leading-relaxed mb-8 text-justify"></p>
+                        
+                        <h3 class="text-xl font-bold text-gray-800 mb-4">Pilihan Profesi</h3>
+                        <div id="professions" class="grid grid-cols-2 gap-3">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                    <!-- Subjects Section -->
+                    <div class="bg-white rounded-2xl shadow-sm p-8 border border-gray-100">
+                        <h2 class="text-2xl font-bold text-gray-800 mb-2">Mata Kuliah</h2>
+                        <p id="subjectsCount" class="text-gray-500 mb-6"></p>
+                        <div id="subjects" class="grid grid-cols-1 gap-3">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Right Column - Sidebar -->
+                <div class="space-y-6">
+                    
+                    <!-- Characters Card -->
+                    <div class="bg-white rounded-2xl shadow-sm p-6 border border-gray-100 sticky top-24">
+                        <h3 class="text-xl font-bold text-gray-800 mb-4">Karakteristik Mahasiswa</h3>
+                        <div id="characters" class="flex flex-wrap gap-2">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Universities Section -->
+            <div class="mt-8 bg-white rounded-2xl shadow-sm p-8 border border-gray-100">
+                <h2 class="text-2xl font-bold text-gray-800 mb-2">Daftar Universitas</h2>
+                <p id="universitiesCount" class="text-gray-500 mb-6"></p>
+                <div id="universities" class="space-y-4">
+                    <!-- Will be populated by JavaScript -->
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-100 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="flex items-center space-x-2 mb-4 md:mb-0">
+                    <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
+                        <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                        </svg>
+                    </div>
+                    <span class="text-gray-800 font-bold text-lg">InfoProdi</span>
+                </div>
+                <p class="text-gray-500 text-sm">© 2025 InfoProdi.id - Informasi Program Studi Indonesia</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const baseUrl = 'https://cdn.jsdelivr.net/gh/hf-lab/sidataptn@main/';
+        
+        const availableMajors = [
+            { id: 'akuntansi', name: 'Akuntansi', icon: '💰' },
+            { id: 'ilmu-hukum', name: 'Ilmu Hukum', icon: '⚖️' },
+            { id: 'manajemen', name: 'Manajemen', icon: '📊' },
+            { id: 'teknik-mesin', name: 'Teknik Mesin', icon: '⚙️' },
+            { id: 'teknik-sipil', name: 'Teknik Sipil', icon: '🏗️' },
+            { id: 'teknik-informatika', name: 'Teknik Informatika', icon: '💻' },
+            { id: 'agribisnis-sosial-ekonomi-pertanian-', name: 'Agribisnis', icon: '🌾' },
+            { id: 'teknik-elektro', name: 'Teknik Elektro', icon: '⚡' },
+            { id: 'pendidikan-guru-sekolah-dasar', name: 'Pendidikan Guru Sekolah Dasar', icon: '👨‍🏫' },
+            { id: 'sistem-informasi-manajemen-informatika-', name: 'Sistem Informasi', icon: '🖥️' },
+            { id: 'peternakan', name: 'Peternakan', icon: '🐄' },
+            { id: 'administrasi-publik-administrasi-negara-', name: 'Administrasi Publik', icon: '🏛️' },
+            { id: 'pendidikan-bahasa-inggris', name: 'Pendidikan Bahasa Inggris', icon: '🇬🇧' },
+            { id: 'ilmu-komunikasi', name: 'Ilmu Komunikasi', icon: '📡' },
+            { id: 'psikologi', name: 'Psikologi', icon: '🧠' },
+            { id: 'sosiologi', name: 'Sosiologi', icon: '👥' },
+            { id: 'pendidikan-bahasa-dan-sastra-indonesia', name: 'Pendidikan Bahasa Indonesia', icon: '📚' },
+            { id: 'ekonomi-pembangunan', name: 'Ekonomi Pembangunan', icon: '📈' },
+            { id: 'biologi', name: 'Biologi', icon: '🔬' },
+            { id: 'teknik-industri', name: 'Teknik Industri', icon: '🏭' },
+            { id: 'pendidikan-jasmani-kesehatan-dan-rekreasi', name: 'Pendidikan Jasmani', icon: '⚽' },
+            { id: 'matematika', name: 'Matematika', icon: '🔢' },
+            { id: 'kimia', name: 'Kimia', icon: '⚗️' },
+            { id: 'ekonomi', name: 'Ekonomi', icon: '💹' },
+            { id: 'pendidikan-seni-drama-tari-dan-musik-sendratasik-', name: 'Pendidikan Seni', icon: '🎭' },
+            { id: 'ilmu-keperawatan', name: 'Ilmu Keperawatan', icon: '👩‍⚕️' },
+            { id: 'administrasi-bisnis-administrasi-niaga-', name: 'Administrasi Bisnis', icon: '💼' },
+            { id: 'pendidikan-matematika', name: 'Pendidikan Matematika', icon: '🧮' },
+            { id: 'pendidikan-dokter', name: 'Pendidikan Dokter', icon: '⚕️' },
+            { id: 'kesehatan-masyarakat', name: 'Kesehatan Masyarakat', icon: '🏥' },
+            { id: 'fisika', name: 'Fisika', icon: '🔭' },
+            { id: 'sastra-inggris', name: 'Sastra Inggris', icon: '📖' },
+            { id: 'arsitektur', name: 'Arsitektur', icon: '🏛️' },
+            { id: 'agroteknologi', name: 'Agroteknologi', icon: '🌱' },
+            { id: 'teknik-kimia', name: 'Teknik Kimia', icon: '🧪' },
+            { id: 'farmasi', name: 'Farmasi', icon: '💊' },
+            { id: 'pendidikan-biologi', name: 'Pendidikan Biologi', icon: '🦠' },
+            { id: 'pendidikan-sejarah', name: 'Pendidikan Sejarah', icon: '📜' },
+            { id: 'pendidikan-anak-usia-dini-paud-', name: 'Pendidikan Anak Usia Dini', icon: '👶' },
+            { id: 'teknologi-industri-pertanian-agroindustri-', name: 'Teknologi Industri Pertanian', icon: '🏭' },
+            { id: 'teknik-lingkungan', name: 'Teknik Lingkungan', icon: '♻️' },
+            { id: 'ilmu-gizi', name: 'Ilmu Gizi', icon: '🥗' },
+            { id: 'pendidikan-fisika', name: 'Pendidikan Fisika', icon: '🌌' },
+            { id: 'pendidikan-kimia', name: 'Pendidikan Kimia', icon: '🧬' },
+            { id: 'teknik-otomasi-manufaktur-dan-mekatronika', name: 'Teknik Otomasi dan Mekatronika', icon: '🤖' },
+            { id: 'ilmu-politik', name: 'Ilmu Politik', icon: '🗳️' },
+            { id: 'teknik-tenaga-listrik', name: 'Teknik Tenaga Listrik', icon: '💡' },
+            { id: 'kehutanan', name: 'Kehutanan', icon: '🌲' },
+            { id: 'teknologi-pangan', name: 'Teknologi Pangan', icon: '🍽️' },
+            { id: 'ilmu-kelautan', name: 'Ilmu Kelautan', icon: '🌊' },
+            { id: 'desain-komunikasi-visual', name: 'Desain Komunikasi Visual', icon: '🎨' },
+            { id: 'agroekoteknologi', name: 'Agroekoteknologi', icon: '🌿' },
+            { id: 'manajemen-sumber-daya-perairan', name: 'Manajemen Sumber Daya Perairan', icon: '🐟' },
+            { id: 'bisnis-digital', name: 'Bisnis Digital', icon: '📱' },
+            { id: 'hubungan-internasional', name: 'Hubungan Internasional', icon: '🌍' },
+            { id: 'teknologi-pasca-panen', name: 'Teknologi Pasca Panen', icon: '🌾' },
+            { id: 'ilmu-komputer', name: 'Ilmu Komputer', icon: '💾' },
+            { id: 'pendidikan-geografi', name: 'Pendidikan Geografi', icon: '🗺️' },
+            { id: 'pendidikan-bimbingan-konseling', name: 'Pendidikan Bimbingan Konseling', icon: '🤝' },
+            { id: 'statistika', name: 'Statistika', icon: '📊' },
+            { id: 'keuangan-dan-perbankan', name: 'Keuangan dan Perbankan', icon: '🏦' },
+            { id: 'pendidikan-pancasila-dan-kewarganegaraan', name: 'Pendidikan PKn', icon: '🇮🇩' },
+            { id: 'ilmu-pemerintahan', name: 'Ilmu Pemerintahan', icon: '🏢' },
+            { id: 'pendidikan-ilmu-pengetahuan-alam', name: 'Pendidikan IPA', icon: '🔬' },
+            { id: 'pendidikan-kepelatihan-olahraga', name: 'Pendidikan Kepelatihan Olahraga', icon: '🏆' },
+            { id: 'budidaya-perairan-akuakultur-', name: 'Budidaya Perairan', icon: '🐠' },
+            { id: 'software-engineering-rekayasa-perangkat-lunak-', name: 'Software Engineering', icon: '👨‍💻' },
+            { id: 'ekonomi-islam-ekonomi-syariah-', name: 'Ekonomi Islam', icon: '☪️' },
+            { id: 'ilmu-perpustakaan', name: 'Ilmu Perpustakaan', icon: '📚' },
+            { id: 'sistem-dan-teknologi-informasi', name: 'Sistem dan Teknologi Informasi', icon: '🌐' },
+            { id: 'teknik-geologi', name: 'Teknik Geologi', icon: '⛰️' },
+            { id: 'sistem-komputer', name: 'Sistem Komputer', icon: '🖥️' },
+            { id: 'sastra-indonesia', name: 'Sastra Indonesia', icon: '📝' },
+            { id: 'teknik-pertanian-dan-biosistem', name: 'Teknik Pertanian dan Biosistem', icon: '🚜' },
+            { id: 'teknik-pertambangan', name: 'Teknik Pertambangan', icon: '⛏️' },
+            { id: 'teknik-perkapalan', name: 'Teknik Perkapalan', icon: '🚢' },
+            { id: 'teknik-perencanaan-wilayah-dan-kota-planologi-', name: 'Teknik Perencanaan Wilayah', icon: '🏙️' },
+            { id: 'sastra-jepang', name: 'Sastra Jepang', icon: '🇯🇵' },
+            { id: 'administrasi-perkantoran-kesekretariatan-', name: 'Administrasi Perkantoran', icon: '📋' },
+            { id: 'budidaya-perikanan', name: 'Budidaya Perikanan', icon: '🎣' },
+            { id: 'teknik-perancangan-jalan-dan-jembatan', name: 'Teknik Jalan dan Jembatan', icon: '🌉' },
+            { id: 'ilmu-keolahragaan', name: 'Ilmu Keolahragaan', icon: '🏅' },
+            { id: 'antropologi', name: 'Antropologi', icon: '🗿' },
+            { id: 'pariwisata', name: 'Pariwisata', icon: '✈️' },
+            { id: 'kedokteran-hewan', name: 'Kedokteran Hewan', icon: '🐕' },
+            { id: 'pendidikan-luar-sekolah', name: 'Pendidikan Luar Sekolah', icon: '🎓' },
+            { id: 'manajemen-perhotelan', name: 'Manajemen Perhotelan', icon: '🏨' },
+            { id: 'akuntansi-sektor-publik', name: 'Akuntansi Sektor Publik', icon: '🧾' },
+            { id: 'pendidikan-dokter-gigi', name: 'Pendidikan Dokter Gigi', icon: '🦷' },
+            { id: 'kewirausahaan', name: 'Kewirausahaan', icon: '💡' },
+            { id: 'tata-busana', name: 'Tata Busana', icon: '👗' },
+            { id: 'manajemen-pemasaran-marketing-', name: 'Manajemen Pemasaran', icon: '📢' },
+            { id: 'tata-boga', name: 'Tata Boga', icon: '🍳' },
+            { id: 'ilmu-tanah-manajemen-sumberdaya-lahan-', name: 'Ilmu Tanah', icon: '🌍' },
+            { id: 'sistem-multimedia', name: 'Sistem Multimedia', icon: '🎬' },
+            { id: 'data-science', name: 'Data Science', icon: '📊' },
+            { id: 'teknik-otomotif', name: 'Teknik Otomotif', icon: '🚗' },
+            { id: 'teknik-perminyakan', name: 'Teknik Perminyakan', icon: '🛢️' },
+            { id: 'administrasi-fiskal-perpajakan-', name: 'Administrasi Fiskal', icon: '💵' },
+            { id: 'manajemen-bisnis', name: 'Manajemen Bisnis', icon: '💼' },
+            { id: 'teknik-konversi-energi', name: 'Teknik Konversi Energi', icon: '⚡' },
+            { id: 'teknik-konstruksi-gedung', name: 'Teknik Konstruksi Gedung', icon: '🏢' },
+            { id: 'usaha-perjalanan-wisata', name: 'Usaha Perjalanan Wisata', icon: '🗺️' },
+            { id: 'ilmu-sejarah', name: 'Ilmu Sejarah', icon: '📜' },
+            { id: 'agronomi-dan-hortikultura', name: 'Agronomi dan Hortikultura', icon: '🌺' },
+            { id: 'geofisika', name: 'Geofisika', icon: '🌋' },
+            { id: 'kurikulum-dan-teknologi-pendidikan', name: 'Kurikulum dan Teknologi Pendidikan', icon: '📖' },
+            { id: 'agrobisnis-perikanan-sosial-ekonomi-perikanan-', name: 'Agrobisnis Perikanan', icon: '🎣' },
+            { id: 'akuntansi-pajak', name: 'Akuntansi Pajak', icon: '💰' },
+            { id: 'pendidikan-luar-biasa', name: 'Pendidikan Luar Biasa', icon: '♿' },
+            { id: 'proteksi-tanaman-ilmu-hama-dan-penyakit-tumbuhan-', name: 'Proteksi Tanaman', icon: '🌿' },
+            { id: 'sastra-cina-sastra-mandarin-', name: 'Sastra Mandarin', icon: '🇨🇳' },
+            { id: 'rekam-medis', name: 'Rekam Medis', icon: '📋' },
+            { id: 'geografi', name: 'Geografi', icon: '🌏' },
+            { id: 'sastra-jerman', name: 'Sastra Jerman', icon: '🇩🇪' },
+            { id: 'jurnalistik', name: 'Jurnalistik', icon: '📰' },
+            { id: 'nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-', name: 'Nutrisi dan Teknologi Pakan', icon: '🌾' },
+            { id: 'sastra-perancis', name: 'Sastra Perancis', icon: '🇫🇷' },
+            { id: 'ilmu-kesejahteraan-sosial', name: 'Ilmu Kesejahteraan Sosial', icon: '🤲' },
+            { id: 'tata-rias-dan-kecantikan', name: 'Tata Rias dan Kecantikan', icon: '💄' },
+            { id: 'teknologi-hasil-perikanan', name: 'Teknologi Hasil Perikanan', icon: '🐟' },
+            { id: 'administrasi-pendidikan', name: 'Administrasi Pendidikan', icon: '📚' },
+            { id: 'ilmu-keluarga-dan-konsumen', name: 'Ilmu Keluarga dan Konsumen', icon: '👨‍👩‍👧' },
+            { id: 'produksi-ternak', name: 'Produksi Ternak', icon: '🐖' },
+            { id: 'kesehatan-dan-keselamatan-kerja', name: 'Kesehatan dan Keselamatan Kerja', icon: '⛑️' },
+            { id: 'penyuluhan-dan-komunikasi-pertanian', name: 'Penyuluhan Pertanian', icon: '📣' },
+            { id: 'kebidanan', name: 'Kebidanan', icon: '👶' },
+            { id: 'aktuaria', name: 'Aktuaria', icon: '📐' },
+            { id: 'bioteknologi', name: 'Bioteknologi', icon: '🧬' },
+            { id: 'animasi', name: 'Animasi', icon: '🎥' },
+            { id: 'desain-interior', name: 'Desain Interior', icon: '🛋️' },
+            { id: 'teknik-alat-berat', name: 'Teknik Alat Berat', icon: '🚜' },
+            { id: 'sastra-arab-sastra-asia-barat-', name: 'Sastra Arab', icon: '🇸🇦' },
+            { id: 'teknik-geomatika', name: 'Teknik Geomatika', icon: '🗺️' },
+            { id: 'teknik-metalurgi', name: 'Teknik Metalurgi', icon: '⚒️' },
+            { id: 'pemanfaatan-sumberdaya-perikanan', name: 'Pemanfaatan Sumberdaya Perikanan', icon: '🎣' },
+            { id: 'pendidikan-bahasa-arab', name: 'Pendidikan Bahasa Arab', icon: '📖' },
+            { id: 'seni-kriya', name: 'Seni Kriya', icon: '🎨' },
+            { id: 'teknik-kelautan', name: 'Teknik Kelautan', icon: '⚓' },
+            { id: 'manajemen-pendidikan', name: 'Manajemen Pendidikan', icon: '🎓' },
+            { id: 'manajemen-bisnis-pariwisata', name: 'Manajemen Bisnis Pariwisata', icon: '🏝️' },
+            { id: 'penginderaan-jauh-dan-sistem-informasi-geografi', name: 'Penginderaan Jauh dan SIG', icon: '🛰️' },
+            { id: 'pengelolaan-hutan', name: 'Pengelolaan Hutan', icon: '🌳' },
+            { id: 'destinasi-pariwisata', name: 'Destinasi Pariwisata', icon: '🗿' },
+            { id: 'seni-rupa-creative-arts-', name: 'Seni Rupa', icon: '🎨' },
+            { id: 'konservasi-sumberdaya-hutan-dan-ekowisata', name: 'Konservasi Hutan', icon: '🌲' },
+            { id: 'transportasi-laut', name: 'Transportasi Laut', icon: '⛴️' },
+            { id: 'seni-tari', name: 'Seni Tari', icon: '💃' },
+            { id: 'fisioterapi', name: 'Fisioterapi', icon: '🏥' },
+            { id: 'ekonomi-bisnis', name: 'Ekonomi Bisnis', icon: '💼' },
+            { id: 'hubungan-masyarakat', name: 'Hubungan Masyarakat', icon: '📢' },
+            { id: 'seni-karawitan', name: 'Seni Karawitan', icon: '🎵' },
+            { id: 'teknik-energi-terbarukan', name: 'Teknik Energi Terbarukan', icon: '☀️' },
+            { id: 'manajemen-logistik', name: 'Manajemen Logistik', icon: '📦' },
+            { id: 'business-law', name: 'Business Law', icon: '⚖️' },
+            { id: 'desain-produk', name: 'Desain Produk', icon: '🎨' },
+            { id: 'teknik-material', name: 'Teknik Material', icon: '🔬' },
+            { id: 'seni-rupa-murni', name: 'Seni Rupa Murni', icon: '🖼️' },
+            { id: 'arkeologi', name: 'Arkeologi', icon: '🏺' },
+            { id: 'teknik-biomedik-teknobiomedik-', name: 'Teknik Biomedik', icon: '🩺' },
+            { id: 'teknik-geodesi', name: 'Teknik Geodesi', icon: '📍' },
+            { id: 'pendidikan-agama-islam', name: 'Pendidikan Agama Islam', icon: '🕌' },
+            { id: 'teknik-fisika', name: 'Teknik Fisika', icon: '⚛️' },
+            { id: 'teknik-refrigerasi-dan-tata-udara', name: 'Teknik Refrigerasi', icon: '❄️' },
+            { id: 'teknik-logistik', name: 'Teknik Logistik', icon: '🚚' },
+            { id: 'computerized-accounting', name: 'Computerized Accounting', icon: '💻' },
+            { id: 'penyiaran-broadcasting-', name: 'Penyiaran', icon: '📻' },
+            { id: 'periklanan-advertising-', name: 'Periklanan', icon: '📺' },
+            { id: 'teknik-sumberdaya-air-teknik-pengairan-', name: 'Teknik Sumberdaya Air', icon: '💧' },
+            { id: 'teknologi-hasil-ternak', name: 'Teknologi Hasil Ternak', icon: '🥩' },
+            { id: 'arsitektur-lanskap', name: 'Arsitektur Lanskap', icon: '🌳' },
+            { id: 'rekayasa-kehutanan', name: 'Rekayasa Kehutanan', icon: '🌲' },
+            { id: 'accounting-information-system-sistem-informasi-akuntansi-', name: 'Sistem Informasi Akuntansi', icon: '💼' },
+            { id: 'manajemen-bisnis-unggas', name: 'Manajemen Bisnis Unggas', icon: '🐔' },
+            { id: 'pemasaran-digital', name: 'Pemasaran Digital', icon: '📱' },
+            { id: 'manajemen-hutan', name: 'Manajemen Hutan', icon: '🌲' },
+            { id: 'administrasi-keuangan-dan-perbankan', name: 'Administrasi Keuangan', icon: '💵' },
+            { id: 'filsafat', name: 'Filsafat', icon: '🤔' },
+            { id: 'ekonomi-sumberdaya-dan-lingkungan', name: 'Ekonomi Sumberdaya', icon: '🌍' },
+            { id: 'teknologi-industri-benih', name: 'Teknologi Industri Benih', icon: '🌱' },
+            { id: 'bisnis-internasional', name: 'Bisnis Internasional', icon: '🌐' },
+            { id: 'sistem-informasi-bisnis', name: 'Sistem Informasi Bisnis', icon: '💼' },
+            { id: 'biokimia', name: 'Biokimia', icon: '🧬' },
+            { id: 'silvikultur', name: 'Silvikultur', icon: '🌳' },
+            { id: 'teknologi-hasil-hutan', name: 'Teknologi Hasil Hutan', icon: '🪵' },
+            { id: 'pembangunan-sosial-dan-kesejahteraan', name: 'Pembangunan Sosial', icon: '🤝' },
+            { id: 'sastra-rusia', name: 'Sastra Rusia', icon: '🇷🇺' },
+            { id: 'teknologi-bioproses', name: 'Teknologi Bioproses', icon: '🧪' },
+            { id: 'rekayasa-infrastruktur-lingkungan', name: 'Rekayasa Infrastruktur', icon: '🏗️' },
+            { id: 'kesehatan-lingkungan', name: 'Kesehatan Lingkungan', icon: '🌿' },
+            { id: 'metrologi', name: 'Metrologi', icon: '📏' },
+            { id: 'matematika-bisnis', name: 'Matematika Bisnis', icon: '🔢' },
+            { id: 'business-creation', name: 'Business Creation', icon: '💡' },
+            { id: 'demografi-dan-pencatatan-sipil', name: 'Demografi', icon: '📊' },
+            { id: 'manajemen-industri-katering', name: 'Manajemen Industri Katering', icon: '🍽️' },
+            { id: 'manajemen-aset', name: 'Manajemen Aset', icon: '🏢' },
+            { id: 'teknologi-pulp-dan-kertas', name: 'Teknologi Pulp dan Kertas', icon: '📄' },
+            { id: 'sastra-belanda', name: 'Sastra Belanda', icon: '🇳🇱' },
+            { id: 'aeronautika-dan-astronautika-teknik-penerbangan-', name: 'Teknik Penerbangan', icon: '✈️' },
+            { id: 'bisnis-islam', name: 'Bisnis Islam', icon: '☪️' },
+            { id: 'mikrobiologi-pertanian', name: 'Mikrobiologi Pertanian', icon: '🦠' },
+            { id: 'statistika-terapan-dan-komputasi', name: 'Statistika Terapan', icon: '📈' }
+        ];
+
+        let currentData = null;
+
+        function toggleSearch() {
+            const modal = document.getElementById('searchModal');
+            modal.classList.toggle('hidden');
+            if (!modal.classList.contains('hidden')) {
+                document.getElementById('searchInput').focus();
+                populateMajorsList();
+            }
+        }
+
+        function populateMajorsList() {
+            const list = document.getElementById('majorsList');
+            list.innerHTML = availableMajors.map(major => `
+                <button 
+                    onclick="loadMajor('${major.id}')" 
+                    class="w-full text-left px-6 py-4 rounded-xl hover:bg-blue-50 transition flex items-center space-x-4 major-item border border-transparent hover:border-blue-200"
+                >
+                    <div class="w-12 h-12 bg-gradient-to-br from-blue-100 to-blue-200 rounded-xl flex items-center justify-center text-2xl">
+                        ${major.icon}
+                    </div>
+                    <div>
+                        <p class="font-semibold text-gray-800">${major.name}</p>
+                        <p class="text-sm text-gray-500">Lihat informasi lengkap</p>
+                    </div>
+                </button>
+            `).join('');
+        }
+
+        function filterMajors() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const items = document.querySelectorAll('.major-item');
+            
+            items.forEach(item => {
+                const text = item.textContent.toLowerCase();
+                if (text.includes(searchTerm)) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+
+        async function loadMajor(majorId) {
+            toggleSearch();
+            showLoading();
+            
+            try {
+                const response = await fetch(`${baseUrl}${majorId}.json`);
+                if (!response.ok) throw new Error('Gagal memuat data');
+                
+                const data = await response.json();
+                currentData = data;
+                displayData(data);
+                
+                const major = availableMajors.find(m => m.id === majorId);
+                if (major) {
+                    document.getElementById('majorIcon').textContent = major.icon;
+                }
+                
+            } catch (error) {
+                showError(error.message);
+            }
+        }
+
+        function showLoading() {
+            document.getElementById('loading').classList.remove('hidden');
+            document.getElementById('content').classList.add('hidden');
+            document.getElementById('error').classList.add('hidden');
+        }
+
+        function showError(message) {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('content').classList.add('hidden');
+            document.getElementById('error').classList.remove('hidden');
+            document.getElementById('errorMessage').textContent = message;
+        }
+
+        function displayData(data) {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('error').classList.add('hidden');
+            document.getElementById('content').classList.remove('hidden');
+
+            document.title = `${data.major_name} - InfoProdi.id`;
+            document.getElementById('majorName').textContent = data.major_name;
+            document.getElementById('statProdi').textContent = data.jlh_prodi;
+            document.getElementById('statSNBP').textContent = data.dt_snbp.toLocaleString('id-ID');
+            document.getElementById('statSNBT').textContent = data.dt_snbt.toLocaleString('id-ID');
+            document.getElementById('description').textContent = data.description;
+            document.getElementById('why').textContent = data.why;
+            
+            document.getElementById('subjectsCount').textContent = `${data.subjects.length} mata kuliah yang akan dipelajari`;
+            document.getElementById('subjects').innerHTML = data.subjects.map((subject, idx) => `
+                <div class="flex items-start space-x-3 p-4 rounded-xl hover:bg-gray-50 transition border border-gray-100">
+                    <div class="w-8 h-8 bg-blue-100 rounded-lg flex items-center justify-center flex-shrink-0 text-blue-600 font-semibold text-sm">
+                        ${idx + 1}
+                    </div>
+                    <p class="text-gray-700 font-medium pt-1">${subject}</p>
+                </div>
+            `).join('');
+            
+            document.getElementById('characters').innerHTML = data.characters.map(char => `
+                <span class="bg-blue-500 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-600 transition">
+                    ${char}
+                </span>
+            `).join('');
+            
+            document.getElementById('prospects').textContent = data.prospects;
+            
+            document.getElementById('professions').innerHTML = data.professions.map(prof => `
+                <div class="bg-gray-50 rounded-xl p-4 text-center hover:bg-gray-100 transition border border-gray-200">
+                    <p class="text-gray-800 font-semibold text-sm">${prof}</p>
+                </div>
+            `).join('');
+            
+            document.getElementById('universitiesCount').textContent = `${data.prodi.length} universitas tersedia`;
+            document.getElementById('universities').innerHTML = data.prodi.map(univ => {
+                const difficultyBadges = {
+                    1: { class: 'bg-green-100 text-green-700 border-green-200', text: '✓ Persaingan Rendah' },
+                    2: { class: 'bg-blue-100 text-blue-700 border-blue-200', text: '⚡ Persaingan Sedang' },
+                    3: { class: 'bg-yellow-100 text-yellow-700 border-yellow-200', text: '⚠ Persaingan Tinggi' },
+                    4: { class: 'bg-red-100 text-red-700 border-red-200', text: '🔥 Persaingan Sangat Tinggi' }
+                };
+                
+                const badge = difficultyBadges[univ.indikator_persaingan_snbt] || difficultyBadges[1];
+                const keketatanValue = univ.keketatan != null ? univ.keketatan.toFixed(2) : 'N/A';
+                
+                return `
+                    <div class="border border-gray-200 rounded-2xl p-6 hover:border-blue-300 hover:shadow-md transition bg-white">
+                        <div class="flex flex-col md:flex-row md:items-center justify-between mb-4">
+                            <h3 class="text-lg font-bold text-gray-800 mb-2 md:mb-0 flex-1">${univ.major_university_name}</h3>
+                            <span class="${badge.class} px-4 py-2 rounded-xl text-xs font-semibold border">
+                                ${badge.text}
+                            </span>
+                        </div>
+                        <div class="flex items-start space-x-3 mb-3">
+                            <svg class="w-5 h-5 text-gray-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                            </svg>
+                            <p class="text-gray-600">${univ.university_name}</p>
+                        </div>
+                        <div class="flex items-center space-x-2 pt-3 border-t border-gray-100">
+                            <span class="text-sm text-gray-500">Tingkat Keketatan:</span>
+                            <span class="font-bold text-blue-600">${univ.keketatan ? univ.keketatan.toFixed(2) : 'N/A'}</span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        window.addEventListener('DOMContentLoaded', () => {
+            loadMajor('antropologi');
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                const modal = document.getElementById('searchModal');
+                if (!modal.classList.contains('hidden')) {
+                    toggleSearch();
+                }
+            }
+        });
+
+        document.getElementById('searchModal').addEventListener('click', (e) => {
+            if (e.target.id === 'searchModal') {
+                toggleSearch();
+            }
+        });
+    </script>
+</body>
+</html>
