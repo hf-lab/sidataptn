@@ -1,0 +1,185 @@
+{
+  "idx": 190,
+  "id": "penyuluhan-dan-komunikasi-pertanian",
+  "major_name": "Penyuluhan dan Komunikasi Pertanian",
+  "icon": null,
+  "description": "Pada program studi Penyuluhan dan Komunikasi Pertanian kita akan mempelajari bagaimana memberikan pemahaman dan pengetahuan pada masyarakat terutama di tingkat masyarakat desa untuk menyelesaikan permasalahan sosial dan ekonomi pertanian dengan menerapkan pendekatan tertentu. Penyuluhan dan komunikasi tersebut dilakukan demi pengembangan dan pemberdayaan sosial ekonomi pertanian masyarakat desa yang minim akses informasi dan ilmu pengetahuan terutama perkembangan teknologi modern. Untuk melakukan penyuluhan dan komunikasi kepada masyarakat pedesaan dibutuhkan strategi komunikasi yang tepat dengan memahami pengetahuan tentang sosiologi masyarakat pedesaan dan pertanian, tata niaga dan ekonomi pertanian, ilmu tentang tanah, tanaman dan ternak, juga ilmu gizi dan pangan. Semuanya akan dipelajari pada program studi ini. \r\rDi IPB, program studi ini bernama Sains Komunikasi dan Pengembangan Masyarakat (SKPM).  Sesuai namanya, di program studi ini kita mempelajari mata kuliah yang sama dengan di program studi Ilmu Komunikasi, seperti komunikasi massa, komunikasi antar budaya, dan komunikasi penyuluhan. Namun pembahasannya akan berfokus untuk menyelesaikan permasalahan pertanian.",
+  "why": "Belajar ilmu Penyuluhan dan Komunikasi Pertanian artinya kamu harus terjun langsung ke masyarakat. Kamu akan dapat pengalaman mengunjungi desa atau daerah-daerah yang memiliki kultur yang berbeda-beda dan mendapatkan banyak pengetahuan baru yang mungkin tidak akan kamu dapatkan di kota. Program studi ini pas untuk kamu yang suka menjelajah dan punya jiwa sosial yang tinggi.",
+  "subjects": [
+    "Sosiologi Pedesaan",
+    "Ekologi Manusia",
+    "Ekonomi Pertanian",
+    "Psikologi Mayarakat Tani",
+    "Pengembangan Masyarakat",
+    "Tata Niaga Pertanian",
+    "Dinamika Pembangunan Pedesaan",
+    "Pendidikan Orang Dewasa",
+    "Gizi dan Pangan",
+    "Pengembangan Kepribadian",
+    "Gender dan Pembangunan",
+    "Komunikasi Kelompok",
+    "Komunikasi Lintas Budaya",
+    "Perencanaan dan Evaluasi Penyuluhan",
+    "Ilmu Tanah",
+    "Teknologi Pengolahan Pangan",
+    "Produksi Tanaman Pangan dan Hortikultura",
+    "Hukum dan Politik Agraria",
+    "Klimatologi Pertanian"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Jangan remehkan program studi ini, karena prospeknya sangat bagus kedepannya. Pasalnya, pemerintah sedang fokus dalam pembangunan dan pemberdayaan masyarakat desa dan banyak membutuhkan tenaga PNS penyuluh serta pengajar, terutama di bidang penyuluhan pertanian. Tapi nggak cuma sebagai penyuluh pertanian, lulusan Penyuluhan dan Komunikasi Pertanian juga bisa menjadi surveyor, peneliti dan pengamat pertanian, pengajar ilmu pertanian, konsultan, dan sebagainya.",
+  "professions": [
+    "Pengajar Ilmu Agrikultural",
+    "Konsultan Lingkungan"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/pemuliaan-tanaman",
+    "humaniora/ilmu-komunikasi"
+  ],
+  "major_group_id": 20,
+  "jlh_prodi": 12,
+  "dt_snbp": 264,
+  "dt_snbt": 375,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "141029",
+      "major_university_name": "S1 PENYULUHAN PERTANIAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 18.2927,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353026",
+      "major_university_name": "S1 PENYULUHAN DAN KOMUNIKASI PERTANIAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.45411,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191030",
+      "major_university_name": "S1 PENYULUHAN PERTANIAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 54.0741,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361023",
+      "major_university_name": "S1 PENYULUHAN DAN KOMUNIKASI PERTANIAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 8.88889,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371032",
+      "major_university_name": "S1 ILMU PERTANIAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 24.4792,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371034",
+      "major_university_name": "S1 PENYULUHAN PERTANIAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 19.802,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "242013",
+      "major_university_name": "D3 TATA AIR PERTANIAN - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291020",
+      "major_university_name": "D3 MEKANISASI PERTANIAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "642001",
+      "major_university_name": "D4 PENYULUHAN PERTANIAN LAHAN KERING - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 132.203,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642013",
+      "major_university_name": "D3 MANAJEMEN PERTANIAN LAHAN KERING - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751034",
+      "major_university_name": "S1 PENYULUHAN PERTANIAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 43.0233,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811057",
+      "major_university_name": "S1 PENYULUHAN PERTANIAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 287.5,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 20,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu dan Sains Pertanian\r",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

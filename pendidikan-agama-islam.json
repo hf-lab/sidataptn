@@ -1,0 +1,103 @@
+{
+  "idx": 157,
+  "id": "pendidikan-agama-islam",
+  "major_name": "Pendidikan Agama Islam",
+  "icon": null,
+  "description": "Secara khusus, program studi PAI bertujuan menghasilkan sarjana yang ahli di bidang pendidikan dan pengajaran agama Islam, yang menguasai materi dan metodologinya. Program studi ini menyiapkan sarjana bidang keguruan agama Islam yang profesional untuk mengajar pada jenjang Madrasah Aliyah sederajat.",
+  "why": "Program studi ini akan menjadikan kamu cendikiawan Pendidikan Agama Islam yang produktif dan kompetitif, yang akan dapat memberikan kontribusi pemikiran pada pengembangan Pendidikan Agama Islam. Kamu akan dilatih untuk mengembangkan pikiran dan wawasanmu, sehingga diharapkan dapat menghasilkan karya penelitian yang menjadi referensi dalam bidang pendidikan. Kamu juga akan terbiasa untuk memikirkan sebuah kajian keilmuan yang memberikan pengaruh pada wacana dan praktek Pendidikan Agama Islam.\r\rApabila kamu tertarik untuk mempelajari ilmu Agama Islam lebih dalam, dan memiliki panggilan jiwa untuk berdakwah dan sebagai tenaga pendidik, maka program studi ini cocok buat kamu.",
+  "subjects": [
+    "Ilmu Pendidikan",
+    "Sejarah Pendidikan Islam",
+    "Metode Pendidikan Islam",
+    "Keterampilan Profesi",
+    "Psikologi",
+    "Perencanaan Sistem Pendidikan Islam",
+    "Pengembangan Kurikulum",
+    "Materi Pendidikan Agama Islam",
+    "Statistik",
+    "Sistem Evaluasi Pendidikan",
+    "Masa’il Fiqhiyah",
+    "Strategi Belajar Mengajar",
+    "Media Pengajaran",
+    "Manajemen Perpustakaan",
+    "Filsafat Pendidikan Islam",
+    "Qira’atul Kutub",
+    "Hadits dan Tafsir"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Peluang untuk mengabdi dan berperan serta di masyarakat terbuka amat luas bagi jurusan ini. Masyarakat akan semakin membutuhkan peran ulama, sebagai pewaris nabi, untuk mengingatkan mereka ke jalan yang lurus.\r\rDalam konteks masyarakat Indonesia yang mayoritas Muslim ini, inilah saat di mana mereka amat membutuhkan para Sarjana Agama untuk membantu mereka menyeimbangkan kehidupan mereka yang terus menerus dibombardir oleh urusan pekerjaan duniawi.",
+  "professions": [
+    "Guru Vokasi"
+  ],
+  "related_majors": [
+    "humaniora/filsafat",
+    "humaniora/peradilan-agama",
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 3,
+  "dt_snbp": 122,
+  "dt_snbt": 141,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "334047",
+      "major_university_name": "S1 ILMU PENDIDIKAN AGAMA ISLAM - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.11034,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142056",
+      "major_university_name": "S1 PENDIDIKAN AGAMA ISLAM - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 9.48148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323042",
+      "major_university_name": "S1 PENDIDIKAN AGAMA ISLAM - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 4.65394,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

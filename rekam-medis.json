@@ -1,0 +1,142 @@
+{
+  "idx": 198,
+  "id": "rekam-medis",
+  "major_name": "Rekam Medis (Manajemen Informasi Kesehatan)",
+  "icon": null,
+  "description": "Rekam medis adalah berkas atau dokumen yang berisikan catatan mengenai identitas pasien, pemeriksaan, pengobatan, serta tindakan dan pelayanan lain yang telah diberikan kepada pasien di berbagai instansi kesehatan. Jadi, di program studi Rekam Medis (atau Rekam Medis dan Informasi Kesehatan), kamu akan mempelajari hal-hal yang meliputi pencatatan, pelaporan, pengumpulan, pendaftaran, pengisian, dan analisis data terkait kebutuhan informasi untuk mendiagnosa pasien agar mendapatkan penanganan dan perawatan yang tepat. Salah satu kegiatan penting yang dipelajari di jurusan ini adalah coding (pengkodean), dimana perekam medis mengkodekan diagnosis penyakit ataupun tindakan pasien ke dalam kode internasional ( International Classification of Diseases). Di tingkat sarjana terapan (DIV), program studi ini dikenal dengan nama Manajemen Informasi Kesehatan.",
+  "why": "Dalam bidang kesehatan yang identik dengan dokter dan perawat, program studi rekam medis pun memegang peran penting. Agar dokter dan perawat dapat memberikan diagnosa dan tindakan yang tepat kepada pasien, dokter membutuhkan riwayat kesehatan pasien yang lengkap, runut, dan menyeluruh dalam bentuk rekam medis. Untuk kamu yang senang mengarsip dan menganalisa berdasarkan data sekaligus memiliki minat yang tinggi dalam bidang kesehatan, jurusan ini cocok banget untukmu.",
+  "subjects": [
+    "Pengantar Rekam Medis",
+    "Biomedik",
+    "Terminologi Medis",
+    "Ilmu Kesehatan Masyarakat & Kependudukan",
+    "Bahasa Inggris Medis",
+    "Ilmu Penyakit",
+    "Administrasi dan Manajemen Kesehatan",
+    "Pengenalan dan Praktek Aplikasi Komputer dan Internet",
+    "Epidemiologi Kesehatan",
+    "Struktur Data",
+    "Kodifikasi Penyakit Dasar",
+    "Laboratorium Klinik Rekam Medis",
+    "Pengantar Psikologi",
+    "Etika & Hukum Kesehatan",
+    "Evaluasi Pelayanan",
+    "Manajemen Pelayanan Kesehatan",
+    "Sistem Basis Data",
+    "Analisis dan Perancangan Sistem Informasi",
+    "Praktikum Operator Sistem Informasi Rekam Medis",
+    "Rekam Kesehatan Elektronik",
+    "Standarisasi Akreditasi Rumah Sakit Nasional & Internasional",
+    "Strategi Bisnis dan Praktek Kewirausahaan",
+    "Quality Assurance",
+    "Tata Arsip Dinamis"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Perekam medis kini banyak dibutuhkan di berbagai instansi kesehatan semenjak adanya jaminan kesehatan dengan persyaratan klaim ditentukan dari kode diagnosis dan tindakan dalam pelayanan yang diberikan kepada pasien. Instansi-instansi tersebut meliputi rumah sakit baik negeri ataupun swasta, puskesmas, klinik, laboratorium, atau menjadi tenaga akademisi seperti dosen.",
+  "professions": [
+    "Teknisi Rekam Medis"
+  ],
+  "related_majors": [
+    "kesehatan/teknologi-laboratorium-medik-analis-kesehatan-",
+    "teknik/teknik-elektromedik"
+  ],
+  "major_group_id": 54,
+  "jlh_prodi": 7,
+  "dt_snbp": 346,
+  "dt_snbt": 378,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "361048",
+      "major_university_name": "D4 MANAJEMEN INFORMASI KESEHATAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.83019,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362089",
+      "major_university_name": "D4 PROMOSI KESEHATAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "472008",
+      "major_university_name": "D4 MANAJEMEN INFORMASI KESEHATAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 19.1693,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712028",
+      "major_university_name": "S1 ADMINISTRASI KESEHATAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 10.7892,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472018",
+      "major_university_name": "D4 PROMOSI KESEHATAN - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 97.9592,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "472034",
+      "major_university_name": "D4 PSDKU MANAJEMEN INFORMASI KESEHATAN KAB. NGAWI - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "741017",
+      "major_university_name": "S1 ADMINISTRASI KESEHATAN - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 49.1803,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 54,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Informatika Medis atau Informatika Kesehatan",
+    "merdeka_subject": [
+      17,
+      15
+    ],
+    "ipa_subject": [
+      17,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

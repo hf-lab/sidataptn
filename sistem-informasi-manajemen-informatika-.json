@@ -1,0 +1,715 @@
+{
+  "idx": 232,
+  "id": "sistem-informasi-manajemen-informatika-",
+  "major_name": "Sistem Informasi (Manajemen Informatika)",
+  "icon": null,
+  "description": "Pada program studi Sistem Informasi (SI) akan dipelajari tentang bagaimana mendesain sistem yang tepat berdasarkan tujuan organisasi atau perusahaan sesuai dengan kebutuhan dan proses bisnis. Program studi Sistem Informasi juga dikenal dengan nama Manajemen Informatika (MI). Keduanya sama-sama mempelajari ilmu IT sebagai penjembatan dalam dunia bisnis. \r\rSederhananya, mahasiswa SI dan MI dididik untuk memahami dan memenuhi keinginan dan kebutuhan klien atau user akan sistem IT untuk kepentingan bisnis atau organisasi. Mahasiswa di jurusan ini diarahkan agar dapat mengembangkan, memanfaatkan, dan mengelola software dan hardware yang ada dalam dunia bisnis maupun perseorangan. Pada prodi ini mahasiswa nggak cuma dibekali dengan ilmu pemrograman tapi juga manajemen dan bisnis.\r",
+  "why": "Program studi ini cocok untuk kamu yang ingin terjun ke ranah IT, namun tidak terlalu ingin mendalami seluk-beluk programming, atau malah ingin sekaligus dapat ilmu bisnis dan manajemen. Program studi ini juga pas untuk kamu yang suka bekerja dengan orang banyak, dan pastinya harus memiliki kemampuan komunikasi yang baik. Jadi, nggak selamanya anak IT itu identik susah bersosialisasi, ya.",
+  "subjects": [
+    "Manajemen dan Organisasi",
+    "Sistem dan Teknologi Informasi",
+    "Bahasa Pemrograman",
+    "Algoritma dan Struktur Data",
+    "Arsitektur Sistem Informasi Perusahaan",
+    "Desain dan Manajemen Proses Bisnis",
+    "Desain dan Manajemen Jaringan Komputer",
+    "Dasar-dasar Pengembangan Software",
+    "Pemrograman Berorientasi Objek",
+    "Analisis dan Desain Perangkat Lunak",
+    "Keamanan Aset Informasi",
+    "Desain Basis Data",
+    "Tata Kelola TI",
+    "Manajemen Resiko TI",
+    "Manajemen Pengadaan dan Investasi TI",
+    "Etika Profesi SI",
+    "Manajemen dan Administrasi Basis Data",
+    "Manajemen Proyek TI",
+    "Perencanaan Sumberdaya Perusahaan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Perkembangan teknologi informasi yang sangat pesat tentunya membuka peluang profesi lulusan Sistem Informasi atau Manajemen Informatika sangat lebar.\rLulusan SI atau MI memiliki prospek yang sangat bagus bekerja diberbagai instansi pemerintah dan perusahaan. Mereka dicari untuk kebutuhan membangun ataupun mengembangankan software yang bermanfaat untuk kelangsungan pekerjaan. Lulusan SI atau MI juga dapat bekerja sebagai analisis keamanan software dan juga quality control ataupun maintanance sebuah sistem di perusahaan maupun pabrik.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analis Riset Operasional",
+    "Peneliti Komputer dan Informasi",
+    "Arsitek Jaringan Komputer",
+    "Arsitek Sistem Komputer",
+    "Penyusun Strategi Pemasaran (Online)",
+    "Admin Database",
+    "Manager Sistem Komputer dan Informasi",
+    "Analis Sistem Komputer",
+    "Spesialis Support Pengguna Komputer"
+  ],
+  "related_majors": [
+    "komputer-teknologi/teknologi-game",
+    "komputer-teknologi/cyber-security",
+    "mipa/matematika-bisnis",
+    "komputer-teknologi/sistem-informasi-bisnis",
+    "komputer-teknologi/computerized-accounting",
+    "teknik/teknik-telekomunikasi",
+    "komputer-teknologi/bioinformatika",
+    "komputer-teknologi/sistem-komputer",
+    "komputer-teknologi/sistem-dan-teknologi-informasi",
+    "komputer-teknologi/information-systems-audit-audit-sistem-informasi-"
+  ],
+  "major_group_id": 17,
+  "jlh_prodi": 69,
+  "dt_snbp": 2778,
+  "dt_snbt": 3857,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "131027",
+      "major_university_name": "S1 SISTEM INFORMASI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 4.89022,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381015",
+      "major_university_name": "S1 SISTEM INFORMASI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 3.69004,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141021",
+      "major_university_name": "S1 SISTEM INFORMASI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 3.40716,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151020",
+      "major_university_name": "S1 SISTEM INFORMASI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 10.9768,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356024",
+      "major_university_name": "S1 SISTEM INFORMASI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 3.0837,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171028",
+      "major_university_name": "S1 SISTEM INFORMASI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 8.95522,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342025",
+      "major_university_name": "S1 SISTEM INFORMASI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324005",
+      "major_university_name": "S1 SISTEM INFORMASI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 5.90577,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271011",
+      "major_university_name": "D4 MANAJEMEN INFORMATIKA - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 17.5799,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511033",
+      "major_university_name": "S1 SISTEM INFORMASI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 7.87402,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383018",
+      "major_university_name": "S1 SISTEM INFORMASI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 8.8993,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "542010",
+      "major_university_name": "S1 SISTEM INFORMASI - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 26.1603,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321022",
+      "major_university_name": "S1 SISTEM INFORMASI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 2.91451,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "322003",
+      "major_university_name": "S1 SISTEM INFORMASI - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 6.41791,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324024",
+      "major_university_name": "D3 SISTEM INFORMASI - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "331012",
+      "major_university_name": "S1 SISTEM INFORMASI - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 7.54148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "363013",
+      "major_university_name": "S1 SISTEM INFORMASI - UPNYK",
+      "university_name": "UPN \"VETERAN\" YOGYAKARTA",
+      "keketatan": 10.3763,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371020",
+      "major_university_name": "S1 SISTEM INFORMASI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 7.97448,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372036",
+      "major_university_name": "S1 SISTEM INFORMASI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 4.89614,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541038",
+      "major_university_name": "S1 SISTEM INFORMASI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 11.9332,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382021",
+      "major_university_name": "S1 SISTEM INFORMASI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 4.86009,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241028",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "123002",
+      "major_university_name": "S1 SISTEM INFORMASI - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 43.2432,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "713015",
+      "major_university_name": "S1 SISTEM INFORMASI - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385007",
+      "major_university_name": "S1 SISTEM INFORMASI - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 8.47059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721029",
+      "major_university_name": "S1 SISTEM INFORMASI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 56.2044,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "193002",
+      "major_university_name": "S1 SISTEM INFORMASI - RADENINTAN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN INTAN LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191076",
+      "major_university_name": "S1 SISTEM INFORMASI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731032",
+      "major_university_name": "S1 SISTEM INFORMASI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 12.973,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386004",
+      "major_university_name": "S1 SISTEM INFORMASI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 14.9194,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161023",
+      "major_university_name": "S1 SISTEM INFORMASI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 14.5907,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752008",
+      "major_university_name": "S1 SISTEM INFORMASI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 18.3486,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911018",
+      "major_university_name": "S1 SISTEM INFORMASI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 12.3288,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132003",
+      "major_university_name": "S1 SISTEM INFORMASI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 18.1818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474018",
+      "major_university_name": "D4 PENGELOLAAN ARSIP DAN REKAMAN INFORMASI - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 9.48905,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "474034",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA, KAMPUS KEDIRI - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612018",
+      "major_university_name": "S1 SISTEM INFORMASI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 19.5349,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517008",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "571001",
+      "major_university_name": "S1 SISTEM INFORMASI - UINSI",
+      "university_name": "UIN SULTAN AJI MUHAMMAD IDRIS SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "112016",
+      "major_university_name": "S1 SISTEM INFORMASI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 34.902,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617021",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "718002",
+      "major_university_name": "S1 SISTEM INFORMASI - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "732003",
+      "major_university_name": "S1 SISTEM INFORMASI - UINDATOKARAMA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI DATOKARAMA PALU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753002",
+      "major_university_name": "S1 SISTEM INFORMASI - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 110.714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912011",
+      "major_university_name": "S1 SISTEM INFORMASI - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 137.931,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "434003",
+      "major_university_name": "D3 SISTEM INFORMASI - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "384013",
+      "major_university_name": "S1 SISTEM INFORMASI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 42.9091,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383021",
+      "major_university_name": "D4 MANAJEMEN INFORMATIKA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 18.8552,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111077",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "131061",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381048",
+      "major_university_name": "SISTEM INFORMASI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "144002",
+      "major_university_name": "S1 SISTEM INFORMASI - UINIB",
+      "university_name": "UNIVERSITAS ISLAM NEGERI IMAM BONJOL PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271029",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "152001",
+      "major_university_name": "S1 SISTEM INFORMASI - UINJAMBI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN THAHA SAIFUDDIN JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "171059",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "472029",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "222015",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "194003",
+      "major_university_name": "S1 SISTEM INFORMASI - UINMYBATUSANGKAR",
+      "university_name": "UIN MAHMUD YUNUS BATUSANGKAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "191066",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "241014",
+      "major_university_name": "D3 SISTEM INFORMASI (KAMPUS KAB. TANAH DATAR) - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "931004",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLINEF",
+      "university_name": "POLITEKNIK NEGERI FAKFAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "728004",
+      "major_university_name": "D3 SISTEM INFORMASI - POLNUSTAR",
+      "university_name": "POLITEKNIK NEGERI NUSA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722010",
+      "major_university_name": "S1 PEND. INF./KOM - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 176.923,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "241019",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA (KAMPUS KAB PELALAWAN) - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "271012",
+      "major_university_name": "D4 MANAJEMEN INFORMATIKA KAMPUS BANYUASIN - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291024",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "536010",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "536004",
+      "major_university_name": "D4 SISTEM INFORMASI KOTA CERDAS - POLIBAN",
+      "university_name": "POLITEKNIK NEGERI BANJARMASIN",
+      "keketatan": 102.5,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474030",
+      "major_university_name": "D3 MANAJEMEN INFORMATIKA (KAMPUS KAB PAMEKASAN) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 17,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Komputer",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

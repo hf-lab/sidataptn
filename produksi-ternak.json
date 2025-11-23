@@ -1,0 +1,176 @@
+{
+  "idx": 195,
+  "id": "produksi-ternak",
+  "major_name": "Produksi Ternak",
+  "icon": null,
+  "description": "Jika mendengar kata “produksi ternak” pasti yang terbayang adalah daging, susu, keju, telur, dan sebagainya, kan? Benar sekali, di program studi Produksi Ternak ini mempelajari segala kegiatan peternakan yang terkait untuk tujuan produksi. Pada program studi ini dipelajari bagaimana memperlakukan hewan ternak agar menghasilkan output yang berkualitas. Untuk menghasilkan output yang berkualitas tersebut tentunya diperlukan pengetahuan tentang nutrisi ternak, kesehatan ternak, serta pengolahan produksi ternak itu sendiri dengan pengelolaan limbah yang baik.",
+  "why": "Produk hasil ternak yang berkualitas tinggi tidak didapatkan dengan begitu saja. Ada proses dan tahapan untuk memeroleh hasil hewan yang dapat diproses menjadi produk tertentu. Bagaimana caranya untuk memeroleh hasil hewan tersebut bisa kamu pelajari di program studi ini. Kalau kamu memiliki minat yang besar terkait hewan, khususnya hewan-hewan ternak, program studi ini adalah pilihan yang tepat untukmu!",
+  "subjects": [
+    "Ilmu Lingkungan Ternak",
+    "Biokimia",
+    "Fisiologi Ternak",
+    "Penyuluhan Peternakan",
+    "Agrostologi",
+    "Genetika",
+    "Pengetahuan Bahan Makanan Ternak",
+    "Pemuliaan Ternak",
+    "Ilmu Produksi Ternak Unggas",
+    "Ilmu Produksi Ternak Perah",
+    "Ilmu Produksi Ternak Potong",
+    "Kesehatan Hewan",
+    "Pengolahan Limbah",
+    "Bangunan dan peralatan peternakan",
+    "Ilmu Tilik Ternak"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Hasil produksi ternak sangat banyak ragamnya dan selalu dibutuhkan oleh orang banyak, karenanya lulusan program studi Produksi Ternak pastinya akan selalu dibutuhkan juga. Lulusan program studi ini bisa berkarir di industri produk perternakan, Dinas Peternakan dan Kesehatan Hewan, hingga berwirausaha membuka peternakan sendiri.",
+  "professions": [
+    "Manajer Produksi Industri",
+    "Peneliti Hewan",
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manager Pertanian dan Peternakan",
+    "Manajer Layanan Makanan (Food Service Managers)"
+  ],
+  "related_majors": [
+    "pertanian/peternakan",
+    "pertanian/teknologi-hasil-perikanan",
+    "pertanian/manajemen-bisnis-unggas",
+    "pertanian/teknologi-industri-pertanian-agroindustri-",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 11,
+  "dt_snbp": 272,
+  "dt_snbt": 270,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "342027",
+      "major_university_name": "S1 TEKNOLOGI PANGAN DAN HASIL PERTANIAN - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "291028",
+      "major_university_name": "PRODUKSI TERNAK - POLITEKNIK NEGERI LAMPUNG",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "472028",
+      "major_university_name": "D3 PRODUKSI TERNAK - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621040",
+      "major_university_name": "PRODUKSI TERNAK - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "621044",
+      "major_university_name": "D3 AGRIBISNIS PETERNAKAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711051",
+      "major_university_name": "D4 AGRIBISNIS PETERNAKAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111068",
+      "major_university_name": "D3 BUDIDAYA PETERNAKAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "471011",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TERNAK - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642012",
+      "major_university_name": "D3 PRODUKSI TERNAK - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711043",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TERNAK - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 235.294,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717003",
+      "major_university_name": "D4 AGRIBISNIS PETERNAKAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 110.345,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

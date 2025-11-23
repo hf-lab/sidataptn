@@ -1,0 +1,211 @@
+{
+  "idx": 208,
+  "id": "sastra-cina-sastra-mandarin-",
+  "major_name": "Sastra Cina (Sastra Mandarin)",
+  "icon": null,
+  "description": "Mengambil program studi Sastra Cina tidak hanya belajar Bahasa Mandarin. Para mahasiswa jurusan ini mempelajari semua hal berkaitan dengan Cina, terutama budaya, bahasa, dan kajian Sastra Cina. Saat ini, hubungan Cina dengan Indonesia sangat erat, terutama dalam hal ekonomi dan bisnis. Oleh karena itu, penekanan pada keterampilan bahasa Cina dan kemampuan dalam mengoperasikan komputer dalam bahasa Cina. ",
+  "why": "Jurusan Sastra Cina akan menjadi populer seiring dengan kemajuan hubungan Indonesia dengan Tiongkok. Saat ini Tiongkok menjadi negara adidaya kedua setelah Amerika Serikat. Perekonomiannya yang semakin meraksasa, membuat dunia semakin terpusat kepadanya. Dengan mengambil jurusan Sastra Cina, kamu bisa turut dalam arus kemajuan Tiongkok.",
+  "subjects": [
+    "Bahasa Cina",
+    "Sejarah Cina Kuno",
+    "Pengantar Linguistik Cina",
+    "Fonetik & Fonologi Cina",
+    "Sejarah Cina Era Dinasti Ming",
+    "Sejarah Cina Era Pascadinasti",
+    "Morfologi & Sintaksis Cina",
+    "Pengantar Kesusastraan  Cina",
+    "Sejarah Cina Kontemporer",
+    "Bahasa Cina Klasik Dasar",
+    "Terjemahan Cina- Indonesia",
+    "Semantik & Pragmatik Cina",
+    "Perkembangan Kesusastraan  Cina",
+    "Historiografi Cina",
+    "Pengkajian Kesusastraan Cina",
+    "Telaah Teks Cina",
+    "Teori Kritik Sastra Cina",
+    "Bahasa Cina untuk Pers",
+    "Bahasa Cina untuk Pariwisata",
+    "Bahasa Cina untuk Bisnis dan Perkantoran"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Dengan berkembangnya industri di Tiongkok, perusahaan-perusahaan Tiongkok banyak yang berekspansi ke Indonesia. Peluang kamu untuk bekerja di perusahaan-perusahaan Cina tersebut terbuka lebar. Lulusan program studi Sastra Cina dapat bekerja sebagai penerjemah, jurnalis, pemandu wisata, hingga staff di perusahaan multinasional asal negeri Tirai Bambu.",
+  "professions": [
+    "Penyiar Berita",
+    "Penulis Teknis",
+    "Penerjemah",
+    "Pemandu Tur",
+    "Penulis Perjalanan",
+    "Editor (Artikel/Tulisan)",
+    "Wartawan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Pemandu Wisata",
+    "Content Creator"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-indonesia",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-rusia",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-jerman"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 13,
+  "dt_snbp": 361,
+  "dt_snbt": 436,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321055",
+      "major_university_name": "S1 SASTRA CINA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.08475,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323056",
+      "major_university_name": "S1 PENDIDIKAN BAHASA MANDARIN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.44882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353095",
+      "major_university_name": "S1 BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356066",
+      "major_university_name": "S1 PENDIDIKAN BAHASA MANDARIN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 12.3077,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372087",
+      "major_university_name": "S1 SASTRA CINA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 11.828,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121046",
+      "major_university_name": "S1 SASTRA CINA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 22.2222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353074",
+      "major_university_name": "BAHASA MANDARIN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "373059",
+      "major_university_name": "S1 PENDIDIKAN BAHASA MANDARIN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 25.6637,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383058",
+      "major_university_name": "S1 PENDIDIKAN BAHASA MANDARIN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 26.6187,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511050",
+      "major_university_name": "S1 PEND. BAHASA MANDARIN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 36.2069,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711074",
+      "major_university_name": "S1 BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 37.9747,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712078",
+      "major_university_name": "S1 PENDIDIKAN BAHASA MANDARIN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 48.7805,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351041",
+      "major_university_name": "D3 BAHASA MANDARIN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

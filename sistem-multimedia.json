@@ -1,0 +1,225 @@
+{
+  "idx": 234,
+  "id": "sistem-multimedia",
+  "major_name": "Sistem Multimedia",
+  "icon": null,
+  "description": "Program studi Sistem Multimedia adalah program studi yang berfokus pada penguasaan keahlian di bidang teknologi multimedia dan konten multimedia dalam sistem terdistribusi. Para mahasiswanya akan dibekali penguasaan dalam penggunaan perangkat multimedia, teknologi multimedia, keahlian tentang penguasaan teknologi multimedia interaktif baik yang bersifat standalone ataupun berupa sistem terdistribusi, serta memilki keahlian pembangunan aplikasi yang berbasiskan sistem terdistribusi baik yang berbasiskan jaringan kabel maupun nirkabel.",
+  "why": "Kamu suka main game di ponsel pintar? Kamu merasa paling update tentang teknologi dan multimedia? Kamu ingin belajar cara mengembangkan suatu aplikasi dengan konten yang ciamik? Bisa dibilang program studi ini cocok banget untukmu. Saat ini, progtam studi Sistem Multimedia baru tersedia di Telkom University, dalam jenjang Diploma IV (D4) di bawah naungan Fakultas Ilmu Terapan.",
+  "subjects": [
+    "Matematika Teknik",
+    "Rekayasa Perangkat Lunak",
+    "Algoritma dan Struktur Data",
+    "Visualisasi dan Animasi",
+    "Matematika Diskrit",
+    "Interaksi Manusia dan Komputer",
+    "Grafika dan Citra Komputer",
+    "Pemrograman Berorientasi Objek",
+    "Logika Matematika",
+    "Teknologi Multimedia",
+    "Pengujian Perangkat Lunak",
+    "Pengantar Sistem Operasi",
+    "Pemrograman Game",
+    "Pengantar Gamifikasi",
+    "Kecerdasan Buatan",
+    "User Interaction Design",
+    "Pengolahan Sinyal dan Audio",
+    "Realitas Sistem",
+    "Manajemen Proyek Multimedia",
+    "Pengantar Cloud Computing",
+    "Technopreneurship",
+    "Project Multimedia"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Di zaman digital ini, prospek kerja untuk lulusan program studi berbasis teknologi aplikasi sangatlah luas. Apalagi sebagai ilmu terapan, bisa dipastikan lulusan program studi Sistem Multimedia siap kerja dalam berbagai industri yang perlahan beradaptasi pada penggunaan teknologi. Beberapa pilihan profesi dan karier yang bisa dijajal lulusan program studi ini diantaranya Games Developer, Mobile Application, Internet Application Multimedia Engineer, serta pengembang apa pun dalam bidang Teknologi Multimedia berbasis jaringan kabel maupun nirkabel.",
+  "professions": [
+    "Arsitek Sistem Komputer",
+    "Software Quality Assurance Engineers dan Testers",
+    "Web Developer",
+    "Pengembang Aplikasi IOS",
+    "Developer Software, Aplikasi",
+    "Desainer Video Game",
+    "Pengembang Aplikasi Android"
+  ],
+  "related_majors": [
+    "komputer-teknologi/teknik-informatika",
+    "komputer-teknologi/teknologi-game",
+    "komputer-teknologi/human-computer-interaction",
+    "komputer-teknologi/mobile-application-technology",
+    "komputer-teknologi/software-engineering-rekayasa-perangkat-lunak-"
+  ],
+  "major_group_id": 25,
+  "jlh_prodi": 15,
+  "dt_snbp": 493,
+  "dt_snbt": 624,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "231004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MULTIMEDIA - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": 25.5319,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "271007",
+      "major_university_name": "D4 TEKNOLOGI INFORMATIKA MULTIMEDIA DIGITAL - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 12.0944,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334022",
+      "major_university_name": "S1 PENDIDIKAN MULTIMEDIA KAMPUS CIBIRU - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 17.094,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421009",
+      "major_university_name": "D4 TEKNIK MULTIMEDIA DAN JARINGAN - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 10.6719,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "421010",
+      "major_university_name": "D4 TEKNIK MULTIMEDIA DIGITAL - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 6.84932,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "422001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MULTIMEDIA - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": 21.6216,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MULTIMEDIA - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 7.18232,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716007",
+      "major_university_name": "D4 TEKNIK MULTIMEDIA & JARINGAN - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 24.7934,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "221009",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MULTIMEDIA - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 61.7021,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "222004",
+      "major_university_name": "D4 TEKNIK REKAYASA MULTIMEDIA GRAFIS - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 27.7457,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "453010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA MULTIMEDIA - PNC",
+      "university_name": "POLITEKNIK NEGERI CILACAP",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "482012",
+      "major_university_name": "D3 TEKNOLOGI MULTIMEDIA BROADCASTING (KAMPUS KAB LAMONGAN) - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482019",
+      "major_university_name": "D3 TEKNOLOGI MULTIMEDIA DAN BROADCASTING - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "517002",
+      "major_university_name": "D4 TEKNIK MULTIMEDIA - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": 17.9641,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "482017",
+      "major_university_name": "D3 TEKNOLOGI MULTIMEDIA BROADCASTING (KAMPUS KAB. SUMENEP) - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 25,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Desain",
+    "merdeka_subject": [
+      1,
+      10
+    ],
+    "ipa_subject": [
+      1,
+      10
+    ],
+    "ips_subject": [
+      1,
+      10
+    ],
+    "bahasa_subject": [
+      1,
+      10
+    ]
+  }
+}

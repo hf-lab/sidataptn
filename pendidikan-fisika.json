@@ -1,0 +1,450 @@
+{
+  "idx": 167,
+  "id": "pendidikan-fisika",
+  "major_name": "Pendidikan Fisika",
+  "icon": null,
+  "description": "Program studi Pendidikan Fisika akan mengajakmu untuk mempelajari mengenai ilmu fisika dan menerapkannya dalam konteks pendidikan dan pengajaran. Di sini kamu nggak hanya akan mengkaji fenomena-fenomena dan gejala alam tidak hidup seperti materi dan partikel, tapi juga diajak untuk memahami metode-metode pembelajaran fisika yang efektif pada siswa di berbagai jenjang pendidikan.",
+  "why": "Sebelum memilih program studi ini, kamu harus memastikan kamu memiliki minat dan ketertarikan besar di bidang matematika--karena seperti yang sudah kita ketahui, bidang studi fisika memiliki kaitan yang sangat erat dengan matematika. Program studi ini juga akan sangat menarik bagi kamu yang ingin terjun ke dunia pendidikan atau bercita-cita menjadi seorang akademisi dan pengajar fisika.",
+  "subjects": [
+    "Fisika Dasar",
+    "Mekanika Newton",
+    "Termodinamika",
+    "Psikologi Pendidikan",
+    "Manajemen Pendidikan",
+    "Mekanika Lagrange",
+    "Optika Geometri dan Fisis",
+    "Fisika Atom",
+    "Fisika Zat Padat",
+    "Elektronika Analog",
+    "Praktikum Fisika Dasar",
+    "Praktikum Fisika Atom",
+    "Matematika Untuk Fisika",
+    "Pemrograman Komputer"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Untuk soal prospek kerja, seorang lulusan Pendidikan Fisika terbilang memiliki prospek kerja yang cukup mumpuni. Sesuai dengan namanya, prospek kerja utama dari program studi Pendidikan Fisika pastinya adalah menjadi seorang tenaga pendidik di bidang Fisika, dan jika kamu memang benar-benar tertarik untuk berkarir di bidang ini, kamu bahkan bisa memulainya sejak bangku kuliah, lho.  Banyak banget mahasiswa Pendidikan Fisika yang sudah bisa bekerja mandiri dengan menjadi tenaga-tenaga pengajar Fisika di lembaga-lembaga bimbingan belajar.",
+  "professions": [
+    "Ahli Fisika",
+    "Guru Vokasi"
+  ],
+  "related_majors": [
+    "mipa/fisika"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 42,
+  "dt_snbp": 1248,
+  "dt_snbt": 1733,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "131023",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 28.5714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 33.7931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353018",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 19.1617,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171018",
+      "major_university_name": "S1 PEND FISIKA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 51.5152,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342009",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 55.1181,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191016",
+      "major_university_name": "S1 PEND. FISIKA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 73.2143,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 27.2727,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 23.5294,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 30.2885,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 19.5122,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511010",
+      "major_university_name": "S1 PEND. FISIKA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 95.2381,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521008",
+      "major_university_name": "S1 PEND. FISIKA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 133.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531029",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541007",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 152.381,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "621006",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 67.1053,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "631003",
+      "major_university_name": "S1 PEND. FISIKA - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 64.5161,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 34.5238,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712021",
+      "major_university_name": "S1 PEND. FISIKA KLS INTERNASIONAL (BILINGUAL) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 90.4762,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753015",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 1375,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741009",
+      "major_university_name": "S1 PEND. FISIKA - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 250,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751013",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 176.923,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "373002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 34.1176,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371004",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 37.7049,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "365008",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 80.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "311014",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 49.3671,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "161006",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 65.5738,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151003",
+      "major_university_name": "S1 PEND. FISIKA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 56.1644,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142005",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 42.7673,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122003",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 45.977,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111014",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 63.0137,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921019",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821013",
+      "major_university_name": "S1 PEND. FISIKA - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 694.118,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911009",
+      "major_university_name": "S1 PEND. FISIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 366.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811002",
+      "major_university_name": "S1 PEND. FISIKA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 685.714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912013",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 416.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752002",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 166.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731003",
+      "major_university_name": "S1 PEND. FISIKA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 147.727,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722005",
+      "major_university_name": "S1 PEND. FISIKA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 355.556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612004",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 173.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172006",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 450,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114005",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 127.273,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112012",
+      "major_university_name": "S1 PENDIDIKAN FISIKA - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 115.909,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

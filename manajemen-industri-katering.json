@@ -1,0 +1,99 @@
+{
+  "idx": 118,
+  "id": "manajemen-industri-katering",
+  "major_name": "Manajemen Industri Katering",
+  "icon": null,
+  "description": "Program studi Manajemen Industri Katering merupakan salah satu bagian dari jurusan Pariwisata, namun prodi ini berfokus pada bidang kuliner. Pada prodi ini akan diajarkan pengetahuan dasar bidang kuliner lokal, nasional, dan internasional, manajemen operasional usaha kuliner, serta perencanaan, pengelolaan, hingga pemasarannya.\r\rSaat ini prodi Manajemen Studi Katering merupakan yang pertama dan satu-satunya dalam jenjang Strata I (S1) di Indonesia. Walaupun S1, tapi dalam kegiatan perkuliahannya juga akan di dapat kegiatan praktikum di laboratorium kitchen, disertai dengan praktik kerja lapangan yang dilaksanakan di hotel-hotel berbintang. \r",
+  "why": "Program studi ini cocok banget buat kamu yang tertarik untuk terjun ke dunia pariwisata dan kuliner. Atau buat kamu yang punya cita-cita ingin memiliki bisnis restoran atau cafe. Kuliah Manajemen Industri Katering harus bisa masak? Kalau nggak bisa masak nggak bisa kuliah ini? Tenang aja, pastinya kamu akan diajarkan dasar-dasar pengetahuan memasak, kok.",
+  "subjects": [
+    "Landasan Pendidikan",
+    "Etika dan Pelayanan Prima",
+    "Higiene",
+    "Sanitasi dan Keselamatan Kerja",
+    "Pengantar Pariwisata",
+    "Pengetahuan Bahan Pangan",
+    "Gizi dan Gaya Hidup",
+    "Teknik Pengolahan Roti (Bakery)",
+    "Pengetahuan Dasar Minuman",
+    "Studi Masyarakat Indonesia",
+    "Manajemen Hotel",
+    "Restoran dan Katering",
+    "Sosiologi Pariwisata",
+    "Teknik Pengolahan Makanan",
+    "Akuntansi",
+    "Manajemen Operasional",
+    "Psikologi Pariwisata",
+    "Seni Kuliner dan Kemasan Produk",
+    "Gastronomi Nusantara",
+    "Desain dan Rekayasa Menu",
+    "Manajemen Food and Beverage Service",
+    "Manajemen Pemasaran Pariwisata",
+    "Pengendalian Biaya dan Minuman",
+    "Teknik Pengolahan Kue (Pastry)",
+    "Manajemen Keuangan Pariwisata",
+    "Tata Letak",
+    "Peralatan dan Disain Dapur",
+    "Perilaku Konsumen",
+    "Manajemen MICE",
+    "Studi Kelayakan Bisnis",
+    "Manajemen Keamanan Makanan"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Manajemen Industri Katering sangat dibutuhkan di industri pariwisata, tidak hanya pariwisata lokal, tapi juga nasional, dan hingga internasional. Terlebih lagi di industri kuliner. Dengan pengetahuan yang berfokus pada manajemen industri kuliner yang didapat, lulusan prodi ini akan sangat menonjol untuk berkarir di industri food & beverages, baik di perhotelan, restoran, dan lainnya. ",
+  "professions": [
+    "Manajer Layanan Makanan (Food Service Managers)",
+    "Food Stylist"
+  ],
+  "related_majors": [
+    "seni/tata-boga",
+    "ekonomi-bisnis/manajemen-perhotelan",
+    "ekonomi-bisnis/manajemen-pariwisata",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata"
+  ],
+  "major_group_id": 40,
+  "jlh_prodi": 1,
+  "dt_snbp": 25,
+  "dt_snbt": 40,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "334050",
+      "major_university_name": "S1 MANAJEMEN INDUSTRI KATERING - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.87084,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 40,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Gizi\r",
+    "merdeka_subject": [
+      17,
+      13
+    ],
+    "ipa_subject": [
+      17,
+      13
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

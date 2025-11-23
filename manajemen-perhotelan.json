@@ -1,0 +1,227 @@
+{
+  "idx": 129,
+  "id": "manajemen-perhotelan",
+  "major_name": "Manajemen Perhotelan",
+  "icon": null,
+  "description": "Manajeman perhotelan adalah suatu kesatuan rencana belajar yang menerapkan dan mengembangkan pengetahuan, keterampilan dan ilmu perhotelan khususnya dalam perencanaan, memproduksi, dan pengawasan pengelolaan jasa penginapan atau akomodasi. Disini, kamu juga akan dibekali dengan keahlian manajerial atau mengatur dan kegiatan operasional hotel, kemampuan berbahasa asing dan kemampuan mengelola bisnis perhotelan.\r\rProdi ini tersedia dalam jenjang D3, D4, hingga S1. Serunya lagi, di prodi ini kamu tidak cuma belajar tentang operasional hotel mulai dari front office, laundry, hingga house keeping saja, tapi kamu juga akan belajar tentang manajemen tata boga dan tata hidang, juga patiseri atau pembuatan kue.",
+  "why": "Jika kamu memiliki minat pada sektor kepariwisataan, khususnya bidang perhotelan, maka program studi ini adalah pilihan yang menarik.. Asyiknya, prodi ini akan mengimbangi pendidikan akademikmu melalui kegiatan praktik dan pembahasan teori. Jika kamu fasih berbahasa asing dan punya cita-cita menjadi pengelola hotel, prodi ini adalah jawabannya. ",
+  "subjects": [
+    "Ilmu Budaya Dasar",
+    "Statistik",
+    "Pariwisata dan Kebudayaan",
+    "Kantor Depan Hotel (Front Office)",
+    "Pengolahan Makanan (Food and Beverage)",
+    "Tata Graha dan Binatu Hotel",
+    "English For Front Office",
+    "English For House Keeping",
+    "Akuntansi Perhotelan",
+    "Tata Hidang Makanan dan Minuman",
+    "Pembinaan Sikap Profesi",
+    "Higiene",
+    "Sanitasi",
+    "dan Keselamatan Kerja",
+    "English for Food & Beverage",
+    "Hotel Correspondence",
+    "Manajemen Makanan dan Minuman",
+    "Manajemen Keuangan",
+    "Manajemen Sumber Daya Manusia",
+    "Manajemen Divisi Kamar",
+    "Hotel Information System",
+    "Manajemen Pemasaran Hotel",
+    "Teknik Supervisi",
+    "Psikologi Pelayanan",
+    "MICE",
+    "Bartending"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Manajemen Perhotelan ini dapat bekerja dalam bidang perhotelan dan kapal pesiar. Selain itu, dapat juga bekerja di biro perjalanan wisata, kawasan wisata, perusahan objek dan daya tarik wisata, konsultan perjalanan wisata, maskapai penerbangan,  maupun membuka usaha sendiri. Diperkaya dengan pengalaman training di hotel-hotel berbintang menjadikan lulusan Manajemen Perhotelan dapat mengembangkan karier lebih tinggi hingga ke top level manajemen di berbagai industri.",
+  "professions": [
+    "Perencana Meeting, Convention dan Acara",
+    "Manager Administrasi Servis",
+    "Manajer Penginapan (Lodging Managers)",
+    "Barista",
+    "Pemandu Tur",
+    "Manajer Umum dan Operasional",
+    "Manajer Layanan Makanan (Food Service Managers)",
+    "Baker (Pembuat Roti)",
+    "Chef dan Kepala Koki (Chef and Head Cook)",
+    "Agen Perjalanan"
+  ],
+  "related_majors": [
+    "kesehatan/manajemen-pelayanan-rumah-sakit-perumahsakitan-",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "ekonomi-bisnis/manajemen-industri-katering",
+    "seni/tata-boga",
+    "ekonomi-bisnis/manajemen-pariwisata",
+    "ekonomi-bisnis/destinasi-pariwisata"
+  ],
+  "major_group_id": 50,
+  "jlh_prodi": 15,
+  "dt_snbp": 575,
+  "dt_snbt": 868,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "142052",
+      "major_university_name": "D4 MANAJEMEN PERHOTELAN (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 8.93855,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372090",
+      "major_university_name": "D4 MANAJEMEN PERHOTELAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 14.4404,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381049",
+      "major_university_name": "D4 MANAJEMEN PERHOTELAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "422004",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": 22.3776,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "471015",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "563005",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - POLTEKBA",
+      "university_name": "POLITEKNIK NEGERI BALIKPAPAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611041",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 23.8095,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612052",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617022",
+      "major_university_name": "D3 PERHOTELAN - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641007",
+      "major_university_name": "D4 PERHOTELAN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 57.1429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291014",
+      "major_university_name": "D4 PENGELOLAAN PERHOTELAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 77.9661,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617015",
+      "major_university_name": "D3 PERHOTELAN (KAMPUS KAB. KARANGASEM) - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "617016",
+      "major_university_name": "D3 PERHOTELAN (KAMPUS KAB. JEMBRANA) - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "617019",
+      "major_university_name": "D3 PERHOTELAN (KAMPUS KAB. LOMBOK BARAT) - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "727008",
+      "major_university_name": "D4 PERHOTELAN - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 50,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pariwisata",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

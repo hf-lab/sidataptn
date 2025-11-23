@@ -1,0 +1,407 @@
+{
+  "idx": 158,
+  "id": "pendidikan-anak-usia-dini-paud-",
+  "major_name": "Pendidikan Anak Usia Dini (PAUD)",
+  "icon": null,
+  "description": "Program studi Pendidikan Anak Usia Dini (PAUD)  mempersiapkan mahasiswa untuk menjadi pendidik dan pembimbing anak-anak usia dini atau pra sekolah. Untuk menjadi guru PAUD, mahasiswa harus memahami dan menguasai profil perkembangan fisik dan psikologis anak usia dini, dan tentu saja harus menjadi pendidik profesional yang berwawasan luas. ",
+  "why": "Pendidikan di bawah umur akan sangat mempengaruhi pembentukan karakter dan sikap anak. Kalau kamu tertarik dengan dunia pendidikan dan senang berinteraksi dengan anak-anak, program studi ini adalah pilihan yang tepat buat kamu. Kamu juga bisa memilih program studi ini untuk berperan serta dalam membentuk generasi masa depan bangsa yang berkualitas.",
+  "subjects": [
+    "Pendidikan Kewarganegaraan",
+    "Ilmu Sosial Budaya Dasar",
+    "Ilmu Alamiah Dasar",
+    "Pendidikan Bahasa Indonesia",
+    "Pengantar Pendidikan",
+    "Psikologi Perkembangan Anak Usia 0-3 tahun",
+    "Psikologi Perkembangan Anak Usia 4-6 tahun",
+    "Psikologi Perkembangan Anak Usia 7-8 tahun",
+    "Belajar Pembelajaran",
+    "Filsafat PAUD",
+    "Deteksi Dini Tumbuh Kembang Anak",
+    "Bermain dan Permainan",
+    "Strategi Pengambangan Kognitif",
+    "Strategi Pengembangan Moral dan Afeksi"
+  ],
+  "characters": [
+    "Tekun",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dengan pertumbuhan penduduk yang cukup cepat, populasi anak di bawah umur pun meningkat. Seperti yang sudah diketahui, pendidikan usia dini merupakan jenjang pendidikan yang sangat penting bagi pertumbuhan anak. Pembelajaran model PAUD sangat dibutuhkan, terutama tenaga pengajar yang berkualitas.",
+  "professions": [
+    "Guru TK",
+    "Kepala Sekolah"
+  ],
+  "related_majors": [
+    "pendidikan/manajemen-pendidikan-islam"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 38,
+  "dt_snbp": 1429,
+  "dt_snbt": 2166,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "122042",
+      "major_university_name": "S1 PEND. GURU PENDIDIKAN ANAK USIA DINI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 27.2,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511045",
+      "major_university_name": "S1 PEND. GURU PEND. ANAK USIA DINI (PGPAUD) - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 18.4211,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621034",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 23.4483,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373034",
+      "major_university_name": "S1 PENDIDIKAN GURU PEND. ANAK USIA DINI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 15.2778,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111060",
+      "major_university_name": "S1 PENDIDIKAN GURU PAUD - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 18.5039,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362050",
+      "major_university_name": "S1 PENDIDIKAN GURU PAUD - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 7.78589,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356064",
+      "major_university_name": "S1 PEND.GURU PEND. ANAK USIA DINI (PGPAUD) - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 24.9147,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353063",
+      "major_university_name": "S1 PEND. GURU PEND ANAK USIA DINI (PG*PAUD) - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 11.4943,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631035",
+      "major_university_name": "S1 PEND. ANAK USIA DINI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 18.8612,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712058",
+      "major_university_name": "S1 PENDIDIKAN GURU PAUD - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 17.6871,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334086",
+      "major_university_name": "S1 PGPAUD KAMPUS BUMI SILIWANGI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 12.8617,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334079",
+      "major_university_name": "S1 PGPAUD KAMPUS CIBIRU - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 14.8026,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323024",
+      "major_university_name": "S1 PEND. GURU PAUD - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 13.7667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191057",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 45.5026,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171053",
+      "major_university_name": "S1 PAUD - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 21.4559,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161040",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 18.4549,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151044",
+      "major_university_name": "S1 PENDIDIKAN GURU PAUD - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 26.3393,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142031",
+      "major_university_name": "S1 PEND. GURU PENDIDIKAN ANAK USIA DINI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 12.8571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131053",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 16.3551,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731039",
+      "major_university_name": "S1 PEND. GURU PAUD - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 22.4719,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751061",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI (PG*PAUD) - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 25.6544,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752045",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 61.2069,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541055",
+      "major_university_name": "S1 PENDIDIKAN ANAK USIA DINI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 33.6842,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371060",
+      "major_university_name": "S1 PG PAUD - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 35.1351,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531060",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 58.5106,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521029",
+      "major_university_name": "S1 PEND. GURU PEND ANAK USIA DINI (PG PAUD) - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 85.1852,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "384026",
+      "major_university_name": "S1 PENDIDIKAN GURU ANAK USIA DINI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 46.4088,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "383033",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 13.494,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334091",
+      "major_university_name": "S1 PGPAUD KAMPUS PURWAKARTA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334090",
+      "major_university_name": "S1 PGPAUD KAMPUS TASIKMALAYA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 32.9341,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334088",
+      "major_university_name": "S1 PGPAUD KAMPUS SERANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 74.4681,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311034",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 38.5057,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142091",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI * PSDKU SAWAHLUNTO - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612038",
+      "major_university_name": "S1 PENDIDIKAN GURU ANAK USIA DINI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 29.8701,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722048",
+      "major_university_name": "S1 PEND. ANAK USIA DINI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 327.273,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821036",
+      "major_university_name": "S1 PG PAUD - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 271.233,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911042",
+      "major_university_name": "S1 PG PAUD - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 366.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912024",
+      "major_university_name": "S1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 625,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

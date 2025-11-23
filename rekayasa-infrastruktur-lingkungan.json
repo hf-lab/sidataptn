@@ -1,0 +1,98 @@
+{
+  "idx": 200,
+  "id": "rekayasa-infrastruktur-lingkungan",
+  "major_name": "Rekayasa Infrastruktur Lingkungan",
+  "icon": null,
+  "description": "Program studi Rekayasa Infrastruktur Lingkungan (RIL) merupakan program studi baru yang muncul atas dorongan untuk memecahkan masalah yang terjadi di lingkungan sekitar kita, seperti masalah krisis air bersih dan masalah pemukiman kumuh. Berada di bawah Fakultas Teknik Sipil dan Lingkungan Institut Teknologi Bandung (FTSL ITB), pada prodi RIL kita akan fokus mempelajari bidang infrastruktur lingkungan seperti infrastruktur sanitasi, air bersih, pemukiman, sampah dan limbah, serta infrastruktur-infrastruktur terkait pemenuhan kebutuhan masyarakat.  \r\rKuliah di prodi ini jangan kaget kalau kamu akan sering terjun ke lapangan. Datang langsung ke Tempat Pembuangan Akhir (TPA) untuk menghitung berat sampah, menganalisis komposisi sampah, pergi ke daerah pelosok dimana masyarakat masih buang hajat di sembarang tempat karena belum adanya infrastruktur sanitasi yang memadai. ",
+  "why": "Kalau kamu ngaku peduli sama lingkungan dan kesejahteraan masyarakat, program studi ini pasti bakal cocok banget sama kamu. Pasalnya di prodi ini mata kamu akan dibuka lebar untuk melihat permasalahan infrastruktur lingkungan di Indonesia, seperti banyaknya masyarakat yang belum terjangkau oleh akses air bersih, pemukiman yang layak, dan sarana sanitasi serta bagaimana menggunakannya.",
+  "subjects": [
+    "Hidrolika",
+    "Biostatistik",
+    "Menggambar Teknik",
+    "Ilmu Ukur Tanah",
+    "Infrastruktur Wilayah dan Kota",
+    "Mekanika Tanah dan Pondasi",
+    "Laboratorium Air dan Persampahan",
+    "Sistem penyaluran air limbah dan drainase",
+    "Perancangan Instalasi Pengolahan Air Bersih",
+    "Sanitasi Pedesaan",
+    "Perancangan Instalasi Pengolahan Limbah Cair",
+    "Sanitasi Pasca Bencana",
+    "Sanitasi Masyarakat",
+    "Manajemen Infrastruktur",
+    "Sistem Pengelolaan Persampahan",
+    "Partisipasi Masyarakat"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Permasalahan sanitasi yang berhubungan dengan kesejahteraan masyarakat masih sangat krusial di Indonesia. Karenanya Indonesia sangat membutuhkan sarjana teknik yang kompeten dalam bidang infrastruktur lingkungan. Lulusan RIL dapat bekerja di instansi pemerintah seperti Kementerian Pekerjaan Umum dan Perumahan Rakyat, konsultan bidang infrastruktur lingkungan, LSM yang bergerak pada kesejahteraan masyarakat, peneliti dan pengamat infrastruktur lingkungan, dan pengajar.",
+  "professions": [
+    "Perencanaan Kota dan Wilayah",
+    "Konsultan Lingkungan",
+    "Ahli Teknik Lingkungan",
+    "Teknisi Pipa dan Saluran Air"
+  ],
+  "related_majors": [
+    "teknik/teknik-lingkungan",
+    "pendidikan/pendidikan-kependudukan-dan-lingkungan-hidup",
+    "kesehatan/kesehatan-lingkungan",
+    "ekonomi-bisnis/ekonomi-sumberdaya-dan-lingkungan"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 2,
+  "dt_snbp": 39,
+  "dt_snbt": 47,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "361062",
+      "major_university_name": "S1 TEKNIK INFRASTRUKTUR LINGKUNGAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.12766,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "751041",
+      "major_university_name": "S1 REKAYASA INFRASTRUKTUR DAN LINGKUNGAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 64.1026,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "idx": 106,
+  "id": "konservasi-sumberdaya-hutan-dan-ekowisata",
+  "major_name": "Konservasi Sumberdaya Hutan dan Ekowisata",
+  "icon": null,
+  "description": "Konservasi Sumberdaya Hutan merupakan program studi yang menyajikan dan mengembangkan ilmu pengetahuan dan teknologi bidang perlindungan dan pelestarian ekosistem hutan. Kamu akan difokuskan pada pembelajaran tentang penyelamatan, perlindungan, pengelolaan dan pemanfaatan sumberdaya hutan secara bijaksana untuk kelestarian sumberdaya hutan sebagai penyangga kehidupan secara berkelanjutan. Bidang kelimuan yang dipelajari antara lain ekologi dan manajemen satwaliar, konservasi keanekaragaman tumbuhan, hingga tentang rekreasi alam. ",
+  "why": "Ekosistem hutan kini mulai terganggu, yang akibatnya kini mulai kita rasakan. Program studi ini cocok untuk kamu yang memiliki antusiasme dan tekad dalam pelestarian dan rehabilitasi hutan. Program studi ini cocok banget untuk kamu yang cinta alam dan punya jiwa eksplorer, karena dalam metode pembelajarannya mahasiswa nanti akan banyak turun ke lapangan untuk mengamati satwa. ",
+  "subjects": [
+    "Konservasi Sumber Daya Alam Hayati",
+    "Ekologi Satwaliar",
+    "Perilaku Satwaliar",
+    "Konservasi Ex-Situ Satwaliar",
+    "Kebijakan dan Kelembagaan Konservasi",
+    "Perencanaan Konservasi",
+    "Rekreasi Alam dan Ekowisata",
+    "Pendidikan Konservasi",
+    "Inventarisasi dan Pemantauan Satwaliar",
+    "Penangkaran Satwaliar",
+    "Manajemen Pakan dan Kesehatan Satwaliar",
+    "Manajemen Kawasan Konservasi",
+    "Etnobiologi Hutan",
+    "Pencemaran Lingkungan",
+    "Analisis Spasial Lingkungan",
+    "Manajemen Jasa Lingkungan & Pengendalian Dampak",
+    "Interpretasi Alam",
+    "Metode Penulisan Ilmiah",
+    "Pengelolaan Satwaliar",
+    "Konservasi Tumbuhan Obat dan Hutan Tropika",
+    "Ilmu Hutan Kota"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi Konservasi Sumberdaya Hutan akan mempunyai keahlian dalam bidang konservasi sumberdaya alam hayati, menguasai aspek praktis dan teoritis pengelolaan sumberdaya alam hayati untuk menjawab tantangan permasalahan terkait. Lulusan program studi ini dapat bekerja di instansi pemerintah (seperti Departemen Kehutanan, Pertanian, Pendidikan, Kementrian Lingkungan hidup), lembaga penelitian, perusahaan multinasional dan nasional, serta LSM. ",
+  "professions": [
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Ahli Lingkungan",
+    "Ahli Ilmu Hewan dan Satwa Liar",
+    "Manajer Ilmu Alam",
+    "Konsultan Lingkungan",
+    "Ahli Konservasi Tanah dan Air",
+    "Perencana Restorasi Lingkungan",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan",
+    "Pengawas Hutan",
+    "Spesialis Konservasi Alam"
+  ],
+  "related_majors": [
+    "pertanian/kehutanan",
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/pengelolaan-hutan",
+    "pertanian/budidaya-perairan-akuakultur-",
+    "pertanian/silvikultur",
+    "ekonomi-bisnis/destinasi-pariwisata"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 7,
+  "dt_snbp": 180,
+  "dt_snbt": 187,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "341012",
+      "major_university_name": "S1 KONSERVASI SUMBERDAYA HUTAN DAN EKOWISATA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 9.10891,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341044",
+      "major_university_name": "D4 EKOWISATA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341045",
+      "major_university_name": "D4 EKOWISATA (KAMPUS SUKABUMI) - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "722056",
+      "major_university_name": "D3 TEKNOLOGI KAYU - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921041",
+      "major_university_name": "D3 KONSERVASI SUMBERDAYA HUTAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "561003",
+      "major_university_name": "D4 REKAYASA KAYU - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": 311.111,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921035",
+      "major_university_name": "D3 EKOWISATA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

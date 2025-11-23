@@ -1,0 +1,134 @@
+{
+  "idx": 228,
+  "id": "seni-tari",
+  "major_name": "Seni Tari",
+  "icon": null,
+  "description": "Para mahasiswa jurusan Seni Tari mempelajari gerak-gerak manusia yang diiringi dengan ritme, irama, dan musik. Seni Tari mempunyai peran yang penting baik dari segi budaya maupun segi hiburan. Saat ini, tarian menjadi gerak tubuh secara berirama yang dilakukan untuk mengungkapkan perasaan, maksud, dan pikiran. Jurusan tari sangat melibatkan aktivitas fisik. Jika Anda mempunyai minat pada jurusan ini, Anda harus punya badan yang sehat dan bugar sehingga bisa mengikuti ritme dan pelajaran dengan baik. Selain mempelajari gerakan, para mahasiswa jurusan Seni Tari juga mempelajari sejarah dan asal muasal tarian.",
+  "why": "Apabila kamu menaruh minat yang besar pada musik, kebudayaan, tari, maka kamu cocok untuk memilih program studi ini. Mempelajari seni tari, kamu juga butuh kemampuan olah tubuh dan artistik yang mumpuni, jadi kalau kamu memang berminat untuk memilih program studi ini pastikan kamu mengasah kemampuan tersebut, ya!",
+  "subjects": [
+    "Teknik Tari",
+    "Vokasi Tari Tradisi",
+    "Dasar Desain Multi Matra",
+    "Komposisi Tari",
+    "Koreografi",
+    "Repertoar",
+    "Tata Rias dan Busana",
+    "Musik Tradisional Daerah",
+    "Musik Iringan Tari",
+    "Musik Digital",
+    "Apresiasi Drama",
+    "Pengetahuan Seni Pertunjukan dan Pariwisata",
+    "Manajemen Produksi Tari",
+    "Penataan Artistik",
+    "Kritik Tari",
+    "Estetika"
+  ],
+  "characters": [
+    "Tekun",
+    "Independen",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Seni Tari juga menunjukkan tren yang cukup bagus. Meskipun tidak sepopuler seni musik, Tari punya segmen sendiri. Industri hiburan juga tak akan pernah lepas dari tari, di setiap pentas atau konser pasti ada penari yang melatari konser tersebut sehingga membuat aksi panggung lebih atraktif. ",
+  "professions": [
+    "Aktor",
+    "Penari",
+    "Koreografer",
+    "Juru Rias Pengantin"
+  ],
+  "related_majors": [
+    "seni/tata-rias-dan-kecantikan",
+    "seni/seni-pendalangan",
+    "seni/etnomusikologi",
+    "seni/seni-karawitan",
+    "pendidikan/pendidikan-seni-drama-tari-dan-musik-sendratasik-",
+    "seni/tata-kelola-seni"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 7,
+  "dt_snbp": 174,
+  "dt_snbt": 197,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "334059",
+      "major_university_name": "S1 PENDIDIKAN SENI TARI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 41.0959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362058",
+      "major_university_name": "S1 PENDIDIKAN SENI TARI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 23.5294,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "364001",
+      "major_university_name": "S1 SENI TARI - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 28.0702,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "115002",
+      "major_university_name": "S1 SENI TARI - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143002",
+      "major_university_name": "S1 SENI TARI - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 92.5926,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712070",
+      "major_university_name": "S1 SENI TARI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 46.1538,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "913005",
+      "major_university_name": "S1 SENI TARI - ISBI-TANAHPAPUA",
+      "university_name": "ISBI TANAH PAPUA",
+      "keketatan": 2100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

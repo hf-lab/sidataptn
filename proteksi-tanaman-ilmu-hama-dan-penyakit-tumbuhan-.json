@@ -1,0 +1,205 @@
+{
+  "idx": 196,
+  "id": "proteksi-tanaman-ilmu-hama-dan-penyakit-tumbuhan-",
+  "major_name": "Proteksi Tanaman (Ilmu Hama dan Penyakit Tumbuhan)",
+  "icon": null,
+  "description": "Program studi Proteksi Tanaman juga disebut dengan Ilmu Hama dan Penyakit Tumbuhan di beberapa perguruan tinggi. Jadi jangan bingung dengan namanya, keduanya sama-sama mempelajari tentang pengamanan produksi pertanian melalui manajemen kesehatan tanaman. Program studi ini berfokus pada isu pengelolaan hama untuk mengkonservasi lingkungan dan memanajemen sumberdaya hayati dalam rangka untuk memelihara keseimbangan agroekosistem.\r\rPada program studi ini kita dituntut untut memahami jenis-jenis hama tanaman, mengetahui nama latinnya, jenis dan gejala penyakit tanaman yang disebabkan oleh virus, lalu bagaimana cara pengendaliannya.",
+  "why": "Indonesia adalah negara agraris, masyarakat hidup dari hasil pertanian dan membutuhkan hasil pertanian.  Namun sektor agraria kita cenderung tertinggal karena jumlah ahli di bidang penyakit tanaman atau \"dokter tanaman\" masih belum tercukupi. Akibatnya tanaman diserang penyakit dan hama menyebabkan gagal panen dan kerugian. Penggunaan pestisida kini juga semakin diperhitungkan kembali efektivitasnya mengingat dampak yang diakibatkan tidak baik apabila dikonsumsi. Masalah hama dan penyakit tanaman ini membutuhkan perhatian lebih untuk dikaji lebih lanjut. So, kalau kamu berminat untuk mengkaji tentang hama dan penyakit tanaman dan metode penyelesaian masalahnya, ini program studi yang sangat tepat.",
+  "subjects": [
+    "Fisika",
+    "Kimia",
+    "Biologi",
+    "Matematika",
+    "Manajemen",
+    "Statistika",
+    "Sosiologi Pertanian",
+    "Ekonomi Pertanian",
+    "Biokimia",
+    "Manajemen Usaha Pertanian",
+    "Ilmu Gulma",
+    "Pemupukan",
+    "Kesuburan dan Kesehatan Tanah",
+    "Patogen Tumbuhan",
+    "Identifikasi Hama Tanaman",
+    "Ekologi Hama dan Penyakit Tumbuhan",
+    "Budidaya Tanaman Tahunan",
+    "Budidaya Tanaman Semusim",
+    "Pengelolaan Hama dan Penyakit Tanaman",
+    "Pengelolaan Hama dan Penyakit Pasca Panen",
+    "Agroklimatologi",
+    "Mikrobiologi Pertanian",
+    "Vertebrata Hama",
+    "BiokimiaTanaman",
+    "Patogen Tular Tanah",
+    "Pestisida danTeknik Aplikasi",
+    "Ilmu Penyakit Tumbuhan",
+    "Karantina Pertanian",
+    "Kebijakan Perlindungan Tanaman",
+    "Sistem Peramalan Hama",
+    "Klinik Tanaman"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja seorang lulusan program studi Proteksi Tanaman yang paling utama tentu saja berada di bidang pertanian. Lulusan jurusan ini dapat bekerja di lembaga-lembaga pemerintah (seperti Departemen Pertanian, Kementrian Ristek, LIPI, Bappeda, Badan Karantina Nasional), perusahaan-perusahaan BUMN, dan maupun perusahaan-perusahaan di bidang pangan dan pertanian.",
+  "professions": [
+    "Peneliti Tanah dan Tumbuhan",
+    "Manajer Ilmu Alam",
+    "Spesialis Konservasi Alam",
+    "Perencana Restorasi Lingkungan",
+    "Konsultan Lingkungan"
+  ],
+  "related_majors": [
+    "pertanian/mikrobiologi-pertanian"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 13,
+  "dt_snbp": 376,
+  "dt_snbt": 548,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "341028",
+      "major_university_name": "S1 PROTEKSI TANAMAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 12.3188,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111037",
+      "major_university_name": "S1 PROTEKSI TANAMAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "141028",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 32.7103,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161024",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 43.8596,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171036",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 50.4425,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191029",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 47.7124,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351056",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361022",
+      "major_university_name": "S1 PROTEKSI TANAMAN (ILMU HAMA DAN PENYAKIT TUMBUHAN) - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 9.50226,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371026",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 21.7822,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531033",
+      "major_university_name": "S1 PROTEKSI TANAMAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 73.8095,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711046",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 71.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721032",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 560,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751033",
+      "major_university_name": "S1 PROTEKSI TANAMAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "idx": 237,
+  "id": "statistika",
+  "major_name": "Statistika",
+  "icon": null,
+  "description": "Statistika merupakan ilmu yang mempelajari proses pengolahan data, mulai dari merencanakan, mengumpulkan, menganalisis, menginterpretasikan, dan mempresentasikan data. Fungsi dari statistika sendiri adalah sebagai pijakan untuk pengambilan keputusan. Tanpa analisis data yang akurat, pengambilan keputusan yang tepat tidak akan pernah bisa terjadi. Statistika banyak diterapkan pada berbagai disiplin ilmu, baik ilmu sosial ataupun ilmu pasti. ",
+  "why": "Statistika memang terlihat membosankan karena kamu akan banyak bergelut dengan angka. Tapi sebenarnya statistika punya peran yang sangat penting sebagai pijakan untuk pengambilan keputusan. Dengan belajar Statistika, kamu jadi menguasai bagaimana caranya mencari, memilah, dan mengolah sebuah data yang dijadikan dasar bagi perusahaan, pemerintah, maupun lembaga-lembaga lainnya dalam mengeluarkan kebijakan, program, maupun produk-produk tertentu.",
+  "subjects": [
+    "Metode Statistika",
+    "Fisika Dasar",
+    "Aljabar Linier Elementer",
+    "Kimia Dasar",
+    "Biologi Umum",
+    "Logika & Teori Bilangan",
+    "Aljabar Linear",
+    "Matematika Keuangan",
+    "Algoritma dan Perangkat Lunak Statistika",
+    "Metode Numerik",
+    "Statistika Matematika",
+    "Metode Statistika Lanjut",
+    "Analisis Real",
+    "Teori Matriks Statistika",
+    "Pengantar Teori Probabilitas",
+    "Teknik Sampling",
+    "Statistika Nonparametri k",
+    "Analisis Multivariat",
+    "Proses Stokastik",
+    "Analisis Regresi",
+    "Rancangan Percobaan",
+    "Model Kerugian",
+    "Runtun Waktu",
+    "Statistika Pengendalian Mutu",
+    "Metode Survei",
+    "Matematika Aktuaria",
+    "Statistika Spasial",
+    "Analisis Data Kuantitatif",
+    "Teori Keputusan Statistika",
+    "Metode Peramalan Statistika",
+    "Statistika Genom",
+    "Analisis Data Katagorik",
+    "Analisis Survival"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja lulusan Statistika sangatlah luas, karena hampir semua instansi membutuhkan seseorang yang mengerti bagaimana caranya memperolah dan mengolah data. Di sektor pemerintah, seorang lulusan prodi Statistika bisa bekerja di institusi seperti BPS dan BAPPENAS. Sementara itu di sektor swasta, lulusan Statistika memiliki kesempatan untuk bekerja di hampir semua industri mulai dari Keuangan, Perbankan, Manufaktur, Fast Moving Consumer Goods (FMCG), bahkan Teknologi.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Peneliti Survei",
+    "Spesialis Matematika",
+    "Analis Riset Operasional",
+    "Analis Anggaran",
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Ahli Biostatistik",
+    "Ahli Statistik",
+    "Aktuaris",
+    "Ahli Matematika"
+  ],
+  "related_majors": [
+    "mipa/matematika",
+    "mipa/kimia",
+    "komputer-teknologi/ilmu-komputasi",
+    "pendidikan/pendidikan-matematika",
+    "komputer-teknologi/data-science",
+    "mipa/fisika",
+    "mipa/biologi",
+    "mipa/statistika-terapan-dan-komputasi",
+    "mipa/aktuaria"
+  ],
+  "major_group_id": 19,
+  "jlh_prodi": 37,
+  "dt_snbp": 1007,
+  "dt_snbt": 1364,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "362018",
+      "major_university_name": "S1 STATISTIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 3.15582,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356074",
+      "major_university_name": "S1 STATISTIKA DAN SAINS DATA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353029",
+      "major_university_name": "S1 STATISTIKA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 4.70588,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351057",
+      "major_university_name": "S1 STATISTIK - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711021",
+      "major_university_name": "S1 STATISTIKA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 10.7399,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621048",
+      "major_university_name": "S1 STATISTIKA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531039",
+      "major_university_name": "S1 STATISTIKA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 18.0451,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511028",
+      "major_university_name": "S1 STATISTIK - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 22.8571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "382003",
+      "major_university_name": "S1 STATISTIKA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 6.92042,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381016",
+      "major_university_name": "S1 STATISTIKA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 5.58659,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372018",
+      "major_university_name": "S1 STATISTIKA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 8.38628,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361015",
+      "major_university_name": "S1 STATISTIKA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.7735,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355009",
+      "major_university_name": "S1 STATISTIKA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.35714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341014",
+      "major_university_name": "S1 STATISTIKA DAN SAINS DATA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 4.25273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333006",
+      "major_university_name": "S1 STATISTIKA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.97866,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323016",
+      "major_university_name": "S1 STATISTIKA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.97351,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321030",
+      "major_university_name": "S1 STATISTIKA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.57185,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311050",
+      "major_university_name": "S1 STATISTIKA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142020",
+      "major_university_name": "S1 STATISTIKA (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 5.51724,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131030",
+      "major_university_name": "S1 STATISTIKA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 5.53633,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122058",
+      "major_university_name": "S1 STATISTIKA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111030",
+      "major_university_name": "S1 STATISTIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 14.4928,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121052",
+      "major_university_name": "STATISTIKA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "741015",
+      "major_university_name": "S1 STATISTIKA - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 310,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751039",
+      "major_university_name": "S1 STATISTIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 30.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752031",
+      "major_university_name": "S1 STATISTIKA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 46.2687,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811030",
+      "major_university_name": "S1 STATISTIKA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 83.6066,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731022",
+      "major_university_name": "S1 STATISTIKA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 20,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712025",
+      "major_university_name": "S1 STATISTIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 19.5122,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "542016",
+      "major_university_name": "S1 STATISTIKA - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 36.3636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541012",
+      "major_university_name": "S1 STATISTIKA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 18.6047,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161021",
+      "major_university_name": "S1 STATISTIKA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 21.0084,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142073",
+      "major_university_name": "D3 STATISTIKA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "195001",
+      "major_university_name": "S1 STATISTIKA - UINBUKITTINGGI",
+      "university_name": "UIN SJECH M. DJAMIL DJAMBEK BUKITTINGGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751081",
+      "major_university_name": "D3 STATISTIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "152004",
+      "major_university_name": "S1 STATISTIKA - UINJAMBI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN THAHA SAIFUDDIN JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911023",
+      "major_university_name": "S1 STATISTIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 128.571,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 19,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Matematika",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

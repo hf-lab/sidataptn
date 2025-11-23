@@ -1,0 +1,363 @@
+{
+  "idx": 163,
+  "id": "pendidikan-bimbingan-konseling",
+  "major_name": "Pendidikan Bimbingan Konseling",
+  "icon": null,
+  "description": "Pada program studi ini kamu akan mempelajari ilmu pendidikan, berhubungan dengan cara pembelajaran, pemahaman pendidikan, dan pemahaman terhadap peserta didik. Ilmu pendidikan digunakan sebagai dasar dalam melakukan bimbingan bagi dunia pendidikan. Selain itu materi yang pasti didapat adalah Ilmu Psikologi, karena memang Bimbingan Konseling merupakan cabang dari ilmu psikologi. Ilmu psikologi yang didapat meliputi pemahaman kepribadian, ilmu perilaku manusia, teori psikologi, dll.\r\rKita sering mengenal peran BK di sekolah, yaitu memberikan bimbingan dan arahan secara psikologi kepada siswa. Kasus-kasus seperti kenakalan remaja, tawuran, penyalah gunaan narkoba, dan semua hal negatif tersebut perlu Penanganan dari seorang konselor. Selain mengatasi masalah negatif, Konselor juga berperan dalam memandu siswa dalam mengarahkan minat dan bakat agar menjadi hal yang positif. Untuk memecahkan masalah tersebut biasanya konselor memberikan tes psikologi. Bimbingan konseling di SMA dapat menjadi pemberi konsultasi bagi siswa untuk memilih jurusan perkuliahannya.\r\rTidak hanya di dunia pendidikan, Bimbingan konseling juga dibutuhkan di masyarakat. Konselor memiliki peran besar dalam memberikan arahan pada masyarakat yang bertindak negatif, memberikan penyuluhan di bidang kesehatan mental, pendidikan bagi anak jalanan, dan mengatasi kasus kasus sosial.",
+  "why": "Jika kamu memiliki minat di dunia psikologi khusus di pendidikan kamu harus memiliki kepribadian yang suka bersosial, terutama untuk anak yang pandai memberikan solusi pada sebuah permasalahan. Materi yang diberikan di jurusan ini antara lain kependidikan, psikologi kepribadian, dan kasus sosial. ",
+  "subjects": [
+    "Pengantar Pendidikan",
+    "Antropologi",
+    "Sosiologi",
+    "Psikologi Pendidikan",
+    "Dasar Bimbingan Konseling",
+    "Bimbingan dan Konseling Perkembangan",
+    "Dasar Pemahaman Perilaku",
+    "Landasan Psikologis Pendidikan",
+    "Landasan Sosial BK",
+    "Pengantar Konseling",
+    "Kesehatan Mental",
+    "Bimbingan dan Konseling Belajar",
+    "Pribadi-sosial",
+    "dan Karir",
+    "Konseling Individual",
+    "Kelompok",
+    "dan Multibudaya",
+    "Analisis dan Perubahan Tingkah Laku",
+    "Asesmen Psikologis: Teknik nontes",
+    "Testing",
+    "Media Bimbingan dan Konseling",
+    "Teknologi Informasi dan Bimbingan Konseling",
+    "Keterampilan Dasar Komunikasi",
+    "Praktikum Asesmen Psikologis",
+    "Statistika Deskriptis",
+    "Statistika Inferensial",
+    "Problematika Bimbingan dan Konseling"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan dari program studi ini dipersiapkan menjadi profesional dalam bidang bimbingan dan konseling, diharapkan dapat bekerja sebagai guru BK pada setting pendidikan dasar, maupun menengah, serta pengembang pelatihan bidang akademik, pribadi, sosial dan karir pada setting pendidikan non-formal.\r\rLulusan Bimbingan dan Konseling banyak yang diterima sebagai konselor di dunia pendidikan, PAUD, TK, SD,SMP, SMA, dan Universitas. Selain itu mereka juga dibutuhkan sebagai Tenaga Konselor di Pusat Rehabilitasi, Lembaga Pemasyarakatan, Perkumpulan Keluarga berencana Indonesia (PKBI), Konsultan pengembangan SDM, Badan Penasehat Pembinaan Pelestarian Perkawinan (BP4), Kementerian Agama, Konselor dan Konsultan Pendidikan di Lembaga-Lembaga Bimbingan Belajar (LBB).\r\rLulusan dari jurusan ini juga bisa membuka praktek sendiri sebagai konseling untuk masyarakat umum. Tapi untuk mendapatkan ijin melakukan sebuah tes psikologi kamu harus memiliki gelar S2.",
+  "professions": [
+    "Psikolog Konseling",
+    "Konselor Edukasi, Pengarahan, Sekolah dan Vokasi",
+    "Dosen Psikologi",
+    "Neuropsikologi dan Neuropsikologi Klinis",
+    "Hipnoterapis",
+    "Psikolog Sekolah",
+    "Loan Adviser",
+    "Guru Vokasi",
+    "Spesialis Sumber Daya Manusia",
+    "Mediator Keluarga"
+  ],
+  "related_majors": [
+    "humaniora/psikologi"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 30,
+  "dt_snbp": 1024,
+  "dt_snbt": 1656,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "111054",
+      "major_university_name": "S1 BIMBINGAN KONSELING - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 7.90378,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712043",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 4.12017,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362027",
+      "major_university_name": "S1 BIMBINGAN & KONSELING - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 2.761,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356028",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 5.53145,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353062",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.09498,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334039",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 2.90574,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311040",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 6.46766,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191052",
+      "major_university_name": "S1 BIMB. KONSELING - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 11.5607,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131049",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 5.71924,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122043",
+      "major_university_name": "S1 PENDIDIKAN BIMBINGAN DAN KONSELING - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 9.74659,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171051",
+      "major_university_name": "S1 BIMB & KONSELING - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 9.31099,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811053",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 125,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731037",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 16.5138,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751062",
+      "major_university_name": "S1 PENDIDIKAN BIMBINGAN DAN KONSELING - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 16.1538,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631033",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 12.1212,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612029",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 18.7845,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541052",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 10.5611,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531056",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 24.2009,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511053",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 15.9341,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373028",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.45229,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142028",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 7.58693,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151043",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 15.7459,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323025",
+      "major_university_name": "S1 BIMBINGAN & KONSELING - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 3.06818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161042",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 8.93617,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752047",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 54.8387,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116009",
+      "major_university_name": "S1 BIMBINGAN KONSELING - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722047",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 55.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551014",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 37.6963,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521031",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 38.8889,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911033",
+      "major_university_name": "S1 BIMBINGAN KONSELING - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

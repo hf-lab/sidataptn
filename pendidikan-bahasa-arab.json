@@ -1,0 +1,111 @@
+{
+  "idx": 160,
+  "id": "pendidikan-bahasa-arab",
+  "major_name": "Pendidikan Bahasa Arab",
+  "icon": null,
+  "description": "Program studi Pendidikan Bahasa Arab mempelajari tata bahasa Arab, dari aspek liguistik, kesusasteraan, dan dari aspek kependidikan. Bahasa Arab kerap dikaitkan dengan Agama Islam, karena bahasa Arab adalah bahasa yang dipergunakan dalam Al Quran dan Hadist. Namun cakupan bahasa Arab nyatanya lebih luas dari yang diketahui oleh awam. Di prodi Pendidikan Bahasa Arab ini nantinya akan dipelajari ilmu kebahasaan Arab, serta ilmu kewirausahaan di bidang bahasa Arab. Mahasiswa prodi Pendidikan Bahasa Arab tak hanya dapat menerjemahkan bahasa Arab, tapi juga membuat kaligrafi bahasa Arab.",
+  "why": "Prodi ini diperuntukkan bagi siapa saja yang ingin mengabdikan diri sebagai pengajar bahasa arab.\rBahasa Arab merupakan bahasa dalam Al Quran, yang pastinya dengan memahami bahasa Arab, kita dapat lebih mendalami ilmu agama islam. Kalau kamu bukanlah seorang muslim, kamu juga bisa kok memasuki program studi ini untuk mendalami kajian mengenai Bahasa Arab sebagai bahasa yang digunakan di negara-negara Timur Tengah.",
+  "subjects": null,
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Pendidikan Bahasa Arab dipersiapkan untuk menjadi pengajar atau guru bahasa Arab di lembaga pendidikan formal maupun informal. Ilmu kewirausahaan yang didapatkan dari perkuliahan juga memungkinkan lulusan prodi ini untuk mengembangkan usaha sendiri sesuai dengan keahlian yang dimiliki. Dengan melanjutkan pendidikan ke tingkat pascasarjana, lulusan prodi ini dapat menjadi dosen di bidang terkait. Tak hanya berkecimpung seputar dunia pendidikan, lulusan prodi ini dapat menjadi penerjemah bahasa Arab, pemandu wisata untuk turis asal Timur Tengah, seniman kaligrafi, atau menjadi bagian dari Kedutaan Besar RI untuk negara-negara Timur Tengah.",
+  "professions": [
+    "Penerjemah",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "pendidikan/manajemen-pendidikan-islam"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 6,
+  "dt_snbp": 211,
+  "dt_snbt": 331,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323034",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.55414,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334054",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.11359,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356062",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 15.1639,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373038",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 10.9137,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712076",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 21.8623,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151045",
+      "major_university_name": "S1 PENDIDIKAN BAHASA ARAB - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 89.4737,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

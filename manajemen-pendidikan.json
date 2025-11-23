@@ -1,0 +1,147 @@
+{
+  "idx": 126,
+  "id": "manajemen-pendidikan",
+  "major_name": "Manajemen Pendidikan",
+  "icon": null,
+  "description": "Program studi Manajemen Pendidikan bertujuan mencetak para lulusan yang menguasai bidang perencanaan, pengelolaan, dan pengawasan aset, infrastruktur, dan jalannya proses pendidikan. Manajemen pendidikan relevan untuk lembaga pendidikan di bawah pemerintah atau swasta. Para mahasiswa program studi ini akan mendapatkan pembelajaran dan pelatihan di bidang manajemen pendidikan, dari teori, praktek, sampai penelitian. \r\rPara mahasiswa jurusan Manajemen Pendidikan mempelajari kebijakan pendidikan, manajemen dan pengembangan SDM, manajemen keuangan, teknologi informasi, dan pengembangan kurikulum. Mahasiswa program studi ini juga dituntut untuk terbiasa berpikir kritis dan taktis. ",
+  "why": "Untuk berkarier di bidang pendidikan, kamu tidak harus menjadi guru. Di sebuah sekolah atau lembaga pendidikan, kamu bisa menjadi kepala sekolah, personalia, dan staf-staf tata usaha dan administrasi. Nah, profesi ini memang tidak langsung berhadapan dengan para siswa secara formal, melainkan lebih pada manajemen sekolah dan program-programnya.",
+  "subjects": [
+    "Profesi Kependidikan",
+    "Perkembangan Peserta Didik",
+    "Belajar Pembelajaran",
+    "Miccro Teaching",
+    "Strategi Belajar Mengajar",
+    "Perencanaan Pengajaran",
+    "Evaluasi Hasil Belajar",
+    "Sosiologi Organisasi Pendidikan",
+    "Komunikasi Organisasi Pendidikan",
+    "Kepemimpinan Pendidikan",
+    "Psikologi Manajemen",
+    "Manajemen Satuan Pendidikan",
+    "Manajemen Tenaga Kependidikan",
+    "Manajemen Peserta Didik",
+    "Manajemen Sarana dan Prasarana Pendidikan",
+    "Manajemen Keuangan",
+    "Manajemen Layanan Khusus",
+    "Manajemen Hubungan Organisasi Kependidikan dan Masyarakat",
+    "Manajemen & Etika Perkantoran Pendidikan",
+    "Manajemen Pendidikan Dasar",
+    "Manajemen Kelas",
+    "Manajemen Perpustakaan",
+    "Manajemen Diklat",
+    "Manajemen SDM",
+    "Teknik Manajemen Pendidikan",
+    "Manajemen Kewiraswastaan Pendidikan",
+    "Studi kasus Manajemen Pendidikan",
+    "Pengawasan & Supervisi Pendidikan",
+    "Kebijakan dan Analisis Pendidikan",
+    "Evaluasi Program Pendidikan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dalam dunia pendidikan, kesempatan berkarier di manajemen pendidikan sangat besar. Kelancaran proses belajar mengajar dalam suatu lembaga pendidikan atau sekolah sangat ditentukan oleh manajemen di lembaga pendidikan itu sendiri, yang mengelola semua aspek fisik dan non fisik di sekolah. Prospek yang ditawarkan untuk lulusan Manajemen Pendidikan antara lain adalah sebagai staf dan/atau manajer administrasi di lingkungan sekolah, perguruan tinggi, dan lembaga pendidikan lainnya, baik milik pemerintah maupun milik swasta. lulusannya juga dapat berkarir sebagai konsultan pendidikan, ",
+  "professions": [
+    "Konselor Edukasi, Pengarahan, Sekolah dan Vokasi",
+    "Spesialis Pelatihan dan Pengembangan",
+    "General Affairs",
+    "Kepala Sekolah",
+    "Manajer Pelatihan dan Pengembangan",
+    "Dosen (Secara umum)",
+    "Koordinator Online Learning"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-luar-sekolah",
+    "pendidikan/administrasi-pendidikan",
+    "pendidikan/manajemen-pendidikan-islam",
+    "pendidikan/pendidikan-luar-biasa",
+    "pendidikan/ilmu-perpustakaan"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 6,
+  "dt_snbp": 207,
+  "dt_snbt": 335,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323022",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 5.71827,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362026",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 4.71976,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383056",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 11.6424,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521039",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 34.2466,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752049",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 45.641,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911045",
+      "major_university_name": "S1 MANAJEMEN PENDIDIKAN - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 78.5714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

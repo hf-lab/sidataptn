@@ -1,0 +1,300 @@
+{
+  "idx": 213,
+  "id": "sastra-jepang",
+  "major_name": "Sastra Jepang",
+  "icon": null,
+  "description": "Sama halnya dengan program studi sastra yang lain, prodi Sastra Jepang mengajak kamu untuk memahami isi, ciri artistik, estetika, keaslian, serta keindahan isi dalam teks atau tulisan karya sastra jepang. Kamu akan mempelajari berbagai karya tulis baik dalam bentuk novel, naskah drama, atau puisi. Tantangan dari sastra Jepang adalah kamu harus mempelajari materi linguistik, tata tulisan surat, kebudayaan Jepang, dan tentu saja menulis menggunakan huruf kanji.",
+  "why": "Unsur-unsur Budaya Jepang seperti Manga, Anime, dan Harajuku sempat menjadi tren di Indonesia. Jika kamu salah satu penggemar Budaya Jepang, Jurusan Sastra Jepang tentu menyenangkan. Sastra Jepang memang mengajarkan ilmu yang spesifik, jika kamu punya ketertarikan terhadap sastra Jepang, kamu bisa memilih jurusan ini. ",
+  "subjects": [
+    "Moji Goi",
+    "Sakubun",
+    "Shokyu Kaiwa",
+    "Chukyu Kaiwa",
+    "Shochukyu Kaiwa",
+    "Chokai",
+    "Shokyu Nihongo",
+    "Nihongo Hyogen",
+    "Nihongo Hyogen Enshu",
+    "Chukyu Nihongo Hyogen",
+    "Chukyu Nihongo Hyogen Enshu",
+    "Junjokyu Nihongo",
+    "Junjokyu Nihongo Enshu",
+    "Bunpo",
+    "Nihon Bunka Nyumon",
+    "Nihon Bunka Gairon",
+    "Nihon Bungaku Nyumon",
+    "Nihongaku Nyumon",
+    "Honyaku Nyumon",
+    "Nihon Bungaku Gairon",
+    "Nihongogaku Gairon",
+    "Honyaku Gairon",
+    "Nihongo Gaku",
+    "Nihon Bungaku",
+    "Nihon Bunkagaku",
+    "Honyakugaku"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan dari program studi Sastra Jepang akan mendapatkan gelar Sarjana Sastra. Prospek kerja dari program studi ini sesungguhnya nggak hanya terbatas pada penerjemah maupu ahli bahasa, tapi juga bisa bekerja di perusahaan-perusahaan Jepang. Investasi Jepang di Indonesia lagi gede banget, lho, jadi peluang kerja lulusan Sastra Jepang pun semakin terbuka lebar.",
+  "professions": [
+    "Editor (Artikel/Tulisan)",
+    "Penerjemah",
+    "Pemandu Tur",
+    "Novelis",
+    "Content Creator",
+    "Penulis Teknis",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Pemandu Wisata",
+    "Penulis Perjalanan",
+    "Content Writer"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-indonesia",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-jerman",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia",
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 22,
+  "dt_snbp": 692,
+  "dt_snbt": 936,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "121044",
+      "major_university_name": "S1 SASTRA JEPANG - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 15.5797,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383037",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 19.244,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321054",
+      "major_university_name": "S1 SASTRA JEPANG - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 2.53165,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323035",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 6.34921,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333048",
+      "major_university_name": "S1 SASTRA JEPANG - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 5.82751,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334055",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.03259,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351036",
+      "major_university_name": "S1 SASTRA JEPANG - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 8.97098,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372081",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 14.7541,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355049",
+      "major_university_name": "S1 BAHASA DAN KEBUDAYAAN JEPANG - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 10.084,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356061",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 12.2034,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361076",
+      "major_university_name": "S1 BAHASA DAN KEBUDAYAAN JEPANG - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.95983,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361115",
+      "major_university_name": "D4 BAHASA JEPANG UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372067",
+      "major_university_name": "S1 SASTRA JEPANG - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.86106,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "722027",
+      "major_university_name": "S1 PEND. BAHASA JEPANG - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 105.556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711071",
+      "major_university_name": "S1 SASTRA JEPANG - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 19.0184,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611040",
+      "major_university_name": "S1 SASTRA JEPANG - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 16.0142,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351055",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142054",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 20.915,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141044",
+      "major_university_name": "S1 SASTRA JEPANG - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 21.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131047",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JEPANG - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 18.0851,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "121056",
+      "major_university_name": "D3 BAHASA JEPANG - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612039",
+      "major_university_name": "S1 PEND. BAHASA JEPANG - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

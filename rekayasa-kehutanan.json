@@ -1,0 +1,104 @@
+{
+  "idx": 201,
+  "id": "rekayasa-kehutanan",
+  "major_name": "Rekayasa Kehutanan",
+  "icon": null,
+  "description": "Program studi Rekayasa Kehutanan  (Forestry Engineering) adalah interdisiplin ilmu kehutanan (Forestry Science) dan Teknik (Engineering) yang diaplikasikan dalam perekayasaan berbasis bioproses serta biosistem untuk menjaga kelestarian hutan, memanipulasi hutan agar pemanfaatannya berkelanjutan, dan membangun/ mengkonstruksi hutan-hutan baru. Dalam pembelajarannya, program studi rekayasa kehutanan mengutamakan cara pandang holistik yang menempatkan hutan sebagai ekosistem yang harus dipelajari dalam konteks keterkaitannyadengan berbagai aspek lingkungan, ekonomi dan sosial-masyarakat.",
+  "why": "Di Indonesia, hutan merupakan sumber daya hayati yang paling berharga dalam menyediakan berbagai produk hutan, baik kayu maupun non-kayu, serta jasa lingkungan. Kawasan hutan di Indonesia membentuk lebih dari 70% luas daratan Indonesia dan mencapai lebih dari 130 juta hektar, lho. Sayangnya, kelestarian hutan Indonesia saat ini terancam oleh tingginya laju deforestasi dan degradasi lahan. Untuk kamu yang ingin menjaga dan merestorasi hutan kita dengan prisip-prinsip rekayasa serta mengaplikasikan berbagai teknologi, program studi ini cocok banget untukmu.",
+  "subjects": [
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Dasar Rekayasa dan Desain",
+    "Kalkulus",
+    "Pengetahuan Lingkungan",
+    "Taksonomi Hewan",
+    "Taksonomi Tumbuhan",
+    "Genetika Tumbuhan",
+    "Biostatistika",
+    "Termodinamika Sistem Ekologi",
+    "Ilmu Tanah",
+    "Ekologi Hutan",
+    "Biometri Hutan",
+    "Klimatologi",
+    "Neraca Massa & Energi Biosistem",
+    "Pemuliaan Pohon",
+    "Teknik Perlindungan & Pengamanan Hutan",
+    "Sosiologi Kehutanan",
+    "Mekanika Fluida",
+    "Pengelolaan Bentang Alam Terpadu",
+    "Biomaterial Hutan",
+    "Rekayasa Biosistem Hutan",
+    "Etika Rimbawan",
+    "Manajemen Agribisnis & Kewirausahaan"
+  ],
+  "characters": [
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Karena hutan kita harus dilindungi dari sekarang, kebutuhan tenaga kerja bidang kehutanan didasarkan pada identifikasi bidang-bidang yang membutuhkan sumber daya manusia (SDM) bidang kehutanan, diantaranya Industri kehutanan, pengelolaan hutan pada instansi pemerintah dan swasta, Lembaga Swadaya Masyarakat (LSM) dan Organisasi Non-Pemerintah (Non-Government Organization/NGO), serta wiraswasta kehutanan dan profesi lain.",
+  "professions": [],
+  "related_majors": [
+    "mipa/biologi",
+    "mipa/mikrobiologi",
+    "pertanian/teknologi-pasca-panen",
+    "teknik/rekayasa-hayati",
+    "pertanian/rekayasa-pertanian"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 2,
+  "dt_snbp": 80,
+  "dt_snbt": 142,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "192031",
+      "major_university_name": "S1 REKAYASA KEHUTANAN - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 61.8705,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711042",
+      "major_university_name": "S1 REKAYASA KEHUTANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 37.6812,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

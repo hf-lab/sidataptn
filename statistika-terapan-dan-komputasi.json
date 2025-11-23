@@ -1,0 +1,98 @@
+{
+  "idx": 238,
+  "id": "statistika-terapan-dan-komputasi",
+  "major_name": "Statistika Terapan dan Komputasi",
+  "icon": null,
+  "description": "Program studi Statistika Terapan dan Komputasi mempelajari penerapan statistika dan komputasi ke seluruh bidang yang berkait didalamnya. Di sini kalian akan belajar statistika mulai dari dasar hingga statistika tingkat lanjut. Komputasi disini adalah penggunaan komputer dalam memecahkan berbagai masalah statistika rumit dan juga komputer dimaksimalkan agar dapat mengolah data statistika skala besar dan menemukan apa yang diinginkan dari data tersebut",
+  "why": "Program studi ini sangat diminati banyak perusahaan dan industri, selain keahlian dalam statistika yang bermanfaat bagi perusahaan, kemampuan menggunakan komputer dalam mengolah data statistika skala besar menjadi nilai tambah tersendiri. Jurusan ini sangat sesuai bagi kalian yang menyukai akan matematika dan ketelitian dalam melihat suatu data. Keunikan dari prodi ini adalah mengkombinasikan ilmu statistika dengan teknologi komputer. Selain dibekali dengan ilmu statistika, mahasiswa juga mampu membuat aplikasi-aplikasi dalam berbagai bidang berbasis komputer.",
+  "subjects": [
+    "Statistika",
+    "Bahasa Indonesia",
+    "Bahasa Inggris",
+    "Pemodelan Stokastik",
+    "Kalkulus",
+    "Alajabar Linear",
+    "Programming/Database 1",
+    "Algoritma Pemrogaman Komputer",
+    "Sistem dan Teknik Informasi",
+    "Statistika Kendali Mutu",
+    "Statistika Multivariat",
+    "Statistika Nonparametrik",
+    "Teknik Demografi",
+    "Metode Survey",
+    "Riset Pasar",
+    "Statistika Inferensial",
+    "Jaringan Komputer"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja dari lulusan Statistika Terapan dan Komputasi terbilang sangat bagus. Lulusannya dapat masuk dibagian riset pada sebuah perusahaan maupun marketing untuk meilhat bagaimana perkembangan data. Keahlian komputer yang dimiliki juga membuat nilai tambah dari jurusan ini. ",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Dosen Ilmu Komputer",
+    "Peneliti Komputer dan Informasi",
+    "Analis Sistem Komputer",
+    "Administrator Sistem Jaringan dan Komputer",
+    "Admin Database",
+    "Growth Hacker",
+    "Arsitek Jaringan Komputer",
+    "Arsitek Sistem Komputer",
+    "Programmer Komputer"
+  ],
+  "related_majors": [
+    "mipa/statistika",
+    "komputer-teknologi/ilmu-komputasi",
+    "komputer-teknologi/data-science",
+    "komputer-teknologi/teknik-informatika",
+    "mipa/aktuaria"
+  ],
+  "major_group_id": 19,
+  "jlh_prodi": 1,
+  "dt_snbp": 8,
+  "dt_snbt": 12,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "356073",
+      "major_university_name": "D3 STATISTIKA TERAPAN DAN KOMPUTASI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 19,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Matematika",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

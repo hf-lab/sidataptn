@@ -1,0 +1,250 @@
+{
+  "idx": 150,
+  "id": "pariwisata",
+  "major_name": "Pariwisata",
+  "icon": null,
+  "description": "Program studi Pariwisata adalah program studi yang mempelajari semua hal yang berkaitan dengan pariwisata. Biasanya meliputi manajemen destinasi, tour and travel, dan perhotelan. Para lulusan jurusan ini diharapkan mampu memberikan pelayanan hospitalitas yang berkualitas. Selain itu, mahasiswa diharapkan memiliki ketertarikan pada kebudayaan Indonesia sekaligus bisnis. ",
+  "why": "Pariwisata adalah jurusan yang paling menyenangkan, terutama bagi kamu yang punya hobi jalan-jalan. Tapi, jangan berpikir bahwa dengan memilih jurusan ini kamu hanya akan jalan-jalan melulu. Kamu harus bekerja dengan sangat serius. Pariwisata adalah bidang yang tak akan pernah surut, dan saat ini sedang mengalami pertumbuhan yang cukup bagus.",
+  "subjects": [
+    "Psikologi Jasa",
+    "Dasar-dasar Ilmu Budaya",
+    "Pengantar Ilmu Pariwisata",
+    "Kepurbakalaan Indonesia",
+    "Ekonomi Pariwisata",
+    "Sejarah Indonesia",
+    "Bahasa Korea",
+    "Bahasa Prancis",
+    "Bahasa Belanda",
+    "Hukum Pariwisata",
+    "Pengantar Hospitalitas",
+    "Globalisasi dan Dampak Terhadap Pariwisata",
+    "Sistem Informasi Pariwisata",
+    "Geografi Pariwisata Nasional",
+    "MICE",
+    "Manajemen Seni Pertunjukan",
+    "Manajemen Pengolahan Makanan & Minuman",
+    "Seni & Kebudayaan Indonesia",
+    "Geografi Pariwisata Internasional",
+    "Statistik Pariwisata",
+    "Pariwisata Berkelanjutan",
+    "Bisnis Pariwisata"
+  ],
+  "characters": [
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Saat ini sektor pariwisata Indonesia sedang bergairah. Pemerintah sedang gencar meningkatkan kualitas industri pariwisata. Oleh karena itu, peluang bekerja pun juga semakin lebar. Lulusan program studi Pariwisata dapat bekerja sebagai pemandu wisata, hotelier, pengusaha akomodasi pariwisata seperti hotel dan penginapan, manajer pusat rekreasi, event organizer, dan masih banyak lagi.",
+  "professions": [
+    "Perencana Meeting, Convention dan Acara",
+    "Manajer Penginapan (Lodging Managers)",
+    "Barista",
+    "Pemandu Tur",
+    "Pemandu Wisata",
+    "Manajer Layanan Makanan (Food Service Managers)",
+    "Baker (Pembuat Roti)",
+    "Chef dan Kepala Koki (Chef and Head Cook)",
+    "Agen Perjalanan",
+    "Manajer Pusat Rekreasi"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/event",
+    "ekonomi-bisnis/manajemen-pariwisata",
+    "ekonomi-bisnis/destinasi-pariwisata",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "pendidikan/pelatihan-olahraga-pariwisata",
+    "ekonomi-bisnis/usaha-perjalanan-wisata"
+  ],
+  "major_group_id": 50,
+  "jlh_prodi": 18,
+  "dt_snbp": 623,
+  "dt_snbt": 923,
+  "major_field": 10,
+  "prodi": [
+    {
+      "major_university_id": "362091",
+      "major_university_name": "S1 PARIWISATA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361085",
+      "major_university_name": "S1 PARIWISATA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.21729,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142084",
+      "major_university_name": "S1 PARIWISATA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711077",
+      "major_university_name": "S1 PARIWISATA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621047",
+      "major_university_name": "D3 PARIWISATA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611042",
+      "major_university_name": "S1 PARIWISATA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 7.62155,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385022",
+      "major_university_name": "S1 PARIWISATA - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": 8.83534,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372078",
+      "major_university_name": "S1 PARIWISATA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.18047,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352020",
+      "major_university_name": "S1 PARIWISATA - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334100",
+      "major_university_name": "S1 INDUSTRI PARIWISATA KAMPUS SUMEDANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 23.622,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334096",
+      "major_university_name": "S1 PENDIDIKAN PARIWISATA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 6.97211,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333080",
+      "major_university_name": "D4 PARIWISATA BAHARI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "192040",
+      "major_university_name": "S1 PARIWISATA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131037",
+      "major_university_name": "D4 USAHA PERJALANAN WISATA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 7.96253,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "562021",
+      "major_university_name": "D3 PARIWISATA - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "143014",
+      "major_university_name": "S1 PARIWISATA - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 32.2034,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727010",
+      "major_university_name": "D3 PARIWISATA - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752061",
+      "major_university_name": "D3 PARIWISATA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 50,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pariwisata",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

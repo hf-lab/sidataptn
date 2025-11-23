@@ -1,0 +1,541 @@
+{
+  "idx": 169,
+  "id": "pendidikan-guru-sekolah-dasar",
+  "major_name": "Pendidikan Guru Sekolah Dasar",
+  "icon": null,
+  "description": "Pendidikan Guru Sekolah Dasar (PGSD) mempersiapkan mahasiswa untuk menjadi guru Sekolah Dasar (SD). Program studi ini menjadi favorit bagi siswa SMA yang ingin terjun di dunia pendidikan. Di sini, para mahasiswa mempelajari semua materi pelajaran SD seperti Matematika, Bahasa Inggris, Bahasa Indonesia, Pkn, IPS, IPA, Kesenian, dan sebagainya.\r\rTak hanya pemahaman akademis, para mahasiswa juga dituntut untuk memahami karakter dan pengembangan kepribadian seperti sikap santun, disiplin, pintar, dan berjiwa sosial. Mengapa? Guru SD bertanggung jawab membangun kepribadian siswa sejak dini. Guru SD memberikan pondasi ilmu yang berguna sehingga siswa siap untuk menapaki jenjang pendidikan selanjutnya. \r",
+  "why": "Apa sih yang menarik dari jurusan ini? Memang, jika dibandingkan dengan program studi yang lain, PGSD kurang populer. Namun, bukan berarti jurusan ini harus kamu hindari. Malah sebaliknya, PGSD bisa menjadi pilihan yang tepat karena profesi guru SD memegang peran yang sangat penting untuk masa depan Indonesia. Saat ini kita membutuhkan tenaga-tenaga pengajar yang berkualitas, terutama untuk banyak daerah di luar pulau jawa. Sangat menantang bukan? ",
+  "subjects": [
+    "Pengantar Pendidikan",
+    "Ilmu Sosial Budaya Dasar",
+    "Pendidikan Kewarganegaraan",
+    "Bahasa Inggris",
+    "Pengembangan Kurikulum SD",
+    "Psikologi Pendidikan",
+    "Strategi Belajar Mengajar SD",
+    "Ilmu Alamiah Dasar",
+    "Profesi Keguruan",
+    "Pendidikan Nilai Budi Pekerti",
+    "Kajian PPKn SD",
+    "Kajian Matematika SD",
+    "Pendidikan Multikultural"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Para lulusan program studi ini mempunyai prospek bekerja yang jelas, utamanya adalah menjadi guru sekolah dasar. Saat ini, ketersediaan guru SD masih sedikit dan belum memenuhi kebutuhan, terutama di daerah-daerah pedalaman, Jika kamu memilih kuliah di jurusan ini, kamu bisa berkarya di daerah pedalaman yang membutuhkan tenagamu sebagai guru.",
+  "professions": [
+    "Pengajar Bisnis",
+    "Pelatih dan Pemandu Olahraga",
+    "Guru Vokasi",
+    "Guru TK",
+    "Pengajar Geografi",
+    "Pengajar Ilmu Kebugaran",
+    "Tutor",
+    "Kepala Sekolah"
+  ],
+  "related_majors": [
+    "pendidikan/kurikulum-dan-teknologi-pendidikan",
+    "pendidikan/pendidikan-luar-sekolah",
+    "humaniora/psikologi",
+    "pendidikan/pendidikan-luar-biasa"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 52,
+  "dt_snbp": 3279,
+  "dt_snbt": 4943,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "311033",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 8.76672,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356063",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.4861,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353061",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PGSD) SURAKARTA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.02152,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "621033",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 10.8819,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631036",
+      "major_university_name": "S1 PEND. GURU SEKOLAH  DASAR - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 7.35171,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334083",
+      "major_university_name": "S1 PGSD KAMPUS TASIKMALAYA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.20433,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362049",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 4.75483,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371055",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 8.3237,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323026",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 6.55949,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191055",
+      "major_university_name": "S1 PGSD - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 15.0131,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171052",
+      "major_university_name": "S1 PGSD - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 3.63372,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "161039",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 8.34202,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151042",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 7.74379,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131052",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 3.4657,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "122038",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR (PGSD) - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 8.44667,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511052",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PGSD) - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 4.47761,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712059",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (KAMPUS BONE) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 37.2727,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541054",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 11.3677,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531059",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 24.959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521027",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PGSD) - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 32.0513,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612036",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 25.1046,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712057",
+      "major_university_name": "S1 PEND. GURU SEK. DASAR (KAMPUS MAKASSAR) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 5.42043,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752044",
+      "major_university_name": "S1 PENDIDIKAN GURU SD - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 9.89362,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712060",
+      "major_university_name": "S1 PEND. GURU SEK. DASAR (KAMPUS PARE*PARE) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 31.1628,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731038",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 10.7517,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "741026",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR (PGSD) - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751060",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PGSD) S1 - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 4.20962,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383092",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111055",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 6.66667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142030",
+      "major_university_name": "S1 PGSD (PENDIDIKAN GURU SEKOLAH DASAR) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 4.06905,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142090",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR * PSDKU SAWAHLUNTO - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334078",
+      "major_university_name": "S1 PGSD KAMPUS CIBIRU - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 10.2362,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334080",
+      "major_university_name": "S1 PGSD KAMPUS SUMEDANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 17.0543,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334082",
+      "major_university_name": "S1 PGSD KAMPUS PURWAKARTA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 20.3518,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334084",
+      "major_university_name": "S1 PGSD KAMPUS SERANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 15.873,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334085",
+      "major_university_name": "S1 PGSD KAMPUS BUMI SILIWANGI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 10.6007,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353066",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PGSD) KEBUMEN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 9.69977,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371064",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR KAMPUS BONDOWOSO - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 19.8276,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373033",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 8.12672,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383031",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 9.66278,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "384022",
+      "major_university_name": "S1 PGSD - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 15.4867,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911040",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 21.1538,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821034",
+      "major_university_name": "S1 PGSD S1 - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 148.74,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811055",
+      "major_university_name": "S1 PGSD S1 - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 143.878,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114022",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 21.6867,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722044",
+      "major_university_name": "S1 PGSD - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 57.9186,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712069",
+      "major_university_name": "S1 P. GURU SEK DASAR BILINGUAL (KAMP MAKASSAR) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 29.8507,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551021",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 32.1033,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811060",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PSDKU KAB. MBD) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 2300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811064",
+      "major_university_name": "S1 PEND. GURU SEKOLAH DASAR (PSDKU KAB. ARU) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 2333.33,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912023",
+      "major_university_name": "S1 PENDIDIKAN GURU SEKOLAH DASAR - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 240,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921047",
+      "major_university_name": "S1 PENDIDKAN GURU SEKOLAH DASAR - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

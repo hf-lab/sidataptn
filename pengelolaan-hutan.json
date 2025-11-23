@@ -1,0 +1,155 @@
+{
+  "idx": 186,
+  "id": "pengelolaan-hutan",
+  "major_name": "Pengelolaan Hutan",
+  "icon": null,
+  "description": "Pengelolaan Hutan adalah program studi berbasis vokasi berjenjang Diploma 3 (D3) yang mempelajari seluk beluk tentang manajemen hutan, pengelolaan hasil hutan, silvikultur, hingga keterampilan survei dan pemetaan. Dalam program diploma Pengelolaan Hutan kamu akan belajar dasar-dasar yang akan memperkenalkan kamu dengan hutan itu sendiri, seperti pengenalan pohon, fisiologi pohon, ilmu tanah, praktek pengenalan hutan. Lalu kamu juga akan mempelajari penanaman pohon, dan mengelola hasil hutan itu sendiri. Dan seperti program studi pada sekolah vokasi pada umumnya, program studi ini juga akan memberikan kegiatan praktek dalam porsi yang lebih besar ketimbang teori.",
+  "why": "Jangan ngaku pecinta alam, kalau kamu cuma doyan hiking dan camping. Pecinta alam sejati juga harus bisa menghormati hutan dan isinya, nggak cuma menikmati keindahannya tapi juga melestarikannya. Makanya program diploma Pengelolaan Hutan akan cocok untuk si pecinta alam sejati. Kalau ingin terjun ke program studi Pengelolaan Hutan kamu juga harus punya kemampuan survive yang kuat, lho! Ingat, di program studi ini akan lebih banyak kegiatan praktek yang artinya kamu harus terjun langsung ke “lapangan”.",
+  "subjects": [
+    "Silvikultur Umum",
+    "Ilmu Tanah Hutan",
+    "Teknik Penanaman",
+    "Ilmu Ukur Kayu",
+    "Ilmu Ukur Tanah dan Perpetaan",
+    "Fisiologi Pohon",
+    "Kesuburan Tanah",
+    "Inventarisasi Hutan",
+    "Manajemen Hutan",
+    "Konservasi Tanah dan Air",
+    "Penyuluhan Kehutanan",
+    "Pengolahan Kayu",
+    "Pembelanjaan Hutan",
+    "Agroforestry",
+    "Pemanenan Hasil Hutan",
+    "Pengelolaan Daerah Aliran Sungai",
+    "Antropologi Masyarakat Desa"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Indonesia akan selalu membutuhkan Ahli Madya Pengelolaan Hutan yang kompeten, mengingat hutan adalah paru-paru bumi, dan hutan-hutan di Indonesia kini sedang mengalami krisis. Hutan di Indonesia menyusut 2% setiap tahunnya akibat kerusakan, penebangan liar, dan pembakaran hutan. Kondisi ini memancing permasalahan-permasalahan lanjutan seperti hilangnya habitat satwa liar, kepunahan tumbuhan dan hewan endemik, sampai menyebabkan bencana alam. Mengerikan bukan? Karenanya lulusan Pengelolaan Hutan akan sangat dibutuhkan sebagai tenaga teknis perencanaan hutan, pembinaan hutan, pemanenan hutan, peneliti , penyuluh, dan polisi kehutanan. ",
+  "professions": [
+    "Peneliti Hewan",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan",
+    "Ahli Konservasi Hutan",
+    "Peneliti Tanah dan Tumbuhan",
+    "Pengawas Hutan"
+  ],
+  "related_majors": [
+    "pertanian/kehutanan",
+    "pertanian/konservasi-sumberdaya-hutan-dan-ekowisata",
+    "pertanian/silvikultur",
+    "pertanian/manajemen-hutan"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 9,
+  "dt_snbp": 196,
+  "dt_snbt": 259,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "353032",
+      "major_university_name": "S1 PENGELOLAAN HUTAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.29493,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361056",
+      "major_university_name": "D4 PENGELOLAAN HUTAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 17.1429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711047",
+      "major_university_name": "S1 KONSERVASI HUTAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 49.2537,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921036",
+      "major_university_name": "D3 MANAJEMEN HUTAN ALAM PRODUKSI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "561006",
+      "major_university_name": "D3 PENGOLAHAN HASIL HUTAN - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "561009",
+      "major_university_name": "D3 PENGELOLAAN HUTAN - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "642004",
+      "major_university_name": "D4 PENGELOLAAN HUTAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 173.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642008",
+      "major_university_name": "D3 MANAJEMEN SUMBER DAYA HUTAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811072",
+      "major_university_name": "S1 PENGELOLAAN HUTAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

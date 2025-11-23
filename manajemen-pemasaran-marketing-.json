@@ -1,0 +1,276 @@
+{
+  "idx": 125,
+  "id": "manajemen-pemasaran-marketing-",
+  "major_name": "Manajemen Pemasaran (Marketing)",
+  "icon": null,
+  "description": "Manajemen Pemasaran adalah program studi yang mempelajari tentang perencanaan, pengelolaan, pelaksanaan, pengawasan, hingga evaluasi proses dan kegiatan pemasaran barang dan jasa, untuk memenuhi tujuan dari perusahaan atau organisasi tertentu. Dalam Manajemen Pemasaran akan dipelajari mengenai pengembangan konsumen, pergerakan produk dari tangan produsen ke tangan konsumen. Termasuk pemahaman terkait perilaku dan dinamika konsumen, analisa permintaan, teori harga, segmentasi pasar, metode dan media periklanan, dan aspek-aspek pemasaran lainnya. ",
+  "why": "Di program studi Manajemen Pemasaran ini kamu akan dipandu untuk berbikir kreatif dan inovatif serta tetap up to date dengan perkembangan tren dan teknologi. Pemasaran adalah salah satu faktor tertentu dalam penentu suksesnya suatu perusahaan atau produk untuk dikenal dan dipercaya oleh masyarakat yang menjadi konsumennya, karena itu seorang profesional Manajemen Pemasaran atau marketer juga merupakan representasi dari perusahaan atau produk yang dipasarkannya, sehingga penting sekali untuk memiliki kemampuan komunikasi yang baik. Di era digital ini, kemampuan kamu dalam menggunakan social media juga menjadi nilai tambah karena kini social media menjadi salah satu media pemasaran yang efektif.",
+  "subjects": [
+    "Manajemen Pemasaran",
+    "Manajemen Bisnis",
+    "Perilaku Konsumen",
+    "Manajemen Sumber Daya Manusia",
+    "Akuntansi",
+    "Statistik Bisnis",
+    "Manajemen Produk",
+    "Matematika Bisnis",
+    "Pemasaran Digital",
+    "Managemen Operasi",
+    "Pemasaran Jasa",
+    "Periklanan dan Promosi Penjualan",
+    "Manajemen Hubungan Pelanggan",
+    "Manajemen Retail",
+    "Perencanaan Pemasaran",
+    "Riset Pemasaran",
+    "Komunikasi Bisnis",
+    "Etika dan Hukum Bisnis",
+    "Manajemen Pemasaran Wisata",
+    "Pemasaran Usaha Kecil dan Menengah",
+    "Pemasaran Informasi",
+    "Sistem Informasi Manajemen",
+    "Perpajakan",
+    "E-Commerce"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Setiap kegiatan bisnis atau usaha membutuhkan kegiatan pemasaran agar produk baik barang ataupun jasa yang dihasilkannya dapat dikenal, diterima, dan dikonsumsi oleh target marketnya. Oleh karena itu peranan seorang marketer sangat dibutuhkan di berbagai perusahaan. Program studi Manajemen Pemasaran berjenjang studi Diploma III (D3) Diploma IV (D4) dan Strata I (S1). Lulusan Manajemen Pemasaran memiliki lapangan pekerjaan yang sangat luas, tidak hanya di perusahaan swasta, tapi juga di berbagai Badan Usaha Milik Negara (BUMN). Tidak heran banyak lulusan Manajemen Pemasaran atau Marketing yang berkarir di divisi pemasaran sebagai sales executive, analis pemasaran, dan social media marketer.",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Agen Pembelian (Tidak Termasuk Grosir, Retail dan Produk Pertanian)",
+    "Manajer Pencegah Kerugian",
+    "Telemarketer",
+    "Manajer Penjualan",
+    "Representatif Layanan Konsumen",
+    "Manajer Produksi Industri",
+    "Pramuniaga",
+    "Manajer Pemasaran",
+    "Analisis Riset Pasar dan Spesialis Pemasaran"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-keuangan",
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "ekonomi-bisnis/event",
+    "ekonomi-bisnis/ekonomi-bisnis",
+    "humaniora/manajemen-komunikasi",
+    "ekonomi-bisnis/manajemen-sumber-daya-manusia-organisasi",
+    "humaniora/marketing-communication",
+    "ekonomi-bisnis/pemasaran-internasional",
+    "ekonomi-bisnis/akuntansi-bisnis",
+    "ekonomi-bisnis/branding"
+  ],
+  "major_group_id": 27,
+  "jlh_prodi": 20,
+  "dt_snbp": 541,
+  "dt_snbt": 787,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "334049",
+      "major_university_name": "S1 MANAJEMEN PEMASARAN PARIWISATA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.38358,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431018",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 7.14286,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "562010",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 12.5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452015",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN/MARKETING - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431021",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362081",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "373067",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.38462,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381053",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "731055",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141052",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "474016",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 22.5064,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472021",
+      "major_university_name": "D4 MANAJEMEN PEMASARAN INTERNASIONAL - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 34.0426,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353093",
+      "major_university_name": "MANAJEMEN PEMASARAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "353092",
+      "major_university_name": "MANAJEMEN PERDAGANGAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311047",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191063",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151066",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142069",
+      "major_university_name": "D3 MANAJEMEN PERDAGANGAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "722055",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727015",
+      "major_university_name": "D3 MANAJEMEN PEMASARAN - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 27,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Manajemen",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

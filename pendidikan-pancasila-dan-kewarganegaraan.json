@@ -1,0 +1,350 @@
+{
+  "idx": 181,
+  "id": "pendidikan-pancasila-dan-kewarganegaraan",
+  "major_name": "Pendidikan Pancasila dan Kewarganegaraan",
+  "icon": null,
+  "description": "Program studi Pendidikan Pancasila dan Kewarganegaraan akan membuatmu menguasai bidang ilmu pokok: Pendidikan kewarganegaraan, Politik,  Hukum, Pendidikan  serta  memiliki wawasan yang luas  dalam bidang ilmu yang relevan. Selain itu, program studi ini juga akan membekali kamu dengan integritas moral, religiusitas yang tinggi, kepribadian yang mantap, keyakinan akan kebenaran Pancasila sebagai ideologi dan dasar negara.\r\rKamu akan dilatih untuk mampu  merencanakan,  melaksanakan (strategi, metode,pengelolaan kelas, media, dll), mengevaluasi proses dan hasil pembelajaran Pendidikan kewarganegaraan dalam berbagai jenjang pendidikan.",
+  "why": "Apabila kamu tertarik dengan ilmu kewarganegaraan, pemerintah, polik dan kenegaraan, serta memiliki panggilan jiwa sebagai pendidik, maka program studi ini akan sangat cocok buat kamu,\r\rProgram studi ini akan menjadikanmu tenaga profesional dalam bidang Pendidikan Kewarganegaraan dan Tata Negara, Demokrasi, serta Hak Asasi Manusia. Selain itu, program studi ini juga akan menghasilkan tenaga peneliti dan pengembang dalam bidang Pendidikan Kewarganegaraan dan Tata Negera, Demokrasi, dan Hak Asasi Manusia.",
+  "subjects": [
+    "Pendidikan Pancasila",
+    "Ilmu Kependidikan",
+    "Ilmu Negara",
+    "Ilmu Hukum",
+    "Ilmu Politik",
+    "Sosiologi",
+    "Antropologi",
+    "Filsafat Pancasila dan Perbandingan Idiologi",
+    "Statistika"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi ini telah melahirkan lulusan yang bekerja sebagai pendidik pada jenjang pendidikan dasar, menengah maupun pendidikan tinggi baik negeri maupun swasta, seperti di Sekolah Dasar, SMP/ MTS, SMA/MA/SMK, maupun di Perguruan Tinggi. Disamping profesi tersebut, beberapa alumni juga berhasil diterima dalam beberapa profesi seperti antara lain sebagai wartawan, instansi pemerintahan, lembaga swadaya masyarakat, BUMN, lembaga legislatif, maupun lembaga swasta.",
+  "professions": [
+    "Petugas Hakim Hukum Administratif, Juri, dan Sidang",
+    "Staff Legal",
+    "Pegawai Yudisial"
+  ],
+  "related_majors": [
+    "humaniora/ilmu-politik",
+    "pendidikan/pendidikan-sejarah",
+    "humaniora/ilmu-pemerintahan"
+  ],
+  "major_group_id": 8,
+  "jlh_prodi": 31,
+  "dt_snbp": 985,
+  "dt_snbt": 1504,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "631029",
+      "major_university_name": "S1 PPKN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 11.9929,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171045",
+      "major_university_name": "S1 PPKN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 17.3077,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122022",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEGARAAN (PPKN) - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 19.6581,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751056",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEGARAAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 31.4685,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712051",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 15.1639,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621032",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 38.0952,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511058",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 28,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383044",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 14.9051,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373035",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 13.8756,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362032",
+      "major_university_name": "S1 PENDIDIKAN KEWARGANEGARAAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 8.39895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356031",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA & KEWARGANEGARAAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 12.8755,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334044",
+      "major_university_name": "S1 PKN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 13.7931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111045",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 23.5577,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131043",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 14.5228,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142041",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEGARAAN (PPKN) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151052",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 23.1959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191047",
+      "major_university_name": "S1 PPKN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 23.6311,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311038",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 26.3804,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323039",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA & KEWARGANEGARAAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 10.1408,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353052",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEGARAAN (PPKN) - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.33333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "521023",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEGARAAN (PPKN) - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 58.9744,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531042",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 56.8182,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541048",
+      "major_university_name": "S1 PEND. PANCASILA DAN KEWARGANEGARAAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 33.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612021",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 32.6531,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722032",
+      "major_university_name": "S1 PPKN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 143.75,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731035",
+      "major_university_name": "S1 PEND. PANCASILA DAN KEWARGANEGARAAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 42.0561,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752039",
+      "major_university_name": "S1 PENDIDIKAN PANCASLA DAN KEWARGANEGARAAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 80,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "753026",
+      "major_university_name": "S1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 354.545,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811048",
+      "major_university_name": "S1 PPKN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 214.286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821029",
+      "major_university_name": "S1 PPKN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 517.391,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911030",
+      "major_university_name": "S1 PEND. PANCASILA & KEWARGANEG. - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 110,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 8,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Pertahanan",
+    "merdeka_subject": [
+      11
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      12
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

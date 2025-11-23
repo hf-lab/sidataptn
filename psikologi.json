@@ -1,0 +1,462 @@
+{
+  "idx": 197,
+  "id": "psikologi",
+  "major_name": "Psikologi",
+  "icon": null,
+  "description": "Psikologi merupakan disiplin ilmu yang mempelajari mental, pikiran, dan perilaku manusia. Program studi ini juga meneliti alur pemikiran dan alasan di balik perilaku dan tindakan manusia. Ilmu psikologi ini seringkali digunakan untuk menyelesaikan masalah dalam serangkaian aktivitas manusia yang kompleks. Ilmu \r\rPsikologi sendiri terbagi menjadi beberapa bagian, diantaranya adalah Psikologi Klinis, Psikologi Perkembangan, Psikologi Industri dan Organisasi, Psikologi Pendidikan, dan Psikologi Sosial. Prodi Psikologi di beberapa perguruan tinggi tergolong dalam kategori saintek, dan di beberapa perguruan tinggi lainnya tergolong dalam kategori soshum. \r",
+  "why": "Psikologi adalah salah satu prodi paling populer di Indonesia. Selain mempelajari tentang perilaku dan kepribadian manusia, lapangan pekerjaan untuk lulusan jurusan ini pun terbuka lebar, begitu pula dengan pilihan jalur karier yang beragam. Belajar Psikologi itu seru banget, kamu akan jadi paham perilaku dan kepribadian manusia. Kalau gosipnya anak Psikologi bisa baca pikiran orang atau bakal kerja di rumah sakit jiwa, ini salah! Masih banyak yang belum mengerti bedanya psikolog dan psikiater. Disini kamu akan dapat jawabannya.",
+  "subjects": [
+    "Rentang Perkembangan Manusia",
+    "Biopsikologi",
+    "Teori-Teori Kepribadian",
+    "Psikologi Sosial",
+    "Psikologi Pendidikan",
+    "Psikologi Komunikasi",
+    "Asesmen Dasar",
+    "Teori dan Aplikasi Pengukuran Psikologi",
+    "Kesehatan Mental",
+    "Psikologi Industri",
+    "Intervensi Psikologi",
+    "Psikologi Pendidikan ARBK",
+    "Gangguan Mental",
+    "Psikologi Organisasi",
+    "Integrasi Psikologi",
+    "Psikologi Faal",
+    "Psikologi Perkembangan",
+    "Statistika",
+    "Psikometri",
+    "Psikodiagnostik",
+    "Kode Etik Psikologi",
+    "Psikologi Konseling",
+    "Patologi & Rehabilitasi Sosial",
+    "Psikologi Lintas Budaya",
+    "Psikologi Lingkungan",
+    "Masalah-masalah Psikologis Remaja",
+    "Psikogeriatri",
+    "Psikologi Perkembangan Anak Usia Dini",
+    "Psikogerontologi",
+    "Andragogi",
+    "Pengelolaan Sumber Daya Manusia",
+    "Psikologi sekolah",
+    "Bimbingan & Konseling"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Psikologi salah satu prodi yang banyak dicari di dunia kerja. Kemampuan lulusannya untuk menganalisis perilaku dan kepribadian manusia sangat bermanfaat untuk berbagai industri. Seorang Sarjana Psikologi dapat berkarir sebagai konsultan psikologi/psikolog, ahli psikometri yang tugasnya membuat pengukuran psikologis, pengajar psikologi, dan recruiter atau talent acquisition di berbagai perusahaan. Di instansi pemerintahan, lulusan Psikologi juga dibutuhkan sebagai ahli intervensi sosial yang tugasnya membantu pemerintah menangani konflik-konflik dalam kelompok atau komunitas tertentu di masyarakat.",
+  "professions": [
+    "Peneliti Survei",
+    "Psikolog Klinis",
+    "Psikolog Organisasi Industri",
+    "Konselor Kesehatan Mental (Mental Health Counselors)",
+    "Spesialis Kompensasi, Tunjangan, dan Analisa Pekerjaan",
+    "Pewawancara (Tidak Termasuk Kelayakan dan Pinjaman)",
+    "Psikolog Konseling",
+    "Terapis Pernikahan dan Keluarga (Marriage and Family Therapists)",
+    "Psikolog Sekolah",
+    "Spesialis Anak Berkebutuhan Khusus"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-guru-sekolah-dasar",
+    "kesehatan/okupasi-terapi",
+    "humaniora/ilmu-keluarga-dan-konsumen",
+    "kesehatan/terapi-wicara",
+    "pendidikan/pendidikan-bimbingan-konseling",
+    "kesehatan/farmasi-klinik-dan-komunitas",
+    "kesehatan/tasawuf-psikoterapi"
+  ],
+  "major_group_id": 9,
+  "jlh_prodi": 40,
+  "dt_snbp": 2354,
+  "dt_snbt": 3456,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "111056",
+      "major_university_name": "S1 PSIKOLOGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 5.45723,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372064",
+      "major_university_name": "S1 PSIKOLOGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 3.63709,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362063",
+      "major_university_name": "S1 PSIKOLOGI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 1.54739,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361084",
+      "major_university_name": "S1 PSIKOLOGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 1.85984,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356041",
+      "major_university_name": "S1 PSIKOLOGI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 4.25425,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355048",
+      "major_university_name": "S1 PSIKOLOGI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 2.91875,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353002",
+      "major_university_name": "S1 PSIKOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.0231,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "531064",
+      "major_university_name": "S1 PSIKOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 6.73854,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334043",
+      "major_university_name": "S1 PSIKOLOGI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 1.97657,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333018",
+      "major_university_name": "S1 PSIKOLOGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 2.53853,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323027",
+      "major_university_name": "S1 PSIKOLOGI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 2.93638,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541057",
+      "major_university_name": "S1 PSIKOLOGI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 3.57143,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171033",
+      "major_university_name": "S1 PSIKOLOGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 3.09735,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711039",
+      "major_university_name": "S1 PSIKOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 3.39943,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121048",
+      "major_university_name": "S1 PSIKOLOGI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 3.58473,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "611046",
+      "major_university_name": "S1 PSIKOLOGI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 4.07654,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "631047",
+      "major_university_name": "S1 PSIKOLOGI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 18.7348,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712056",
+      "major_university_name": "S1 PSIKOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 7.53512,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751073",
+      "major_university_name": "S1 PSIKOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 9.91379,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386016",
+      "major_university_name": "S1 PSIKOLOGI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 13.3987,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752062",
+      "major_university_name": "S1 PSIKOLOGI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383032",
+      "major_university_name": "S1 PSIKOLOGI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 6.78426,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "821038",
+      "major_university_name": "S1 PSIKOLOGI - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383027",
+      "major_university_name": "S1 BIMBINGAN DAN KONSELING - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 8.35141,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381029",
+      "major_university_name": "S1 PSIKOLOGI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 3.66412,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "374017",
+      "major_university_name": "S1 PSIKOLOGI - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 24.7423,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373049",
+      "major_university_name": "S1 PSIKOLOGI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 5.90038,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "365022",
+      "major_university_name": "S1 PSIKOLOGI - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 6.71642,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "357029",
+      "major_university_name": "S1 PSIKOLOGI - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 20.6311,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "336020",
+      "major_university_name": "S1 PSIKOLOGI - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 7.93037,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322031",
+      "major_university_name": "S1 PSIKOLOGI - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 7.2549,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321036",
+      "major_university_name": "S1 ILMU PSIKOLOGI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 2.18785,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151048",
+      "major_university_name": "S1 PSIKOLOGI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 7.30519,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142029",
+      "major_university_name": "S1 PSIKOLOGI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 7.7821,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "141022",
+      "major_university_name": "S1 PSIKOLOGI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 4.38218,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "132014",
+      "major_university_name": "S1 PSIKOLOGI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 14.0351,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112030",
+      "major_university_name": "S1 PSIKOLOGI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 17.4387,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384021",
+      "major_university_name": "S1 PSIKOLOGI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 22.028,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722043",
+      "major_university_name": "S1 PSIKOLOGI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 31.5271,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116016",
+      "major_university_name": "S1 PSIKOLOGI - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 60.3448,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 9,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Psikologi",
+    "merdeka_subject": [
+      6,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      6,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

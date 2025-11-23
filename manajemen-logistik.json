@@ -1,0 +1,131 @@
+{
+  "idx": 122,
+  "id": "manajemen-logistik",
+  "major_name": "Manajemen Logistik",
+  "icon": null,
+  "description": "Program studi ini masih terbilang “langka” di Indonesia. Manajemen Logistik mempelajari tentang bagaimana melakukan perencanaan, pengelolaan, pengendalian, dan pengawasan terhadap aliran uang, barang, energi, dan informasi, dan sumberdaya lainnya agar berjalan efisien dari asal hingga ke tujuan, mulai dari kegiatan pengadaan, penyimpanan, penyediaan, pengangkutan, hingga pengemasan barang-barang atau bahan baku tersebut.\r\rDi program studi ini akan di pelajari bagaimana tata letak gudang yang baik, sehingga dapat memaksimalkan kapasitas lahan dan meminimalisir kerusakan barang atau bahan baku yang tersimpan. Disini juga akan dipelajari bagaimana menghitung ongkos logistik, sistem bisnis logistik, dan sistem informasi logistik.",
+  "why": "Indonesia masih sangat kekurangan SDM yang berkecimpung di bidang logistik. Padahal ruang lingkup logistik Indonesia sangat luas. Pastinya hal ini membuat peluang karir di bidang logistik menjadi salah satu yang berjaya di Indonesia. Ditambah lagi dengan banyaknya jenis komoditas di Indonesia. Contohnya antara lain adalah komoditas perikanan, kelapa sawit, dan lain-lain.",
+  "subjects": [
+    "Matematika Ekonomi",
+    "Teori Ekonomi Mikro",
+    "Teori Ekonomi Makro",
+    "Statistik",
+    "Bank dan Institusi Keuangan",
+    "Manajemen Resiko",
+    "Perilaku Organisasi",
+    "Standar Prosedur Operasional Logistik",
+    "Manajemen Pembelian",
+    "Manajemen Pemasaran",
+    "Manajemen Pergudangan",
+    "Sistem Informasi Logistik",
+    "Manajemen Retail",
+    "Manajemen Transportasi & Distribusi",
+    "Sertifikasi Ekspor Import",
+    "Supply Chain Management",
+    "Tata Letak Pergudangan",
+    "Manajemen Pemeliharaan",
+    "Transportasi & Freight Forwarding Perdagangan Internasional",
+    "Manajemen Pemasaran Internasional",
+    "Undang-undang Kepabeanan & Hukum Transportasi",
+    "Dangerous Goods"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Ruang lingkup logistik sangat besar. Hampir tiap perusahaan terlibat dalam kegiatan logistik. Contohnya saja perusahaan ekspedisi atau pengiriman, berbagai pabrik, hingga perbankan. Logistik erat kaitannya dengan pertumbuhan ekonomi negara. Karena itu ilmu logistik penting untuk dipelajari agar dapat menghasilkan SDM berkompeten di bidang ini.",
+  "professions": [
+    "Ahli Logistik",
+    "Manager Logistik",
+    "Analis Logistik",
+    "Manajer Gudang dan Distribusi"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/ekonomi",
+    "teknik/transportasi-laut",
+    "pertanian/manajemen-sumber-daya-perairan",
+    "teknik/teknik-logistik",
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/manajemen-transportasi",
+    "ekonomi-bisnis/manajemen-aset",
+    "teknik/manajemen-rantai-pasok"
+  ],
+  "major_group_id": 48,
+  "jlh_prodi": 5,
+  "dt_snbp": 144,
+  "dt_snbt": 239,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "231009",
+      "major_university_name": "D4 LOGISTIK PERDAGANGAN INTERNASIONAL - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": 19.1489,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323069",
+      "major_university_name": "D4 MANAJEMEN PELABUHAN DAN LOGISTIK MARITIM - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333076",
+      "major_university_name": "D4 BISNIS LOGISTIK - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355083",
+      "major_university_name": "D4 MANAJEMEN DAN ADMINISTRASI LOGISTIK - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334033",
+      "major_university_name": "S1 LOGISTIK KELAUTAN * KAMPUS SERANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 53.2787,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 48,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Urusan Publik",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      12
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      12
+    ]
+  }
+}

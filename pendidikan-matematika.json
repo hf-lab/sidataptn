@@ -1,0 +1,566 @@
+{
+  "idx": 179,
+  "id": "pendidikan-matematika",
+  "major_name": "Pendidikan Matematika",
+  "icon": null,
+  "description": "Pendidikan Matematika merupakan salah satu program studi yang berada di bawah Fakultas Keguruan dan Ilmu Pendidikan. Apa perbedaan prodi Pendidikan Matematika dengan prodi Matematika Murni yang ada di Fakultas MIPA? Tentunya perbedaannya terletak pada mata kuliah ilmu pendidikan yang hanya diperoleh di prodi Pendidikan Matematika.\r\rPada prodi ini, selain mempelajari dasar-dasar ilmu matematika seperti aljabar, geometri, kalkulus, statistika, dan trigonometri, juga akan dipelajari dasar-dasar ilmu IPA lainnya seperti fisika, biologi, dan kimia. Sama halnya dengan prodi-prodi pada rumpun ilmu pendidikan lainnya, di prodi Pendidikan Matematika akan diajarkan teori-teori kependidikan yang mencakup metode pembelajaran matematika, perencanaan pengajaran, dan evaluasi pengajaran.\r",
+  "why": "Prodi ini cocok banget untuk yang suka matematika, tapi juga punya passion untuk mengajar. Banyak siswa yang merasa kalau matematika itu pelajaran yang sulit. Maka dari itu, dalam mengajar pun dibutuhkan kreatifitas untuk menemukan metode belajar yang lebih seru dan efektif agar matematika tidak lagi dianggap susah.",
+  "subjects": [
+    "Aljabar Linear",
+    "Aljabar Matriks",
+    "Analisis Numerik",
+    "Analisis Real",
+    "Analisis Regresi",
+    "Analisis Vektor",
+    "Fungsi Variabel Kompleks",
+    "Geometri Analitik",
+    "Geometri Bidang",
+    "Geometri Ruang",
+    "Geometri Transformasi",
+    "Kalkulus",
+    "Analisis Kurikulum dan Perencanaan Pengajaran Matematika",
+    "Dasar-Dasar dan Proses Pembelajaran Matematika",
+    "Evaluasi Proses dan Hasil Pembelajaran Matematika",
+    "Kurikulum dan Pembelajaran",
+    "Landasan Pendidikan",
+    "Matematika Diskrit",
+    "Matematika Ekonomi",
+    "Microteaching",
+    "Model Pembelajaran Matematika",
+    "Pengelolaan Pendidikan",
+    "Perkembangan dan Bimbingan Peserta Didik",
+    "Persamaan Diferensial",
+    "Profesi Kependidikan",
+    "Program Komputer",
+    "Program Linear",
+    "Statistika Matematika",
+    "Strategi dan Media Pembelajaran Matematika",
+    "Struktur Aljabar",
+    "Teori Bilangan",
+    "Teori Graph",
+    "Trigonometri"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan prodi Pendidikan Matematika dipersiapkan untuk menjadi guru atau pengajar matematika di tingkat SMP atau SMA. Selain itu lulus dari prodi ini, kita juga bisa menjadi entrepreneur handal di bidang pendidikan, karena memiliki latar belakang ilmu pendidikan, memungkinkan kita untuk membuka bimbingan belajar, les, atau privat matematika sebagai alternatif belajar siswa di luar sekolah.",
+  "professions": [
+    "Ahli Matematika",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "mipa/matematika",
+    "mipa/matematika-bisnis",
+    "mipa/statistika",
+    "pendidikan/pendidikan-ilmu-pengetahuan-alam"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 53,
+  "dt_snbp": 1891,
+  "dt_snbt": 2882,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "362001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 4.6176,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 9.43396,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621007",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 36.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631001",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 29.1667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 14.6667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511008",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 20.8333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "386001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 29.0123,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 14.3084,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 12.1008,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371003",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 22.4609,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "365007",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 19.4631,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 12.3367,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353021",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.69395,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352008",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 22.5895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 26.5781,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 8.47059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111013",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 28.4264,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311011",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 23.6948,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191015",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 26.0317,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751011",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 32.2148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171015",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 16.7763,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161009",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 22.5275,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151002",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 30.1435,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 13.0612,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 18.2171,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131021",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 14.1243,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "112014",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 55.0459,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912012",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 625,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712018",
+      "major_university_name": "S1 PEND. MATEMATIKA KLS INTERNAS. (BILINGUAL) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 57.6923,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722007",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 102.857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811003",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 183.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 91.1765,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741007",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 76.5432,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731002",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 47.1014,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551005",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 106.061,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114004",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 42.4242,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132007",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 63.0137,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133005",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 169.767,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 91.8919,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "322012",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 18.75,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "331006",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 29.3436,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383093",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521007",
+      "major_university_name": "S1 PEND. MATEMATIKA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 87.2727,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 25.8065,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541008",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 30.1887,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 83.1169,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "632005",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 84.9315,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753001",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 1057.14,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811032",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA (PSDKU KAB. MBD) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811033",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA (PSDKU KAB. ARU) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821011",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 407.407,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911006",
+      "major_university_name": "S1 PEND. MATEMATIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 110,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921016",
+      "major_university_name": "S1 PENDIDIKAN MATEMATIKA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

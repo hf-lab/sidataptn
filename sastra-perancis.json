@@ -1,0 +1,221 @@
+{
+  "idx": 217,
+  "id": "sastra-perancis",
+  "major_name": "Sastra Perancis",
+  "icon": null,
+  "description": "Sastra Prancis tak pernah sepi peminat. Daya tarik Prancis dengan ibu kotanya Paris dan Menara Eiffel selalu membuat banyak orang menaruh minat pada negeri yang juga kondang dengan industri fashion-nya ini. Program studi Sastra Prancis menawarkan pengetahuan tentang budaya Prancis, terutama bahasa dan literaturnya. Para mahasiswa di program studi ini akan mempelajari tata bahasa, Bahasa Prancis, komposisi, pemahaman teks, budaya, dan kesusastraan Prancis. ",
+  "why": "Jika kamu punya minat terhadap Bahasa Prancis, kamu tak perlu ragu untuk memilih program studi ini. Di sini kamu nggak hanya akan diajak untuk mendalami seluk beluk bahasa Prancis yang kondang karena pelafalannya yang indah namun sulit itu, tapi kamu juga akan mempelajari sejarah dan budaya dari negeri menara Eiffel ini.",
+  "subjects": [
+    "Bahasa Prancis Dasar",
+    "Tata Bahasa Prancis",
+    "Bahasa Prancis Madya",
+    "Sejarah Kesusastraan Prancis",
+    "Fonologi-Fonetik",
+    "Pengantar Sejarah Prancis",
+    "Apresiasi Sastra",
+    "Morfosintaksis",
+    "Budaya Prancis",
+    "Bahasa Prancis Mahir",
+    "Kesusastraan Prancis kontemporer",
+    "Semantik-Pragmatik",
+    "Bahasa Prancis Pariwisata",
+    "Pengkajian Sinema Prancis dan Frankofon",
+    "Pengkajian Kesusastraan  Frankofon",
+    "Leksikografi Prancis",
+    "Telaah Teks Lanjut",
+    "Penerjemahan Teks Khusus Prancis— Indonesia",
+    "Penerjemahan Teks Umum Prancis— Indonesia",
+    "Prancis dan Frankofoni Pasca Perang Dunia II",
+    "Pranata Masyarakat Prancis dan Frankofon"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Sastra Prancis termasuk jurusan Budaya dan Bahasa yang mempunyai peluang bekerja paling terbuka setelah Sastra Inggris. Daya tarik Prancis dan bahasanya yang unik memang membuka peluang berkarier sangat baik.",
+  "professions": [
+    "Editor (Artikel/Tulisan)",
+    "Wartawan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Pemandu Wisata",
+    "Penulis Perjalanan",
+    "Penulis Teknis",
+    "Penerjemah",
+    "Pemandu Tur",
+    "Novelis",
+    "Content Creator"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-rusia",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-",
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "budaya-bahasa/sastra-indonesia",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-jerman"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 14,
+  "dt_snbp": 297,
+  "dt_snbt": 467,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321057",
+      "major_university_name": "S1 SASTRA PERANCIS - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.7619,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361075",
+      "major_university_name": "S1 BAHASA DAN SASTRA PRANCIS - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.51163,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191059",
+      "major_university_name": "S1 BAHASA PERANCIS - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 78.125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "323032",
+      "major_university_name": "S1 PENDIDIKAN BAHASA PRANCIS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 12.2449,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333047",
+      "major_university_name": "S1 SASTRA PERANCIS - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.32945,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334057",
+      "major_university_name": "S1 PENDIDIKAN BAHASA PERANCIS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 23.5602,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356051",
+      "major_university_name": "S1 PENDIDIKAN BAHASA PRANCIS - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 43.6782,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356055",
+      "major_university_name": "S1 SASTRA PRANCIS - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 19.8953,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362054",
+      "major_university_name": "S1 PENDIDIKAN BAHASA PRANCIS - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 22.5352,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372068",
+      "major_university_name": "S1 BAHASA DAN SASTRA PRANCIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 14.5946,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122032",
+      "major_university_name": "S1 PENDIDIKAN BAHASA PERANCIS - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 145.455,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711069",
+      "major_university_name": "S1 SASTRA PERANCIS - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 73.0769,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722029",
+      "major_university_name": "S1 PEND. BAH. PERANCIS - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 400,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751076",
+      "major_university_name": "S1 SASTRA PRANCIS - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 457.143,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

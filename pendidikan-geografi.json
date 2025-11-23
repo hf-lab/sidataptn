@@ -1,0 +1,365 @@
+{
+  "idx": 168,
+  "id": "pendidikan-geografi",
+  "major_name": "Pendidikan Geografi",
+  "icon": null,
+  "description": "Program studi Pendidikan Geografi mempelajari ilmu bumi beserta kehidupan yang ada di dalamnya. Geografi meliputi keadaan dan segala gejala yang terjadi di fisik bumi yang terbagi dalam atmosfer, lithosfer, dan hidrosfer, serta hubungan timbal-balik manusia dengan alam. Yang menjadi pembeda di prodi Pendidikan Geografi adalah materi pendidikannya. Jadi, tidak hanya mempelajari ilmu Geografi, tapi juga teori kependidikan yang meliputi metode pembelajaran geografi, manajemen pendidikan, dan evaluasi pembelajaran geografi. \r\rLebih jelasnya, di prodi ini akan dipelajari bagaimana mengolah data geosfer dalam bentuk peta manual dan dijital untuk pembelajaran di sekolah. Juga akan dipelajari tentang kaitan antara aspek fisik dan sosial untuk menentukan keunikan suatu lokasi/wilayah. ",
+  "why": "Program studi ini cocok banget untuk kamu yang memiliki passion untuk mengajar. Apalagi kalau kamu suka banget sama ilmu bumi. Sebuah penelitian juga menyatakan kalau Indonesia masih kekurangan sarjana dan ahli di bidang geografi. Ini tentu saja ada korelasinya dengan kurangnya jumlah guru atau pengajar geografi di Indonesia.",
+  "subjects": [
+    "Landasan Pendidikan",
+    "Perkembangan Peserta Didik",
+    "Teori Belajar dan Pembelajaran",
+    "Sistem Pendidikan",
+    "Geologi",
+    "Geomorfologi",
+    "Oceanografi",
+    "Meteorologi",
+    "Hidrologi",
+    "Geografi Tanah",
+    "Geografi Sosial",
+    "Geografi Penduduk dan Demografi",
+    "Geografi Pertanian",
+    "Geografi Industri",
+    "Geografi Ekonomi",
+    "Geografi Budaya",
+    "Geografi Politik",
+    "Geografi Desa Kota",
+    "Geografi Pengembangan Wilayah",
+    "Kartografi Dasar",
+    "Kartografi Tematik",
+    "Penginderaan Jauh dan Fotogrametri",
+    "Sistem Informasi Geografi",
+    "Biogeografi",
+    "Kosmografi",
+    "Mineralogi Petrografi",
+    "Geografi Lingkungan",
+    "Perencanaan Pengajaran Geografi",
+    "Strategi Belajar Mengajar Geografi",
+    "Evaluasi Pengajaran Geografi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan prodi Pendidikan Geografi akan memeroleh gelar Sarjana Pendidikan (S.Pd) dan dapat menjadi guru atau pengajar matapelajaran Geografi di SMP dan SMA. Dengan bekal kewirausahaan yang ditanamkan di bangku kuliah juga memungkinkan lulusan Pendidikan Geografi mendirikan wirausaha yang bergerak di bidang pendidikan, seperti bimbel atau les privat untuk mata pelajaran ini.",
+  "professions": [
+    "Ahli Sistem Informasi Geografis",
+    "Pengajar Geografi",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Peta Geografi"
+  ],
+  "related_majors": [
+    "mipa/meteorologi",
+    "teknik/teknik-geomatika",
+    "mipa/penginderaan-jauh-dan-sistem-informasi-geografi",
+    "mipa/geografi",
+    "mipa/kartografi-dan-penginderaan-jauh",
+    "pendidikan/pendidikan-ilmu-pengetahuan-alam"
+  ],
+  "major_group_id": 53,
+  "jlh_prodi": 30,
+  "dt_snbp": 1025,
+  "dt_snbt": 1439,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "356032",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 14.3836,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631031",
+      "major_university_name": "S1 PEND. GEOGRAFI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 20.6226,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511060",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 36.5079,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383045",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 16.9231,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371062",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 16.7273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362034",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 7.98005,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353051",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 9.5082,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342013",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 18.75,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334046",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 11.5607,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323040",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 14.6953,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191049",
+      "major_university_name": "S1 PEND. GEOGRAFI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 29.927,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142038",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 20.1681,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132036",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 46.8354,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122023",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 20.8617,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "114020",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 63.6364,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751069",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 49.4624,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731050",
+      "major_university_name": "S1 PEND. GEOGRAFI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 41.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712064",
+      "major_university_name": "S1 PEND. GEOGRAFI KLS INTERNAS. (BILINGUAL) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 80.9524,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712037",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 21.8978,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752058",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 140.909,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541061",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 38.5542,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531054",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 102.174,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373058",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 20.2797,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111048",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 38.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612024",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722034",
+      "major_university_name": "S1 PEND GEOGRAFI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 172.727,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753024",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 316.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811046",
+      "major_university_name": "S1 PENDIDIKAN GEOGRAFI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 213.043,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821033",
+      "major_university_name": "S1 PEND. GEOGRAFI - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 743.75,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911035",
+      "major_university_name": "S1 PEND. GEOGRAFI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 78.5714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 53,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Geografi,Geografi Lingkungan, Sains Informasi, Geografi",
+    "merdeka_subject": [
+      18,
+      10
+    ],
+    "ipa_subject": [
+      14,
+      10
+    ],
+    "ips_subject": [
+      18,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

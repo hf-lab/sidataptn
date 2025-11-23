@@ -1,0 +1,206 @@
+{
+  "idx": 112,
+  "id": "manajemen-bisnis",
+  "major_name": "Manajemen Bisnis",
+  "icon": null,
+  "description": "Program studi Manajemen Bisnis akan memberikan kamu pengetahuan seputar bisnis dan kewirausahaan. Pada awal masa perkuliahan kamu akan mendapatkan pengetahuan dasar tentang bisnis dan ilmu manajemen. Selanjutnya kamu akan mendapatkan pengetahuan praktik dan keahlian di bidang produksi, manajemen mutu, dan manajemen proyek. Disini kemampuan analisis kamu juga akan diasah terkait dengan kelayakan bisnis, kemampuan komunikasi mu juga akan ikut serta di upgrade dengan adanya ilmu Komunikasi Bisnis dan Teknik Negosiasi Bisnis dalam perkuliahan.",
+  "why": "Kalau kamu tertarik mendalami seluk-beluk dunia bisnis dan kewirausahaan serta bagaimana cara mengelolanya, program studi Manajemen Bisnis bisa banget jadi pilihan kamu. Di sini, nggak hanya kamu akan mempelajari bisnis dari segi teori tapi juga akan diajak untuk melakukan analisis dan praktik dalam menyelesaikan permasalahan-permasalahan yang ada di dunia bisnis.",
+  "subjects": [
+    "Pengantar Ekonomi",
+    "Matematika Bisnis",
+    "Akuntansi Biaya",
+    "Ekonomi Makro",
+    "Ekonomi Mikro",
+    "Manajemen Keuangan",
+    "Manajemen Perkantoran",
+    "Manajemen Pemasaran",
+    "Manajemen Sumber Daya Manusia",
+    "Statistika Deskriptif",
+    "Komunikasi Bisnis",
+    "Manajemen Pengadaan",
+    "Praktik Perencanaan dan Pengendalian Produksi",
+    "Studi Kelayakan Bisnis",
+    "Perilaku Organisasi",
+    "Praktik Human Resources Information System",
+    "Sistem Manajemen Mutu",
+    "Manajemen Pelayanan",
+    "Manajemen Mutu",
+    "Analisa Pasar Modal",
+    "Manajemen Distribusi dan Logistik",
+    "Negosiasi Bisnis",
+    "Praktik MICE",
+    "Manajemen Resiko"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi Manajemen Bisnis tersedia dalam jenjang studi Diploma III (D3), Diploma IV (D4), dan Strata I (S1), karena itu lulusannya nanti akan memeroleh gelar yang berbeda-beda. Lulusan prodi ini dipersiapkan untuk meniti karir di berbagai bidang usaha atau bisnis baik di instansi swasta maupun instansi pemerintah. Sangat banyak ragam bisnis, mulai dari bisnis yang bergerak di bidang manufaktur maupun jasa, dan tiap-tiap unit bisnis tersebut membutuhkan profesional yang memiliki keahlian manajemen. Selain itu, lulusan prodi ini juga dibekali dengan pengetahuan kewirausahaan, sehingga sangat memungkinkan lulusannya untuk menciptakan usaha atau bisnis sendiri.",
+  "professions": [
+    "Manajer Produksi Industri",
+    "Spesialis Pencegah Kerugian Ritel",
+    "Manajer Penjualan",
+    "Pengajar Bisnis",
+    "Analis Manajemen Bisnis",
+    "Manajer Pencegah Kerugian",
+    "Spesialis Manajemen Keamanan",
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Manajer Umum dan Operasional",
+    "Analis Riset Operasional"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/bisnis-internasional",
+    "ekonomi-bisnis/manajemen-bisnis-pariwisata",
+    "ekonomi-bisnis/business-creation",
+    "ekonomi-bisnis/fashion-business",
+    "humaniora/administrasi-bisnis-administrasi-niaga-",
+    "ekonomi-bisnis/green-economy",
+    "mipa/matematika-bisnis",
+    "ekonomi-bisnis/kewirausahaan",
+    "ekonomi-bisnis/ekonomi-bisnis"
+  ],
+  "major_group_id": 27,
+  "jlh_prodi": 12,
+  "dt_snbp": 474,
+  "dt_snbt": 733,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "222010",
+      "major_university_name": "D4 MANAJEMEN BISNIS - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 14.6,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "271016",
+      "major_university_name": "D4 MANAJEMEN BISNIS - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": 9.33694,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "332024",
+      "major_university_name": "S1 SEKOLAH BISNIS DAN MANAJEMEN (SBM) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 4.25532,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353085",
+      "major_university_name": "MANAJEMEN BISNIS - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382043",
+      "major_university_name": "S1 MANAJEMEN BISNIS - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 5.33672,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "452013",
+      "major_university_name": "D4 MANAJEMEN BISNIS INTERNASIONAL - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 12.4579,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111073",
+      "major_university_name": "D3 MANAJEMEN PERUSAHAAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371073",
+      "major_university_name": "D3 MANAJEMEN PERUSAHAAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "481011",
+      "major_university_name": "D4 MANAJEMEN BISNIS - PPNS",
+      "university_name": "POLITEKNIK PERKAPALAN NEGERI SURABAYA",
+      "keketatan": 33.6735,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617008",
+      "major_university_name": "D4 MANAJEMEN BISNIS INTERNASIONAL - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 21.6578,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "641005",
+      "major_university_name": "D4 MANAJEMEN PERUSAHAAN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": 22.6277,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "727007",
+      "major_university_name": "D4 MANAJEMEN BISNIS - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": 54.2636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 27,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Manajemen",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

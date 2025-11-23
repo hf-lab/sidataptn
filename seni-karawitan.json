@@ -1,0 +1,157 @@
+{
+  "idx": 222,
+  "id": "seni-karawitan",
+  "major_name": "Seni Karawitan",
+  "icon": null,
+  "description": "Program studi Seni Karawitan mempelajari seni musik tradisional atau seni musik daerah khususnya di Jawa, Madura dan Bali. Tapi kamu tidak sebatas belajar seni musik daerah tersebut saja, tapi juga musik-musik daerah lainnya di Indonesia. Di sini kamu akan belajar memainkan berbagai instrumen musik tradisional seperti suling, kecapi, rabab, gamelan, dan gendang. Tidak hanya belajar memainkan alat musik, kamu juga akan belajar teknik vokal dalam musik tradisional, khususnya lagi “nyinden”. Nantinya kamu akan dapat mengaransemen dan menciptakan karya seni karawitan.",
+  "why": "Prodi ini memang ditujukan sebagai upaya konservasi dan melestarikan seni tradisional yang mulai terkikis oleh kebudayaan modern. Prodi ini cocok banget untuk kamu yang punya kepedulian tinggi dengan eksistensi seni budaya lokal dan ingin mengembalikan kejayaan seni tradisional di tengah-tengah masyarakat Indonesia dan dunia, terutama seni musik tradisional. ",
+  "subjects": [
+    "Teknik Instrumen Dasar",
+    "Produksi Karawitan",
+    "Pengantar kebudayaan",
+    "Sejarah Seni",
+    "Vokal Karawitan",
+    "Budaya Karawitan",
+    "Komposisi Karawitan",
+    "Karawitan Iringan",
+    "Karawitan Pakurmatan",
+    "Tata Musik Teater Musik Nusantara",
+    "Manajemen Seni Pertunjukan",
+    "Antropologi Seni",
+    "Sosiologi Seni",
+    "Karawitan Tari",
+    "Tembang",
+    "Seni Pertunjukan Indonesia",
+    "Teori Dasar Musik Barat",
+    "Filsafat Seni",
+    "Organologi & Akustika",
+    "Notasi & Transkripsi Karawitan",
+    "Estetika Karawitan",
+    "Kritik Karawitan",
+    "Karawitan Gaya Bali",
+    "Karawitan Gaya Banyumas",
+    "Karawitan Gaya Sunda",
+    "Karawitan Pakeliran",
+    "Karawitan Gaya Jogjakarta",
+    "Karawitan Gaya Makasar",
+    "Karawitan Gaya Minang",
+    "Karawitan Gaya Jawa Timur",
+    "Apresiasi Musik Dunia",
+    "Miji Instrumen",
+    "Literatur Karawitan"
+  ],
+  "characters": [
+    "Tekun",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Banyak yang memiliki ekspektasi rendah terhadap prospek lulusan prodi ini. Apalagi banyak yang beranggapan untuk jadi sinden tidak perlu sampai sarjana. Namun nyatanya lulusan prodi Seni Karawitan dapat menjadi ahli di bidang seni karawitan. Lulusannya dapat menjadi pengrawit, komposer, dan peneliti musik. Lulusan Seni Karawitan memiliki kesempatan yang sangat besar untuk mempopulerkan musik tradisional di kancah internasional.",
+  "professions": [
+    "Musik Komposer dan Arranger",
+    "Kurator Musik",
+    "Musisi Instrumental",
+    "Guru Musik"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-jawa",
+    "seni/seni-musik",
+    "seni/seni-pendalangan",
+    "budaya-bahasa/sastra-sunda",
+    "pendidikan/pendidikan-seni-drama-tari-dan-musik-sendratasik-",
+    "seni/seni-kriya",
+    "seni/seni-tari",
+    "seni/sendratasik-seni-drama-tari-dan-musik-",
+    "seni/audio-engineering",
+    "seni/etnomusikologi"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 7,
+  "dt_snbp": 150,
+  "dt_snbt": 194,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "335002",
+      "major_university_name": "S1 KARAWITAN - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 52.7473,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354010",
+      "major_university_name": "S1 SENI KARAWITAN - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 63.6364,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "364014",
+      "major_university_name": "S1 SENI KARAWITAN - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 45.4545,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "115001",
+      "major_university_name": "S1 SENI KARAWITAN - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 900,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143001",
+      "major_university_name": "S1 SENI KARAWITAN - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 125,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "151070",
+      "major_university_name": "S1 SENI KARAWITAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613002",
+      "major_university_name": "S1 SENI KARAWITAN - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 211.765,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

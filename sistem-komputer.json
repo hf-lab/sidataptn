@@ -1,0 +1,328 @@
+{
+  "idx": 233,
+  "id": "sistem-komputer",
+  "major_name": "Teknik Komputer (Computer Engineering)",
+  "icon": null,
+  "description": "Teknik Komputer dikenal juga dengan Sistem Komputer. Teknik Komputer adalah sebuah program studi yang mengintegrasikan teknik elektro dan ilmu komputer dalam mengembangkan sistem perangkat keras (hardware), perangkat lunak (software), dan jaringan komputer (network). Disini yang akan di pelajari adalah bagaimana merancang dan membangun “otak” dari komputer atau alat elektronik lainnya yang akan mengontrol jalannya sistem. Bentuk dari “otak” komputer tersebut adalah processor atau chip yang terdapat dalam motherboard. FYI, processor atau chip ini lah yang akan memroses instruksi atau aktivitas dari hardware (misalnya menekan tombol pada keyboard, atau mengeklik mouse), yang kemudian disimpan dalam memory, dan di operasikan dengan algoritma. Pada program studi ini juga akan mempelajari pemrograman, namun pemrograman disini lebih ditekankan pada bahasa pemrograman mesin.",
+  "why": "Komputer menjadi salah satu alat yang kini tidak bisa lepas dari kehidupan. Kamu pasti kerap menggunakan komputer. Nah, melalui program studi ini kamu akan mengetahui bagaimana komputer yang terdiri dari software, hardware, dan network tersebut dirancang dan dikembangkan sehingga menjadi alat seperti yang kita gunakan hari ini. Kalau kamu pribadi yang hi-tech, serta kuat matematika dan logika, kamu bisa memilih prodi ini, karena disini setiap harinya kamu akan berkutat dengan fungsi-fungsi matematika, dan logika.",
+  "subjects": [
+    "Kalkulus",
+    "Algoritma dan Pemrograman",
+    "Pemrograman Web",
+    "Matrik dan Vektor",
+    "Struktur Data",
+    "Organisasi Komputer",
+    "Rangkaian Listrik",
+    "Rangkaian Digital",
+    "Arsitektur Komputer",
+    "Rekayasa Perangkat Lunak",
+    "Jaringan Komputer",
+    "Analisis Kerja Sistem",
+    "Elektronika",
+    "Keamanan Komputer",
+    "Komputasi Bergerak",
+    "Sistem Operasi",
+    "Sistem Basis Data",
+    "Kriptografi",
+    "Bahasa Pemrograman Rakitan",
+    "Robotika",
+    "Pemrograman Multimedia",
+    "Simulasi dan Pemodelan",
+    "Sistem Embedded",
+    "Sistem Kecerdasan Buatan",
+    "Pengolahan Sinyal Digital",
+    "Sitem Mikroprosesor"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Program studi ini tidak hanya mempelajari komponen-komponen komputer (hardware) tetapi juga perangkat lunak (software) dari komputer sehingga lulusannya dapat mengaplikasikan ilmu-ilmu tersebut ke dalam berbagai penerapan komputer. Prospek karir yang berhubungan dengan prodi ini meliputi bidang yang sangat luas antara lain technopreneur, perancang jaringan komputer, hingga konsultan IT. Lulusan jurusan ini dapat bekerja pada sektor swasta maupun publik (pemerintah) yang memerlukan pengelolaan sistem atau jaringan komputer.",
+  "professions": [
+    "Programmer Peralatan yang dikontrol oleh Komputer Numerik",
+    "Dosen Ilmu Komputer",
+    "Peneliti Komputer dan Informasi",
+    "Arsitek Jaringan Komputer",
+    "Arsitek Sistem Komputer",
+    "Admin Database",
+    "Growth Hacker",
+    "Manager Sistem Komputer dan Informasi",
+    "Analis Sistem Komputer",
+    "Database Administrator"
+  ],
+  "related_majors": [
+    "komputer-teknologi/teknik-informatika",
+    "teknik/teknik-telekomunikasi",
+    "teknik/industrial-robotics-design",
+    "komputer-teknologi/human-computer-interaction",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/software-engineering-rekayasa-perangkat-lunak-",
+    "komputer-teknologi/sistem-dan-teknologi-informasi",
+    "komputer-teknologi/ilmu-komputer"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 25,
+  "dt_snbp": 837,
+  "dt_snbt": 1171,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "356027",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 3.06859,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141011",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 4.37637,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752064",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "716008",
+      "major_university_name": "D4 TEKNIK KOMPUTER & JARINGAN - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": 12.6761,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "712027",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 4.66531,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "551013",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 9.04255,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "482005",
+      "major_university_name": "D4 TEKNIK KOMPUTER - PENS",
+      "university_name": "POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)",
+      "keketatan": 11.2108,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382025",
+      "major_university_name": "S1 TEKNIK KOMPUTER - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 5.02092,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372035",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 6.95538,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355028",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.8296,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351059",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334032",
+      "major_university_name": "S1 TEKNIK KOMPUTER * KAMPUS CIBIRU - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.61723,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321021",
+      "major_university_name": "S1 TEKNIK KOMPUTER - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.9604,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "241029",
+      "major_university_name": "D3 TEKNIK KOMPUTER - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "222012",
+      "major_university_name": "D3 TEKNIK KOMPUTER - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171058",
+      "major_university_name": "D3 TEKNIK KOMPUTER - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111040",
+      "major_university_name": "S1 TEKNIK KOMPUTER - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 5.85176,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271019",
+      "major_university_name": "D3 TEKNIK KOMPUTER - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472032",
+      "major_university_name": "D3 TEKNIK KOMPUTER - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "473004",
+      "major_university_name": "D3 TEKNIK KOMPUTER KONTROL - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "562018",
+      "major_university_name": "D3 TEKNIK KOMPUTER - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "641013",
+      "major_university_name": "D3 TEKNIK KOMPUTER DAN JARINGAN - PNK",
+      "university_name": "POLITEKNIK NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "727014",
+      "major_university_name": "D3 TEKNIK KOMPUTER - POLIMDO",
+      "university_name": "POLITEKNIK NEGERI MANADO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241016",
+      "major_university_name": "D3 TEKNIK KOMPUTER (KAMPUS KAB SOLOK SELATAN) - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921034",
+      "major_university_name": "D3 TEKNIK KOMPUTER - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

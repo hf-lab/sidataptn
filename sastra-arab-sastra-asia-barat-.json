@@ -1,0 +1,158 @@
+{
+  "idx": 205,
+  "id": "sastra-arab-sastra-asia-barat-",
+  "major_name": "Sastra Arab (Sastra Asia Barat)",
+  "icon": null,
+  "description": "Program studi Sastra Arab (biasa juga disebut sebagai Sastra Asia Barat) juga mengajak kamu bisa mempelajari linguistik, isi, ciri artistik, estetika, keaslian, serta keindahan isi dalam teks atau tulisan. Kamu akan mempelajari berbagai karya tulis baik dalam bentuk novel, naskah drama, atau puisi yang pasti ditulis dalam bahasa Arap. Mempelajari sastra Arab bertujuan untuk mengasah kemampuan analisis dengan mengkaji, menganalisis, dan mengapresiasi berbagai karya sastra Arab, walaupun tidak menutup kemungkinan kamu bisa menciptakan karya sastra. Di jurusan ini kamu akan mempelajari karya-karya Umayah Bin Abi Ash-Shalt, Adonis, Lubaid Bin rabi’ah, Al-Harits Bin Hilliziah Al-Bakri. ",
+  "why": "Apabila kamu menyukai bahasa Arab dan karya sastranya, maka kamu bisa memilih program studi ini. Dengan mendalami karya sastra Arab, kamu mampu juga akan mampu memanfaat pengetahuan bahasa, memperluas wawasan keilmuan, seni, budaya, peradaban Arab, hingga keagamaan.",
+  "subjects": [
+    "Kemahiran Bahasa Arab",
+    "Mufradat",
+    "Al-Khat wa Al-Imla",
+    "Khat Riq’ah",
+    "Fighullughah",
+    "Fonologi Bahasa Arab",
+    "Tahqiq An Nusus",
+    "Morfologi Bahasa Arab",
+    "Kesusastraan Arab",
+    "Leksikografi Bahasa Arab",
+    "Tradisi Lisan dan Tulisan Jawi",
+    "Ilmu Aswat",
+    "Ilmu Sarfi",
+    "Ilmu Nahwu",
+    "Istima’",
+    "Muhadasah",
+    "Sintaksis Bahasa Arab",
+    "Kajian Naskah Arab",
+    "Muthalaah",
+    "Telaah Puisi Arab",
+    "Insya",
+    "Terjemahan Indonesia-Arab",
+    "Balagah",
+    "Kritik Sastra Arab",
+    "Telaah Prosa Arab",
+    "Telaah Drama Arab",
+    "Kajian Hadist",
+    "Ilmu Rasmi (Kaligrafi)",
+    "Lughah Ammiyah",
+    "Arudh Qawafi",
+    "Perkembangan Islam Kontemporer"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Hubungan Indonesia dengan negara-negara Arab sangat baik. Buat kamu yang menguasai Budaya Arab, akan mempunyai peluang kerja yang bagus. Lulusan program studi Sastra Arab dapat bekerja sebagai penerjemah, ahli budaya dan bahasa Arab, peneliti di lembaga penelitian timur tengah, dan bahkan bekerja di perusahaan-perusahaan swasta yang berbasis di negara Timur Tengah.",
+  "professions": [
+    "Penerjemah",
+    "Pemandu Tur",
+    "Penulis Perjalanan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Pemandu Wisata",
+    "Diplomat"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-rusia",
+    "budaya-bahasa/sastra-belanda",
+    "pendidikan/pendidikan-agama-islam",
+    "pendidikan/pendidikan-bahasa-arab",
+    "budaya-bahasa/sastra-indonesia",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-jerman",
+    "budaya-bahasa/sastra-sunda",
+    "budaya-bahasa/sastra-minangkabau"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 6,
+  "dt_snbp": 221,
+  "dt_snbt": 205,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321056",
+      "major_university_name": "S1 SASTRA ARAB - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 3.87812,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333051",
+      "major_university_name": "S1 SASTRA ARAB - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 12.5296,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353064",
+      "major_university_name": "S1 SASTRA ARAB - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.80503,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361071",
+      "major_university_name": "S1 SASTRA ARAB - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 5.28736,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "121042",
+      "major_university_name": "S1 SASTRA ARAB - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 41.5385,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711067",
+      "major_university_name": "S1 SASTRA ARAB - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 21.2329,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

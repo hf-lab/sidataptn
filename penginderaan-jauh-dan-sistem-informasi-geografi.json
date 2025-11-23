@@ -1,0 +1,158 @@
+{
+  "idx": 187,
+  "id": "penginderaan-jauh-dan-sistem-informasi-geografi",
+  "major_name": "Penginderaan Jauh dan Sistem Informasi Geografi",
+  "icon": null,
+  "description": "Penginderaan Jauh adalah ilmu teknik untuk memeroleh informasi dari suatu objek yang berada disekitar permukaan bumi tanpa melalui kontak langusng, melainkan dengan bantuan teknologi sensor untuk menghasilkan citra. Sementara Sistem Informasi Geografi (SIG) adalah sistem berbasis komputer untuk mengelola data-data informasi spasial yang memiliki referensi lokasi pasti di permukaan bumi. \r\rProgram studi Penginderaan Jauh dan Sistem Informasi Geografi (PJSIG) tersedia di Sekolah Vokasi Universitas Gadjah Mada dalam jenjang pendidikan D3. Program Diploma Penginderaan Jauh dan Sistem Informasi Geografi atau disingkat PJSIG  mirip dengan program studi Kartografi dan Penginderaan Jauh. Namun di program studi PJSIG kita akan lebih banyak mendapatkan kegiatan praktikum.",
+  "why": "Program studi ini cocok untuk kamu yang suka dengan pelajaran geografi, tertarik dengan korelasi antara kondisi permukaan bumi dengan tata kota dan pengaruhnya terhadap kesejahteraan sosial, pemetaan, dan hal-hal seperti menginterpretasi citra satelit. Namun geografi yang ditekankan dalam program studi ini masuk ke dalam rumpun saintek IPA, bukan IPS seperti yang biasa kita tahu di SMA.",
+  "subjects": [
+    "Matematika",
+    "Meteorologi Klimatologi & Hidrologi",
+    "Penggunaan Lahan dan Vegetasi",
+    "Geologi",
+    "Geomorfologi dan Ilmu Tanah",
+    "Kartografi",
+    "Fotogrametri",
+    "Penginderaan Jauh",
+    "Ilmu Ukur Tanah",
+    "Pemrosesan Citra Digital",
+    "Interpretasi Citra untuk  Survei Penggunaan Lahan dan Vegetasi",
+    "Pengembangan Wilayah",
+    "GNSS (Global  Navigation System Satellite)",
+    "Interpretasi Data Penginderaan Jauh untuk Survei Kota",
+    "Evaluasi Sumberdaya Lahan",
+    "Sistem Informasi Geografi",
+    "Geografi Manusia",
+    "Ekologi dan Ilmu Lingkungan",
+    "Pemetaan Bencana"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Ilmu tentang PJSIG sangat diperlukan dalam survei pemetaan untuk perencanaan kota, pengelolaan sumberdaya baik hutan, mineral, dan kelautan, mitigasi bencana, hingga manajemen fasilitas jaringan telekomunikasi. \r\rLapangan kerja PJSIG sangat luas sehingga lulusannya dapat bekerja di instansi pemerintah seperti  Badan Koordinasi Survei dan Pemetaan Nasional (BAKOSURTANAL), LAPAN, BPN (Badan Pertanahan Nasional), Departemen Pendidikan Nasional, Bappeda Provinsi/kabupaten, Pemerintah Daerah, Departemen Kehutanan. Lulusannya juga dapat bekerja di perusahaan swasta yang bergerak di sektor survei dan Pemetaan, Kesehatan, Pertanian dan Perkebunan, Pertambangan, Ekonomi dan Perbankan, Kehutanan, dan lain-lain. ",
+  "professions": [
+    "Ahli Sistem Informasi Geografis",
+    "Peneliti dan Ahli Teknologi Informasi Geospasial",
+    "Ahli Peta Geografi",
+    "Spesialis Konservasi Alam",
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Ahli Konservasi Tanah dan Air",
+    "Teknisi Pemetaan"
+  ],
+  "related_majors": [
+    "teknik/teknik-geodesi",
+    "mipa/geografi",
+    "mipa/kartografi-dan-penginderaan-jauh",
+    "teknik/survei-dan-pemetaan",
+    "mipa/meteorologi",
+    "teknik/teknik-geomatika",
+    "pendidikan/pendidikan-geografi"
+  ],
+  "major_group_id": 53,
+  "jlh_prodi": 8,
+  "dt_snbp": 199,
+  "dt_snbt": 260,
+  "major_field": 6,
+  "prodi": [
+    {
+      "major_university_id": "334036",
+      "major_university_name": "D4 SURVEI PEMETAAN DAN INFORMASI GEOGRAFIS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 17.9372,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334094",
+      "major_university_name": "S1 SAINS INFORMASI GEOGRAFI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 11.236,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361004",
+      "major_university_name": "S1 KARTOGRAFI DAN PENGINDERAAN JAUH - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 11.8577,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361060",
+      "major_university_name": "D4 SISTEM INFORMASI GEOGRAFIS - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142076",
+      "major_university_name": "D4 PENGINDERAAN JAUH DAN SISTEM INFORMASI GEOGRAFIS - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712097",
+      "major_university_name": "S1 SAINS INFORMASI GEOGRAFI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "152006",
+      "major_university_name": "S1 SAINS INFORMASI GEOGRAFI - UINJAMBI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN THAHA SAIFUDDIN JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612047",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PENGINDERAAN JAUH - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 53,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Geografi,Geografi Lingkungan, Sains Informasi, Geografi",
+    "merdeka_subject": [
+      18,
+      10
+    ],
+    "ipa_subject": [
+      14,
+      10
+    ],
+    "ips_subject": [
+      18,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

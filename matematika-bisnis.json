@@ -1,0 +1,100 @@
+{
+  "idx": 138,
+  "id": "matematika-bisnis",
+  "major_name": "Matematika Bisnis",
+  "icon": null,
+  "description": "Program studi Matematika Bisnis mempelajari tentang penerapan ilmu matematika dalam penyelesaian berbagi permasalahan bisnis. Kemampuan analisis dan berpikir logis dalam matematika dapat membantu memecahkan persoalan bisnis. Pastinya di prodi ini kamu akan mempelajari lagi statistika, alajabar, dan logika matematika. Matematika dalam bisnis berperan sebagai penyedia kerangka logis yang digunakan dalam mengidentifikasi permasalahan, melakukan analisis, dan membuat prediksi dalam kegiatan bisnis. Matematika Bisnis juga tersedia dalam bentuk peminatan di program studi Matematika di beberapa perguruan tinggi.",
+  "why": "Seiring dengan perkembangan teknologi, ilmu pengetahuan pun turut serta di-upgrade sesuai kebutuhan zaman, termasuk ilmu matematika. Matematika tidak hanya sebatas ilmu perhitungan, namun kini juga menjadi ilmu yang dapat diterapkan sebagai pemecah masalah dalam berbagai aspek kehidupan manusia, termasuk bisnis. Karena itu, walaupun masih terbilang baru dan langka, namun prodi ini dapat menjadi pilihan yang sangat potensial yang ilmunya akan sangat dibutuhkan dan bermanfaat dalam menghadapi perkembangan zaman. ",
+  "subjects": [
+    "Kalkulus",
+    "Logika Matematika",
+    "Metode Statistika",
+    "Mikroekonomi",
+    "Programming",
+    "Makroekonomi",
+    "Komunikasi Bisnis",
+    "Analisis Geometri",
+    "Komputasi Bisnis",
+    "Akuntansi",
+    "Entrepreneurship",
+    "Statistika Dasar",
+    "Aljabar Linier Erlementer",
+    "Metode Diskrit",
+    "Pemrograman Linier",
+    "Algoritma dan Pemrograman",
+    "Teori Peluang",
+    "Persamaan Diferensial",
+    "Metode Numerik",
+    "Analisis Fungsi Kompleks",
+    "Statistika Non Parameterik",
+    "Investasi dan Analisis Portofolio",
+    "Analisis Deret Waktu",
+    "Analisis Regresi",
+    "Pengendalian Mutu",
+    "Matematika Keuangan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Program studi ini menghasilkan para matematikawan terapan dan matematikawan masa depan yang berdaya saing tinggi, dengan sofskill yang dimiliki, pemahaman di bidang IT, dan wawasan bisnis ang luas, dan kemamuan analitik yang kuat. Lulusan prodi Matematika Bisnis dapat membangun bisnis atau bekerja di berbagai bidang, seperti Aktuaria, Perbankan, Teknologi Informasi (IT), Riset Operasi, Peneliti, Konsultan, Jasa Keuangan, dan sebagainya.  ",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Pengajar Bisnis",
+    "Analis Riset Operasional",
+    "Ahli Matematika",
+    "Analis Keuangan",
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Analis Manajemen Bisnis",
+    "Aktuaris",
+    "Analis Kredit",
+    "Analis Keuangan Kuantitatif"
+  ],
+  "related_majors": [
+    "mipa/matematika",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "mipa/aktuaria",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "pendidikan/pendidikan-matematika"
+  ],
+  "major_group_id": 19,
+  "jlh_prodi": 1,
+  "dt_snbp": 33,
+  "dt_snbt": 52,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "382040",
+      "major_university_name": "D4 STATISTIKA BISNIS - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 19,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Matematika",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

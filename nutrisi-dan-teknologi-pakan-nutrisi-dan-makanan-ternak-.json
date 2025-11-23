@@ -1,0 +1,166 @@
+{
+  "idx": 146,
+  "id": "nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-",
+  "major_name": "Nutrisi dan Teknologi Pakan (Nutrisi dan Makanan Ternak)",
+  "icon": null,
+  "description": "Program studi Nutrisi dan Teknologi Pakan juga disebut dengan Nutrisi dan Makanan Ternak pada beberapa perguruan tinggi. Pada program studi ini akan dipelajari ilmu dan teknologi peternakan tropis yang berfokus pada nutrisi dan makanan ternak untuk menunjang bidang peternakan. Disini akan dipelajari bagaimana meningkatkan kualitas perternakan dengan menyuplai nutrisi dan makanan yang baik untuk hewan ternak agar dapat menghasilkan produk-produk hasil ternak yang berkualitas. Disini mahasiswa akan diarah kan untuk mengetahui dan memproduksi bahan-bahan pakan dengan kualitas tinggi, yang sesuai dengan kebutuhan nutrisi dan aman dikonsumsi hewan ternak, serta ramah lingkungan.",
+  "why": "Dalam mempelajari Nutrisi dan Teknologi Pakan kamu akan banyak melakukan riset. Tentunya bagi kamu yang menyukai kegiatan riset dan laboratorium dan tertarik untuk mempelajari ilmu gizi, program studi ini bisa menjadi salah satu pilihan kamu. Karena bukan hanya manusia yang membutuhkan ahli gizi, tapi juga hewan ternak.",
+  "subjects": [
+    "Genetika Ternak",
+    "Pengelolaan Kesehatan Ternak Tropis",
+    "Ilmu dan Teknologi Reproduksi",
+    "Teknik Formulasi Ransum dan Sistem Informasi Pakan",
+    "Perencanaan Penyediaan Hijauan Pakan",
+    "Fisiologi Nutrisi",
+    "Mikrobiologi Nutrisi",
+    "Integrasi Proses Nutrisi",
+    "Kebijakan dan Pengawasan Mutu Pakan",
+    "Nutrisi Ternak Unggas",
+    "Nutrisi Ternak Pedaging",
+    "Nutrisi Ternak Perah",
+    "Ilmu dan Manajemen Pastura",
+    "Pengetahuan Bahan Pakan",
+    "Teknologi Pengolahan Pakan",
+    "Manajemen Industri Pakan",
+    "Nutrisi Ternak Kerja dan Olahraga",
+    "Industri Pakan",
+    "Teknologi Produksi Ternak Perah",
+    "Teknologi Produksi Ruminansia Besar",
+    "Teknologi Produksi Ternak Unggas"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Ilmu Nutrisi dan Teknologi Pakan merupakan modal utama bagi industri hasil ternak, karena untuk mendapatkan produk hasil ternak yang baik, hal yang harus diperhatikan pertama-tama adalah kesehatan hewat ternaknya. Kebutuhan akan nutrisionis (ahli nutrisi) yang handal adalah faktor pendorong didirikannya program studi Nutrisi dan Teknologi Pakan ini. Selain menjadi nutrisionis, lulusannya juga banyak yang menjadi quality control dan manager peternakan. ",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Peneliti Hewan",
+    "Ahli Diet dan Nutrisi",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manager Pertanian dan Peternakan"
+  ],
+  "related_majors": [
+    "pertanian/peternakan",
+    "pertanian/teknologi-pangan",
+    "pertanian/teknologi-hasil-ternak",
+    "kesehatan/kedokteran-hewan",
+    "pertanian/produksi-ternak",
+    "pertanian/manajemen-bisnis-unggas"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 9,
+  "dt_snbp": 302,
+  "dt_snbt": 354,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "191033",
+      "major_university_name": "S1 NUTRISI DAN TEKNOLOGI PAKAN TERNAK - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 56.701,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341019",
+      "major_university_name": "S1 NUTRISI DAN TEKNOLOGI PAKAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 16.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "472015",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 90,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "717006",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 600,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921021",
+      "major_university_name": "S1 NUTRISI DAN TEKNOLOGI PAKAN TERNAK - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291029",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "537003",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": 156.522,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642003",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": 144,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711050",
+      "major_university_name": "D4 TEKNOLOGI PAKAN TERNAK - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 381.818,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

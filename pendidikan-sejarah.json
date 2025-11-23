@@ -1,0 +1,473 @@
+{
+  "idx": 183,
+  "id": "pendidikan-sejarah",
+  "major_name": "Pendidikan Sejarah",
+  "icon": null,
+  "description": "Bagaimana materi pelajaran sejarah di sekolah itu diformulasikan dan di tulis? Bagaimana pula metode yang diterapkan dalam pembelajaran sejarah tesebut? Kamu akan dapat jawaban dari pertanyaan-pertanyaan ini di program studi Pendidikan Sejarah. Selain pengetahuan tentang ilmu kependidikan, pastinya di prodi ini kamu akan belajar lebih dalam mengenai sejarah itu sendiri. Jika di sekolah dulu kamu dituntut untuk hafal tanggal-tanggal dan momen bersejarah di dunia, peran-peran yang terlibat dalam sejarah, serta benda-benda yang menjadi bagian dari sejarah, di perguruan tinggi kamu akan dapat ilmu sejarah yang lebih dalam lagi meliputi teknik riset sejarah.",
+  "why": "Bangsa yang besar adalah yang menghargai pahlawannya dan tidak pernah melupakan sejarah bangsanya. Karena itu penting sekali mengajarkan ilmu sejarah pada generasi muda melalui pendidikan formal di sekolah. Akan menjadi nilai plus kalau kamu memiliki minat baca tinggi dan ketertarikan untuk mengkaji sejarah dunia.",
+  "subjects": [
+    "Landasan Pendidikan",
+    "Perkembangan Peserta Didik",
+    "Teori Belajar dan Pembelajaran",
+    "Media Pembelajaran Sejarah",
+    "Perencanaan Pembelajaran Sejarah",
+    "Strategi Pembelajaran Sejarah",
+    "Evaluasi Pembelajaran Sejarah",
+    "Kajian Kurikulum dan Buku Teks Sejarah",
+    "Filsafat Sejarah",
+    "Historiografi",
+    "Teori Sosial Budaya",
+    "Sejarah Indonesia Masa Klasik",
+    "Sejarah Indonesia Masa Islam",
+    "Sejarah Indonesia Masa Kolonial",
+    "Sejarah Indonesia Pasca Kemerdekaan",
+    "Sejarah Eropa",
+    "Sejarah Amerika",
+    "Sejarah Asia",
+    "Sejarah Timur Tengah",
+    "Sejarah Afrika",
+    "Sejarah Intelektual",
+    "Sejarah Sains dan Teknologi",
+    "Sejarah Kebudayaan Indonesia",
+    "Sejarah Sosial Ekonomi",
+    "Sejarah Maritim",
+    "Sejarah Pendidikan",
+    "Sejarah Lokal",
+    "Geohistori",
+    "Sejarah Perkembangan Agama di Indonesia",
+    "Sejarah Politik"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan prodi Pendidikan Sejarah dipersiapkan untuk menjadi pengajar atau guru sejarah. Selain itu dengan melanjutkan pendidikan ke tingkat pascasarjana memungkinkan lulusannya untuk menjadi dosen Ilmu Sejarah di perguruan tinggi baik negeri maupun swasta. Tidak hanya terjun ke dunia pedidikan, lulusan prodi Pendidikan Sejarah juga dapat menjadi pengamat atau pakar sejarah handal.",
+  "professions": [
+    "Sejarahwan",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "budaya-bahasa/ilmu-sejarah",
+    "budaya-bahasa/sejarah-dan-kebudayaan-islam",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia",
+    "budaya-bahasa/arkeologi",
+    "pendidikan/pendidikan-pancasila-dan-kewarganegaraan"
+  ],
+  "major_group_id": 2,
+  "jlh_prodi": 43,
+  "dt_snbp": 1468,
+  "dt_snbt": 2238,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "111046",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 24.1026,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631032",
+      "major_university_name": "S1 PEND. SEJARAH - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 29.6,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712053",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 15.102,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511062",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 25.2874,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511059",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 30.6667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383069",
+      "major_university_name": "S1 PENDIDIKAN IPS - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 17.7885,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383046",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 17.1233,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373060",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 8.8685,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373042",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 14.2518,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371052",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 14.557,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362046",
+      "major_university_name": "S1 PENDIDIKAN IPS - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 9.11681,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362033",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 8.08081,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356070",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 17.3295,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356033",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 13.522,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353050",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.82927,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334075",
+      "major_university_name": "S1 PENDIDIKAN IPS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 9.61539,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122021",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 19.4561,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131044",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 12.7273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142039",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 23.8342,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151046",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 24.1379,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171046",
+      "major_university_name": "S1 PEND SEJARAH - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 18.0212,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191048",
+      "major_university_name": "S1 PEND. SEJARAH - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 29.2857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311037",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 19.5122,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323041",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.62567,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323051",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.47368,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334045",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.42105,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342014",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 22.2841,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712061",
+      "major_university_name": "S1 PENDIDIKAN IPS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 25,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731036",
+      "major_university_name": "S1 PEND. SEJARAH - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 34.8837,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751054",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 36.0656,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "114019",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 77.7778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612023",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 34.6154,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541064",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 26.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531063",
+      "major_university_name": "S1 PENDIDIKAN IPS - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 55.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531041",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 33.6842,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374010",
+      "major_university_name": "S1 PENDIDIKAN IPS - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 40.4651,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "142089",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL (PIPS) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141034",
+      "major_university_name": "S1 SEJARAH - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 36.1446,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722033",
+      "major_university_name": "S1 PEND. SEJARAH - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722051",
+      "major_university_name": "S1 PENDIDIKAN IPS - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 157.143,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752038",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 81.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811045",
+      "major_university_name": "S1 PENDIDIKAN SEJARAH - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 97.9167,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911036",
+      "major_university_name": "S1 PEND. SEJARAH - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 275,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 2,
+    "super_group": "HUMANIORA",
+    "group_name": "Sejarah",
+    "merdeka_subject": [
+      2
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      8
+    ],
+    "bahasa_subject": [
+      8
+    ]
+  }
+}

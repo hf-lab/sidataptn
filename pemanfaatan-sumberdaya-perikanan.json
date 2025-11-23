@@ -1,0 +1,145 @@
+{
+  "idx": 152,
+  "id": "pemanfaatan-sumberdaya-perikanan",
+  "major_name": "Pemanfaatan Sumberdaya Perikanan",
+  "icon": null,
+  "description": "Pada program studi Pemanfaatan Sumberdaya Perikanan (PSP) kita akan mempelajari tentang pengelolaan sumberdaya dan lingkungan perairan, menganalisis potensi sumber daya perikanan di suatu daerah serta masalah-masalah yang dihadapi berkaitan sumber daya perikanan dan cara mengatasinya.  Mulai dari bagaimana mencari dan menemukan sumber daya perikanan tersebut, lalu mengeksploitasinya, juga melestarikan sumber daya perikanan tersebut agar tetap terjaga, semuanya akan di pelajari di program studi PSP.",
+  "why": "Indonesia punya wilayah perairan yang luas yang bisa kita manfaatkan sumberdayanya. Apalagi hasil ikan nya yang melimpah. Sumberdaya perikanan tidak hanya bisa dijadikan sebagai bahan baku makanan melainkan juga obat-obatan. Hanya saja sumberdaya perikanan kita belum dimanfaatkan dengan maksimal, padahal jika pemanfaatannya maksimal kontribusinya bagi negara kita akan sangat besar.",
+  "subjects": [
+    "Biologi Umum",
+    "Kimia Dasar",
+    "Fisika Dasar",
+    "Matematika",
+    "Statistika",
+    "Ikhtiologi",
+    "Ekologi Perairan",
+    "Limnologi",
+    "Meteorologi Laut",
+    "Avertebrata Air",
+    "Biologi Perikanan",
+    "Navigasi",
+    "Tingkah Laku Ikan",
+    "Teknologi Penangkapan Ikan",
+    "Rancang Bangun Kapal Perikanan",
+    "Manajemen Akuakultur Payau",
+    "Pengendalian Pencemaran Perairan",
+    "Teknologi Penanganan Hasil Perikanan",
+    "Manajemen Operasi Penangkapan Ikan",
+    "Kepelautan",
+    "Undang-undang dan Peraturan Perikanan",
+    "Sosiologi Masyarakat Perikanan",
+    "Tata Niaga Hasil Perikanan",
+    "Konservasi Sumberdaya Perairan",
+    "Manajemen Sumberdaya Pesisir dan Laut"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan prgram studi Pemanfaatan Sumberdaya Perikanan punya prospek yang bagus untuk kedepannya. Seluas 5,8 juta km2  laut Indonesia butuh dikelola oleh sumberdaya manusia yang kompeten pula. Lulusan PSP akan menjadi sarjana yang handal dalam bidang kemaritiman. Bidang kemaritiman luas cakupannya, mulai dari sektor ekonomi, wisata, hingga keamanan perairan yang senantiasa harus dibela. Lulusan prodi ini dapat bekerja di lembaga pemerintahan seperti Kementrian Kelautan dan Perikanan dan BPPT, maupun perusahaan-perusahaan yang bergerak di bidang kelautan dan perikanan",
+  "professions": [
+    "Manajer Akuakultural",
+    "Pengajar Ilmu Atmosfir, Ilmu Bumi, Ilmu Kelautan, Ilmu Luar Angkasa"
+  ],
+  "related_majors": [
+    "teknik/oseanografi",
+    "pertanian/budidaya-perairan-akuakultur-",
+    "pertanian/manajemen-sumber-daya-perairan",
+    "pertanian/ilmu-kelautan",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-"
+  ],
+  "major_group_id": 56,
+  "jlh_prodi": 7,
+  "dt_snbp": 211,
+  "dt_snbt": 379,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "111031",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 72.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131009",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 37.7551,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151019",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 71.6981,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "372014",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 18.7861,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711026",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 71.2644,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721024",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERIKANAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 400,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811017",
+      "major_university_name": "S1 PEMANFAATAN SD PERIKANAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 364.706,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 56,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknologi Pangan, Teknologi Hasil Pertanian/ Peternakan/ Perikanan",
+    "merdeka_subject": [
+      13,
+      17
+    ],
+    "ipa_subject": [
+      13,
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

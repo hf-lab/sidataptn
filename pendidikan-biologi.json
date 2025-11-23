@@ -1,0 +1,486 @@
+{
+  "idx": 164,
+  "id": "pendidikan-biologi",
+  "major_name": "Pendidikan Biologi",
+  "icon": null,
+  "description": "Pendidikan Biologi adalah sebuah program studi yang bertujuan untuk menghasilkan tenaga pengajar biologi yang terampil untuk tingkat pendidikan dasar hingga menengah. Apa yang dipelajari pada program studi ini adalah ilmu biologi beserta turunan-turunannya, namun dengan tambahan perspektif pendidikan dan pengajaran di dalamnya. Mahasiswa program studi Pendidikan Biologi juga akan mempelajari bagaimana cara mengajar yang baik, membuat soal-soal, kurikulum, manajemen sekolah, dan hal-hal lain yang berhubungan dengan teknis maupun administrasi persekolahan. Ketika lulus nanti, gelar yang didapatkan adalah S.Pd atau Sarjana Pendidikan.",
+  "why": "Kalau kamu tertarik dengan pelajaran Biologi dan bercita-cita menjadi seorang guru, maka program studi Pendidikan Biologi adalah pilihan yang tepat buatmu. Cakupan ilmu Biologi yang dipelajari pada program studi ini mungkin nggak seluas Biologi Murni, namun poin plusnya di sini kamu bisa mendapatkan pengetahuan mengenai dunia pendidikan dan cara-cara mengajar yang baik dan benar.",
+  "subjects": [
+    "Pengantar Pendidikan",
+    "Biologi Dasar",
+    "Bioetika",
+    "Zoologi",
+    "Strategi Pembelajaran",
+    "Media dan Sumber Belajar",
+    "Pengetahuan Laboratorium",
+    "Botani",
+    "Evaluasi Pembelajaran",
+    "Biologi Sel Molekuler",
+    "Komputasi Analisis Data",
+    "Perencanaan dan Pembelajaran"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek kerja utama dari seorang lulusan Pendidikan Biologi tentunya adalah menjadi seorang guru, baik itu guru pendidikan dasar maupun pendidikan menengah. Selain itu, lulusan dari program studi ini juga bisa bekerja di bidang lain seperti peneliti di bidang pendidikan biologi, konsultan hingga wirausaha yang menyelenggarakan jasa pendidikan seperti tempat bimbingan belajar maupun les privat.",
+  "professions": [
+    "Ahli Biologi",
+    "Pengajar Biologi",
+    "Ahli Teknik Biologi"
+  ],
+  "related_majors": [
+    "mipa/biologi",
+    "mipa/biokimia",
+    "mipa/bioteknologi",
+    "mipa/mikrobiologi"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 46,
+  "dt_snbp": 1487,
+  "dt_snbt": 2297,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "334003",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.91506,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 32.8829,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631002",
+      "major_university_name": "S1 PEND. BIOLOGI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 21.8182,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 14.4615,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511009",
+      "major_university_name": "S1 PEND. BIOLOGI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 26.4901,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.6183,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 9.34783,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371005",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 16.8646,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "365010",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 25.4098,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 5.44218,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.85325,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353020",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 9.06801,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352007",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 24.8466,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342002",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 20.4082,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323004",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.32642,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311010",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 18.0723,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191018",
+      "major_university_name": "S1 PEND. BIOLOGI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 21.9839,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171016",
+      "major_university_name": "S1 PEND BIOLOGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 12.9442,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161007",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 22.043,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151004",
+      "major_university_name": "S1 PEND. BIOLOGI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 30.3965,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142003",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 12.7745,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131022",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 8.18859,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122002",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 12.6836,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752003",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 34.1176,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811001",
+      "major_university_name": "S1 PEND. BIOLOGI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 157.778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731001",
+      "major_university_name": "S1 PEND. BIOLOGI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 38.9222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712020",
+      "major_university_name": "S1 PEND. BIOLOGI KLS INTERNASIONAL (BILINGUAL) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753009",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 405,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751012",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 23.3918,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612002",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 36.9863,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551006",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 71.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541005",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 22.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531002",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 38.7097,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521010",
+      "major_university_name": "S1 PEND. BIOLOGI - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 89.5522,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172002",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 72.6316,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133006",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 79.0323,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114007",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 36.6197,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111012",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 26.0274,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "911007",
+      "major_university_name": "S1 PEND. BIOLOGI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 122.222,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821012",
+      "major_university_name": "S1 PEND. BIOLOGI - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 285,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921015",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 184.615,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741008",
+      "major_university_name": "S1 PEND. BIOLOGI - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 72.4138,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722002",
+      "major_university_name": "S1 ILMU BIOLOGI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 175,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722001",
+      "major_university_name": "S1 PEND. BIOLOGI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 95.5556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "632004",
+      "major_university_name": "S1 PEND. BIOLOGI - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 48.4848,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111035",
+      "major_university_name": "S1 PENDIDIKAN BIOLOGI  (PDSKU GAYO LUES) - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 270,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

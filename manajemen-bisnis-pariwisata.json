@@ -1,0 +1,150 @@
+{
+  "idx": 113,
+  "id": "manajemen-bisnis-pariwisata",
+  "major_name": "Manajemen Bisnis Pariwisata",
+  "icon": null,
+  "description": "Manajemen Bisnis Pariwisata adalah suatu ilmu yang mempelajari tentang tindakan perencanaan, pengorganisasian, penggerakan dan pengendalian yang dilakukan untuk menentukan serta mencapai sasaran yang telah ditentukan melalui pemanfaatan sumberdaya manusia dan sumberdaya lainnya dalam bisnis pariwisata.\r\rPada prodi ini kamu akan diajarkan berbagai keahlian dan kompetensi di bisang pariwisata. mempelajari tentang prinsip-prinsip pengelolaan yang menekankan nilai-nilai kelestarian lingkungan alam, komunitas, dan nilai sosial yang memungkinkan wisatawan menikmati kegiatan wisatanya serta bermanfaat bagi kesejahteraan komunitas lokal.\r",
+  "why": "Indonesia punya kekayaan alam yang belimpah. Keindahan alamnya membuat industri pariwisata menjadi salah satu sektor terpenting dalam menghidupkan perekonomian Indonesia. Jika kamu seorang travel addict, tertarik dengan bisnis pariwisata dan bercita-cita untuk mengembangkan dan mengelola bisnis pariwisata khususnya di Indonesia, maka prodi ini tepat buat kamu.",
+  "subjects": [
+    "Manajemen Ekowisata",
+    "Pemasaran Pariwisata",
+    "Geografi Pariwisata Indonesia",
+    "Teknik Memandu",
+    "Komunikasi Publik",
+    "Pengantar Akomodasi & Restoran",
+    "Pengenalan Objek Wisata",
+    "Peraturan dan Istilah Pariwisata",
+    "Perencanaan Operasi Perjalanan Wisata",
+    "Arsitektur Lanskap",
+    "Manajemen Usaha Perjalanan Wisata",
+    "Ekonomi Pariwisata",
+    "Etika Profesi Pariwisata",
+    "Korespondensi Bisnis Pariwisata",
+    "Hukum Bisnis Pariwisata",
+    "Strategi Bisnis Pariwisata",
+    "Kewirausahaan",
+    "Kajian Lintas Budaya",
+    "Psikologi Pelayanan Pariwisata",
+    "Matematika Bisnis",
+    "Manajemen Keuangan",
+    "Akuntansi Manajemen Pariwisata",
+    "Manajemen Pehotelan",
+    "Studi Kelayakan Pariwisata",
+    "Manajemen Kualitas Pelayanan",
+    "Statistik Pariwisata",
+    "MICE",
+    "Geografi Pariwisata",
+    "Manajemen Pelayanan",
+    "Pemasaran Bisnis Pariwisata",
+    "Antropologi Pariwisata",
+    "Sosiologi Pariwisata"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Program studi Manajemen Bisnis Pariwisata memiliki basis vokasi dengan jenjang diploma 4 (D4) atau setara strata satu (S1). Lulusannya akan mendapat gelar Sarjana Sain Terapan Pariwisata (S.ST. Par). \r\rPara lulusannya telah dipersiapkan agar bisa menjalankan fungsi manajemen pengelolaan usaha di bidang pariwisata seperti: Ticketing, Tour Planner, Tour Guide, Cargo/Ekspedisi, Transportasi dan sebagainya. Lulusannya juga diharapkan bisa bekerja mandiri dengan mengelola usaha di bidang pariwisata seperti usaha atraksi wisata, event dan resort, dan menduduki posisi pimpinan, perencana, konsultan, atau peneliti di bidang pariwisata. Disamping itu, juga untuk memenuhi kebutuhan tenaga pendidik dibidang pariwisata, dan instansi-istansi pemerintahan terkait pariwisata seperti Kementerian Pariwisata (Kemenpar).",
+  "professions": [
+    "Perencana Meeting, Convention dan Acara",
+    "Pemandu Tur",
+    "Pemandu Wisata",
+    "Manajer Event",
+    "Manajer Umum dan Operasional",
+    "Agen Perjalanan",
+    "Manajer Pusat Rekreasi"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-keuangan",
+    "profesi-dan-ilmu-terapan/pariwisata",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/ekonomi-bisnis",
+    "ekonomi-bisnis/manajemen-industri-katering",
+    "ekonomi-bisnis/bisnis-internasional",
+    "seni/tata-boga",
+    "ekonomi-bisnis/manajemen-perhotelan",
+    "ekonomi-bisnis/manajemen-pariwisata",
+    "ekonomi-bisnis/destinasi-pariwisata"
+  ],
+  "major_group_id": 27,
+  "jlh_prodi": 5,
+  "dt_snbp": 205,
+  "dt_snbt": 261,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "321065",
+      "major_university_name": "D4 MANAJEMEN BISNIS PARIWISATA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "617009",
+      "major_university_name": "D4 MANAJEMEN BISNIS PARIWISATA - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 19.2399,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362088",
+      "major_university_name": "D4 PENGELOLAAN USAHA REKREASI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "471004",
+      "major_university_name": "D4 MANAJEMEN BISNIS PARIWISATA - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": 48.7685,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "517005",
+      "major_university_name": "D4 MANAJEMEN BISNIS PARIWISATA - POLTESA",
+      "university_name": "POLITEKNIK NEGERI SAMBAS",
+      "keketatan": 45.1128,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 27,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Manajemen",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

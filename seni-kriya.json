@@ -1,0 +1,205 @@
+{
+  "idx": 223,
+  "id": "seni-kriya",
+  "major_name": "Seni Kriya",
+  "icon": null,
+  "description": "Program studi Seni Kriya mempelajari seni crafting atau kerajinan yang bernilai estetik dan etnik dalam suatu media seperti kayu, batu, tekstil, logam, dan lain-lain. Contoh benda seni kriya antara lain adalah artefak, kain tenun, guci, dan lain-lain. Sementara teknik dalam pembuatan seni kriya antara lain seperti rajut, sulam, tenun, batik, tapestri, dan sebagainya. Di prodi ini kamu akan belajar menciptakan karya yang memiliki nilai kebudayaan disamping nilai guna. Prodi Kriya Seni sendiri merupakan cabang Seni Rupa yang juga memiliki beberapa peminatan atau konsentrasi, diantaranya Seni Kriya Kayu, Seni Kriya Tekstil, Seni Kriya Logam, dan Seni Kriya Keramik.",
+  "why": "Kalau kamu punya ketertarikan mengolah berbagai medium menjadi karya seni baru yang fungsional dan kreatif, maka prodi Kriya Seni adalah pilihan yang tepat untuk kamu. Apalagi kalau kamu menyukai berbagai jenis kerajinan tangan tradisional. Program studi ini cocok banget untuk kamu yang memiliki jiwa kreatif dan suka berpikir out-of-the-box.",
+  "subjects": [
+    "Dasar Seni Rupa dan Desain",
+    "Rupa dasar",
+    "Pengantar Rekayasa dan Desain",
+    "Kriya",
+    "Ragam Hias",
+    "Sejarah Desain",
+    "Presentasi Digital Kriya",
+    "Sosiologi Kriya",
+    "Kriya Tekstil",
+    "Bahan Tekstil dan Proses",
+    "Surface Textile",
+    "Celup Rintang",
+    "Pattern Drafting",
+    "Wastra Indonesia",
+    "Tenun",
+    "Ilustrasi Fashion",
+    "Nirmana Dwimatra",
+    "Ornamentik",
+    "Sejarah Seni Rupa Indonesia",
+    "Nirmana Trimatra",
+    "Menggambar Benda",
+    "Menggambar Proyeksi dan Perspektif",
+    "Filsafat Seni",
+    "Proses Batik",
+    "Estetika",
+    "Pengetahuan Bahan & Struktur Tekstil",
+    "Tinjauan Desain Tekstil",
+    "Tenun Manual",
+    "Kajian Batik",
+    "Desain Tekstil Digital",
+    "Budaya Visual",
+    "Antropologi Seni",
+    "Analisis Tren",
+    "Kajian Tekstil Nusantara",
+    "Nir Tenun",
+    "Keramik Teknik pinch"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan prodi Seni Kriya dapat menciptakan berbagai karya seni yang estetik, unik, dan bernilai guna tinggi, dan pastinya memiliki nilai jual sehingga dapat dipasarkan. Lulusan Kriya Seni dapat berkarir sebagai desainer kriya yang memiliki jiwa kewirausahaan sehingga lulusannya dapat mandiri. Lulusan Seni Kriya juga dapat membawa berbagai seni kriya khas Indonesia ke kancah internasional dengan mempopulerkan kain tradisional seperti batik, tenun, dan berbagai kerajinan khas Indonesia lainnya.",
+  "professions": [
+    "Seniman Kerajinan (Craft Artists)",
+    "Seniman, Termasuk Pelukis, Pemahat, dan Illustrator",
+    "Pekerja Kayu",
+    "Kurator Seni",
+    "Perancang Perhiasan"
+  ],
+  "related_majors": [
+    "seni/seni-rupa-murni",
+    "seni/desain-komunikasi-visual",
+    "seni/sendratasik-seni-drama-tari-dan-musik-",
+    "seni/seni-karawitan",
+    "seni/desain-produk",
+    "seni/tata-kelola-seni"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 12,
+  "dt_snbp": 211,
+  "dt_snbt": 265,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "353046",
+      "major_university_name": "S1 DESAIN MODE - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 30.4348,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "143011",
+      "major_university_name": "S1 PENDIDIKAN KRIYA - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 71.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "354004",
+      "major_university_name": "S1 KRIYA - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 92.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "362031",
+      "major_university_name": "S1 PENDIDIKAN KRIYA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 42.1053,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364008",
+      "major_university_name": "S1 KRIYA SENI - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 47.6744,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364023",
+      "major_university_name": "D4 DESAIN MODE KRIYA BATIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "913003",
+      "major_university_name": "S1 SENI KRIYA - ISBI-TANAHPAPUA",
+      "university_name": "ISBI TANAH PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "115005",
+      "major_university_name": "S1 KRIYA SENI - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 350,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143005",
+      "major_university_name": "S1 SENI KRIYA - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 131.25,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "335010",
+      "major_university_name": "D3 KRIYA SENI - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "335011",
+      "major_university_name": "S1 KRIYA - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613008",
+      "major_university_name": "S1 KRIYA - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 127.273,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

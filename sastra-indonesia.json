@@ -1,0 +1,333 @@
+{
+  "idx": 209,
+  "id": "sastra-indonesia",
+  "major_name": "Sastra Indonesia",
+  "icon": null,
+  "description": "Program studi ini khusus mempelajari tren sastra di Indonesia. Para mahasiswa akan mempelajari beraneka ragam  subyek sastra, puisi, drama, roman-novel, dan linguistik. Pada semester 4, mahasiswa akan diarahkan untuk memilih beberapa konsentrasi yaitu peminatan sastra, peminatan linguistik, dan peminatan filologi.",
+  "why": "Mempelajari sastra akan memperluas cakrawala pengatahuanmu. Dengan banyak membaca karya sastra, kamu tidak hanya mempelajari gaya bahasa dan apresiasi cerita, namun kamu akan lebih menggunakan rasa untuk memahami apa yang sebenarnya diungkapkan oleh penulis, bahkan dialami olehnya. Kalau kamu memiliki kesukaan dalam bidang bidang bahasa dan minat baca serta menulis literatur yang tinggi, maka program studi ini bisa menjadi pilihan kamu.",
+  "subjects": [
+    "Linguistik Umum",
+    "Fonologi",
+    "Sintaksis",
+    "Wacana Bahasa Indonesia",
+    "Perencanaan Bahasa",
+    "Sosiolinguistik",
+    "Apresiasi Sastra",
+    "Kajian Puisi",
+    "Kajian Prosfik",
+    "Apresiasi Drama",
+    "Keterampilan Menyimak",
+    "Keterampilan Membaca Teknik",
+    "Keterampilan Berbicara Interpersonal",
+    "Retorika Berbahasa",
+    "Keterampilan Menulis Kritis dan Ilmiah",
+    "Penulisan Kreatif",
+    "Teater",
+    "Estetika Bahasa dan Seni",
+    "Telaah Kurikulum dan Buku Teks",
+    "Bahasa Bantu",
+    "Morfologi",
+    "Semantik",
+    "Anakes",
+    "Psikolinguistik",
+    "Teori Sastra",
+    "Sejarah Sastra",
+    "Kajian Drama",
+    "Pengantar Filologi",
+    "Kritik Sastra",
+    "Keterampilan Menulis Populer",
+    "Penyuntingan",
+    "Pragmatik Berbahasa"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Pemahaman tentang Bahasa Indonesia adalah sesuatu yang wajib. Saat ini Bahasa Indonesia mulai memudar ketika banyak orang cenderung lebih senang menggunakan Bahasa Inggris. Pembelajaran tentang Bahasa Indonesia harus mulai digalakkan lagi. Seorang lulusan Sastra Indonesia dapat bekerja sebagai editor, copywriter, content writer, penerjemah, penulis naskah, guru bahasa indonesia, dan bahkan blogger.",
+  "professions": [
+    "Copywriter",
+    "Penulis Teknis",
+    "Penerjemah",
+    "Novelis",
+    "Content Creator",
+    "Editor (Artikel/Tulisan)",
+    "Wartawan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Penulis Perjalanan",
+    "Content Writer"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-sunda",
+    "budaya-bahasa/sastra-jawa",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 25,
+  "dt_snbp": 831,
+  "dt_snbt": 1242,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "121038",
+      "major_university_name": "S1 SASTRA INDONESIA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 14.2473,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386040",
+      "major_university_name": "S1 SASTRA INDONESIA - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 25.3731,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383041",
+      "major_university_name": "S1 SASTRA INDONESIA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 13.0536,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371057",
+      "major_university_name": "S1 SASTRA INDONESIA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 15.3846,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362056",
+      "major_university_name": "S1 SASTRA INDONESIA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 6.469,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356053",
+      "major_university_name": "S1 SASTRA INDONESIA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.8644,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355036",
+      "major_university_name": "S1 SASTRA INDONESIA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 9.78261,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353043",
+      "major_university_name": "S1 SASTRA INDONESIA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.94789,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351033",
+      "major_university_name": "S1 SASTRA INDONESIA - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 7.55102,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333043",
+      "major_university_name": "S1 SASTRA INDONESIA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 10,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323029",
+      "major_university_name": "S1 SASTRA INDONESIA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 5.63187,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321052",
+      "major_university_name": "S1 SASTRA INDONESIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.66572,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712048",
+      "major_university_name": "S1 SASTRA INDONESIA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 31.2977,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721044",
+      "major_university_name": "S1 SASTRA INDONESIA - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 93.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821027",
+      "major_university_name": "S1 SASTRA INDONESIA - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 236.364,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "122035",
+      "major_university_name": "S1 SASTRA INDONESIA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 20.598,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711065",
+      "major_university_name": "S1 SASTRA INDONESIA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 15.5779,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611036",
+      "major_university_name": "S1 SASTRA INDONESIA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 25.2427,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541058",
+      "major_university_name": "S1 SASTRA INDONESIA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 48.0769,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151047",
+      "major_university_name": "S1 SASTRA INDONESIA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 37.6344,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142033",
+      "major_university_name": "S1 SASTRA INDONESIA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 17.3913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141041",
+      "major_university_name": "S1 SASTRA INDONESIA - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 23.5294,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751070",
+      "major_university_name": "S1 SASTRA INDONESIA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 135.593,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911037",
+      "major_university_name": "S1 PEND. BHS. SASTRA IND. & DAERAH - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 57.8947,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921029",
+      "major_university_name": "S1 SASTRA INDONESIA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 416.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

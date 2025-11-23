@@ -1,0 +1,272 @@
+{
+  "idx": 166,
+  "id": "pendidikan-dokter-gigi",
+  "major_name": "Pendidikan Dokter Gigi",
+  "icon": null,
+  "description": "Program studi Kedokteran Gigi mempelajari tentang kesehatan di daerah gigi dan mulut, bagaimana menangani berbagai permasalahan di dalam mulut dan cara mengobatinya. Di program studi Kedokteran Gigi ini nggak cuma melulu soal kesehatan gigi, tapi juga mencakup estetika gigi dan mulut. \r\rKalau kamu ingin jadi dokter gigi, kamu harus menyelesaikan pendidikan akademis di program studi Kedokteran Gigi dan mendapatkan gelar Sarjana Kedokteran Gigi (S.Kg), lalu kamu akan lanjut ke tahap selanjutnya yaitu mengikuti kepaniteraan (coass) atau praktek di rumah sakit atau klinik gigi yang di tunjuk selama dua tahun untuk mendapat gelar dokter gigi (drg).",
+  "why": "Kamu yang kuat dalam pelajaran hafalan bakal cocok di program studi ini. Apalagi kalau kamu ingin mendalami masalah gigi dan mulut. Untuk menjadi dokter gigi kamu juga harus punya kemampuan komunikasi yang bagus dan tahan banting lho. Tapi kalau kamu memang memiliki minat di bidang medis, khususnya kesehatan gigi dan mulut, program studi ini tentunya bisa menjadi pilihan.",
+  "subjects": [
+    "Biomedik",
+    "Ilmu Kedokteran Dasar",
+    "Ilmu Kedokteran Gigi Dasar",
+    "Tumbuh Kembang",
+    "Karies Gigi",
+    "Penyakit/ Kelainan Jaringan Keras Gigi",
+    "Penyakit/ Kelainan Pulpa dan Periapeks",
+    "Penyakit/ Kelainan Jaringan Penyangga Gigi",
+    "Gangguan /Kelainan Tumbuh Kembang dan Oklusi",
+    "Skills Lab Pemeriksaan Tanda-Tanda Vital",
+    "Skills Lab Material Kedokteran Gigi dan Anatomi Gigi",
+    "Skills Lab Restorasi (dengan prinsip intervensi minimal) dan RKG",
+    "Skills Lab Perawatan Saluran Akar",
+    "Restorasi Pasca Endo dan RKG",
+    "Skills Lab Penatalaksanaan Penyakit/Kelainan Jaringan Penyangga Gigi",
+    "Skills Lab Tracing Sefalometri Lateral dan Interpretasi Radiografik",
+    "Rehabilitasi Sistem Stomatognatik",
+    "Penyakit/Kelainan Jaringan Lunak Mulut dan Kelainan Oromaksilofasial",
+    "Skills Lab Alat Ortho Lepas dan Gigi Tiruan Cekat",
+    "Skills Lab Ekstraksi",
+    "Odontektomi dan Kegawatdaruratan",
+    "Skills Lab Pembuatan Gigi Tiruan Lepas Sebagian dan Penuh"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi Kedokteran Gigi pastinya dipersiapkan untuk menjadi seorang dokter gigi yang cakap. Para dokter gigi ini bisa bergabung sebagai tenaga dokter di rumah sakit pemerintah ataupun swasta, klinik, dan puskesmas, atau bisa juga membuka praktek dokter gigi sendiri, menjadi spesialis, peneliti, dan dosen ahli.",
+  "professions": [
+    "Manager Layanan Medis dan Kesehatan",
+    "Ahli Kebersihan Gigi",
+    "Prostodonsi - Ahli Gigi Turunan",
+    "Dokter Umum (General Practitioners)",
+    "Konsultan Kecantikan (Beauty Consultant)",
+    "Dosen Spesialis Kesehatan",
+    "Penyuluh Kesehatan (Health Educators)",
+    "Dokter Gigi",
+    "Koordinator Pelayanan Kesehatan"
+  ],
+  "related_majors": [
+    "kesehatan/pendidikan-dokter",
+    "kesehatan/kedokteran-hewan",
+    "kesehatan/ilmu-keperawatan",
+    "kesehatan/farmasi-klinik-dan-komunitas"
+  ],
+  "major_group_id": 37,
+  "jlh_prodi": 20,
+  "dt_snbp": 564,
+  "dt_snbt": 818,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "121007",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 3.71867,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141006",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 3.60036,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171007",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 3.53635,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111018",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 4.09091,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333009",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.58209,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "351021",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 2.43902,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355033",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 1.49813,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541032",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 3.46021,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531035",
+      "major_university_name": "S1 KEDOKTERAN GIGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 5.22388,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "721002",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 5.2795,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711052",
+      "major_university_name": "D4 TERAPI GIGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 20,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "711017",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 4.09596,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "611026",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 5.06971,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381002",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 4.40252,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372030",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 3.9968,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371008",
+      "major_university_name": "S1 PENDIDIKAN  DOKTER GIGI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 6.2417,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361043",
+      "major_university_name": "S1 HIGIENE GIGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 7.73196,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361009",
+      "major_university_name": "S1 KEDOKTERAN GIGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.86598,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321002",
+      "major_university_name": "S1 PENDIDIKAN DOKTER GIGI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.85714,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381058",
+      "major_university_name": "TEKNIK GIGI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 37,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Kedokteran Gigi",
+    "merdeka_subject": [
+      17,
+      13
+    ],
+    "ipa_subject": [
+      17,
+      13
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

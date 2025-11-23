@@ -1,0 +1,409 @@
+{
+  "idx": 134,
+  "id": "manajemen-sumber-daya-perairan",
+  "major_name": "Manajemen Sumber Daya Perairan",
+  "icon": null,
+  "description": "Manajemen Sumberdaya Perairan membahas mengenai proses atau kegiatan perencanaan, pengorganisasian, pemanfaatan, dan pengelolaan sumberdaya perairan meliputi pemetaan sumberdaya, eksploitasi, pembudidayaan, produksi, hingga pemasaran sumberdaya perairan. Pada program studi ini kita akan mempelajari ragam dan fisiologi hewan air, cara penangkapan, hingga penyakitnya. Dari segi ekonomi kita akan mempelajari tataniaga dan manajemen strategi pemasaran sumberdaya perairan. ",
+  "why": "Wilayah perairan Indonesia sangat luas. Bahkan lebih luas daripada wilayah daratannya. Pastinya banyak sumberdaya yang tersimpan di lautnya. Namun sumberdaya perairan Indonesia yang kaya ini belum dikelola dan dimanfaatkan secara optimal, sehingga sering kali Indonesia masih harus bergantung pada asing dalam pengadaan dan pengelolaan sumberdaya perairannya. Tenaga yang kompeten dalam manajemen sumberdaya perairan sangat dibutuhkan untuk mengatasi masalah ini. Program studi ini hadir untuk menjawab persoalan manajemen sumberdaya perairan.",
+  "subjects": [
+    "Sosiologi Perikanan",
+    "Ekonomi Perikanan",
+    "Ekologi Perairan",
+    "Ikhtilogi",
+    "Agribisnis Perikanan",
+    "Penginderaan Jauh dan Sumberdaya Perikanan",
+    "Manajemen Kualitas Air",
+    "Tataniaga Perikanan",
+    "Analisis Mutu Ikan",
+    "Sistem Informasi dan Statistik Data Perikanan",
+    "Konservasi Sumberdaya Perairan",
+    "Planktonologi",
+    "Nutrisi Ikan",
+    "Teknologi Penangkapan Ikan",
+    "Manajemen Pembenihan Ikan",
+    "Manajemen Pencemaran Perairan",
+    "Hukum dan Politik Perikanan"
+  ],
+  "characters": [
+    "Tekun",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan program studi Manajemen Sumberdaya Perairan dapat bekerja di a instansi pemerintahanKementerian Kelautan dan Perikanan (KKP), Dinas Perikanan, Balitbang Kelautan dan Perikanan, Balai Riset dan Observasi Laut, dan lain-lain. Juga Perusahaan Budidaya Laut, Pangan Ikan, Konsultan Kelautan, dan berwirausaha. ",
+  "professions": [
+    "Peneliti dan Ahli Teknologi Pangan",
+    "Konsultan Lingkungan",
+    "Spesialis Pengairan",
+    "Ahli Konservasi Tanah dan Air",
+    "Spesialis Konservasi Alam"
+  ],
+  "related_majors": [
+    "pertanian/ilmu-kelautan",
+    "teknik/teknik-sumberdaya-air-teknik-pengairan-",
+    "pertanian/pemanfaatan-sumberdaya-perikanan",
+    "ekonomi-bisnis/manajemen-logistik"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 37,
+  "dt_snbp": 1082,
+  "dt_snbt": 1372,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "121024",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 8.36735,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355011",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 14.658,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531011",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 91.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "832005",
+      "major_university_name": "D4 MANAJEMEN REKAYASA PENGOLAHAN HASIL PERIKANAN - POLIKANT",
+      "university_name": "POLITEKNIK PERIKANAN NEGERI TUAL",
+      "keketatan": 1300,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "717002",
+      "major_university_name": "D4 PENGELOLAAN PELABUHAN PERIKANAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 58.6207,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711025",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 43.0556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "631026",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 44.4444,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "611025",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 46.5116,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541011",
+      "major_university_name": "S1 PENGELOLAAN SUMBERDAYA PERIKANAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 89.7436,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511034",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 67.3913,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372001",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 18.9189,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361026",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA AKUATIK (MANAJEMEN SUMBER DAYA PERIKANAN) - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 12.234,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341029",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 13.0435,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351005",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 13.7255,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341022",
+      "major_university_name": "S1 TEKNOLOGI & MANAJEMEN PERIKANAN BUDIDAYA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 13.9535,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131005",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 37.8238,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334021",
+      "major_university_name": "S1 PENDIDIKAN KELAUTAN DAN PERIKANAN KAMPUS SERANG - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 50.8475,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191026",
+      "major_university_name": "S1 SUMBERDAYA AKUATIK - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 168,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181006",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 34.1176,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921002",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 700,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912009",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 333.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821009",
+      "major_university_name": "S1 PEMANFAATAN SUMBERDAYA PERAIRAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 466.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821007",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 540,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811014",
+      "major_university_name": "S1 MAJEMEN SUMB.PERAIRAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 450,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752012",
+      "major_university_name": "S1 MANAJAMEN SUMBERDAYA PERAIRAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 184.615,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751004",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731062",
+      "major_university_name": "S1 SUMBER DAYA AKUATIK - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "728007",
+      "major_university_name": "D4 PENGOLAHAN DAN PENYIMPANAN HASIL PERIKANAN - POLNUSTAR",
+      "university_name": "POLITEKNIK NEGERI NUSA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721020",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 233.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "717011",
+      "major_university_name": "D4 PENGOLAHAN DAN PENYIMPANAN HASIL PERIKANAN - POLIPANGKEP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PANGKAJENE KEPULAUAN",
+      "keketatan": 445.455,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133004",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 140,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133008",
+      "major_university_name": "S1 BUDI DAYA PERAIRAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 124,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "551007",
+      "major_university_name": "S1 MANAJEMEN SUMBER DAYA PERAIRAN - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 97.9167,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "113009",
+      "major_university_name": "S1 SUMBER DAYA AKUATIK - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 60,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521002",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 148.718,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "515033",
+      "major_university_name": "D4 PENGOLAHAN DAN PENYIMPANAN HASIL PERIKANAN - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "384010",
+      "major_university_name": "S1 MANAJEMEN SUMBERDAYA PERAIRAN - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 77.2727,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

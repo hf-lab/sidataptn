@@ -1,0 +1,86 @@
+{
+  "idx": 111,
+  "id": "manajemen-aset",
+  "major_name": "Manajemen Aset",
+  "icon": null,
+  "description": "Manajemen aset sebagai sebuah program studi mempelajari tentang berbagai hal yang berhubungan dengan oengelolaan dan perancangan aset suatu instansi/lembaga. Program studi ini merupakan kombinasi dari  manajemen keuangan, ekonomi, teknik mesin dan praktik kerja yang diterapkan pada aset fisik dengan tujuan dapat menyediakan tingkat pelayanan prima dengan biaya yang paling efisien. Selain itu, program studi ini juga belajar bagaimana caranya menjaga agar sebuah nilai aset tersebut tetap tinggi dan mempunyai usia hidup yang panjang, dengan menyediakan biaya operasi yang memadai sehingga aset tersebut mampu menghasilkan output yang optimal, memberikan kepuasan kepada pelanggannya dengan tetap mengindahkan peraturan perundangan dan aspek keselamatan kerja sehingga tidak mengganggu lingkungan dan memberikan citra yang baik kepada publik.",
+  "why": "Memilih prodi manajemen aset berarti kamu harus siap mempelajari semua hal tentang pengelolaan kekayaan seseorang maupun sebuah lembaga. Pada prodi ini kamu akan diajak memahami bagaimana menjaga sebuah aset dari perubahan nilai dan mengelolanya agar tetap berharga di masa depan nantinya.",
+  "subjects": [
+    "Pengantar Ilmu Ekonomi",
+    "Statistika",
+    "Ekonomi Mikro",
+    "Pengantar Pengelolaan Keuangan",
+    "Hukum Keuangan Negara",
+    "Hukum Pertanahan",
+    "Keuangan Publik",
+    "Pengurusan Piutang Negara",
+    "Pengatahuan Lelang",
+    "Manajemen Resiko Pengelolaan",
+    "Risalah dan Administrasi Lelang"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Manajemen Aset bisa dibilang sebagai salah satu program studi dengan prospek kerja yang cukup luas, karena hampir semua perusahaan membutuhkan tenaga ahli yang mampu mengelola aset-aset yang mereka miliki. Seorang lulusan Manajemen Aset bisa bekerja di BUMN, perusahaan swasta, lembaga pemerintahan seperti Kementrian Keuangan, dan juga konsultan pengelolaan aset.",
+  "professions": [
+    "Pemeriksa Keuangan",
+    "Analis Keuangan",
+    "Bendahara dan Kontroler Keuangan",
+    "Manajer Pembelian",
+    "Manajer Keuangan"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "ekonomi-bisnis/manajemen-perbankan",
+    "ekonomi-bisnis/manajemen-keuangan-syariah",
+    "ekonomi-bisnis/akuntansi-bisnis",
+    "ekonomi-bisnis/manajemen-keuangan",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "ekonomi-bisnis/keuangan-dan-perbankan",
+    "ekonomi-bisnis/manajemen-logistik"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 1,
+  "dt_snbp": 20,
+  "dt_snbt": 48,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "431017",
+      "major_university_name": "D4 MANAJEMEN ASET - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 7.61155,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

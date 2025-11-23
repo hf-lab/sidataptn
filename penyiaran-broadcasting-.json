@@ -1,0 +1,114 @@
+{
+  "idx": 189,
+  "id": "penyiaran-broadcasting-",
+  "major_name": "Penyiaran (Broadcasting)",
+  "icon": null,
+  "description": "Salah satu cabang dari ilmu komunikasi adalah penyiaran atau broadcasting. Sebetulnya penyiaran termasuk dalam kegiatan jurnalistik, makanya di beberapa perguruan tinggi, penyiaran (broadcasting) termasuk kedalam program studi jurnalistik. Namun ada juga yang memfokuskan penyiaran kedalam satu program studi.\r\rKalau bicara broadcasting pasti yang terbayang adalah stasiun televisi atau radio, kan? Bener banget, program studi penyiaran (broadcasting) memang mempelajari tentang proses menciptakan dan mengemas suatu ide menjadi program untuk di produksi dan disiarkan pada khalayak lewat media massa. Jadi di program studi penyiaran ini kamu nggak cuma belajar tentang gimana tampil di depan layar kaca, tapi juga proses di balik layar kaca itu sendiri. \r\rProgram studi ini membekali pengetahuan, kemampuan dan keterampilan untuk mengkomunikasikan suatu karya cipta dan informasi kepada masyarakat luas yang dikemas dalam bentuk siaran. Penyiaran baik lokal, nasional, maupun internasional berfungsi sebagai media informasi, pendidikan, hiburan yang sehat, kontrol dan perekat sosial dan juga menjalankan fungsi ekonomi, seni dan budaya.",
+  "why": "Program studi ini cocok buat kamu yang bercita-cita kerja di stasiun tv dan radio. Program studi ini juga pas buat kamu yang komunikatif, ‘banci tampil’, kreatif, camera face, dan yang paling penting: tangguh. \r\rDunia penyiaran juga membutuhkan kamu, generasi muda yang hebat yang dapat membawa penyiaran Indonesia menjadi lebih baik dalam menjalankan fungsinya to inform, to persuade, to educate, dan to entertaint. Menciptakan konten-konten bermutu tinggi dan mendidik, tidak hanya sebatas mengejar rating dan profit, serta menyuguhkan informasi yang berimbang dan tidak memihak.\r\rLulusan Penyiaran diharapkan dapat menjadi praktisi profesional di bidang kepenyiaran yang berwawasan pragmatis, berjiwa wirausaha, bersikap inovatif, kreatif, produktif dan memiliki kemampuan analitis. Memiliki kemampuan komunikasi pemasaran, dan mampu membuat strategi periklanan yang efektif di media publikasi. Menyusun rencana kerja redaksi lembaga broadcasting yang sesuai dengan kaidah-kaidah kepenyiaran. Serta mampu mengolah bahan berita, dan menyajikannya di media massa cetak dan elektronik.",
+  "subjects": [
+    "Pengantar Jurnalistik",
+    "Dasar-dasar Fotografi",
+    "Aplikasi Komputer",
+    "Teknik Mencari dan Menulis Berita",
+    "Multimedia Komunikasi",
+    "Produksi Pertelevisian",
+    "Advertising Visual",
+    "Perencanaan Media Periklanan",
+    "Komputer Grafis TV",
+    "Teknik Reportasi dan Wawancara",
+    "Pasca Produksi TV",
+    "Media dan Sistem Studio TV",
+    "Manajemen Produksi TV",
+    "Ekonomi Politik Media",
+    "Riset Media",
+    "Teknik Olah Vocal dan Pembawa Acara",
+    "Jurnalistik Televisi",
+    "Manajemen Penyiaran",
+    "Penulisan Naskah Film dan TV",
+    "Jurnalisme Online",
+    "Hukum Etika Pers"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Jadi pembawa berita (news anchor), tim creative, reporter, produser, script writer, sutradara, camera person, floor director, program director, penata cahaya, penata musik, editor, penyiar radio (announcer), dan masih banyak profesi yang berkaitan dengan penyiaran. Banyak peluang yang dimiliki lulusan Penyiaran (Broadcasting). Lulusannya juga dapat berkecimpung dalam manajemen media penyiaran, jadi peneliti, atau pengajar.",
+  "professions": [
+    "Pengajar Komunikasi",
+    "Teknisi Penyiaran",
+    "Teknisi Suara",
+    "Wartawan",
+    "Manajer Teknis Penyiaran",
+    "Penyiar Berita",
+    "Penyiar Televisi/Presenter/Pembawa Acara",
+    "Teknisi Perlengkapan Kamera dan Fotografi",
+    "Program Director",
+    "Operator Kamera untuk Televisi, Video, dan Film"
+  ],
+  "related_majors": [
+    "humaniora/jurnalistik",
+    "humaniora/hubungan-masyarakat",
+    "humaniora/manajemen-komunikasi",
+    "humaniora/ilmu-komunikasi",
+    "humaniora/periklanan-advertising-",
+    "humaniora/manajemen-produksi-media"
+  ],
+  "major_group_id": 31,
+  "jlh_prodi": 3,
+  "dt_snbp": 99,
+  "dt_snbt": 134,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "321072",
+      "major_university_name": "D3 PENYIARAN MULTIMEDIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "421007",
+      "major_university_name": "D4 BROADBAND MULTIMEDIA - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 15.6716,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "422007",
+      "major_university_name": "D3 PENYIARAN - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 31,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Komunikasi",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      3
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

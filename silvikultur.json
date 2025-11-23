@@ -1,0 +1,91 @@
+{
+  "idx": 229,
+  "id": "silvikultur",
+  "major_name": "Silvikultur",
+  "icon": null,
+  "description": "Silvikultur merupakan perpaduan antara ilmu dan seni menumbuhkan hutan yang menyajikan dan mengembangkan ilmu pengetahuan, teknologi pembangunan, dan rehabilitasi hutan yang mampu berperan aktif dalam meningkatkan produktivitas dan manfaat sumberdaya hutan untuk kesejahteraan masyarakat. Program studi ini berfokus pada perawatan tegakan hutan untuk menjamin produktivitas. Silvikultur juga erat kaitannya dengan reforestasi lahan hutan yang telah kritis akibat tangan manusia. Disini Silvikultur berperan dalam memberi arahan rancangan pembangunan dan pemeliharaan tegakan hutan melalui pengaturan komposisi, struktur dan pertumbuhan.",
+  "why": "Sebagian besar wilayah hutan di Indonesia telah diubah menjadi pemukiman, lahan pertanian, perkebunan, dan industri. Oleh sebab itu, diperlukan proses budidaya hutan untuk peremudaan dan perawatan hutan agar hutan dapat lestari hingga generasi yang akan datang. Jurusan ini cocok untuk kamu cinta lingkungan dan bertekad untuk melindungi ekosistem, khususnya hutan.",
+  "subjects": [
+    "Dendrologi",
+    "Genetika Hutan",
+    "Pemuliaan Pohon",
+    "Teknologi Perbanyakan Tanaman Hutan",
+    "Kebakaran Hutan",
+    "Pengelolaan Nutrisi Hutan",
+    "Silvika",
+    "Agroforestri",
+    "Ekologi Hutan",
+    "Klimatologi",
+    "Pengolahan Hasil Hutan",
+    "Ekonomi Kehutanan",
+    "Manajemen Hutan",
+    "Syn-Ekologi",
+    "Ilmu Hama Hutan",
+    "Praktik Pengenalan Ekosistem Hutan",
+    "Ekologi Jenis Pohon Tropika",
+    "Hasil Hutan sebagai Bahan Baku",
+    "Kebakaran Hutan dan Lahan",
+    "Silvikultur Hutan Alam",
+    "Pemantauan Kesehatan Hutan"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan prodi ini bergelar Sarjana Kehutanan (S.Hut). Lulusannya banyak dibutuhkan oleh perusahaan-perusahaan nasional dan multinasional untuk pengembangan dan pembudidayaan hutan di kawasan industri sehingga dapat terehabilitasi dengan lebih baik. Lulusan Silvikultur juga dibutuhkan di lembaga-lembaga pemerintahan seperti Kementerian Pertanian, Lembaga Ilmu Pengetahuan Indonesia (LIPI), dan perguruan-perguruan tinggi. ",
+  "professions": [
+    "Ahli Lingkungan",
+    "Manajer Ilmu Alam",
+    "Konsultan Lingkungan",
+    "Ahli Konservasi Hutan",
+    "Spesialis Pencegahan dan Pemadam Kebakaran Hutan",
+    "Pengawas Hutan",
+    "Spesialis Konservasi Alam"
+  ],
+  "related_majors": [
+    "pertanian/kehutanan",
+    "pertanian/pengelolaan-hutan",
+    "pertanian/konservasi-sumberdaya-hutan-dan-ekowisata",
+    "pertanian/manajemen-hutan"
+  ],
+  "major_group_id": 35,
+  "jlh_prodi": 1,
+  "dt_snbp": 50,
+  "dt_snbt": 33,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "341032",
+      "major_university_name": "S1 SILVIKULTUR - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 14.8305,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 35,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Kehutanan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

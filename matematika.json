@@ -1,0 +1,697 @@
+{
+  "idx": 137,
+  "id": "matematika",
+  "major_name": "Matematika",
+  "icon": null,
+  "description": "Para mahasiswa di program studi Matematika mempelajari matematika murni seperti aljabar, geometri, dan analisis matematika. Selain itu para mahasiswa juga berpeluang untuk mempelajari statistika, komputasi, aktuaria, dan riset operasi. \r\rMeskipun pelajaran matematika sudah sangat dikenal oleh setiap orang, Program Studi Matematika malah kurang mendapatkan minat. Selain prospek kariernya yang masih sangat terbatas, mata kuliah ini pun kerap dianggap rumit. Namun sebenarnya, Jurusan Matematika mempelajari  banyak hal yang tidak hanya sekadar perhitungan rumus-rumus. ",
+  "why": "Apabila kamu tertarik dengan dunia hitung menghitung dan punya kemampuan analisis yang kuat, maka program studi Matematika bisa menjadi pilihan yang tepat buat kamu. Di program studi ini kamu akan diajak untuk mengutak-atik dan membongkar serta membuktikan teorema-teorema matematika yang kita kenal selama ini.",
+  "subjects": [
+    "Dasar-Dasar Matematika",
+    "Kalkulus",
+    "Metode Numerik",
+    "Algoritma dan Pemrograman",
+    "Aljabar Linear Elementer",
+    "Matematika Diskrit",
+    "Struktur Aljabar",
+    "Aljabar Linear",
+    "Praktikum Aljabar",
+    "Kalkulus Peubah Banyak",
+    "Geometri Analitik",
+    "Analisis Real",
+    "Fungsi Kompleks",
+    "Persamaan Diferensial Biasa",
+    "Persamaan Diferensial Parsial",
+    "Pemodelan Matematika",
+    "Program Linear",
+    "Riset Operasi",
+    "Aljabar Matriks",
+    "Teori Bilangan",
+    "Metode Statistika",
+    "Program Linier",
+    "Statistika Matematika",
+    "Teori Himpunan",
+    "Statistika Non Parametrik",
+    "Kolokium",
+    "Analisis Data Uji Hidup",
+    "Analisis Regresi",
+    "Matematika Keuangan",
+    "Teori Ruang Metrik",
+    "Teori Ruang Hilbert",
+    "Teori Kontrol Diskrit",
+    "Teori Kontrol Linear",
+    "Teori Graph"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Meski peminatnya sedikit, sebenarnya Ilmu Matematika bisa dimanfaatkan oleh berbagai macam bidang. Peluang kerja bagi lulusan matematika pun sangat luas, mulai dari di dunia pendidikan sebagai tenaga pengajar, di korporat sebagai analis, ahli statistika, ahli keuangan, hingga astronom dan aktuaris.",
+  "professions": [
+    "Spesialis Matematika",
+    "Aktuaris",
+    "Ahli Matematika",
+    "Penyetuju Kredit",
+    "Penerbit Asuransi",
+    "Ahli Statistik",
+    "Analis Anggaran",
+    "Pemeriksa Klaim, Asuransi Properti",
+    "Penilai, Pemeriksa, dan Penyelidik Klaim Asuransi",
+    "Teller"
+  ],
+  "related_majors": [
+    "mipa/fisika",
+    "mipa/statistika",
+    "pendidikan/pendidikan-matematika",
+    "mipa/kimia",
+    "mipa/matematika-bisnis",
+    "mipa/aktuaria"
+  ],
+  "major_group_id": 19,
+  "jlh_prodi": 66,
+  "dt_snbp": 2042,
+  "dt_snbt": 2808,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "321003",
+      "major_university_name": "S1 MATEMATIKA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 7.24138,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381005",
+      "major_university_name": "S1 MATEMATIKA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 16.1677,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372013",
+      "major_university_name": "S1 MATEMATIKA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 16.7598,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362010",
+      "major_university_name": "S1 MATEMATIKA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 7.67386,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361013",
+      "major_university_name": "S1 MATEMATIKA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 5.65611,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356009",
+      "major_university_name": "S1 MATEMATIKA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.94475,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355005",
+      "major_university_name": "S1 MATEMATIKA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353012",
+      "major_university_name": "S1 MATEMATIKA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 7.9602,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351003",
+      "major_university_name": "S1 MATEMATIKA - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 11.7925,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341034",
+      "major_university_name": "S1 MATEMATIKA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 9.87654,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336002",
+      "major_university_name": "S1 MATEMATIKA - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 23.3333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334006",
+      "major_university_name": "S1 MATEMATIKA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 11.9363,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333002",
+      "major_university_name": "S1 MATEMATIKA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.07029,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332019",
+      "major_university_name": "S1 FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM * MATEMATIKA (FMIPA*M) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 8.67052,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323005",
+      "major_university_name": "S1 MATEMATIKA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.67742,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121008",
+      "major_university_name": "S1 MATEMATIKA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 11.4286,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122011",
+      "major_university_name": "S1 MATEMATIKA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 21.9269,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621012",
+      "major_university_name": "S1 MATEMATIKA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 32.5397,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171008",
+      "major_university_name": "S1 MATEMATIKA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 31.0881,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711001",
+      "major_university_name": "S1 MATEMATIKA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 26.0116,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131003",
+      "major_university_name": "S1 MATEMATIKA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 18.6047,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721012",
+      "major_university_name": "S1 MATEMATIKA - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811020",
+      "major_university_name": "S1 MATEMATIKA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 327.778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "382002",
+      "major_university_name": "S1 MATEMATIKA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 11.8343,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383005",
+      "major_university_name": "S1 MATEMATIKA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 17.5182,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752030",
+      "major_university_name": "S1 MATEMATIKA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 88.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "386007",
+      "major_university_name": "S1 MATEMATIKA - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 49.2958,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751006",
+      "major_university_name": "S1 MATEMATIKA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 54.1667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741006",
+      "major_university_name": "S1 MATEMATIKA - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 226.316,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731014",
+      "major_university_name": "S1 MATEMATIKA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 53.1915,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611016",
+      "major_university_name": "S1 MATEMATIKA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 57.1429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712005",
+      "major_university_name": "S1 MATEMATIKA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 17.2043,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631012",
+      "major_university_name": "S1 MATEMATIKA - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 56.701,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511012",
+      "major_university_name": "S1 MATEMATIKA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 44.5946,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "114012",
+      "major_university_name": "S1 MATEMATIKA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521042",
+      "major_university_name": "S1 MATEMATIKA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531022",
+      "major_university_name": "S1 MATEMATIKA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 38.4615,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541033",
+      "major_university_name": "S1 MATEMATIKA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 52.6316,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "192011",
+      "major_university_name": "S1 MATEMATIKA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 75,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142002",
+      "major_university_name": "S1 MATEMATIKA (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 21.8905,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141009",
+      "major_university_name": "S1 MATEMATIKA - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 20.0837,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132002",
+      "major_university_name": "S1 MATEMATIKA - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 110.345,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "151025",
+      "major_university_name": "S1 MATEMATIKA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 54.8387,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161010",
+      "major_university_name": "S1 MATEMATIKA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 77.4648,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "123003",
+      "major_university_name": "S1 MATEMATIKA - UINSU",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+      "keketatan": 110.87,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181013",
+      "major_university_name": "S1 MATEMATIKA - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 85.7143,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "191011",
+      "major_university_name": "S1 MATEMATIKA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 58.5253,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111019",
+      "major_university_name": "S1 MATEMATIKA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 36.3636,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "374001",
+      "major_university_name": "S1 MATEMATIKA - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 68.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "312004",
+      "major_university_name": "S1 MATEMATIKA - UINBANTEN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN MAULANA HASANUDDIN BANTEN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "322004",
+      "major_university_name": "S1 MATEMATIKA - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 21.6216,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "357006",
+      "major_university_name": "S1 MATEMATIKA - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 101.449,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "365001",
+      "major_university_name": "S1 MATEMATIKA - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 48.0519,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "371009",
+      "major_university_name": "S1 MATEMATIKA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 29.1866,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373010",
+      "major_university_name": "S1 MATEMATIKA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 14.9871,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921004",
+      "major_university_name": "S1 MATEMATIKA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 1200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "753019",
+      "major_university_name": "S1 MATEMATIKA - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 875,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911001",
+      "major_university_name": "S1 MATEMATIKA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "144001",
+      "major_university_name": "S1 MATEMATIKA - UINIB",
+      "university_name": "UNIVERSITAS ISLAM NEGERI IMAM BONJOL PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "718003",
+      "major_university_name": "S1 MATEMATIKA - ITH",
+      "university_name": "INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713001",
+      "major_university_name": "S1 MATEMATIKA - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 165.517,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "632007",
+      "major_university_name": "S1 MATEMATIKA - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 81.3953,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612015",
+      "major_university_name": "S1 MATEMATIKA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 114.286,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "542002",
+      "major_university_name": "S1 MATEMATIKA - ITK",
+      "university_name": "INSTITUT TEKNOLOGI KALIMANTAN",
+      "keketatan": 150,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "194001",
+      "major_university_name": "S1 MATEMATIKA - UINMYBATUSANGKAR",
+      "university_name": "UIN MAHMUD YUNUS BATUSANGKAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "195003",
+      "major_university_name": "S1 MATEMATIKA - UINBUKITTINGGI",
+      "university_name": "UIN SJECH M. DJAMIL DJAMBEK BUKITTINGGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 19,
+    "super_group": "ILMU_FORMAL",
+    "group_name": "Matematika",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "idx": 153,
+  "id": "pemasaran-digital",
+  "major_name": "Pemasaran Digital",
+  "icon": null,
+  "description": "Program studi Pemasaran Digital memberikan pengetahuan pemasaran dan keterampilan kritis yang mendasar dalam analisis pemasaran, pengambilan keputusan, dan komunikasi efektif ke organisasi-organisasi besar. Seperti namanya, pada prodi Pemasaran Digital kamu akan mempelajari cara-cara mempromosikan sebuah brand melalui media digital yang mampu menjangkau konsumen secara tepat, cepat, personal, dan relevan.",
+  "why": "Seiring dengan pesatnya perkembangan teknologi, strategi pemasaran baru yang lebih up-to-date efektif pun dibutuhkan agar dapat menyentuh lapisan konsumen yang lebih luas. Dengan belajar di program studi Pemasaran Digital, kamu nggak hanya akan mempelajari secara mendalam tentang teknik-teknik pemasaran yang efektif di era digital lho, melainkan juga konsep-konsep psikologi, antropologi, dan juga multimedia.",
+  "subjects": [
+    "Prinsip Ekonomi Makro",
+    "Pengantar Bisnis",
+    "Komunikasi Bisnis",
+    "Penggunaan dan Pengelolaan Sistem Informasi",
+    "Manajemen Operasi Dasar",
+    "Pemasaran E-Commerce",
+    "Simulasi Bisnis"
+  ],
+  "characters": [
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja lulusan Pemasaran Digital luas banget lho, gaes. Kamu nggak hanya bisa berkarir di bidang pemasaran konvensional di perusahaan-perusahaan besar, tapi juga bisa menjajal karir di startup-startup digital yang tengah menjamur sebagai seorang digital strategist, digital marketing, atau bahkan social media executive. Banyak banget bidang-bidang pekerjaan terkait dunia bisnis sekarang yang muncul akibat hadirnya era digital, maka itu lulusan Pemasaran Digital pun nggak perlu khawatir mengenai prospek kerja.",
+  "professions": [
+    "Manajer Pemasaran",
+    "Manajer Pemasaran Digital",
+    "SEO Specialist",
+    "Search Engine Marketing",
+    "Penyusun Strategi Pemasaran (Online)",
+    "Konsultan Pemasaran Digital",
+    "Digital Creative Group Head"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/manajemen-pemasaran-marketing-",
+    "ekonomi-bisnis/pemasaran-internasional",
+    "humaniora/marketing-communication",
+    "ekonomi-bisnis/bisnis-digital"
+  ],
+  "major_group_id": 7,
+  "jlh_prodi": 4,
+  "dt_snbp": 65,
+  "dt_snbt": 81,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "323073",
+      "major_university_name": "D4 PEMASARAN DIGITAL - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333070",
+      "major_university_name": "D4 PEMASARAN DIGITAL - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "473012",
+      "major_university_name": "D4 PEMASARAN DIGITAL - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111074",
+      "major_university_name": "PEMASARAN - UNSYIAH",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 7,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Ekonomi",
+    "merdeka_subject": [
+      9,
+      10
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9,
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

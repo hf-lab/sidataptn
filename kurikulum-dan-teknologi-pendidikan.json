@@ -1,0 +1,175 @@
+{
+  "idx": 108,
+  "id": "kurikulum-dan-teknologi-pendidikan",
+  "major_name": "Kurikulum dan Teknologi Pendidikan",
+  "icon": null,
+  "description": "Program studi Kurikulum dan Teknologi Pendidikan berfokus pada pengembangan kurikulum pendidikan dan pemanfaatan teknologi bagi dunia pendidikan. Jurusan ini spesifik membekali para mahasiswanya pemahaman tentang kurikulum sehingga para lulusan mampu menyiapkan solusi dan mengembangkan kurikulum yang cocok bagi pendidikan di Indonesia. \r\rTak hanya itu, para mahasiswa juga disiapkan supaya fasih dalam menggunakan teknologi dan komunikasi untuk dunia pendidikan dan proses belajar mengajar. Pemanfaatan teknologi secara tepat bisa membantu proses belajar mengajar lebih lancar dan efisien. Maka dari itu teknologi pendidikan punya peran yang cukup signifikan terhadap pengembangan kurikulum. Melibatkan teknologi dalam pengembangan kurikulum akan membuat kurikulum tersebut menjadi lebih relevan bagi para peserta didik untuk menyongsong dunia kerja.\r",
+  "why": "Apabila kamu punya ketertarikan dalam bidang pendidikan sekaligus teknologi praktis, jurusan ini bisa menjadi prioritas pilihanmu. Antusiasme kamu terhadap teknologi tak akan terbuang sia-sia apabila kamu bisa memanfaatkannya untuk kelancaran proses belajar mengajar dan pengembangan kurikulum secara tepat guna. \r\rMahasiswa yang cocok untuk mengambil jurusan ini adalah mereka yang setia mengikuti perkembangan teknologi, punya passion pada dunia pendidikan, visioner, terbuka terhadap banyak kemungkinan, mudah beradaptasi, antusias terhadap sesuatu yang baru, inovatif, dan peduli tinggi pada bidang pengembangan kualitas pendidikan. ",
+  "subjects": [
+    "Teknologi Pendidikan",
+    "Media Pembelajar",
+    "Strategi Pembelajaran",
+    "Pengantar Kurikulum",
+    "Profesi Teknologi Pendidikan",
+    "Desain Pembelajaran",
+    "Statistik Pendidikan",
+    "Pengembangan Belajar Online atau e-learning"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Peluang untuk profesi ini cukup menjanjikan. Perkembangan teknologi mau tidak mau menuntut dunia pendidikan berubah dan beradaptasi. Bahkan, teknologi juga mempengaruhi proses belajar, cara berkomunikasi, dan perancangan kurikulum. Oleh karena itu, sekolah dan lembaga pendidikan membutuhkan orang yang menguasai bidang kurikulum dan teknologi pendidikan.",
+  "professions": [
+    "Pengajar Geografi",
+    "Pengajar Biologi",
+    "Dosen Ilmu Komputer",
+    "Kepala Sekolah",
+    "Pengajar Kimia",
+    "Teknisi Museum dan Konservator",
+    "Koordinator Online Learning"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-guru-sekolah-dasar",
+    "pendidikan/pendidikan-luar-biasa",
+    "pendidikan/pendidikan-luar-sekolah"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 12,
+  "dt_snbp": 410,
+  "dt_snbt": 544,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323020",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 6.19621,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334042",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 7.66355,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353094",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356029",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.07029,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362028",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 6.95652,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383028",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 17.2524,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142026",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 11.976,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373030",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 12.2159,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "521038",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 58.8235,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531062",
+      "major_university_name": "S1 TEKNOLOGI  PENDIDIKAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 36,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712042",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 22.9167,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612030",
+      "major_university_name": "S1 TEKNOLOGI PENDIDIKAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 48,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

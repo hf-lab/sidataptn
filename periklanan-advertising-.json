@@ -1,0 +1,126 @@
+{
+  "idx": 192,
+  "id": "periklanan-advertising-",
+  "major_name": "Periklanan (Advertising)",
+  "icon": null,
+  "description": "Program studi Periklanan (Advertising) mempelajari tentang cara menerapkan strategi kreatif periklanan melalui ilustrasi, animasi, desain komunikasi visual, sketsa dan topografi periklanan. Prodi ini juga membekali pengetahuan tentang teknik kamera elektronik, recording dan editing, fotografi periklanan, produksi iklan cetak dan elektronik, copywriting, serta visualisasi dan story board. Pengetahuan tersebut kemudian diolah menjadi alat promosi berupa iklan baik di media cetak (koran dan surat kabar), elektronik (TV dan radio), maupun digital (web dan mobile).",
+  "why": "Kreativitas tinggi dibutuhkan dalam menghasilkan iklan yang menarik sehingga dapat menarik perhatian konsumen. Kalau kamu tertarik dan antusias melihat iklan-iklan yang terpampang di berbagai media, dan penasaran bagaimana iklan tersebut berpengaruh dalam mengambiil simpati khalayak terhadap suatu produk atau brand, prodi ini akan menjawab semuanya.",
+  "subjects": [
+    "Komunikasi Massa",
+    "Sosiologi Komunikasi",
+    "Asas-Asas Manajemen",
+    "Komputer Grafis",
+    "Fotografi Iklan",
+    "Dasar Marketing",
+    "Statistika Periklanan",
+    "Komunikasi Pemasaran",
+    "Produksi Media Komunikasi Visual",
+    "Copywriting Media Cetak",
+    "Produksi Iklan Televisi",
+    "Perilaku Konsumen",
+    "Riset Iklan",
+    "Desktop Publishing",
+    "Teknik Kamera Video & Editing",
+    "Etika Periklanan",
+    "Produksi Iklan Media Siar",
+    "Penulisan Naskah Iklan",
+    "Strategi Periklanan",
+    "Brand Building Management",
+    "Media Buying",
+    "Multimedia"
+  ],
+  "characters": [
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi Periklanan pada umumnya bekerja di biro-biro iklan dan pemasaran (Advertising/Marketing Agency). Industri periklanan sendiri cangkupannya cukup luas antara lain; Creative Agency, Media Agency, Digital Agency dan BTL Agency. Lulusan Periklanan dapat berkarir dalam berbagai peran dalam industri tersebut misalnya; Stategic Planner, Media Planner, Media Buyer, Account Manager dll. Lulusan periklanan juga bisa merambah bidang Humas (Public Relation) dan marketing.",
+  "professions": [
+    "Analisis Riset Pasar dan Spesialis Pemasaran",
+    "Sales Periklanan",
+    "Pengajar Komunikasi",
+    "Copywriter",
+    "Manajer Sosial Media",
+    "Penyusun Strategi Pemasaran (Online)",
+    "Spesialis Hubungan Masyarakat",
+    "Manager Periklanan dan Promosi",
+    "Manajer Pemasaran Digital",
+    "Content Creator"
+  ],
+  "related_majors": [
+    "humaniora/penyiaran-broadcasting-",
+    "seni/dkv-creative-advertising",
+    "ekonomi-bisnis/branding",
+    "seni/dkv-new-media",
+    "seni/fotografi"
+  ],
+  "major_group_id": 31,
+  "jlh_prodi": 4,
+  "dt_snbp": 97,
+  "dt_snbt": 126,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "321075",
+      "major_university_name": "D3 PERIKLANAN KREATIF - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "422017",
+      "major_university_name": "D3 PERIKLANAN - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "422021",
+      "major_university_name": "D3 PERIKLANAN (PSDKU MAKASSAR) - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "422023",
+      "major_university_name": "D3 PERIKLANAN (PSDKU MEDAN) - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 31,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Komunikasi",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      3
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

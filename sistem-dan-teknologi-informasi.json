@@ -1,0 +1,286 @@
+{
+  "idx": 230,
+  "id": "sistem-dan-teknologi-informasi",
+  "major_name": "Sistem dan Teknologi Informasi",
+  "icon": null,
+  "description": "Program studi Sistem dan Teknologi Informasi (STI) merupakan gabungan dari prodi Sistem Informasi dan Teknologi Informasi. Serupa tapi tak sama, di prodi ini kita pastinya akan mempelajari ilmu komputer dan pemrograman, namun di prodi STI kita akan turut di bekali dengan ilmu manajemen bisnis, dan dasar-dasar pemahaman teknik elektro. \r\rPada dasarnya, prodi ini lahir untuk menjawab segala permasalahan masyarakat akan kebutuhan teknologi informasi. Mahasiswa Sistem dan Teknologi Informasi dituntut untuk memahami perkembangan teknologi informasi dan kaitannya dengan nilai-nilai sosial, ekonomi, dan politik di masyarakat. Mahasiswa STI diajarkan untuk menganalisis permasalahan pada suatu perusahaan atau organisasi dan mencari serta menghasilkan solusi berbasis sistem teknologi informasi. Saat ini program studi STI hanya tersedia di Sekolah Teknik Elektro dan Informatika (STEI) ITB.",
+  "why": "Di era digital ini, sistem informasi dan teknologi informasi merupakan dua unsur yang penting dalam kehidupan. Keduanya tidak dapat di pisahkan dari segala aspek kehidupan termasuk sosial, ekonomi, dan politik. Karenanya ilmu STI akan sangat bermanfaat untuk kehidupan dimasa sekarang dan yang akan datang. \r\rKalau kamu ingin mempelajari bidang IT, tapi nggak terlalu handal di bidang koding dan pemrograman, prodi ini bisa jadi pilihan yang bagus. Kamu akan tetap dapat ilmu dasar pengkodingan, tapi akan lebih fokus pada pemanfaatan teknologi informasi untuk kepentingan manajemen bisnis.",
+  "subjects": [
+    "Matematika STI",
+    "Probabilitas dan Statistik",
+    "Sistem Digital & Mikroprosesor",
+    "Organisasi & Manajemen Perusahaan Industri",
+    "Pemodelan Basis Data",
+    "Algoritma dan Struktur Data",
+    "Jaringan Komputer",
+    "Sistem & Arsitektur Komputer",
+    "Analisis Kebutuhan Sistem",
+    "Sistem Multimedia",
+    "Pemrograman Integratif",
+    "Analisis Kebutuhan Enterprise",
+    "Layanan Sistem dan Teknologi Informasi",
+    "Rekayasa Perangkat Lunak",
+    "Hukum & Etika Teknologi Informasi",
+    "Arsitektur Enterprise",
+    "Interaksi Manusia dengan Komputer dan Antarmuka"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan STI punya prospek kerja yang luas, karena banyak organisasi maupun perusahaan swasta ataupun pemerintah yang membutuhkan tenaga ahli IT yang juga memahami pemahaman dan kemampuan analisis terhadap aspek-aspek sosial, ekonomi, dan politik. Banyak lulusan STI yang bekerja di perusahaan-perusahaan besar. STI juga termasuk dalam program studi yang lulusannya punya gaji tertinggi, lho. Tertarik, kan?",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analis Sistem Komputer",
+    "Spesialis Support Pengguna Komputer",
+    "Programmer Komputer",
+    "Manager Sistem Komputer dan Informasi",
+    "Arsitek Sistem Komputer",
+    "Developer Software, Aplikasi",
+    "Java Programmer"
+  ],
+  "related_majors": [
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/sistem-informasi-bisnis",
+    "komputer-teknologi/sistem-komputer"
+  ],
+  "major_group_id": 45,
+  "jlh_prodi": 23,
+  "dt_snbp": 860,
+  "dt_snbt": 1103,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "121023",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 2.54237,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323019",
+      "major_university_name": "S1 SISTEM DAN TEKNOLOGI INFORMASI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 1.61002,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361045",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.13178,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362023",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 1.33333,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "531038",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 5.18868,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "181024",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352022",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "357010",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 20.2381,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611021",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 8.67876,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371027",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 10.4822,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372047",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 7.18157,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382031",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 5.10638,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "532001",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UIN-ANTASARI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ANTASARI BANJARMASIN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "516007",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI - POLITAP",
+      "university_name": "POLITEKNIK NEGERI KETAPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "632009",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 13.2743,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "537004",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113012",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 39.267,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "473003",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372093",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "367002",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - UINSALATIGA",
+      "university_name": "UIN SALATIGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "116007",
+      "major_university_name": "S1 TEKNOLOGI INFORMASI - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 27.7778,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "515031",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI (KAMPUS KAB.SUKAMARA) - POLNEP",
+      "university_name": "POLITEKNIK NEGERI PONTIANAK",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "474026",
+      "major_university_name": "D3 TEKNOLOGI INFORMASI (KAMPUS KAB LUMAJANG) - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 45,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Informasi",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

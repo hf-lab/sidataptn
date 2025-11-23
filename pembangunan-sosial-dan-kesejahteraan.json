@@ -1,0 +1,114 @@
+{
+  "idx": 155,
+  "id": "pembangunan-sosial-dan-kesejahteraan",
+  "major_name": "Pembangunan Sosial dan Kesejahteraan",
+  "icon": null,
+  "description": "Program studi Pembangunan Sosial dan Kesejahteraan (PSdK) mempelajari strategi dalam pemecahan masalah-masalah sosial yang terjadi di masyarakat, serta penyejahteraan dan pembangunan masyarakat pasca penanganan masalah. Dulunya prodi ini bernama Sosiatri. Pokok-pokok bahasan dalam prodi ini yaitu tentang kebijakan sosial, pemberdayaan masyarakat, dan tanggung jawab sosial perusahaan. Untuk dapat menyelesaikan berbagai macam permasalahan sosial, kamu harus mempelajari dulu berbagai kebijakan sosial dan proses pembuatan kebijakan tersebut, mulai dari perencanaan, implementasi, hingga evaluasi. Kemudian kamu dapat menganalisa apakah kebijakan tersebut menguntungkan dan dapat menyelesaikan permasalahan sosial, atau sebaliknya. Lalu kamu juga dapat menganalisa berbagai pendekatan untuk menyelesaikannya.",
+  "why": "Kalau kamu suka kegiatan sosial dan berminat dalam community development, program studi ini sangat cocok untukmu. Begitu banyak kegiatan sosial yang tidak berkelanjutan karena tidak tahu ilmunya. Kepedulian dan keinginan untuk membantu sekelompok masyarakat untuk berdaya dengan usahanya sendiri sangat dibutuhkan di program studi ini. Di sini kamu bisa belajar sekaligus mengabdi kepada masyarakat.",
+  "subjects": [
+    "Kebijakan Sosial",
+    "Masalah Sosial",
+    "Kebijakan Pembangunan",
+    "Pemberdayaan Masyarakat",
+    "Perubahan Sosial",
+    "Institusi Sosial",
+    "Kemiskinan dan Pembangunan",
+    "Teori Perubahan Sosial dan Kesejahteraan",
+    "Masalah-Masalah Sosial",
+    "Teori-Teori Pembangunan",
+    "Perencanaan dan Kebijakan Sosial",
+    "Kapital dan Jaminan Sosial",
+    "Negara",
+    "Pasar dan Kesejahteraan Sosial",
+    "Kemiskinan dan Pemberdayaan Masyarakat",
+    "Organisasi Masyarakat dan Pembangunan Sosial",
+    "CSR dan Pembangunan Sosial",
+    "Analisis dan Perumusan Kebijakan Sosial",
+    "Pengorganisasian Masyarakat dan Advokasi Kebijakan",
+    "Metode dan Teknik Fasilitasi",
+    "Kesehatan Masyarakat",
+    "Pluralisme Kesejahteraan",
+    "Tata Kelola CSR",
+    "Demografi",
+    "Filantropi Sosial",
+    "Hubungan Industrial",
+    "Ekonomi Kerakyatan",
+    "Kepemimpinan Sosial",
+    "Migrasi dan Pembangunan Kawasan"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan prodi PSdK dapat berkarir di berbagai Lembaga Swadaya Masyarakat (LSM) dan perusahaan-perusahaan dalam menangani program Corporate Social Responsibility (CSR) sebagai ahli pengembangan masyarakat (community development specialist) dan ahli kebijakan sosial pada dinas sosial ataupun sebagai ahli pemberdayaan masyarakat dan peneliti.",
+  "professions": [
+    "Manajer Layanan Sosial dan Komunitas",
+    "Koordinator Pelayanan Kesehatan",
+    "Pekerja Sosial",
+    "Sosiolog",
+    "Dosen (Secara umum)",
+    "Pekerja Kemanusiaan"
+  ],
+  "related_majors": [
+    "humaniora/sosiologi",
+    "ekonomi-bisnis/ekonomi-pembangunan",
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "humaniora/sains-komunikasi-dan-pengembangan-masyarakat-"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 2,
+  "dt_snbp": 48,
+  "dt_snbt": 56,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "361081",
+      "major_university_name": "S1 PEMBANGUNAN SOSIAL DAN KESEJAHTERAAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.68,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "541044",
+      "major_university_name": "S1 PEMBANGUNAN SOSIAL - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 17.8771,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

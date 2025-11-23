@@ -1,0 +1,79 @@
+{
+  "idx": 116,
+  "id": "manajemen-bisnis-unggas",
+  "major_name": "Manajemen Bisnis Unggas",
+  "icon": null,
+  "description": "Program studi Manajemen Bisnis Unggas menggabungkan studi peternakan dan studi ekonomi. Di prodi ini kamu akan belajar tentang perencanaan, pengorganisasian, pelaksanaan bisnis, produksi, pasca panen, pemasaran, juga manajemen SDM. Disini kamu akan diajarkan secara menyeluruh tentang pengelolaan bisnis ternak unggas, mulai dari bagaimana menyeleksi bibit unggas yang berkualitas, merancang kandang yang tepat, memformulasikan pakan yang baik, mengelola kesehatan unggas, dan mengelola hasil ternak unggas menjadi produk yang bisa di pasarkan. Tapi nggak melulu berurusan dengan unggas, prodi ini juga dilengkapi dengan ilmu manajemen bisnis, dan akan mengajarkanmu bagaimana membuat perencanaan produksi peternakan unggas, mengelola keuangan bisnis peternakan unggas, mengelola SDM, pemahaman tentang keselamatan kerja, sampai dengan pengelolaan limbah unggas. ",
+  "why": "Jadi peternak unggas? Kenapa tidak? Usaha ternak unggas punya prospek yang sangat baik. Beragam produk yang kita konsumsi sehari-hari berasal dari hasil unggas, yang artinya bisnis unggas punya lingkup dan potensi yang sangat besar, asalkan dikelola dengan baik. Karena itu prodi Manajemen Bisnis Unggas hadir untuk memfokuskan pada pengelolaan bisnis ternak unggas.",
+  "subjects": [
+    "Kesehatan dan Keselamatan Kerja",
+    "Manajemen Industri Pakan Unggas",
+    "Manajemen Rumah Potong Ayam",
+    "Produksi Ayam Ras Pedaging",
+    "Produksi Ayam Ras Petelur",
+    "Teknologi Industri Penetasan",
+    "Teknologi Pengolahan Hasil Ternak Unggas",
+    "Manajemen Keuangan",
+    "Manajemen Mutu",
+    "Manajemen Sumberdaya Manusia",
+    "Manajemen Pemasaran"
+  ],
+  "characters": [
+    "Tekun",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Prodi ini tersedia dalam program Diploma IV (D4), sehingga nantinya lulusannya akan memeroleh gelar Sarjana Terapan. Ditambah lagi dengan porsi praktik yang lebih besar daripada teori, membuat lulusan Manajemen Bisnis Unggas memiliki kompetensi yang tinggi dalam praktik bisnis unggas. Lulusan Manajemen Bisnis Unggas dapat berkarir di perusahaan ternak unggas atau perusahaan yang menghasilkan produk-produk dari unggas seperti produk makanan beku (misalnya nugget, sosis, dan lain-lain), vaksin, makanan mentah, dan fashion. Selain itu, lulusannya juga dapat berkarir sebagai peneliti dan pengusaha bisnis unggas sendiri.",
+  "professions": [
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manager Pertanian dan Peternakan",
+    "Peneliti Hewan",
+    "Analis Manajemen Bisnis"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/peternakan",
+    "pertanian/produksi-ternak",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-",
+    "ekonomi-bisnis/manajemen-bisnis",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/teknologi-hasil-ternak"
+  ],
+  "major_group_id": 27,
+  "jlh_prodi": 1,
+  "dt_snbp": 66,
+  "dt_snbt": 48,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "472005",
+      "major_university_name": "D4 MANAGEMEN BISNIS UNGGAS - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": 154.839,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 27,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Manajemen",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

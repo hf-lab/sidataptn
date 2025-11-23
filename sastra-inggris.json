@@ -1,0 +1,455 @@
+{
+  "idx": 211,
+  "id": "sastra-inggris",
+  "major_name": "Sastra Inggris",
+  "icon": null,
+  "description": "Dengan memilih program studi Sastra Inggris, kamu bisa mempelajari tentang isi, ciri artistik, estetika, keaslian, serta keindahan isi dalam teks atau tulisan karya sastra Inggris. Kamu akan mempelajari berbagai karya tulis baik dalam bentuk novel, naskah drama, atau puisi yang pasti ditulis dalam bahasa Inggris. Selain itu kamu juga akan mempelajari linguistik bahasa Inggris secara lebih mendalam.\r\rWalaupun mempelajari Sastra Inggris bertujuan untuk mengasah kemampuan analisis dengan mencermati berbagai karya sastra, namun tidak menutup kemungkinan kamu bisa menciptakan karya sastra. Di jurusan ini kamu akan mempelajari karya-karya William Shakespeare, Jane Austen, Charlotte Bronte, Charles Dickens, Oscar Wilde, Edgar Allan Poe, dan lain sebagainya. \r",
+  "why": "Apabila kamu punya minat untuk memahami karya sastra Inggris baik dari sisi literatur, linguistik, dan penerjemahannya, maka kamu bisa memilih program studi ini. Selain itu, kemampuan membaca, berbicara, dan memahami isi tulisan dibutuhkan dalam proses belajar di jurusan ini.",
+  "subjects": [
+    "Sejarah Pemikiran Modern",
+    "Budaya dan Kearifan Lokal",
+    "English for International Communication",
+    "English for Social Communication",
+    "English in Social Discourse",
+    "English for Business Communication",
+    "English in Academic Discourse",
+    "Grammar for Interpersonal and Social Communication",
+    "Grammar for Business Communication",
+    "Grammar for Academic Communication",
+    "Diction in Discourse",
+    "Public Speaking",
+    "English for Media",
+    "English in Literary Works",
+    "English Phonetics and Phonology",
+    "English Morphology and Syntax",
+    "Cross Cultural Understanding",
+    "Sematics and Pragmatics",
+    "Comparative Linguistics",
+    "English Literature Development",
+    "Prose",
+    "Poetry",
+    "Drama",
+    "Literary Criticism",
+    "Media Discourse",
+    "Practicum of Translation",
+    "Subtitling",
+    "Bahasa Indonesia for Translator"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Kritis",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Mengingat bahasa Inggris adalah bahasa internasional, peluang kamu untuk memilih profesi yang kamu inginkan masih sangat terbuka lebar. Lulusan Sastra Inggris dapat bekerja di berbagai bidang sebagai content writer, copywriter, manajer sosial media, editor artikel, jurnalis, document control, dan masih banyak lagi. ",
+  "professions": [
+    "Editor (Artikel/Tulisan)",
+    "Wartawan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Penulis Perjalanan",
+    "Content Writer",
+    "Dosen Bahasa Inggris dan Literatur",
+    "Penerjemah",
+    "Novelis",
+    "Content Creator",
+    "Content Strategist"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-jawa",
+    "budaya-bahasa/sastra-indonesia",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-jerman",
+    "pendidikan/pendidikan-bahasa-inggris",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 39,
+  "dt_snbp": 1704,
+  "dt_snbt": 2430,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321058",
+      "major_university_name": "S1 SASTRA INGGRIS - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 1.69492,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "334061",
+      "major_university_name": "S1 BAHASA DAN SASTRA INGGRIS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 3.48028,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353044",
+      "major_university_name": "S1 SASTRA INGGRIS - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 3.60825,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122036",
+      "major_university_name": "S1 SASTRA INGGRIS - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 10.1498,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711068",
+      "major_university_name": "S1 SASTRA INGGRIS - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 8.02792,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611037",
+      "major_university_name": "S1 SASTRA INGGRIS - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 11.9579,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541059",
+      "major_university_name": "S1 SASTRA INGGRIS - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 13.6752,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "386032",
+      "major_university_name": "S1 SASTRA INGGRIS - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 26.0638,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "385028",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383042",
+      "major_university_name": "S1 SASTRA INGGRIS - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 8.41866,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381040",
+      "major_university_name": "S1 BAHASA DAN SASTRA INGGRIS - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 9.44882,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373051",
+      "major_university_name": "S1 BAHASA DAN SASTRA INGGRIS - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 3.67647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372066",
+      "major_university_name": "S1 SASTRA INGGRIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 8.22943,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371056",
+      "major_university_name": "S1 SASTRA INGGRIS - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 11.7783,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "365026",
+      "major_university_name": "S1 SASTRA INGGRIS (SI) - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 15.7343,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362057",
+      "major_university_name": "S1 SASTRA INGGRIS - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 2.73038,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356054",
+      "major_university_name": "S1 SASTRA INGGRIS - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 8.01833,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355037",
+      "major_university_name": "S1 SASTRA INGGRIS - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 5.2682,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351034",
+      "major_university_name": "S1 SASTRA INGGRIS - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 4.59418,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336019",
+      "major_university_name": "S1 BAHASA DAN SASTRA  INGGRIS - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 20.9139,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333046",
+      "major_university_name": "S1 SASTRA INGGRIS - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.09091,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323031",
+      "major_university_name": "S1 SASTRA INGGRIS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 1.78571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322045",
+      "major_university_name": "S1 BAHASA DAN SASTRA INGGRIS - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 9.10494,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361073",
+      "major_university_name": "S1 SASTRA INGGRIS - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 2.5641,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142035",
+      "major_university_name": "S1 SASTRA INGGRIS - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 8.95522,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121040",
+      "major_university_name": "S1 SASTRA INGGRIS - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 5.20305,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "181018",
+      "major_university_name": "S1 SASTRA INGGRIS - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912026",
+      "major_university_name": "S1 SASTRA INGGRIS - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 625,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751071",
+      "major_university_name": "S1 SASTRA INGGRIS - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 44.5205,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722026",
+      "major_university_name": "S1 BAH & SASTRA INGGRIS - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 41.3793,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721045",
+      "major_university_name": "S1 SASTRA INGGRIS - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 96.6216,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712049",
+      "major_university_name": "S1 SASTRA INGGRIS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 18.2203,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141042",
+      "major_university_name": "S1 SASTRA INGGRIS - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 13.8568,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374015",
+      "major_university_name": "S1 BAHASA DAN SASTRA INGGRIS - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 64.1221,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716035",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "384015",
+      "major_university_name": "S1 SASTRA INGGRIS - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 52.1552,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "383097",
+      "major_university_name": "S1 SASTRA INGGRIS (UNESA KAMPUS MAGETAN) - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821028",
+      "major_university_name": "S1 SASTRA INGGRIS - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 75.3846,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921025",
+      "major_university_name": "S1 SASTRA INGGRIS - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 550,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

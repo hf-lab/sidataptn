@@ -1,0 +1,741 @@
+{
+  "idx": 104,
+  "id": "kimia",
+  "major_name": "Kimia",
+  "icon": null,
+  "description": "Di program studi Kimia kamu akan mempelajari struktur, komposisi, dan sifat materi dari skala atom hingga molekul, dan bagaimana mereka saling berinteraksi membentuk materi yang bisa kita temukan dalam kehidupan sehari-hari. Para mahasiswa akan memperdalam kimia organik, kimia anorganik, biokimia, dan manajemen laboratorium. ",
+  "why": "Program studi ini memang cukup spesifik, hanya orang-orang tertentu yang meminatinya. Ditambah lagi, kimia merupakan satu subjek yang dianggap paling rumit. Namun, apabila kamu mempunyai minat untuk mempelajari tentang molekul dan materi-materi kimiawi lainnya, jurusan ini bisa menjadi pilihan yang tepat. ",
+  "subjects": [
+    "Kimia Konstektual",
+    "Matematika Kimia",
+    "Fisika Dasar",
+    "Kimia Dasar",
+    "Keselamatan Kerja Laboratorium",
+    "Kimia Sumber Daya Alam Tropis",
+    "Ilmu Lingkungan",
+    "Kimia Fisika",
+    "Dasar-Dasar Kimia Analitik",
+    "Kimia Organik",
+    "Kimia Anorganik",
+    "Statistika Kimia",
+    "Pengantar Amdal",
+    "Analis Spektrometri",
+    "Biokimia",
+    "Kimia Industri",
+    "Metoda Kromatografi",
+    "Struktur dan Kereaktifan Anorganik",
+    "Kinetika dan Katlisis",
+    "Kimia Organik Fisik",
+    "Kimia Organik Bahan Alam",
+    "Kimia Kuantum",
+    "Elektroanalisis",
+    "Kimia Material",
+    "Penentuan Struktur Molekul Organik",
+    "Biotekologi",
+    "Kimia Komputasi",
+    "Kolokium Kimia",
+    "Praktikum",
+    "Kimia Analisis Bahan Makanan",
+    "Toksikologi Bahan Makanan",
+    "Kimia Polimer",
+    "Fotokimia",
+    "Mineralogi",
+    "Mikrobiologi Industri",
+    "Kimia Inti dan Radiasi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Ilmu kimia mempelajari subjek yang bersifat sangat mendasar. Maka pilihan profesi dan kariernya pun sangat beragam. Industri yang bisa dimasuki antara lain industri makanan, kosmetika, manufaktur, konstruksi hingga kesehatan. Lulusan jurusan ini dapat bekerja sebagai spesialis kontrol kualitas, peneliti, maupun research and development division.",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Spesialis Kimia",
+    "Ahli Kimia",
+    "Ahli Teknik Kimia",
+    "Ahli Biokimia dan Biofisika",
+    "Manajer Kontrol Kualitas Sistem",
+    "Spesialis Kesehatan dan Keselamatan Lingkungan",
+    "Apoteker",
+    "Ahli Pengolahan Bahan Bakar",
+    "Ahli Teknik Minyak Bumi"
+  ],
+  "related_majors": [
+    "mipa/matematika",
+    "mipa/biologi",
+    "mipa/biokimia",
+    "teknik/teknik-kimia",
+    "pendidikan/pendidikan-ilmu-pengetahuan-alam",
+    "mipa/fisika",
+    "mipa/statistika",
+    "teknik/teknik-bioenergi-dan-kemurgi",
+    "teknik/teknik-fisika",
+    "pendidikan/pendidikan-kimia"
+  ],
+  "major_group_id": 10,
+  "jlh_prodi": 70,
+  "dt_snbp": 2037,
+  "dt_snbt": 2730,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "353014",
+      "major_university_name": "S1 KIMIA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 11.3879,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333003",
+      "major_university_name": "S1 KIMIA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.80392,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323007",
+      "major_university_name": "S1 KIMIA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 12.6316,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334009",
+      "major_university_name": "S1 KIMIA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 11.9332,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "321005",
+      "major_university_name": "S1 KIMIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 15,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "381008",
+      "major_university_name": "S1 KIMIA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 19.6078,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "336005",
+      "major_university_name": "S1 KIMIA - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 29.2683,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341010",
+      "major_university_name": "S1 KIMIA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 12.1107,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383007",
+      "major_university_name": "S1 KIMIA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 19.8758,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "431010",
+      "major_university_name": "D4 TEKNIK KIMIA PRODUKSI BERSIH - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": 12.8755,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431029",
+      "major_university_name": "D3 ANALIS KIMIA - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341057",
+      "major_university_name": "D4 ANALISIS KIMIA - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355007",
+      "major_university_name": "S1 KIMIA - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 15.9574,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356011",
+      "major_university_name": "S1 KIMIA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 23.0337,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372012",
+      "major_university_name": "S1 KIMIA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 25.6809,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141007",
+      "major_university_name": "S1 KIMIA - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 19.1406,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621014",
+      "major_university_name": "S1 KIMIA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 49.4118,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131002",
+      "major_university_name": "S1 KIMIA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 25.7895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361012",
+      "major_university_name": "S1 KIMIA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 12.8358,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362012",
+      "major_university_name": "S1 KIMIA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 14.0969,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121009",
+      "major_university_name": "S1 KIMIA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 14.1343,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711005",
+      "major_university_name": "S1 KIMIA - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 35.7895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "382047",
+      "major_university_name": "S1 SAINS ANALITIK DAN INSTRUMENTASI KIMIA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373012",
+      "major_university_name": "S1 KIMIA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 22.0532,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371011",
+      "major_university_name": "S1 KIMIA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 29.4872,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "374003",
+      "major_university_name": "S1 KIMIA - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 102.469,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "382004",
+      "major_university_name": "S1 KIMIA - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": 16.9133,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111021",
+      "major_university_name": "S1 KIMIA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 62.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511014",
+      "major_university_name": "S1 KIMIA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 103.448,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751008",
+      "major_university_name": "S1 KIMIA - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 84,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531023",
+      "major_university_name": "S1 KIMIA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 62.5,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541014",
+      "major_university_name": "S1 KIMIA - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 48.4848,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611009",
+      "major_university_name": "S1 KIMIA - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 51.6129,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731015",
+      "major_university_name": "S1 KIMIA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 90.9091,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "631015",
+      "major_university_name": "S1 KIMIA - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 103.922,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721015",
+      "major_university_name": "S1 KIMIA - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 222.222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712007",
+      "major_university_name": "S1 KIMIA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 22.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171010",
+      "major_university_name": "S1 KIMIA - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 49.1936,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122008",
+      "major_university_name": "S1 KIMIA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 24.5902,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133023",
+      "major_university_name": "S1 KIMIA - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "121051",
+      "major_university_name": "KIMIA - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": null,
+      "logo": null
+    },
+    {
+      "major_university_id": "142008",
+      "major_university_name": "S1 KIMIA (NK) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 26.2009,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151012",
+      "major_university_name": "S1 KIMIA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 53.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151064",
+      "major_university_name": "D3 ANALIS KIMIA - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151067",
+      "major_university_name": "D3 KIMIA INDUSTRI - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "365003",
+      "major_university_name": "S1 KIMIA - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 62.7119,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181011",
+      "major_university_name": "S1 KIMIA - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 133.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191005",
+      "major_university_name": "S1 KIMIA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 60.7655,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "192017",
+      "major_university_name": "S1 KIMIA - ITERA",
+      "university_name": "INSTITUT TEKNOLOGI SUMATERA",
+      "keketatan": 89.0411,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "312005",
+      "major_university_name": "S1 KIMIA - UINBANTEN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN MAULANA HASANUDDIN BANTEN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "322006",
+      "major_university_name": "S1 KIMIA - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 34.4595,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351002",
+      "major_university_name": "S1 KIMIA - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 16,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "357007",
+      "major_university_name": "S1 KIMIA - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 136.735,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "716016",
+      "major_university_name": "D3 ANALISIS KIMIA - POLIUPG",
+      "university_name": "POLITEKNIK NEGERI UJUNG PANDANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "921007",
+      "major_university_name": "S1 KIMIA - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911003",
+      "major_university_name": "S1 KIMIA - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 450,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722004",
+      "major_university_name": "S1 ILMU KIMIA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 277.778,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811022",
+      "major_university_name": "S1 KIMIA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 300,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753012",
+      "major_university_name": "S1 KIMIA - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 900,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752027",
+      "major_university_name": "S1 KIMIA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 158.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713003",
+      "major_university_name": "S1 KIMIA - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 142.857,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "632008",
+      "major_university_name": "S1 KIMIA - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 89.4737,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612051",
+      "major_university_name": "D4 KIMIA TERAPAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612014",
+      "major_university_name": "S1 KIMIA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 93.0233,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521021",
+      "major_university_name": "S1 KIMIA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 60.5263,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "172004",
+      "major_university_name": "S1 KIMIA - RADENFATAH",
+      "university_name": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+      "keketatan": 653.846,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "161013",
+      "major_university_name": "S1 KIMIA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 117.391,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "152002",
+      "major_university_name": "S1 KIMIA - UINJAMBI",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN THAHA SAIFUDDIN JAMBI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "116006",
+      "major_university_name": "S1 KIMIA - AR-RANIRY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114014",
+      "major_university_name": "S1 KIMIA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 72.2222,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 10,
+    "super_group": "ILMU_ALAM",
+    "group_name": "Kimia",
+    "merdeka_subject": [
+      13
+    ],
+    "ipa_subject": [
+      13
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

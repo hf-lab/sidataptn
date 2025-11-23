@@ -1,0 +1,616 @@
+{
+  "idx": 236,
+  "id": "sosiologi",
+  "major_name": "Sosiologi",
+  "icon": null,
+  "description": "Mahasiswa program studi Sosiologi mempelajari interaksi yang terjadi antara satu orang dengan orang yang lain dan pengaruhnya terhadap terbentuknya struktur sosial masyarakat. Mereka mencari penyebab perubahan situasi masyarakat, mengkaji akibat yang dihasilkan, dan mencari solusinya. Dengan cakupannya yang sangat luas, Sosiologi bisa dikerucutkan menjadi beberapa sub program studi  seperti Sosiologi Industri, Sosiologi Lingkungan, dan Sosiologi Pembangunan, Sosiologi Ekonomi, Sosiologi Gender, dan lain sebagainya.",
+  "why": "Kalau kamu suka dengan peneletian sosial, turun langsung ke masyarakat di kota ataupun di daerah, Sosiologi sangat tepat bagi kamu. Belajar di program studi sosiologi akan membantumu untuk memahami fenomena-fenomena sosial yang terjadi di masyarakat dengan lebih ilmiah. ",
+  "subjects": [
+    "Pengantar Sosiologi",
+    "Sosiologi Pendidikan",
+    "Statistik",
+    "Sosiologi Agama",
+    "Berpikir Kritis dan Penulisan Ilmiah",
+    "Analisa Sosial",
+    "Analisa Demografi",
+    "Analisa Geografis dan Spasial",
+    "Teori Sosiologi Modern",
+    "Tipologi Sosial",
+    "Psikologi Sosial",
+    "Sosiologi Pedesaan",
+    "Sosiologi Kesehatan",
+    "Sosiologi Hukum",
+    "Sosiologi Gender",
+    "Sosiologi Ekonomi",
+    "Sosiologi Komunikasi",
+    "Sosiologi Organisasi",
+    "Pranata Sosial",
+    "Sosiologi Perkotaan",
+    "Ekologi Kota",
+    "Masalah Sosial",
+    "Sosiologi Keluarga",
+    "Sosiologi Industri",
+    "Sosiologi Politik",
+    "Sosiologi Budaya",
+    "Sosiologi Kependudukan",
+    "Sosiologi Korupsi",
+    "Teori Sosial Klasik",
+    "Stratifikasi Sosial",
+    "Masalah Kemiskinan dan Kesenjangan",
+    "Perilaku Menyimpang",
+    "Kesejahteraan Sosial",
+    "Teori Sosial Modern",
+    "Masalah Penduduk Lanjut Usia (Lansia)"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulus dari prodi Sosiologi, kamu akan memeroleh gelar Sarjana Sosial (S.Sos) dan memiliki peluang untuk berkarir di bidang pemberdayaan sosial dan sumber daya manusia. Kamu dapat berkarir di berbagai lembaga pemerintah terkait, misalnya Departemen Sosial, Departemen Dalam Negeri, Badan Perencanaan Pembangunan Nasional, dan lain-lain. Di instansi swasta kamu juga punya kesempatan untuk berkarir di berbagai lembaga survey dan perusahaan-perusahaan yang bergerak di berbagai sektor. Selain itu, lulusan Sosiologi juga bisa terjun ke ranah akademis menjadi pengajar dan peneliti.",
+  "professions": [
+    "Peneliti Survei",
+    "Juru Arsip",
+    "Blogger",
+    "Pekerja Kemanusiaan",
+    "Sosiolog",
+    "Teknisi Museum dan Konservator",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "humaniora/kriminologi",
+    "budaya-bahasa/ilmu-sejarah",
+    "humaniora/ilmu-kesejahteraan-sosial",
+    "humaniora/ilmu-keluarga-dan-konsumen",
+    "humaniora/filsafat",
+    "humaniora/antropologi",
+    "humaniora/pembangunan-sosial-dan-kesejahteraan"
+  ],
+  "major_group_id": 6,
+  "jlh_prodi": 57,
+  "dt_snbp": 2286,
+  "dt_snbt": 3236,
+  "major_field": 2,
+  "prodi": [
+    {
+      "major_university_id": "334076",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5.66572,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372062",
+      "major_university_name": "S1 SOSIOLOGI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 10.0365,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353037",
+      "major_university_name": "S1 SOSIOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 4.50368,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353060",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI ANTROPOLOGI - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 6.52681,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356038",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI & ANTROPOLOGI - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 9.86343,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "357030",
+      "major_university_name": "S1 SOSIOLOGI - WALISONGO",
+      "university_name": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+      "keketatan": 64.8745,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "361083",
+      "major_university_name": "S1 SOSIOLOGI - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 3.75817,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362045",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 4.3956,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "365023",
+      "major_university_name": "S1 SOSIOLOGI - UIN-SUKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+      "keketatan": 8.79479,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371046",
+      "major_university_name": "S1 SOSIOLOGI - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 13.9037,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351026",
+      "major_university_name": "S1 SOSIOLOGI - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 6.29371,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373063",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 8.81801,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "381030",
+      "major_university_name": "S1 SOSIOLOGI - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 9.23077,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383047",
+      "major_university_name": "S1 SOSIOLOGI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 9.58466,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386014",
+      "major_university_name": "S1 SOSIOLOGI - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 16.3142,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511044",
+      "major_university_name": "S1 PEND. SOSIOLOGI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 20.8955,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712052",
+      "major_university_name": "S1 PENDIDIKAAN SOSIOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 13.1206,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631040",
+      "major_university_name": "S1 SOSIOLOGI - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 20,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621038",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 24.2138,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621037",
+      "major_university_name": "S1 SOSIOLOGI - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 19.1388,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "336012",
+      "major_university_name": "S1 SOSIOLOGI - UINSGD",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+      "keketatan": 22.5962,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "333054",
+      "major_university_name": "S1 SOSIOLOGI - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 3.25866,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "323044",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 9.13706,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323043",
+      "major_university_name": "S1 SOSIOLOGI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 5.22479,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "322044",
+      "major_university_name": "S1 SOSIOLOGI - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 9.81132,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "321041",
+      "major_university_name": "S1 SOSIOLOGI - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 4.81283,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311036",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 11.9632,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191039",
+      "major_university_name": "S1 SOSIOLOGI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 18.9753,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "121031",
+      "major_university_name": "S1 SOSIOLOGI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 10,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171044",
+      "major_university_name": "S1 SOSIOLOGI - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 21.6842,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161033",
+      "major_university_name": "S1 SOSIOLOGI - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 17.3913,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142040",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 13.267,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131035",
+      "major_university_name": "S1 SOSIOLOGI - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 7.08154,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752054",
+      "major_university_name": "S1 SOSIOLOGI - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 42.3611,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751050",
+      "major_university_name": "S1 SOSIOLOGI - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 43.3071,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "711060",
+      "major_university_name": "S1 SOSIOLOGI - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 14.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731041",
+      "major_university_name": "S1 SOSIOLOGI - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 19.3798,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722049",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 76.1905,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712055",
+      "major_university_name": "S1 SOSIOLOGI - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 18.6441,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "721040",
+      "major_university_name": "S1 SOSIOLOGI - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 65.5738,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712075",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA DAERAH - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 39.7959,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "112024",
+      "major_university_name": "S1 SOSIOLOGI - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 72.1739,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612041",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 22.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "611045",
+      "major_university_name": "S1 SOSIOLOGI - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 14.8148,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531065",
+      "major_university_name": "S1 SOSIOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 41.0256,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531055",
+      "major_university_name": "S1 PENDIDIKAN SOSIOLOGI - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 28.3019,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521035",
+      "major_university_name": "S1 SOSIOLOGI - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 73.494,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511049",
+      "major_university_name": "S1 SOSIOLOGI - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 26.738,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384016",
+      "major_university_name": "S1 SOSIOLOGI - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 36.0963,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "181017",
+      "major_university_name": "S1 SOSIOLOGI - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": 28.3654,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "171055",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 41.0853,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141035",
+      "major_university_name": "S1 SOSIOLOGI - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 11.6279,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133016",
+      "major_university_name": "S1 SOSIOLOGI - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 118.421,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "113016",
+      "major_university_name": "S1 SOSIOLOGI - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": 59.4059,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111058",
+      "major_university_name": "S1 SOSIOLOGI - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 28.6344,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811041",
+      "major_university_name": "S1 SOSIOLOGI - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 256,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "911056",
+      "major_university_name": "S1 SOSIOLOGI - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 6,
+    "super_group": "ILMU_SOSIAL",
+    "group_name": "Sosial",
+    "merdeka_subject": [
+      6
+    ],
+    "ipa_subject": [
+      8
+    ],
+    "ips_subject": [
+      6
+    ],
+    "bahasa_subject": [
+      7
+    ]
+  }
+}

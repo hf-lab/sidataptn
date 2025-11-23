@@ -1,0 +1,686 @@
+{
+  "idx": 162,
+  "id": "pendidikan-bahasa-inggris",
+  "major_name": "Pendidikan Bahasa Inggris",
+  "icon": null,
+  "description": "Program studi Pendidikan Bahasa Inggris akan mempelajari kajian Bahasa Inggris, mulai dari aspek listening, reading, writing, dan speaking. Namun cukup berbeda dengan program studi Sastra Inggris yang fokus dalam mempelajari aspek linguistik dan sastra dalam Bahasa Inggris, di prodi Pendidikan Bahasa Inggris kita juga akan memeroleh ilmu keguruan dan kependidikan. Pastinya mahasiswa prodi Pendidikan Bahasa Inggris dipersiapkan untuk menjadi pengajar atau guru Bahasa Inggris di tingkat SD, SMP, dan SMA. ",
+  "why": "Bahasa Inggris merupakan bahasa internasional yang menjadi standar bahasa yang dipergunakan dalam berkomunikasi antar negara. Karenanya pendidikan Bahasa Inggris tidak bisa diremehkan kehadirannya. Di zaman sekarang ini banyak orangtua yang telah mempersiapkan anak-anak mereka untuk fasih berbahasa Inggris sejak dini, karena kemampuan berbahasa Inggris sangat diperlukan di masa ini dan di masa yang akan datang. Oleh karena itu kehadiran pendidik Bahasa Inggris profesional sangat dicari dan diperlukan. Prodi ini tepat bagi siapa saja yang bercita-cita menjadi guru, khususnya guru Bahasa Inggris. ",
+  "subjects": [
+    "Speaking of Everyday Communication",
+    "Literal Reading",
+    "Basic English Grammar",
+    "Literal Listening",
+    "Speaking for Group Activities",
+    "Interpreteive and Effective Reading",
+    "Intermediate English Grammar",
+    "Interpretive Listening",
+    "ICT Language Learning and Presentation",
+    "Psikologi Pendidikan",
+    "Advanced Listening",
+    "Paragraph Writing",
+    "Speaking for Formal Setting",
+    "Critical Reading",
+    "Essay Writing",
+    "Sociolinguistics",
+    "Teaching English to Young Learners",
+    "English Phonetics and Phonology",
+    "Business English",
+    "Principles of Language Learnings",
+    "Basic Poetry",
+    "Language Learning Assessment",
+    "English Morphology and Syntax",
+    "Education Management",
+    "Semantics and Pragmatics",
+    "English Curriculum and Instructional Plan",
+    "Micro Teaching",
+    "Instructional Material and Development"
+  ],
+  "characters": [
+    "Tekun",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Setelah lulus dari prodi Pendidikan Bahasa Inggris, alumni nya tidak hanya dapat berkiprah sebagai guru Bahasa Inggris di lembaga pendidikan formal saja, tapi juga lembaga pendidikan informal seperti bimbel atau kurusus Bahasa Inggris. Lulusan Pendidikan Bahasa Inggris juga dapat melanjutkan pendidikan pascasarjana untuk dapat memeroleh gelar master dan menjadi dosen. Namun tidak hanya di dunia pendidikan, kiprah lulusan prodi ini juga dapat berkarir sebagai penerjemah, tour guide, dan berbagai profesi lainnya yang menuntut keahlian berbahasa Inggris.",
+  "professions": [
+    "Dosen Bahasa Inggris dan Literatur"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris"
+  ],
+  "major_group_id": 3,
+  "jlh_prodi": 67,
+  "dt_snbp": 2605,
+  "dt_snbt": 3889,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "334053",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 4.60526,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171049",
+      "major_university_name": "S1 PEND BHS INGGRIS - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 11.5044,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383035",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 13.4897,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352012",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 23.9819,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353058",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.27211,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356050",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.0204,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361091",
+      "major_university_name": "D4 BAHASA INGGRIS - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 8.18182,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "362052",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 10.2377,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371053",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 17.3367,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372080",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 13.0137,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373037",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 7.57042,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712047",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 23.1827,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "111050",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 16.5663,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "386010",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 27.8689,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "421023",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - PNJ",
+      "university_name": "POLITEKNIK NEGERI JAKARTA",
+      "keketatan": 8.33333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "431031",
+      "major_university_name": "D3 BAHASA INGGRIS - POLBAN",
+      "university_name": "POLITEKNIK NEGERI BANDUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "631028",
+      "major_university_name": "S1 PEND. BHS. INGGRIS - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 27.5148,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621031",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 22.7273,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511041",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 10.6339,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531045",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 15.7895,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541051",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 18.6667,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122031",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 15.5473,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "131046",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 8.08581,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142034",
+      "major_university_name": "S1 PENDD. BHS INGGRIS - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 20.2105,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "151037",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 21.2465,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "161038",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 20.9836,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191054",
+      "major_university_name": "S1 PEND. B. INGGRIS - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 14.2857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751059",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 24.4131,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311032",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 13.6986,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323030",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 4.63847,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331018",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 16,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "342023",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 17.6768,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351039",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 9.11215,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "551016",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 32.4074,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "114023",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 53.125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612026",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 34.4051,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "617026",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911038",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 39.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811061",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS (PSDKU KAB. MBD) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 4200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811050",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 78.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752043",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 55.0265,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "741024",
+      "major_university_name": "S1 PEND. BHS. INGGRIS - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 78.2946,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731034",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 32.1023,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712083",
+      "major_university_name": "D4 BAHASA INGGRIS - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 123.529,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "722025",
+      "major_university_name": "S1 PEND. BAH INGGRIS - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 65.5738,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "474039",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK INDUSTRI PARIWISATA - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "521025",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 54.6584,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "474017",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": 25.641,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "473005",
+      "major_university_name": "D3 BAHASA INGGRIS - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "121059",
+      "major_university_name": "D3 BAHASA INGGRIS - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381045",
+      "major_university_name": "D3 BAHASA INGGRIS - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353080",
+      "major_university_name": "BAHASA INGGRIS - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "351046",
+      "major_university_name": "D3 BAHASA INGGRIS - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "271028",
+      "major_university_name": "D3 BAHASA INGGRIS - POLSRI",
+      "university_name": "POLITEKNIK NEGERI SRIWIJAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "241011",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 27.2727,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "921030",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 571.429,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912022",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 600,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "821031",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 173.214,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811065",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS (PSDKU KAB. ARU) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 4200,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "133017",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 109.677,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "232009",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 126.316,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753023",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INGGRIS - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 312.5,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "232011",
+      "major_university_name": "D3 BAHASA INGGRIS - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241023",
+      "major_university_name": "D3 BAHASA INGGRIS - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "632013",
+      "major_university_name": "S1 PEND. BAHASA INGGRIS - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 83.3333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "472027",
+      "major_university_name": "D3 BAHASA INGGRIS - POLIJE",
+      "university_name": "POLITEKNIK NEGERI JEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612053",
+      "major_university_name": "D4 BAHASA INGGRIS UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 3,
+    "super_group": "HUMANIORA",
+    "group_name": "Linguistik",
+    "merdeka_subject": [
+      3,
+      4
+    ],
+    "ipa_subject": [
+      3,
+      4
+    ],
+    "ips_subject": [
+      3,
+      4
+    ],
+    "bahasa_subject": [
+      3,
+      4
+    ]
+  }
+}

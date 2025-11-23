@@ -1,0 +1,316 @@
+{
+  "idx": 170,
+  "id": "pendidikan-ilmu-pengetahuan-alam",
+  "major_name": "Pendidikan Ilmu Pengetahuan Alam",
+  "icon": null,
+  "description": "Pendidikan Ilmu Pengetahuan Alam (Pendidikan IPA) merupakan program studi yang mempelajari bagaimana menjadi seorang pendidik atau guru mata pelajaran IPA. Pada beberapa perguruan tinggi, program studi ini dipecah kedalam beberapa bagian ilmu pengetahuan alam, seperti Pendidikan Biologi, Pendidikan Fisika, dan Pendidikan Kimia. Pada program studi ini selain akan diajarkan materi tentang IPA, juga akan diajarkan teknik pengajaran, sesuai dengan ruang lingkupnya, baik ruang lingkup SD, SMP, hingga SMA.",
+  "why": "Program studi ini diperuntukkan bagi siapa saja yang memiliki jiwa edukator, dan bercita-cita sebagai pengajar atau guru, khususnya guru IPA. Suka kegiatan lab dan praktikum? Di prodi Pendidikan IPA pastinya kita akan belajar lagi praktikum dasar IPA seperti praktikum rangkaian listrik, praktikum bedah, praktikum senyawa kimia, dan sebagainya.",
+  "subjects": [
+    "Filsafat Ilmu Pengetahuan",
+    "Psikologi Pendidikan",
+    "Metodologi Pembelajaran Sains",
+    "Pengembangan Kurikulum Pendidikan Sains",
+    "Asesmen dan Pengembangan Penilaian Pendidikan Sains",
+    "Sains Terintegrasi",
+    "Biologi Umum",
+    "Kimia Dasar",
+    "Fisika Dasar",
+    "Sejarah Sains",
+    "Perkembangan Peserta Didik",
+    "Keanekaragaman Makhluk Hidup",
+    "Ilmu Kebumian",
+    "Pembelajaran Terpadu",
+    "Belajar dan Pembelajaran",
+    "Strategi Belajar Mengajar IPA",
+    "Kimia Organik",
+    "Anatomi dan Fisiologi Mahkluk Hidup",
+    "Profesi Kependidikan",
+    "Media Pendidikan IPA",
+    "Evaluasi Pembelajaran IPA",
+    "Pendidikan Lingkungan Hidup",
+    "Desain Pembelajaran IPA",
+    "Pengelolaan Laboratorium IPA",
+    "Biokimia",
+    "Elektronika Dasar",
+    "Gizi dan Kesehatan",
+    "Bahasa Inggris Untuk Sains",
+    "Gerak dan Gaya",
+    "Pengajaran Mikro IPA",
+    "Kimia Terapan",
+    "Termodinamika"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi"
+  ],
+  "prospects": "Lulus dari prodi Pendidikan IPA, alumni telah dipersiapkan untuk menjadi guru atau pendidik profesional IPA di tingkat SD, SMP, dan SMA. Lulusan Pendidikan IPA juga dapat melanjutkan studi ke jenjang S2 untuk dapat menjadi dosen program studi MIPA. Lulusan Pendidikan IPA juga di bekali dengan nilai-nilai entrepreneurship sehingga lulusannya nanti tidak hanya bisa menjadi guru IPA di sekolah-sekolah, tapi juga membuka kursus atau lembaga bimbingan belajar.",
+  "professions": [
+    "Pengajar Kimia",
+    "Pengajar Biologi"
+  ],
+  "related_majors": [
+    "mipa/fisika",
+    "mipa/biologi",
+    "pendidikan/pendidikan-matematika",
+    "mipa/kimia",
+    "pendidikan/pendidikan-luar-sekolah",
+    "pendidikan/pendidikan-geografi"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 25,
+  "dt_snbp": 964,
+  "dt_snbt": 1326,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "142018",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 15.0838,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "386008",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UINSBY",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+      "keketatan": 20.7692,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383009",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 22.0386,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373016",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 12.1884,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371028",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 18.5984,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362016",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 6.91145,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356014",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 11.2469,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353030",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 10.0575,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334019",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 5,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122019",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 10.5634,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161027",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 27.3333,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311016",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 21.7877,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "332006",
+      "major_university_name": "S1 SEKOLAH ILMU DAN TEKNOLOGI HAYATI * SAINS (SITH*S) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 16.1593,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352006",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 25.3125,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161048",
+      "major_university_name": "D3 LABORATORIUM SAINS - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "332020",
+      "major_university_name": "S1 FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM * IPA (FMIPA*IPA) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 19.4444,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "384009",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 32.4723,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531037",
+      "major_university_name": "S1 PENDIDIKAN IPA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 27.4725,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612013",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 67.5676,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "712023",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 21.1268,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712024",
+      "major_university_name": "S1 PENDIDIKAN IPA KLS INTERNASIONAL (BILINGUAL) - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 142.857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731061",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "741027",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM (IPA) - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752032",
+      "major_university_name": "S1 PENDIDIKAN ILMU PENGETAHUAN ALAM - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 141.026,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722017",
+      "major_university_name": "S1 PENDIDIKAN IPA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 327.273,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

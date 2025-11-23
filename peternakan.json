@@ -1,0 +1,581 @@
+{
+  "idx": 193,
+  "id": "peternakan",
+  "major_name": "Peternakan",
+  "icon": null,
+  "description": "Ilmu Peternakan mempelajari semua kegiatan terkait peternakan. Program studi ini membekali kita dengan ilmu dan teknologi pengembangan peternakan, industri peternakan, dan kegiatan agrobisnis yang ramah lingkungan, mampu berkarya secara mandiri, bekerja di lembaga swasta maupun instansi pemerintah baik dalam bidang ilmu, penelitian dan penerapannya. Mahasiswa pada program studi ini nantinya juga akan mempelajari tentang teknologi produksi, teknologi pakan, teknologi pengolahan, serta manajemen dan perencanaan usaha. ",
+  "why": "Program studi ini cocok buat kamu yang menyukai biologi dan familiar dengan hewan. Selain itu, untuk mempelajari ilmu-ilmu dalam jurusan ini, kamu harus memiliki kemampuan menghafal yang baik. Dalam jurusan ini, kita bisa mempelajari tentang cara meningkatkan produktifitas dan mutu genetik di peternakan dengan menggunakan teknologi yang modern. Dengan itu, kita bisa menghasilkan daging yang lebih banyak dan sehat, mempercepat populasi hewan ternak dengan baik, mendapat susu murni dari hewan ternak yang terbaik, dan masih banyak lagi, yang bahkan tidak dipelajari di jurusan kedokteran.",
+  "subjects": [
+    "Mikrobiologi",
+    "Kimia Biofisik",
+    "Ilmu Ekonomi Peternakan",
+    "Genetika",
+    "Biokimia",
+    "Anatomi Ternak",
+    "Agrostologi",
+    "Ilmu Ternak Potong",
+    "Ilmu Ternak Unggas",
+    "Ilmu Reproduksi Ternak",
+    "Ilmu Fisiologi Ternak",
+    "Ekofisiologi Tanaman Makanan Ternak",
+    "Ilmu Nutrisi Ternak",
+    "Ilmu Daging",
+    "Ilmu Tingkah Laku Ternak",
+    "Perundang-undangan dan Kebijakan Peternakan",
+    "Ilmu Ternak Perah",
+    "Bahan Pakan dan Formulasi Ransum",
+    "Manajemen Usaha Ternak",
+    "Agribisnis Peternakan",
+    "Ilmu Tanaman Makanan Ternak",
+    "Teknologi Pengolahan Hasil Ternak",
+    "Manajemen Ternak Potong & Kerja",
+    "Manajemen Ternak Unggas",
+    "Manajemen Ternak Perah",
+    "Nutrisi Ternak Non Ruminansia",
+    "Lingkungan dan Tingkah Laku Ternak",
+    "Mutu & Kemanan Hasil Ternak"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Dunia peternakan menawarkan peluang usaha yang sangat besar di pasaran. Setelah menjadi sarjana peternakan, kita bisa bekerja di Industri Produksi Peternakan, Industri Pakan Ternak, Industri Obat Hewan, Industri Pengolahan Pangan Asal Ternak, dan Industri Pengelolaan Limbah. Peluang kerja di instansi pemerintahan pun juga sangat luas, seperti di Kementrian Pertanian, Kementrian Koperasi, Kementrian Perindustrian, dan Kementrian Lingkungan Hidup. Lembaga pendidikan dan lembaga riset pun juga membutuhkan mahasiswa lulusan jurusan ini.",
+  "professions": [
+    "Ahli Epidemiologi",
+    "Peneliti Hewan",
+    "Manager Pertanian dan Peternakan",
+    "Ahli Teknologi Kulit",
+    "Ahli Peternakan dan Pengembangbiakan Hewan",
+    "Manajer Akuakultural",
+    "Ahli Ilmu Hewan dan Satwa Liar"
+  ],
+  "related_majors": [
+    "pertanian/agribisnis-sosial-ekonomi-pertanian-",
+    "pertanian/produksi-ternak",
+    "pertanian/nutrisi-dan-teknologi-pakan-nutrisi-dan-makanan-ternak-",
+    "pertanian/agrobisnis-perikanan-sosial-ekonomi-perikanan-",
+    "pertanian/teknologi-hasil-ternak",
+    "pertanian/manajemen-bisnis-unggas"
+  ],
+  "major_group_id": 21,
+  "jlh_prodi": 54,
+  "dt_snbp": 2737,
+  "dt_snbt": 3546,
+  "major_field": 7,
+  "prodi": [
+    {
+      "major_university_id": "353005",
+      "major_university_name": "S1 PETERNAKAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 8.35777,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121018",
+      "major_university_name": "S1 PETERNAKAN - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 7.88177,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351019",
+      "major_university_name": "S1 PETERNAKAN - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 12.6227,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "712095",
+      "major_university_name": "S1 TEKNOLOGI INDUSTRI PERTANIAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "355029",
+      "major_university_name": "S1 PETERNAKAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 12.0406,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171030",
+      "major_university_name": "S1 PETERNAKAN - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 32.7586,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191008",
+      "major_university_name": "S1 PETERNAKAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 22.0532,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372050",
+      "major_university_name": "S1 PETERNAKAN (PSDKU KEDIRI) - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 20.8955,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541024",
+      "major_university_name": "S1 PETERNAKAN - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 35.4839,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353090",
+      "major_university_name": "D3 BUDI DAYA TERNAK - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361028",
+      "major_university_name": "S1 ILMU DAN INDUSTRI PETERNAKAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 13.4933,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111009",
+      "major_university_name": "S1 PETERNAKAN - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 34.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372028",
+      "major_university_name": "S1 PETERNAKAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 25.6544,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "511027",
+      "major_university_name": "S1 PETERNAKAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 43.8356,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521016",
+      "major_university_name": "S1 PETERNAKAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 146.512,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531006",
+      "major_university_name": "S1 PETERNAKAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 46.875,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371037",
+      "major_university_name": "S1 PETERNAKAN - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 25.2688,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "611015",
+      "major_university_name": "S1 PETERNAKAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 39.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621015",
+      "major_university_name": "S1 PETERNAKAN - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 43.5356,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631010",
+      "major_university_name": "S1 ILMU PETERNAKAN - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 66.8329,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "713008",
+      "major_university_name": "S1 ILMU PETERNAKAN - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 83.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811031",
+      "major_university_name": "S1 PETERNAKAN (PSDKU KAB. MBD) - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 2800,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "921045",
+      "major_university_name": "D3 BUDIDAYA TERNAK - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "141025",
+      "major_university_name": "S1 PETERNAKAN ( KAMPUS II PAYAKUMBUH) - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 35.9712,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "341053",
+      "major_university_name": "D4 TEKNOLOGI DAN MANAJEMEN TERNAK (KAMPUS SUKABUMI) - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341052",
+      "major_university_name": "D4 TEKNOLOGI DAN MANAJEMEN TERNAK - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341020",
+      "major_university_name": "S1 TEKNOLOGI PRODUKSI TERNAK - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 9.61539,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333031",
+      "major_university_name": "S1 PETERNAKAN PSDKU PANGANDARAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 4.8048,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333010",
+      "major_university_name": "S1 ILMU PETERNAKAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 17.0429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "311049",
+      "major_university_name": "S1 PETERNAKAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "132001",
+      "major_university_name": "S1 PETERNAKAN - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 104.545,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "352005",
+      "major_university_name": "S1 PETERNAKAN - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 25.1572,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "242006",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TERNAK - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": 66.1017,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161003",
+      "major_university_name": "S1 PETERNAKAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 40.6452,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151010",
+      "major_university_name": "S1 PETERNAKAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 47.8261,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "142080",
+      "major_university_name": "S1 PETERNAKAN (KAMPUS KABUPATEN SIJUNJUNG) - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "141012",
+      "major_university_name": "S1 PETERNAKAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 27.592,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811009",
+      "major_university_name": "S1 PETERNAKAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 176.923,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752013",
+      "major_university_name": "S1 PETERNAKAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 165.217,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753007",
+      "major_university_name": "S1 PETERNAKAN - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 170.37,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "642014",
+      "major_university_name": "D3 KESEHATAN HEWAN - POLITANIKOE",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI KUPANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821006",
+      "major_university_name": "S1 PETERNAKAN - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 377.778,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "912008",
+      "major_university_name": "S1 PETERNAKAN - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 1000,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "921010",
+      "major_university_name": "S1 PETERNAKAN - UNIPA",
+      "university_name": "UNIVERSITAS PAPUA",
+      "keketatan": 975,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "113021",
+      "major_university_name": "S1 PETERNAKAN - UTU",
+      "university_name": "UNIVERSITAS TEUKU UMAR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "751003",
+      "major_university_name": "S1 PETERNAKAN - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 183.133,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "741010",
+      "major_university_name": "S1 PETERNAKAN - UNSULBAR",
+      "university_name": "UNIVERSITAS SULAWESI BARAT",
+      "keketatan": 74.0741,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "731008",
+      "major_university_name": "S1 PETERNAKAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 123.239,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721018",
+      "major_university_name": "S1 PETERNAKAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 163.514,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711029",
+      "major_university_name": "S1 PETERNAKAN - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 47.1564,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "632003",
+      "major_university_name": "S1 PETERNAKAN - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 31.4136,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291007",
+      "major_university_name": "D4 TEKNOLOGI PRODUKSI TERNAK - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 54.7945,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "291035",
+      "major_university_name": "D4 AGRIBISNIS PETERNAKAN - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "351052",
+      "major_university_name": "D3 BUDI DAYA TERNAK - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 21,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Peternakan",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

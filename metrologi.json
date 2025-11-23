@@ -1,0 +1,91 @@
+{
+  "idx": 141,
+  "id": "metrologi",
+  "major_name": "Metrologi",
+  "icon": null,
+  "description": "Pada program studi Metrologi dipelajari cara-cara pengukuran, kalibrasi, dan akurasi di bidang industri, ilmu pengetahuan, dan teknologi. Metrologi mecakup penetapan definisi satuan ukur internasional (misal: meter untuk panjang, kilogram untuk massa, ?C untuk suhu, dll), perwujudan satuan ukur berdasarkan metode ilmiah, dan penetapan kesesuaian berbagai alat ukur dengan standar yang ada. Metrologi juga mencakup pengukuran yang berkaitan dengan aspek eknonomi, kesehatan, dan keselamatan.\r\rProdi ini tidak hanya mempelajari tentang pengukuran, tapi juga berhubungan dengan elektronika, insturmentasi, otomasi, dan yang berkaitan dengan arus kuat.\rJangan sampai keliru membedakan prodi METROLOGI, METEOROLOGI, dan METALURGI, ya. Ketiganya adalah disiplin ilmu yang berbeda.",
+  "why": "Metrologi itu bidang yang kita secara tidak langsung rasakan sehari hari. Kehidupan sehari hari kita tidak bisa lepas loh dari metrologi. Misalnya ketika membeli buah seberat 1 kg, lalu terjadi inakurasi (kesalahan ukur) di timbangan menjadi 1,02 kg, mungkin kelihatan kecil selisihnya, tapi bila kamu membeli buah tersebut dalam jumlah ber ton-ton, kamu akan mengalami kerugian besar! Disinilah peran metrologis dalam melakukan agenda secara berkala melakukan pengecekan alat alat ukur yg digunakan masyarakat atau perusahaan guna mencegah atau memperbaiki inakurasi. Jika kamu suka pelajaran matematika dan fisika, tertarik mempelajari ilmu pengukuran, kamu akan cocok menjadi mahasiswa Metrologi.",
+  "subjects": [
+    "Ilmu Metrologi Dasar dan Terapan",
+    "Ilmu Metrologi Legal",
+    "Ilmu Instrumentasi Dasar",
+    "Ilmu Pengetahuan Dasar Matematika",
+    "Ilmu Pengetahuan Dasar Fisika",
+    "Ilmu Pengetahuan Kerekayasaan Metrologi",
+    "Pengantar Metrologi dan Instrumentasi",
+    "Elektronika Industri",
+    "Teknik Otomasi",
+    "Sistem Pengukuran Massa",
+    "Undang Undang Metrologi",
+    "Teknik Pengukuran dan Klaibrasi",
+    "Sistem Pneumatik dan Hidrolik",
+    "Sistem Pengukuran Aliran",
+    "Sistem Pengukuran Listrik",
+    "Sistem Pengukuran Geometri",
+    "Termmodinamika Terapan",
+    "Metrologi Optik",
+    "Teknik Audit Energi",
+    "Instrumentasi Laser dan Serat Optik",
+    "Sistem Pengukuran Elemen Minyak dan Gas",
+    "Technopreneurship"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Rasional",
+    "Observan",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Jurusan Metrologi memang baru hanya tersedia di beberapa perguruan tinggi dan berbasis vokasi dengan jenjang diploma 3 (D3)  Lulusan jurusan Metrologi akan meraih gelar Ahli Madya (A.Md). Lulusan Metrologi sangat potensial berkarir di industri minyak dan gas, manufaktur, pembangkit listrik, jasa kalibrasi, juga sebagai pejabat fungsional di dinas-dinas perdagangan, perindustrian, dan laboratori seperti LIPI (Lembaga Ilmu Pengetahuan Indonesia), BPOM (Badan Pengawas Obat dan Makanan) dan Kementerian Perdagangan (Kemendag). ",
+  "professions": [
+    "Analis Kontrol Kualitas",
+    "Dosen (Secara umum)",
+    "Peneliti dan Ahli Teknologi Pangan"
+  ],
+  "related_majors": [
+    "teknik/teknik-metalurgi",
+    "teknik/teknik-mesin",
+    "teknik/teknik-geologi",
+    "teknik/teknik-sipil",
+    "teknik/teknik-nuklir",
+    "teknik/teknik-tenaga-listrik"
+  ],
+  "major_group_id": 15,
+  "jlh_prodi": 1,
+  "dt_snbp": 34,
+  "dt_snbt": 34,
+  "major_field": 4,
+  "prodi": [
+    {
+      "major_university_id": "121050",
+      "major_university_name": "D3 METROLOGI DAN INSTRUMENTASI - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 15,
+    "super_group": "ILMU_ALAM",
+    "group_name": "Fisika",
+    "merdeka_subject": [
+      14
+    ],
+    "ipa_subject": [
+      14
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

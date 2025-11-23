@@ -1,0 +1,209 @@
+{
+  "idx": 214,
+  "id": "sastra-jerman",
+  "major_name": "Sastra Jerman",
+  "icon": null,
+  "description": "Subyek yang dipelajari dalam program studi Sastra Jerman adalah Bahasa Jerman itu sendiri, dari mendengarkan, membaca, menulis, dan berbicara. Setelah iru para mahasiswa mempelajari linguistik, sastra dan penerjemahan. Lulusan Sastra Jerman, kelak akan bergelar Sarjana Humaniora (S.Hum.)",
+  "why": "Jerman adalah salah satu negara paling kuat di Eropa. Kebudayaan, ekonomi, dan politiknya juga sangat berpengaruh. Bahasa dan sastra Jerman bisa menjadi pilihan belajar yang menantang sekaligus menyenangkan. ",
+  "subjects": [
+    "Bahasa Jerman",
+    "Pengetahuan Kebudayaan Jerman",
+    "Perkembangan Kesusasteraan  Jerman",
+    "Kesusastraan Jerman",
+    "Pengantar Filsafat dan Pemikiran Modern",
+    "Menulis dan Berbicara Bahasa Jerman",
+    "Fonetik dan Fonologi Jerman",
+    "Telaah Teks Bahasa Jerman",
+    "Terjemahan Jerman-Indonesia",
+    "Morfologi dan Sintaksis Jerman",
+    "Sastra Kontemporer  Jerman",
+    "Budaya Jerman Kontemporer",
+    "Sastra Urban Jerman",
+    "Semantik dan Pragmatik Jerman",
+    "Korespondensi dan Bahasa Jerman Bisnis",
+    "Wacana dalam Budaya Kontemporer Jerman",
+    "Kritik Sastra"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Lulusan Sastra jerman punya peluang untuk berkarier di perusahaan-perusahaan Jerman di Indonesia. Walaupun tidak menutup kemungkinan untuk bekerja di bidang lain. ",
+  "professions": [
+    "Editor (Artikel/Tulisan)",
+    "Penerjemah",
+    "Pemandu Tur",
+    "Novelis",
+    "Content Creator",
+    "Penulis Teknis",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Pemandu Wisata",
+    "Penulis Perjalanan",
+    "Content Writer"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-sunda",
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "budaya-bahasa/sastra-rusia",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 13,
+  "dt_snbp": 328,
+  "dt_snbt": 422,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321059",
+      "major_university_name": "S1 SASTRA JERMAN - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 5.02793,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333050",
+      "major_university_name": "S1 SASTRA JERMAN - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 9.09091,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334056",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 25.8065,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122033",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 75,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "323033",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 14.8387,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362053",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 23.5294,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373040",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 23.8095,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383036",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 39.8058,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383043",
+      "major_university_name": "S1 SASTRA JERMAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 25.4777,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712050",
+      "major_university_name": "S1 PENDIDIKAN BAHASA JERMAN - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 72.4138,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "721046",
+      "major_university_name": "S1 SASTRA JERMAN - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 141.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722028",
+      "major_university_name": "S1 PEND. BAH. JERMAN - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 400,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811051",
+      "major_university_name": "S1 PEND. BAHASA JERMAN - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 213.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

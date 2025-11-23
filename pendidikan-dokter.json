@@ -1,0 +1,538 @@
+{
+  "idx": 165,
+  "id": "pendidikan-dokter",
+  "major_name": "Pendidikan Dokter",
+  "icon": null,
+  "description": "Program studi Pendidikan Dokter (atau lebih dikenal dengan Kedokteran) adalah salah satu prodi yang tiap tahun selalu banyak peminatnya. Di prodi ini kamu akan mempelajari ilmu medis, bagaimana memelihara kesehatan, pencegahan, dan pengobatan penyakit. Untuk mempelajari ilmu kedokteran ini, kamu harus memahami anatomi, fungsi, dan interaksi yang terjadi pada tubuh manusia, mulai dari tulang, otot, saraf, dan indera. Selain anatomi, kamu juga akan belajar histologi, fisiologi, dan biokimia. Setelah memahami fungsi dasar bagian tubuh, kamu juga akan belajar tentang penyakit dan obat-obatan. Dan pastinya, di Pendidikan Dokter, kamu akan mempelajari tata cara pemeriksaan pasien dan menginterpretasi hasil pemeriksaan tersebut. ",
+  "why": "Belajar ilmu kedokteran, pastinya mengharuskan kamu untuk menguasai biologi. Kamu juga harus kuat hafalan dan tahan banting. Pastinya di prodi ini kamu akan berurusan dengan darah dan aktivitas membedah hewan hingga mayat manusia, lho. Pendidikan Dokter juga punya alur yang sangat panjang, selama masa pendidikan S1, kamu akan berhadapan dengan banyak ujian, mulai dari ujian blok, sampai ujian OSCE. Setelah lulus dari prodi Pendidikan Dokter, kamu akan meraih gelar S.Ked, dan harus melewati Program Profesi Dokter atau koas untuk mengambil sumpah dokter dan mendapat gelar dokter (dr). ",
+  "subjects": [
+    "Biologi Kedokteran",
+    "Fisika Kedokteran",
+    "Kimia Kedokteran",
+    "Anatomi",
+    "Fisiologi",
+    "Biokimia",
+    "Mikrobiologi",
+    "Parasitologi",
+    "Patologi Anatomi",
+    "Patologi Klinik",
+    "Farmakologi dan Terapi",
+    "Gizi Kedokteran",
+    "Ilmu Penyakit Dalam",
+    "Ilmu Kesehatan Anak",
+    "Ilmu Bedah",
+    "Ilmu Kebidanan & Penyakit Kandungan",
+    "Ilmu Penyakit Syaraf",
+    "Ilmu Kesehatan THT",
+    "Ilmu Penyakit Mata",
+    "Ilmu Kesehatan Jiwa",
+    "Ilmu Penyakit Kulit & Kelamin",
+    "Ilmu Penyakit Gigi & Mulut",
+    "Ilmu Anestesi",
+    "Ilmu Kedokteran Forensik",
+    "Ilmu Kesehatan Masyarakat",
+    "Neuro-muskulo-skeletal",
+    "Respirasi & Kardiovaskular",
+    "Uropoetika & Reproduksi",
+    "Cerebro & Pancaindera",
+    "Hematologi",
+    "Sistem Limfatik dan Endokrin",
+    "Infeksi dan Imunologi",
+    "Neoplasma dan Degeneratif",
+    "Obstetri dan Ginekologi",
+    "Radiologi",
+    "Kepaniteraan klinik Terintegrasi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Prospek Pendidikan Dokter pastinya adalah menjadikan kamu seorang dokter yang handal dan dapat mengabdikan diri bagi lingkungan sekitarnya. Setelah mendapat gelar dokter, kamu dapat mengabdi sebagai dokter di berbagai klinik dan rumah sakit milik pemerintah ataupun swasta. Jika kamu ingin membuka praktek dokter sendiri, kamu harus mengantongi Surat Tanda Registrasi dan Surat Izin Praktek setelah melalui tahap internship. Atau kamu dapat meneruskan pendidikan dekter spesialis.",
+  "professions": [
+    "Koroner (Pemeriksa Medis Untuk Kematian)",
+    "Manajer Data Klinis",
+    "Peneliti Medikal",
+    "Ahli Teknologi Sitogenetik",
+    "Paramedis dan Teknisi Medis Gawat Darurat",
+    "Ahli Epidemiologi",
+    "Koordinator Riset Klinis",
+    "Ahli Teknologi Kardiovaskular",
+    "Ahli Diagnosa Sonografi Medik",
+    "Histoteknologi"
+  ],
+  "related_majors": [
+    "teknik/teknik-biomedik-teknobiomedik-",
+    "kesehatan/teknologi-laboratorium-medik-analis-kesehatan-",
+    "kesehatan/pendidikan-dokter-gigi",
+    "kesehatan/farmasi-klinik-dan-komunitas"
+  ],
+  "major_group_id": 36,
+  "jlh_prodi": 48,
+  "dt_snbp": 1842,
+  "dt_snbt": 3028,
+  "major_field": 8,
+  "prodi": [
+    {
+      "major_university_id": "385029",
+      "major_university_name": "S1 KEDOKTERAN - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "353001",
+      "major_university_name": "S1 KEDOKTERAN - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 2.19248,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "356076",
+      "major_university_name": "S1 KEDOKTERAN - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361006",
+      "major_university_name": "S1 KEDOKTERAN - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 1.394,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "371013",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 3.17393,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "372008",
+      "major_university_name": "S1 KEDOKTERAN - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 2.49925,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "374008",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UIN-MALANG",
+      "university_name": "UNIVERSITAS ISLAM NEGERI MALANG",
+      "keketatan": 2.49004,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "381001",
+      "major_university_name": "S1 KEDOKTERAN - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 2.38095,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382048",
+      "major_university_name": "S1 KEDOKTERAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "383090",
+      "major_university_name": "S1 KEDOKTERAN - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "355002",
+      "major_university_name": "S1 KEDOKTERAN - UNDIP",
+      "university_name": "UNIVERSITAS DIPONEGORO",
+      "keketatan": 2.13109,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "511016",
+      "major_university_name": "S1 KEDOKTERAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 4.5977,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531020",
+      "major_university_name": "S1 KEDOKTERAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 5.13196,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "541021",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 3.53357,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "751020",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 4.11946,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "731017",
+      "major_university_name": "S1 KEDOKTERAN - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 7.26744,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "631022",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 5.44135,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "711007",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 2.6441,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "713016",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UIN-ALAUDDIN",
+      "university_name": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+      "keketatan": 2.69542,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "351010",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 2.18671,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "141003",
+      "major_university_name": "S1 KEDOKTERAN - UNAND",
+      "university_name": "UNIVERSITAS ANDALAS",
+      "keketatan": 3.62845,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "142088",
+      "major_university_name": "S1 KEDOKTERAN - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "151011",
+      "major_university_name": "S1 KEDOKTERAN - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 2.62238,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131019",
+      "major_university_name": "S1 KEDOKTERAN - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 2.41142,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "161019",
+      "major_university_name": "S1 KEDOKTERAN - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 2.65675,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "171006",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 4.7835,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "181027",
+      "major_university_name": "S1 KEDOKTERAN - UBB",
+      "university_name": "UNIVERSITAS BANGKA BELITUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "191020",
+      "major_university_name": "S1 PEND. KEDOKTERAN - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 4.2244,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "121001",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 2.90965,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "311020",
+      "major_university_name": "S1 KEDOKTERAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 2.6096,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "321001",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 1.88745,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "322011",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UINJKT",
+      "university_name": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+      "keketatan": 4.23317,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "324006",
+      "major_university_name": "S1 KEDOKTERAN - UPNVJ",
+      "university_name": "UPN \"VETERAN\" JAKARTA",
+      "keketatan": 3.55997,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "333001",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 2.2009,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341063",
+      "major_university_name": "S1 KEDOKTERAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "111016",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 4.8738,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "721001",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNSRAT",
+      "university_name": "UNIVERSITAS SAM RATULANGI",
+      "keketatan": 6.28571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "821020",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 6.09756,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "752033",
+      "major_university_name": "S1 KEDOKTERAN - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 4.86618,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "811024",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 6.81818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "911012",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNCEN",
+      "university_name": "UNIVERSITAS CENDERAWASIH",
+      "keketatan": 2.6764,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "621016",
+      "major_university_name": "S1 PENDIDIKAN DOKTER - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 4.9505,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "612020",
+      "major_university_name": "S1 KEDOKTERAN - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 3.61233,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "611001",
+      "major_university_name": "S1 KEDOKTERAN - UNUD",
+      "university_name": "UNIVERSITAS UDAYANA",
+      "keketatan": 3.70642,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "521018",
+      "major_university_name": "S1 KEDOKTERAN - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 5.20059,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "382046",
+      "major_university_name": "S1 TEKNOLOGI KEDOKTERAN - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "133021",
+      "major_university_name": "S1 KEDOKTERAN - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "112011",
+      "major_university_name": "S1 KEDOKTERAN - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 2.54777,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 36,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Kedokteran",
+    "merdeka_subject": [
+      17,
+      13
+    ],
+    "ipa_subject": [
+      17,
+      13
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

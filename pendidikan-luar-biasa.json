@@ -1,0 +1,152 @@
+{
+  "idx": 177,
+  "id": "pendidikan-luar-biasa",
+  "major_name": "Pendidikan Luar Biasa",
+  "icon": null,
+  "description": "Berbeda dengan program studi fakultas ilmu pendidikan yang lain, program studi Pendidikan Luar Biasa (PLB) lebih spesifik bagi para mahasiswa yang ingin menjadi tenaga pengajar untuk anak-anak yang mempunyai kebutuhan khusus. Program studi ini membekali para mahasiswa yang kelak akan menjadi pengajar anak-anak berkebutuhan untuk mampu merancang proses pembelajaran dan cara berkomunikasi sesuai dengan keperluan peserta didik. ",
+  "why": "Jika kamu setuju bahwa semua anak mempunyai hak untuk mendapatkan pendidikan, bahkan anak-anak berkebutuhan khusus, maka kamu bisa mengambil program studi ini. Saat ini, anak-anak yang spesial tersebut masih membutuhkan banyak tenaga pengajar yang kompeten. Di program studi inilah keahlian kamu untuk membantu anak-anak berkebutuhan khusus ditempa.",
+  "subjects": [
+    "Pendidikan anak tunanetra",
+    "Pendidikan anak tunagrahita",
+    "pendidikan anak tunarungu",
+    "pendidikan anak tunadaksa",
+    "pendidikan anak berkebutuhan khusus lainnya seperti autisme",
+    "kesulitan belajar",
+    "dan punya bakat khusus."
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Peluang kerja bagi lulusan program studi Pendidikan Luar Biasa cukup besar. Isu disabilitas kini telah mendapat banyak perhatian dari masyarakat maupun pemerintah. Pemenuhan hak bagi komunitas disabilitas pun mulai dilakukan di berbagai bidang, salah satunya pendidikan. Munculnya sekolah-sekolah inklusif yang menerima siswa difabel turut meningkatkan kebutuhan akan tenaga pengajar yang paham mengenai pendidikan luar biasa. ",
+  "professions": [
+    "Pengajar Komunikasi",
+    "Guru Vokasi"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-guru-sekolah-dasar",
+    "pendidikan/kurikulum-dan-teknologi-pendidikan",
+    "pendidikan/manajemen-pendidikan"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 10,
+  "dt_snbp": 377,
+  "dt_snbt": 525,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323021",
+      "major_university_name": "S1 PENDIDIKAN KHUSUS - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 11.5385,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334041",
+      "major_university_name": "S1 PENDIDIKAN KHUSUS - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 14.4695,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353053",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA (PENDIDIKAN KHUSUS) - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 11.7647,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362029",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 12.5326,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142025",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 27.5449,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311041",
+      "major_university_name": "S1 PENDIDIKAN KHUSUS - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 47.0588,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373057",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 21.0046,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383030",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 27.3632,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "531057",
+      "major_university_name": "S1 PENDIDIKAN KHUSUS - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 46.2687,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712045",
+      "major_university_name": "S1 PENDIDIKAN LUAR BIASA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 68.9189,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

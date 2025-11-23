@@ -1,0 +1,589 @@
+{
+  "idx": 161,
+  "id": "pendidikan-bahasa-dan-sastra-indonesia",
+  "major_name": "Pendidikan Bahasa dan Sastra Indonesia",
+  "icon": null,
+  "description": "Di program studi Pendidikan Bahasa dan Sastra Indonesia kita akan mempelajari Bahasa Indonesia. Mungkin banyak yang beranggapan “buat apa belajar Bahasa Indonesia? Kan udah lancar ngomong Bahasa Indonesia”. Pelajaran Bahasa Indonesia pun di sekolah sering kali dipandang sebelah mata, karena dianggap pelajaran yang gampang. Padahal nilai mata pelajaran Bahasa Indonesia di sekolah saja tidak bisa menjadi acuan kalau kamu mahir dan mengerti bahasa nasional kita ini. \r\rKarenanya di prodi Pendidikan Bahasa dan Sastra Indonesia (PBSI) ini kamu akan memeroleh pengetahuan Bahasa Indonesia mulai dari cara pelafalan bunyi yang benar dalam Bahasa Indonesia, struktur dan tata bahasa, dan lain sebagainya. Jadi belajar Bahsa Indonesia nggak sekedar “ini Budi” dan “ini ibu Budi”. Selain mempelajari kebahasaan dan kesusastraan, di PBSI juga akan mempelajari ilmu kependidikan. \r",
+  "why": "Dewasa ini, banyak anak-anak Indonesia yang lebih mencintai bahasa asing ketimbang bahasa bangsanya sendiri. Bayangkan, diluar sana banyak bertebaran kursus-kursus bahasa asing, sementara tidak ada kursus yang mengajarkan Bahasa Indonesia. Jika kamu peduli akan kondisi ini dan terpanggil untuk menjadi pendidik bahasa nasionalmu, prodi PBSI adalah pilihan yang tepat.",
+  "subjects": [
+    "Filsafat Ilmu",
+    "Linguistik Umum",
+    "Fonologi",
+    "Sintaksis",
+    "Wacana Bahasa Indonesia",
+    "Perencanaan Bahasa",
+    "Sosiolonguistik",
+    "Apresiasi Sastra",
+    "Kajian Puisi",
+    "Keterampilan Menyimak",
+    "Keterampilan Membaca Teknik",
+    "Keterampilan Berbicara Interpersonal",
+    "Keterampilan Menulis Kritis dan Ilmiah",
+    "Estetika Bahasa dan Seni",
+    "Telaah Kurikulum dan Buku Teks",
+    "Evaluasi Pengajaran Bahasa Indonesia",
+    "Morfologi",
+    "Semantik",
+    "Psikolinguistik",
+    "Kritik Sastra",
+    "Perencanaan Pengajaran Bahasa Indonesia",
+    "Teori Belajar Bahasa",
+    "Strategi Belajar Mengajar",
+    "Keterampilan Menulis Populer",
+    "Keterampilan Berbicara Interaktif",
+    "Keterampilan Membaca Kritis dan Kreatif",
+    "Pragmatik Berbahasa",
+    "Anakes",
+    "Bahasa Bantu",
+    "Landasan Ilmu Pendidikan"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal"
+  ],
+  "prospects": "Banyak yang masih meremehkan profesi guru Bahasa Indonesia, padahal guru Bahasa Indonesia memegang peranan penting dalam penanaman rasa cinta terhadap bangsa Indonesia melalui bahasa. Melalui prodi PBSI ini lah akan lahir pengajar-pengajar profesional yang tidak hanya bisa sebagai pengajar di lembaga pendidikan formal, tapi juga lembaga pendidikan informal.",
+  "professions": [
+    "Editor (Artikel/Tulisan)",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif",
+    "Penerjemah",
+    "Dosen (Secara umum)"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-inggris",
+    "budaya-bahasa/sastra-indonesia",
+    "pendidikan/pendidikan-seni-drama-tari-dan-musik-sendratasik-",
+    "budaya-bahasa/sastra-jepang",
+    "budaya-bahasa/sastra-jerman",
+    "pendidikan/pendidikan-sejarah"
+  ],
+  "major_group_id": 3,
+  "jlh_prodi": 55,
+  "dt_snbp": 2279,
+  "dt_snbt": 3363,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "356049",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 10.3734,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334051",
+      "major_university_name": "S1 PENDIDIKAN BHS.DAN SASTRA INDONESIA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.57143,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191053",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 15.213,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "171048",
+      "major_university_name": "S1 PEND BHS, SATRA IND & DAERAH - UNSRI",
+      "university_name": "UNIVERSITAS SRIWIJAYA",
+      "keketatan": 12.5307,
+      "indikator_persaingan_snbp": 4,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373050",
+      "major_university_name": "S1 BAHASA DAN SASTRA INDONESIA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 6.58174,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "352013",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNTIDAR",
+      "university_name": "UNIVERSITAS TIDAR",
+      "keketatan": 15.2338,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "353057",
+      "major_university_name": "S1 PEND. BAHASA, SASTRA INDONESIA & DAERAH - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 5.84551,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "361072",
+      "major_university_name": "S1 BAHASA DAN SASTRA INDONESIA - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 7.57576,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362060",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 8.20513,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "371054",
+      "major_university_name": "S1 PENDIDIKAN BHS. & SASTRA INDO. - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 12.9213,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "372082",
+      "major_university_name": "S1 PENDIDIKAN BHS & SASTRA INDONESIA - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 11.746,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "373036",
+      "major_university_name": "S1 PEND. BAHASA, SASTRA INDONESIA & DAERAH - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 9.3617,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "112031",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNIMAL",
+      "university_name": "UNIVERSITAS MALIKUSSALEH",
+      "keketatan": 26.3736,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "381041",
+      "major_university_name": "S1 BAHASA DAN SASTRA INDONESIA - UNAIR",
+      "university_name": "UNIVERSITAS AIRLANGGA",
+      "keketatan": 13.0909,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383034",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 12.8755,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "385026",
+      "major_university_name": "S1 LINGUISTIK INDONESIA - UPNJATIM",
+      "university_name": "UPN \"VETERAN\" JAWA TIMUR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "511042",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 10.9325,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "531044",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 23.1343,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "621030",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNRAM",
+      "university_name": "UNIVERSITAS MATARAM",
+      "keketatan": 25.8065,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "631027",
+      "major_university_name": "S1 PEND. BHS  & SASTRA  INDO. - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 29.2857,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712046",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 17.7481,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "731033",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNTAD",
+      "university_name": "UNIVERSITAS TADULAKO",
+      "keketatan": 23.1959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "751058",
+      "major_university_name": "S1 PEND. BAHASA, SASTRA INDO. & DAERAH - UHO",
+      "university_name": "UNIVERSITAS HALUOLEO",
+      "keketatan": 23.7668,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "142032",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 19.2719,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "111049",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 15.9533,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "351038",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNSOED",
+      "university_name": "UNIVERSITAS JENDERAL SOEDIRMAN",
+      "keketatan": 5.23952,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "122030",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 16.0051,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131045",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 9.04159,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "132035",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UIN-SUSKA",
+      "university_name": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+      "keketatan": 22.3602,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "151036",
+      "major_university_name": "S1 PEND. BAHASA, SASTRA INDONESIA & DAERAH - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 25.6944,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "161037",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 16.2011,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "191061",
+      "major_university_name": "S1 PENDIDIKAN BAHASA LAMPUNG - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 31.9635,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311031",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 17.4157,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323028",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 4.8913,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331020",
+      "major_university_name": "S1 PEND. BAHASA DAN SASTRA INDONESIA - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 14.7343,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334062",
+      "major_university_name": "S1 BAHASA DAN SASTRA INDONESIA - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 8.65385,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342022",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 11.1317,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "632012",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNIMOR",
+      "university_name": "UNIVERSITAS TIMOR",
+      "keketatan": 56.7376,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "541050",
+      "major_university_name": "S1 PEND. BAHASA, SASTRA INDO. & DAERAH - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 20.7792,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "722024",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 70.4225,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "114024",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UNSAM",
+      "university_name": "UNIVERSITAS SAMUDRA",
+      "keketatan": 35.2941,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "752042",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 30.6977,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "811049",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 78.5714,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "821030",
+      "major_university_name": "S1 PEND. BAHASA INDONESIA - UNKHAIR",
+      "university_name": "UNIVERSITAS KHAIRUN",
+      "keketatan": 253.333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612025",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 22.314,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "551015",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UBT",
+      "university_name": "UNIVERSITAS BORNEO TARAKAN",
+      "keketatan": 30.7692,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521026",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 70.6522,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "384025",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - TRUNOJOYO",
+      "university_name": "UNIVERSITAS TRUNOJOYO MADURA",
+      "keketatan": 28.0255,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "133012",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - UMRAH",
+      "university_name": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+      "keketatan": 91.358,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "115008",
+      "major_university_name": "S1 BAHASA ACEH - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "711066",
+      "major_university_name": "S1 SASTRA DAERAH - UNHAS",
+      "university_name": "UNIVERSITAS HASANUDDIN",
+      "keketatan": 55.9322,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "115007",
+      "major_university_name": "S1 KAJIAN SASTRA BUDAYA - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "121041",
+      "major_university_name": "S1 SASTRA DAERAH UNTUK SASTRA BATAK - USU",
+      "university_name": "UNIVERSITAS SUMATERA UTARA",
+      "keketatan": 88.6364,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "753022",
+      "major_university_name": "S1 PENDIDIKAN BAHASA INDONESIA - USN",
+      "university_name": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+      "keketatan": 208.333,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "912021",
+      "major_university_name": "S1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA - UNMUS",
+      "university_name": "UNIVERSITAS MUSAMUS MERAUKE",
+      "keketatan": 500,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 3,
+    "super_group": "HUMANIORA",
+    "group_name": "Linguistik",
+    "merdeka_subject": [
+      3,
+      4
+    ],
+    "ipa_subject": [
+      3,
+      4
+    ],
+    "ips_subject": [
+      3,
+      4
+    ],
+    "bahasa_subject": [
+      3,
+      4
+    ]
+  }
+}

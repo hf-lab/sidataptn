@@ -1,0 +1,120 @@
+{
+  "idx": 226,
+  "id": "seni-rupa-creative-arts-",
+  "major_name": "Seni Rupa (Creative Arts)",
+  "icon": null,
+  "description": "Seni Rupa (Creative Arts) mempelajari penciptaan dan pengkajian suatu seni rupa. Sedikit berbeda dari Seni Rupa Murni (Fine Arts), Creative Arts jauh lebih progresif karena tidak hanya berfokus di medium seni rupa tradisional, tapi juga medium seni rupa kontempoter seperti fotografi, perfilman, serta penggunaan media dan perkembangan teknologi baru yang mempengaruhi pembentukan dan konsumsi suatu produk seni oleh masyarakat modern dari aspek sosial, kultural, keagamaan, maupun politik. Di Telkom University, salah satu kampus yang menawarkan prodi ini, Creative Arts terbagi menjadi 3 peminatan: Painting & Illustration Studio, Film and Photography Studio, dan Intermedia Art Studio.",
+  "why": "Seni Rupa (Creative Arts) adalah prodi yang sangat cocok untuk kamu yang suka berkreasi dan bereksperimen dengan elemen-elemen seni. Program studi ini cocok untuk kamu yang menjunjung tinggi orisinalitas, inovasi, dan pemahaman mengenai perkembangan teknologi dalam penciptaan dan konsumsi suatu karya seni rupa.",
+  "subjects": [
+    "Menggambar Dasar",
+    "Menggambar Konstruktif",
+    "Nirmana 2 Dimensi",
+    "Nirmana 3 Dimensi",
+    "Pengantar Studi Seni Rupa",
+    "Pengantar Teknologi Informasi dan Komunikasi",
+    "Dasar Komputer Grafis",
+    "Studio Seni Rupa",
+    "Komputer dan Multimedia",
+    "Model dan Anatomi",
+    "Estetika Seni",
+    "Budaya Nusantara",
+    "Seni Monumental Interior",
+    "Sinematografi",
+    "Ilustrasi",
+    "Seni Video",
+    "Sejarah Seni Rupa Indonesia",
+    "Eksperimen Kreatif",
+    "Semiotika",
+    "Fotografi dan Kamar Gelap",
+    "Tinjauan dan Kritik Seni",
+    "Sejarah dan Kebudayaan Dunia",
+    "Manajemen Pameran",
+    "Metodologi Penelitian Seni",
+    "Kewirausahaan",
+    "Psikologi Seni",
+    "Seni dan Tata Suara",
+    "Modelling",
+    "Seni Grafis",
+    "Lukis Digital"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Seni tidak hanya bisa dijadikan sebagai hobi, tapi juga bisa menjadi peluang tersendiri untuk mengeksplor bakat dan minat menjadi karya yang bernilai jual. Tergantung peminatan yang diambil, lulusan Seni Rupa (Creative Arts) dapat berkarir sebagai seorang seniman (termasuk pelukis, pemahat, dan ilustrator), sutradara, kreator konten, kurator seni, kritikus seni, art director, multimedia artist, peneliti, hingga pengajar seni.",
+  "professions": [
+    "Desainer Interior",
+    "Seniman Kerajinan (Craft Artists)",
+    "Sutradara",
+    "Produser TV / Film / Video",
+    "Animator dan Seniman Multimedia",
+    "Pengarah Seni",
+    "Kurator Seni",
+    "Seniman, Termasuk Pelukis, Pemahat, dan Illustrator",
+    "Desainer Grafis",
+    "Content Creator"
+  ],
+  "related_majors": [
+    "seni/seni-rupa-murni",
+    "seni/tata-kelola-seni"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 3,
+  "dt_snbp": 181,
+  "dt_snbt": 200,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "332023",
+      "major_university_name": "S1 FAKULTAS SENIRUPA DAN DESAIN (FSRD) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 9.48132,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "356045",
+      "major_university_name": "S1 SENI RUPA (DKV,LUKIS,PTNG,GRAFIS,GBR KRIYA) - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 18.6047,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "332025",
+      "major_university_name": "S1 FAKULTAS SENIRUPA DAN DESAIN * KAMPUS CIREBON (FSRD*C) - ITB",
+      "university_name": "INSTITUT TEKNOLOGI BANDUNG",
+      "keketatan": 15.1351,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

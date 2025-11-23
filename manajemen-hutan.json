@@ -1,0 +1,95 @@
+{
+  "idx": 117,
+  "id": "manajemen-hutan",
+  "major_name": "Manajemen Hutan",
+  "icon": null,
+  "description": "Pada program studi Manajemen Hutan kita akan mempelajari cara pengelolaan sumberdaya hutan, inventarisasi, dan perumusan kebijakan dalam pengelolaan hutan lestari berbasis ekosistem. Manajemen Hutan mencakup ilmu tentang aspek administratif, ekonomi, hukum, dan sosial berkaitan dengan kehutanan. Manajemen Hutan mendalami teknologi dan kebijakan untuk perencanaan, pengorganisasian, pelaksanaan dan evaluasi pengelolaan hutan berbasis ekosistem. Dalam Manajemen Hutan, selain pengetahuan tentang ekologi dan klimatologi hutan, juga diperlukan pengetahuan Penginderaan Jauh dan Sistem Informasi Geografi (SIG) untuk melakukan pemetaan.",
+  "why": "Hutan tropis Indonesia adalah yang terluas di dunia. Bahkan hampir setengah daratan Indonesia adalah hutan. Namun akibat ulah tangan manusia hutan di Indonesia selalu megalami deforestasi setiap tahunnya yang akan menggiring kepada ketidakseimbangan ekosistem hutan dan menyebabkan berbagai permasalahan lingkungan. Prodi ini adalah untuk kamu yang punya kesadaran terhadap kelestarian lingkungan.",
+  "subjects": [
+    "Zoologi",
+    "Botani",
+    "Olahraga dan Survival Hutan",
+    "Ilmu Tanah Hutan",
+    "Klimatologi Hutan",
+    "Dendrologi",
+    "Ekologi Hutan",
+    "Silvika",
+    "Penginderaan Jauh dan SIG",
+    "Ekonomi Sumberdaya Alam dan Lingkungan",
+    "Sosiologi Kehutanan",
+    "Ilmu Ukur dan Pemetaan Wilayah",
+    "Silvikultur Hutan",
+    "Ilmu Kayu",
+    "Inventarisasi Sumberdaya Hutan",
+    "Kebijakan dan Perundangan Kehutanan",
+    "Manajemen Sumberdaya Hutan",
+    "Argoforestry",
+    "Konservasi Sumberdaya Alam",
+    "Perencanaan Hutan",
+    "Rehabilitasi Hutan dan Lahan",
+    "Penyuluhan Kehutanan",
+    "Pengelolaan Kawasan Konservasi"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Deforestasi yang terus meningkat setiap tahunnya di Indonesia merupakan salah satu bukti bahwa Indonesia masih sangat membutuhkan ahli manajemen hutan. Lulusan program studi ini memilik kemampuan manajerial, analisis, ditambah dengan pemetaan dan SIG sehingga prospek kerjanya tidak hanya sebatas di sektor kehutanan saja.",
+  "professions": [
+    "Peneliti Geografi (Tidak Termasuk Hydrilogist dan Geographer)",
+    "Pengawas Hutan",
+    "Ahli Konservasi Hutan",
+    "Ahli Peta Geografi",
+    "Spesialis Konservasi Alam"
+  ],
+  "related_majors": [
+    "pertanian/kehutanan",
+    "pertanian/silvikultur",
+    "pertanian/teknologi-hasil-hutan",
+    "pertanian/pengelolaan-hutan"
+  ],
+  "major_group_id": 55,
+  "jlh_prodi": 1,
+  "dt_snbp": 63,
+  "dt_snbt": 42,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "341013",
+      "major_university_name": "S1 MANAJEMEN HUTAN - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": 10.5012,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 55,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Konservasi Biologi, Konservasi Hewan Liar, Konservasi Hewan Liar dan Hutan, Konservasi Hutan, Konservasi Sumber Daya",
+    "merdeka_subject": [
+      17
+    ],
+    "ipa_subject": [
+      17
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "idx": 184,
+  "id": "pendidikan-seni-drama-tari-dan-musik-sendratasik-",
+  "major_name": "Pendidikan Seni Drama, Tari, dan Musik (Sendratasik)",
+  "icon": null,
+  "description": "Sesuai namanya, program studi ini mempersiapkan mahasiswanya untuk menjadi pendidik atau pengajar bidang seni yang terdiri dari seni drama, tari, dan musik (Sendratasik). Berbeda dengan mahasiswa Sendratasik yang memang dikhususkan untuk menjadi ahli seni atau seniman. Jadi selain mendapatkan pengetahuan tentang seni, mahasiswa prodi Pendidikan Sendratasik juga akan mendapatkan pengetahuan tentang kependidikan yang berkaitan dengan perencanaan pembelajaran, evaluasi pembelajaran, kurikulum pendidikan, dan sebagainya. Ilmu tentang seni drama, tari, dan musik yang peroleh di prodi ini juga bukan sekedar praktik, melainkan juga teori-teori seni tari seperti sejarah drama, tari, dan musik, antropologi tari, dan lain-lain. Mahasiswa nantinya akan dibebaskan memilih konsentrasi apakah Pendidikan Seni Drama, Pendidikan Seni Tari, atau Pendidikan Seni Musik.",
+  "why": "Program studi ini merupakan pilihan tepat dan memang diperuntukkan bagi kamu yang menyukai seni sekaligus memiliki jiwa pengajar. Banyak yang menganggap remeh program studi seni itu sendiri, bahkan pendidikan seni, karena pendidikan seni dianggap tidak penting dalam kegiatan belajar mengajar di sekolah. Padahal seni adalah warisan kebudayaan negeri yang harus di lestarikan oleh generasi muda. Karenanya Indonesia membutuhkan para pengajar atau guru-guru seni yang dapat men-transfrer nilai-nilai kebudayaan yang terkandung dalam seni itu sendiri pada anak-anak melalui pendidikan.",
+  "subjects": [
+    "Pengantar Pendidikan",
+    "Perkembangan Peserta Didik",
+    "Bimbingan dan Konseling",
+    "Kurikulum Pembelajaran Seni",
+    "Pengelolaan Pendidikan",
+    "Belajar dan Pembelajaran Seni",
+    "Evaluasi Pembelajaran Seni",
+    "Teori Dasar Tari",
+    "Estetika/Semiotika Tari",
+    "Komposisi Tari",
+    "Tari Nusantara",
+    "Tari Pendidikan",
+    "Teori Dasar Musik",
+    "Sejarah Musik",
+    "Teknik Vokal (Paduan Suara)",
+    "Penulisan Musik Komputer",
+    "Akustik Organologi",
+    "Komposisi Musik",
+    "Aransemen Musik",
+    "Teori Drama/Teater",
+    "Penulisan Naskah Drama",
+    "Dramaturgi",
+    "Teater Sekolah",
+    "Tata Artistik",
+    "Seni Peran",
+    "Kajian Drama",
+    "Manajemen Seni Pertunjukan",
+    "Desain Dwimatra",
+    "Desain Trimatra",
+    "Pagelaran Karya Seni Drama/Tari/Musik"
+  ],
+  "characters": [
+    "Tekun",
+    "Independen",
+    "Berwawasan luas",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Lulusan program studi Pendidikan Sendratasik dapat menjadi guru atau pengajar seni di lembaga pendidikan formal (sekolah) di tingkat SD sampai dengan SMA, dan juga informal (seperti kursus atau sanggar). Dengan melanjutkan pendidikan ke jenjang pascasarjana juga memungkinkan lulusan prodi ini untuk menjadi dosen Sendratasik. ",
+  "professions": [
+    "Penari",
+    "Penata Rias Pertunjukan dan Teater",
+    "Guru Musik",
+    "Seniman, Termasuk Pelukis, Pemahat, dan Illustrator",
+    "Musik Komposer dan Arranger"
+  ],
+  "related_majors": [
+    "seni/seni-rupa-murni",
+    "seni/seni-tari",
+    "seni/sendratasik-seni-drama-tari-dan-musik-",
+    "pendidikan/pendidikan-bahasa-dan-sastra-indonesia",
+    "seni/seni-musik",
+    "seni/seni-karawitan",
+    "budaya-bahasa/sastra-sunda"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 76,
+  "dt_snbp": 2009,
+  "dt_snbt": 2666,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "356052",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 42.8571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356059",
+      "major_university_name": "S1 P. SENI DRAMA, TARI & MUSIK (P. SENI TARI) - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 53.012,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "323036",
+      "major_university_name": "S1 PENDIDIKAN TARI - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 32.8571,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353059",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 36.3636,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362055",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 17.2043,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "362059",
+      "major_university_name": "S1 PENDIDIKAN SENI MUSIK - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 19.2771,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "323038",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 17.0213,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422016",
+      "major_university_name": "D3 SENI KULINER - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "335001",
+      "major_university_name": "S1 TARI - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 37.931,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334058",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA DAN KERAJINAN - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 26.3959,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364003",
+      "major_university_name": "S1 PENDIDIKAN MUSIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 13.8462,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364016",
+      "major_university_name": "S1 SENI PEDALANGAN - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 50,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "364006",
+      "major_university_name": "S1 PENDIDIKAN SENI DRAMA, TARI, DAN MUSIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 29.5082,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364005",
+      "major_university_name": "S1 SENI TEATER - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 42.029,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364004",
+      "major_university_name": "S1 PENCIPTAAN MUSIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 16.8317,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364018",
+      "major_university_name": "D4 PENYAJIAN MUSIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 30.1887,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "364002",
+      "major_university_name": "S1 SENI MUSIK - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 18.2857,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356060",
+      "major_university_name": "S1 P. SENI DRAMA, TARI & MUSIK (P. SENI MUSIK) - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 34.6774,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354011",
+      "major_university_name": "S1 SENI PEDALANGAN - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 78.3784,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "511047",
+      "major_university_name": "S1 PENDIDIKAN SENI PERTUNJUKAN - UNTAN",
+      "university_name": "UNIVERSITAS TANJUNGPURA",
+      "keketatan": 93.9394,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "111051",
+      "major_university_name": "S1 PENDIDIKAN SENI DRAMA TARI DAN MUSIK - USK",
+      "university_name": "UNIVERSITAS SYIAH KUALA",
+      "keketatan": 18.4466,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752046",
+      "major_university_name": "S1 PENDIDIKAN SENDRATASIK - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 150,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712068",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 37.234,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712067",
+      "major_university_name": "S1 PENDIDIKAN SENI DRAMA,  TARI, DAN MUSIK - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 47.4747,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613009",
+      "major_university_name": "S1 FOTOGRAFI - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 33.3333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613003",
+      "major_university_name": "S1 PENDIDIKAN SENI PERTUNJUKAN - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 122.222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "531061",
+      "major_university_name": "S1 PENDIDIKAN SENI PERTUNJUKAN - ULM",
+      "university_name": "UNIVERSITAS LAMBUNG MANGKURAT",
+      "keketatan": 71.4286,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "521041",
+      "major_university_name": "S1 PENDIDIKAN SENI DRAMA TARI DAN MUSIK - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 200,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "364017",
+      "major_university_name": "S1 TATA KELOLA SENI - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 16.2791,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "422009",
+      "major_university_name": "D3 FOTOGRAFI - POLIMEDIA",
+      "university_name": "POLITEKNIK NEGERI MEDIA KREATIF",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "383065",
+      "major_university_name": "S1 MUSIK - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 41.0256,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "383040",
+      "major_university_name": "S1 PENDIDIKAN SENI DRAMA, TARI, DAN MUSIK - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 50.9804,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383039",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 49.5652,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373041",
+      "major_university_name": "S1 PENDIDIKAN SENI TARI DAN MUSIK - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 43.5644,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373039",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 25.731,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "364021",
+      "major_university_name": "S1 KONSERVASI SENI - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "913004",
+      "major_university_name": "S1 SENI MUSIK - ISBI-TANAHPAPUA",
+      "university_name": "ISBI TANAH PAPUA",
+      "keketatan": 2100,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354005",
+      "major_university_name": "S1 SENI MURNI - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 43.299,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142036",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 54.3478,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "122049",
+      "major_university_name": "S1 PENDIDIKAN MUSIK - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 36.0577,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142037",
+      "major_university_name": "S1 PENDIDIKAN SENDRATASIK - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 61.8557,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142055",
+      "major_university_name": "S1 PENDIDIKAN MUSIK - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 40,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "142058",
+      "major_university_name": "S1 PENDIDIKAN TARI - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 24,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122048",
+      "major_university_name": "S1 PENDIDIKAN TARI - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 87.3563,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143008",
+      "major_university_name": "S1 FOTOGRAFI - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 80,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122034",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 66.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143018",
+      "major_university_name": "D4 TARI MELAYU - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "151056",
+      "major_university_name": "S1 SENI DRAMA TARI DAN MUSIK - UNJA",
+      "university_name": "UNIVERSITAS JAMBI",
+      "keketatan": 136,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "191056",
+      "major_university_name": "S1 PENDIDIKAN TARI - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 105.769,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311039",
+      "major_university_name": "S1 PENDIDIKAN SENI PERTUNJUKAN - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 125,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "323037",
+      "major_university_name": "S1 PENDIDIKAN MUSIK - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 22.1311,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "191060",
+      "major_university_name": "S1 PENDIDIKAN MUSIK - UNILA",
+      "university_name": "UNIVERSITAS LAMPUNG",
+      "keketatan": 116.279,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "334060",
+      "major_university_name": "S1 PENDIDIKAN SENI MUSIK - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 28.9157,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334099",
+      "major_university_name": "S1 MUSIK - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 40.678,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "335003",
+      "major_university_name": "S1 TEATER - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 95.3488,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "335004",
+      "major_university_name": "S1 SENI MURNI - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 13.1387,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "335006",
+      "major_university_name": "D4 ANGKLUNG DAN MUSIK BAMBU - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 145.455,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "335007",
+      "major_university_name": "D4 TARI SUNDA - ISBI",
+      "university_name": "ISBI BANDUNG",
+      "keketatan": 225,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354001",
+      "major_university_name": "S1 TARI - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 75.5556,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354009",
+      "major_university_name": "S1 FOTOGRAFI - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 20.8333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "122051",
+      "major_university_name": "S1 SENI PERTUNJUKAN - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 214.286,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "115003",
+      "major_university_name": "S1 SENI TEATER - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 700,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "613010",
+      "major_university_name": "S1 SENI PEDALANGAN - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 275,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722030",
+      "major_university_name": "S1 PEND. SENI MUSIK - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 690.909,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "722031",
+      "major_university_name": "S1 PEND. SENI RUPA - UNIMA",
+      "university_name": "UNIVERSITAS NEGERI MANADO",
+      "keketatan": 1000,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752059",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 55.5556,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613005",
+      "major_university_name": "S1 SENI MURNI - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 38.0952,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613004",
+      "major_university_name": "S1 MUSIK - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 115,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "613001",
+      "major_university_name": "S1 TARI - ISI-DPS",
+      "university_name": "ISI DENPASAR",
+      "keketatan": 271.429,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "612027",
+      "major_university_name": "S1 PENDIDIKAN SENI RUPA - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": 100,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143003",
+      "major_university_name": "S1 SENI MUSIK - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 81.8182,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "143004",
+      "major_university_name": "S1 SENI TEATER - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 160,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143007",
+      "major_university_name": "S1 SENI MURNI - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": 78.9474,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "143017",
+      "major_university_name": "D4 MUSIK FILM - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "143019",
+      "major_university_name": "D4 TARI MINANG - ISI-PADANGPANJANG",
+      "university_name": "ISI PADANG PANJANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "354003",
+      "major_university_name": "S1 TEATER - ISI-SKA",
+      "university_name": "ISI SURAKARTA",
+      "keketatan": 144.828,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

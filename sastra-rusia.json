@@ -1,0 +1,101 @@
+{
+  "idx": 218,
+  "id": "sastra-rusia",
+  "major_name": "Sastra Rusia",
+  "icon": null,
+  "description": "Program Studi Sastra Rusia adalah bagian dari Fakultas Ilmu Budaya (FIB). Program studi ini mengajak mahasiswa untuk terampil, komunikatif, dan profesional berbahasa Rusia sesuai standar pemahaman bahasa dan kebudayaan Rusia untuk orang asing. Melalui kemampuan berbahasa Rusia tersebut mahasiswa juga dididik untuk memiliki wawasan dalam bidang kesusastraan dan kebudayaan Rusia.",
+  "why": "Kamu pernah membaca cerita-cerita epik karya Leo Tolstoy, Anton Chekov, atau Fyodor Dostoevsky? Mereka adalah para sastrawan Rusia yang karyanya telah mendunia. Jika kamu menyukai karya-karya sastra Rusia, kamu bisa memilih jurusan ini. Selain itu, di program studi ini kamu juga akan dituntut untuk memiliki kemampuan membaca dan menganalisis literatur.",
+  "subjects": [
+    "Bahasa Rusia",
+    "Pengantar Linguistik Rusia",
+    "Terjemahan Rusia-Indonesia",
+    "Perkembangan Prosa Rusia",
+    "Morfologi Rusia",
+    "Kajian Drama Rusia",
+    "Analisa Teks Rusia",
+    "Korespondensi Rusia",
+    "Kajian Budaya Populer Rusia",
+    "Sintaksis Rusia",
+    "Semantik dan Pragmatik Rusia",
+    "HAM & Demokrasi Rusia",
+    "Masyarakat dan Pemerintahan Rusia",
+    "Etnis dan Nasionalisme di Rusia",
+    "Kritik Sastra Rusia",
+    "Pengantar Peradaban Rusia",
+    "Sejarah Eropa Timur",
+    "Kajian Puisi Rusia",
+    "Bahasa Rusia Untuk Bisnis",
+    "Sastra dan Masyarakat Rusia",
+    "Pengantar Kesenian Rusia",
+    "Sejarah Sovyet dan Federasi Rusia",
+    "Sejarah Kekaisaran Rusia"
+  ],
+  "characters": [
+    "Tekun",
+    "Rasional",
+    "Terstruktur",
+    "Independen",
+    "Berwawasan luas"
+  ],
+  "prospects": "Apabila kamu mencari pekerjaan yang hanya mempunyai sangkut paut dengan Bahasa Rusia saja, mungkin akan kesusahan, karena peluangnya sangat sedikit. Meski begitu, sebagai seorang lulusan Sastra Rusia, kamu bisa bekerja sebagai penerjemah, penulis, ahli bahasa, pengajar bahasa asing, hingga bekerja di kedutaan besar Rusia.",
+  "professions": [
+    "Penerjemah",
+    "Penulis Perjalanan",
+    "Penulis Puisi, Penulis Lirik, dan Penulis Kreatif"
+  ],
+  "related_majors": [
+    "budaya-bahasa/sastra-arab-sastra-asia-barat-",
+    "budaya-bahasa/sastra-korea",
+    "budaya-bahasa/sastra-jerman",
+    "budaya-bahasa/sastra-perancis",
+    "budaya-bahasa/sastra-belanda",
+    "budaya-bahasa/sastra-cina-sastra-mandarin-"
+  ],
+  "major_group_id": 4,
+  "jlh_prodi": 2,
+  "dt_snbp": 46,
+  "dt_snbt": 42,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "321061",
+      "major_university_name": "S1 SASTRA RUSIA - UI",
+      "university_name": "UNIVERSITAS INDONESIA",
+      "keketatan": 10.0559,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "333049",
+      "major_university_name": "S1 SASTRA RUSIA - UNPAD",
+      "university_name": "UNIVERSITAS PADJADJARAN",
+      "keketatan": 13.6646,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 4,
+    "super_group": "HUMANIORA",
+    "group_name": "Susastra atau Sastra",
+    "merdeka_subject": [
+      3,
+      5
+    ],
+    "ipa_subject": [
+      3,
+      5
+    ],
+    "ips_subject": [
+      3,
+      5
+    ],
+    "bahasa_subject": [
+      3,
+      5
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "idx": 231,
+  "id": "sistem-informasi-bisnis",
+  "major_name": "Sistem Informasi Bisnis",
+  "icon": null,
+  "description": "Pada program studi Sistem Informasi Bisnis, kita akan mendapatkan pengetahuan di bidang sistem informasi, teknologi, dan bisnis dengan porsi yang seimbang. Mahasiswa program studi Sistem Informasi Bisnis akan dipersiapkan untuk menjadi seorang technopreneur yang handal dengan di bekali ilmu teknologi sistem informasi yang diperlukan dalam membentuk dan mengelola suatu start-up. Mahasiswa difokuskan untuk memiliki skill yang profesional untuk memecahkan masalah bisnis dengan pemanfaatan teknologi sistem informasi. ",
+  "why": "Di zaman ini, teknologi menjadi komponen utama di setiap aspek kehidupan, terutama bisnis. Teknologi dan sistem informasi sangat diperlukan di setiap bidang yang bersinggungan dengan bisnis, baik marketing, akuntansi, dan sebagainya. Selain itu teknologi dan informasi itu sendiri dapat dijadikan sebuah peluang bisnis yang baru. Karena itu, pelajaran yang akan di dapatkan dari program studi ini akan sangat bermanfaat di era modern ini, terutama untuk kamu yang tertarik memulai bisnis startup.",
+  "subjects": [
+    "Akuntansi dan Keuangan",
+    "Pemrograman",
+    "Basis Data",
+    "Enterprise Resource Planning",
+    "E-Business",
+    "Analisis Proses Bisnis",
+    "Digital Marketing",
+    "Customer Relationship Management",
+    "Supply Chain Management",
+    "Jaringan Komputer",
+    "International Business",
+    "Data Warehouse",
+    "Data Mining",
+    "Pengembangan Aplikasi Web Desktop dan Mobile",
+    "Matematika Bisnis",
+    "Perancangan Sistem"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Independen",
+    "Senang berhitung",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Prospek kerja lulusan Sistem Informasi Bisnis tampaknya akan sangat bagus di masa datang, sebab pengetahuan dan keterampilan teknolgi dan sistem informasi yang di miliki lulusannya akan memperkaya ilmu bisnis yang dimilikinya, sehingga menjadi nilai plus yang banyak dicari oleh berbagai organisasi atau perusahaan. Selain dalam mencari kerja, lulusan Sistem Informasi Bisnis juga sangat memungkinkan untuk mengembangkan usaha atau bisnis sendiri yang berbasis teknologi, sebab pada program studi ini, mahasiswa dibekali dengan keterampilan entrepreneurship. ",
+  "professions": [
+    "Perencana Bisnis Berkelanjutan",
+    "Analis Manajemen Bisnis",
+    "Admin Database",
+    "Manager Sistem Komputer dan Informasi",
+    "Arsitek Database",
+    "Auditor",
+    "Analis Riset Operasional",
+    "Growth Hacker",
+    "Spesialis Data Warehouse",
+    "Konsultan Pemasaran Digital"
+  ],
+  "related_majors": [
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/information-systems-audit-audit-sistem-informasi-",
+    "ekonomi-bisnis/manajemen-bisnis-telekomunikasi-informatika",
+    "komputer-teknologi/sistem-dan-teknologi-informasi",
+    "komputer-teknologi/accounting-information-system-sistem-informasi-akuntansi-",
+    "komputer-teknologi/data-science"
+  ],
+  "major_group_id": 45,
+  "jlh_prodi": 1,
+  "dt_snbp": 54,
+  "dt_snbt": 72,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "474035",
+      "major_university_name": "D4 SISTEM INFORMASI BISNIS - POLINEMA",
+      "university_name": "POLITEKNIK NEGERI MALANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 45,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Informasi",
+    "merdeka_subject": [
+      15
+    ],
+    "ipa_subject": [
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}

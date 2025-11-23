@@ -1,0 +1,258 @@
+{
+  "idx": 178,
+  "id": "pendidikan-luar-sekolah",
+  "major_name": "Pendidikan Luar Sekolah",
+  "icon": null,
+  "description": "Pendidikan luar sekolah juga lebih dikenal sebagai pendidikan non formal atau pendidikan masyarakat. Tujuan dari program studi ini adalah mempersiapkan para lulusan yang bisa berkompetisi dalam bidang pengembangan dan pemberdayaan masyarakat. Program studi Pendidikan Luar Sekolah ini memberikan peluang yang lebih besar kepada para lulusan untuk berwirausaha sehingga dia bisa mengajak orang-orang di sekitarnya untuk belajar dan berdaya.",
+  "why": "Kesuksesan tidak selalu berangkat dari pendidikan formal. Banyak orang yang sukses karena keseriusan mereka mengenyam pendidikan non-formal. Itulah hasil dari jerih payah para pengajar nonformal. Jika kamu sangat tertarik untuk menjadi pengajar non formal, kamu bisa memilih program studi ini.",
+  "subjects": [
+    "Pendidikan Pancasila",
+    "Pendidkan Kewarganegaraan",
+    "Bahasa Indonesia",
+    "Ilmu Alamaniah Dasar",
+    "Kewirausahaan",
+    "Psikologi Pendidikan",
+    "Sosio-Antropologi Pendidikan",
+    "Manajemen Pendidikan",
+    "Perkembangan Peserta Didik",
+    "Pengantar Filsafat Pendidikan",
+    "Epistemologi dan Logika Pendidikan",
+    "Evaluasi Pendidikan",
+    "Pendidikan NonFormal dan Informal",
+    "Psikologi Sosial",
+    "Teori Pembelajaran PNFI",
+    "Teori Kritis Pendidikan",
+    "Pengembangan SDM"
+  ],
+  "characters": [
+    "Tekun",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang melakukan riset",
+    "Keterampilan komunikasi",
+    "Keterampilan interpersonal",
+    "Senang memecahkan masalah",
+    "Bisa bekarjasama dengan team"
+  ],
+  "prospects": "Pendidikan non formal di luar sekolah sedang naik daun, peluang profesinya pun akan semakin tersedia. Seorang lulusan program studi Pendidikan Luar Sekolah kamu dapat bekerja sebagai tenaga pengajar di berbagai bidang maupun jenjang pendidikan. Serunya, kamu nggak harus bekerja di bawah lembaga sekolah melainkan bisa mendirikan lembaga pendidikanmu sendiri.",
+  "professions": [
+    "Tutor",
+    "Terapis Kecantikan",
+    "Konsultan Kecantikan (Beauty Consultant)",
+    "Kepala Sekolah"
+  ],
+  "related_majors": [
+    "pendidikan/pendidikan-guru-sekolah-dasar",
+    "pendidikan/kurikulum-dan-teknologi-pendidikan",
+    "pendidikan/manajemen-pendidikan",
+    "pendidikan/pendidikan-ilmu-pengetahuan-alam"
+  ],
+  "major_group_id": 32,
+  "jlh_prodi": 20,
+  "dt_snbp": 599,
+  "dt_snbt": 911,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "323023",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNJ",
+      "university_name": "UNIVERSITAS NEGERI JAKARTA",
+      "keketatan": 8.6747,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "331017",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNSIKA",
+      "university_name": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+      "keketatan": 30.9211,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "334040",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 10.4956,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "342011",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNSIL",
+      "university_name": "UNIVERSITAS SILIWANGI",
+      "keketatan": 18.1818,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "356030",
+      "major_university_name": "S1 PENDIDIKAN NON FORMAL - UNNES",
+      "university_name": "UNIVERSITAS NEGERI SEMARANG",
+      "keketatan": 21.3592,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "362030",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH - UNY",
+      "university_name": "UNIVERSITAS NEGERI YOGYAKARTA",
+      "keketatan": 14.2222,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "131048",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNRI",
+      "university_name": "UNIVERSITAS RIAU",
+      "keketatan": 46.9136,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "712044",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH - UNM",
+      "university_name": "UNIVERSITAS NEGERI MAKASSAR",
+      "keketatan": 72.8814,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "541060",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNMUL",
+      "university_name": "UNIVERSITAS MULAWARMAN",
+      "keketatan": 38.7755,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383029",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 36.5385,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "373031",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH - UM",
+      "university_name": "UNIVERSITAS NEGERI MALANG",
+      "keketatan": 32.2222,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "371050",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH - UNEJ",
+      "university_name": "UNIVERSITAS JEMBER",
+      "keketatan": 34.6774,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "311030",
+      "major_university_name": "S1 PENDIDIKAN NON FORMAL - UNTIRTA",
+      "university_name": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+      "keketatan": 61,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "142027",
+      "major_university_name": "S1 PENDIDIKAN NON FORMAL - UNP",
+      "university_name": "UNIVERSITAS NEGERI PADANG",
+      "keketatan": 28.436,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "122026",
+      "major_university_name": "S1 PENDIDIKAN LUAR SEKOLAH (PLS) - UNIMED",
+      "university_name": "UNIVERSITAS NEGERI MEDAN",
+      "keketatan": 57.8431,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "161036",
+      "major_university_name": "S1 PENDIDIKAN NONFORMAL - UNIB",
+      "university_name": "UNIVERSITAS BENGKULU",
+      "keketatan": 58.5714,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "521030",
+      "major_university_name": "S1 PEND. LUAR SEKOLAH - UPR",
+      "university_name": "UNIVERSITAS PALANGKARAYA",
+      "keketatan": 380,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "631034",
+      "major_university_name": "S1 PEND. LUAR SEKOLAH - UNDANA",
+      "university_name": "UNIVERSITAS NUSA CENDANA",
+      "keketatan": 78.0822,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752048",
+      "major_university_name": "S1 PENDIDIKAN MASYARAKAT - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 405.882,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "811054",
+      "major_university_name": "S1 PEND. LUAR  SEKOLAH - UNPATTI",
+      "university_name": "UNIVERSITAS PATTIMURA",
+      "keketatan": 766.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 32,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Pendidikan",
+    "merdeka_subject": [
+      20
+    ],
+    "ipa_subject": [
+      20
+    ],
+    "ips_subject": [
+      20
+    ],
+    "bahasa_subject": [
+      20
+    ]
+  }
+}

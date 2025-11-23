@@ -1,0 +1,148 @@
+{
+  "idx": 227,
+  "id": "seni-rupa-murni",
+  "major_name": "Seni Rupa Murni (Fine Arts)",
+  "icon": null,
+  "description": "Di program studi Seni Rupa Murni kamu akan mempelajari seni rupa mulai dari penciptaan hingga penngkajian karya seni rupa. Fokus kajian Seni Rupa Murni adalah seni lukis dan seni patung. Disini kamu tidak hanya menciptakan karya seni, tapi kamu akan mempelajari teori-teori yang ada di balik seni rupa, seperti sejarah seni rupa baik di nusantara maupun dunia, sosiologi seni, manajemen seni rupa, serta tinjauan dan kritik seni rupa. Disamping teori, pastinya kamu akan banyak kegiatan praktek studio, seperti praktek memahat kayu, bayu, dan keramik. Akan ada cukup banyak mata kuliah praktek dan kamu harus menghasilkan masing-masing satu karya seni, juga membuat laporan tentang ulasan karya seni yang dipamerkan. Dalam Seni Rupa Murni, nilai estetika dan artistik lebih diutamakan dibandingkan nilai guna nya. ",
+  "why": "Seni Rupa Murni adalah prodi yang sangat cocok untuk kamu yang suka berkreasi dan bereksperimen dengan seni. Dalam Seni Rupa Murni, orisinalitas sangat dijunjung tinggi. Karenanya kamu harus bisa menemukan dan mengembangkan gaya dan ciri khas seni mu sendiri.  Kalau kamu memiliki bakat dan minat dalam dunia seni, tidak ada salahnya untuk mengembangkan minatmu di prodi ini.",
+  "subjects": [
+    "Rupa Dasar 2D",
+    "Rupa Dasar 3D",
+    "Gambar Konstruktif",
+    "Gambar Bentuk",
+    "Manusia dan Kebudayaan",
+    "Sejarah Kebudayaan Indonesia",
+    "Gambar Anatomi",
+    "Studio Lukis Still Life",
+    "Pengenalan Bahan dan Teknik Seni Lukis",
+    "Fotografi",
+    "Ornamen",
+    "Sejarah Seni Rupa Inndonesia",
+    "Estetika Timur",
+    "Drawing",
+    "Studio Patung Standing Figure",
+    "Pengenalan Bahan dan Teknik Seni Patung",
+    "Estetika Barat",
+    "Seni Batik",
+    "Komunikasi Seni",
+    "Sosiologi Seni",
+    "Seni Monumental",
+    "Sejarah Seni Rupa Barat",
+    "Tinjauan Seni",
+    "Kritik Seni Rupa",
+    "Pengkasian Seni Tradisi",
+    "Seni Keramik",
+    "Pengkajian Seni Kontemporer",
+    "Manajemen Seni Rupa"
+  ],
+  "characters": [
+    "Tekun",
+    "Detil",
+    "Observan",
+    "Independen",
+    "Berwawasan luas",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Seni tidak hanya bisa dijadikan sebagai hobi, tapi juga bisa menjadi peluang tersendiri untuk mengeksplor bakat dan minat menjadi karya yang bernilai jual. Lulusan Seni Rupa Murni dapat berkarir sebagai seorang seniman lukis atau seniman pahat, Lulusan prodi ini juga dapat berkarir sebagai kurator seni, kritikus seni, art director, peneliti, hingga pengajar seni. ",
+  "professions": [
+    "Desainer Produk Komersial dan Industri",
+    "Kurator Seni",
+    "Perancang Panggung dan Set",
+    "Desainer Furnitur",
+    "Seniman Kerajinan (Craft Artists)",
+    "Seniman, Termasuk Pelukis, Pemahat, dan Illustrator",
+    "Perancang Perhiasan",
+    "Ilustrator"
+  ],
+  "related_majors": [
+    "seni/seni-kriya",
+    "seni/desain-komunikasi-visual",
+    "seni/fotografi",
+    "seni/tata-kelola-seni",
+    "seni/seni-musik",
+    "seni/dkv-new-media",
+    "pendidikan/pendidikan-seni-drama-tari-dan-musik-sendratasik-",
+    "seni/seni-rupa-creative-arts-"
+  ],
+  "major_group_id": 1,
+  "jlh_prodi": 6,
+  "dt_snbp": 124,
+  "dt_snbt": 177,
+  "major_field": 1,
+  "prodi": [
+    {
+      "major_university_id": "364007",
+      "major_university_name": "S1 SENI RUPA MURNI - ISI",
+      "university_name": "ISI YOGYAKARTA",
+      "keketatan": 15.1703,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "353047",
+      "major_university_name": "S1 SENI RUPA - UNS",
+      "university_name": "UNIVERSITAS SEBELAS MARET",
+      "keketatan": 23.5955,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "372086",
+      "major_university_name": "S1 SENI RUPA MURNI - UB",
+      "university_name": "UNIVERSITAS BRAWIJAYA",
+      "keketatan": 26.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "383067",
+      "major_university_name": "S1 SENI RUPA MURNI - UNESA",
+      "university_name": "UNIVERSITAS NEGERI SURABAYA",
+      "keketatan": 47.1429,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "913002",
+      "major_university_name": "S1 SENI RUPA MURNI - ISBI-TANAHPAPUA",
+      "university_name": "ISBI TANAH PAPUA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "115004",
+      "major_university_name": "S1 SENI RUPA MURNI - ISBIACEH",
+      "university_name": "ISBI ACEH",
+      "keketatan": 416.667,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 1,
+    "super_group": "HUMANIORA",
+    "group_name": "Seni",
+    "merdeka_subject": [
+      1
+    ],
+    "ipa_subject": [
+      1
+    ],
+    "ips_subject": [
+      1
+    ],
+    "bahasa_subject": [
+      1
+    ]
+  }
+}

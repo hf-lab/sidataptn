@@ -1,0 +1,292 @@
+{
+  "idx": 235,
+  "id": "software-engineering-rekayasa-perangkat-lunak-",
+  "major_name": "Software Engineering (Rekayasa Perangkat Lunak)",
+  "icon": null,
+  "description": "Program studi Software Engineering (Rekayasa Perangkat Lunak) memberikan pengetahuan tentang prinsip dan teknik untuk mendesain perangkat lunak yang tepat guna, tangguh, dan mudah digunakan. Para mahasiswa akan mempelajari cara mendesain dan menganalisis algoritma dan pemrograman menggunakan struktur data yang efisien serta mengembangkan sistem operasi dan aplikasi berbasis web/mobile.",
+  "why": "Peningkatan sistem komputer dan banyaknya informasi menyebabkan diperlukannya ketersediaan perangkat lunak yang tangguh dalam mengintegrasikan keduanya. Selain itu, start-up dalam bisnis digital semakin bertumbuh dan berkembang yang menyebabkan terciptanya beragam model bisnis digital baru. Hal ini menyebabkan ide inovasi bisnis digital serta teknologi membutuhkan Software Engineer yang kreatif dan inovatif. Tingginya peranan Software dan Software Engineer telah dibuktikan dalam penciptaan peluang bisnis baru and juga lapangan kerja sebagai Software Engineer yang terbuka lebar. ",
+  "subjects": [
+    "Manajemen Proyek Perangkat Lunak",
+    "Interaksi Manusia dan Komputer",
+    "Pengembangan Sistem Berorientasi Objek",
+    "Arsitektur Enterprise"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang melakukan riset"
+  ],
+  "prospects": "Lulusan jurusan ini dapat berkontribusi di berbagai sektor, seperti manufaktur, bank,\rkonsultan, dan lainnya. Lulusan jurusan ini juga dapat berprofesi sebagai ahli modeling dan desain, ahli programming dan pengembangan software, ahli pengelolaan basis data, ahli manajemen software, dan pelaku digital bisnis.",
+  "professions": [
+    "Developer Software, Aplikasi",
+    "Pengembang Sistem Operasi",
+    "Back End Developer",
+    "Web Developer",
+    "Front End Developer",
+    "Full Stack Developer"
+  ],
+  "related_majors": [
+    "komputer-teknologi/teknik-informatika",
+    "profesi-dan-ilmu-terapan/sistem-multimedia",
+    "komputer-teknologi/sistem-komputer"
+  ],
+  "major_group_id": 33,
+  "jlh_prodi": 25,
+  "dt_snbp": 909,
+  "dt_snbt": 987,
+  "major_field": 5,
+  "prodi": [
+    {
+      "major_university_id": "231020",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLIBATAM",
+      "university_name": "POLITEKNIK NEGERI BATAM",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "241007",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - PNP",
+      "university_name": "POLITEKNIK NEGERI PADANG",
+      "keketatan": 21.6814,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "334027",
+      "major_university_name": "S1 REKAYASA PERANGKAT LUNAK (KAMPUS UPI CIBIRU) - UPI",
+      "university_name": "UNIVERSITAS PENDIDIKAN INDONESIA",
+      "keketatan": 11.7166,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "341046",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "341047",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER - IPB",
+      "university_name": "INSTITUT PERTANIAN BOGOR",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "361049",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - UGM",
+      "university_name": "UNIVERSITAS GADJAH MADA",
+      "keketatan": 6.87204,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 4,
+      "logo": null
+    },
+    {
+      "major_university_id": "382052",
+      "major_university_name": "S1 REKAYASA PERANGKAT LUNAK - ITS",
+      "university_name": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "452007",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER - POLINES",
+      "university_name": "POLITEKNIK NEGERI SEMARANG",
+      "keketatan": 13.3758,
+      "indikator_persaingan_snbp": 3,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "222003",
+      "major_university_name": "D4 TEKNIK REKAYASA PERANGKAT LUNAK - POLMED",
+      "university_name": "POLITEKNIK NEGERI MEDAN",
+      "keketatan": 20.8333,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "617004",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - PNB",
+      "university_name": "POLITEKNIK NEGERI BALI",
+      "keketatan": 52.9412,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "612050",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - UNDIKSHA",
+      "university_name": "UNIVERSITAS PENDIDIKAN GANESHA",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "562006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER - POLNES",
+      "university_name": "POLITEKNIK NEGERI SAMARINDA",
+      "keketatan": 31.4815,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "537001",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER JARINGAN - POLITALA",
+      "university_name": "POLITEKNIK NEGERI TANAH LAUT",
+      "keketatan": 96.6667,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "473010",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - PNM",
+      "university_name": "POLITEKNIK NEGERI MADIUN",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "471008",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "471006",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLIWANGI",
+      "university_name": "POLITEKNIK NEGERI BANYUWANGI",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "434005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLSUB",
+      "university_name": "POLITEKNIK NEGERI SUBANG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "433002",
+      "major_university_name": "D4 REKAYASA PERANGKAT LUNAK - POLINDRA",
+      "university_name": "POLITEKNIK NEGERI INDRAMAYU",
+      "keketatan": 48.3871,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "281003",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLMAN-BABEL",
+      "university_name": "POLITEKNIK MANUFAKTUR NEGERI BANGKA BELITUNG",
+      "keketatan": 34.0206,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    },
+    {
+      "major_university_id": "242005",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER - PPNP",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI PAYAKUMBUH",
+      "keketatan": 92.8571,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "232004",
+      "major_university_name": "D4 REKAYASA PERANGKAT LUNAK - POLBENG",
+      "university_name": "POLITEKNIK NEGERI BENGKALIS",
+      "keketatan": 80.597,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "221008",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA KOMPUTER JARINGAN - PNL",
+      "university_name": "POLITEKNIK NEGERI LHOKSEUMAWE",
+      "keketatan": 59.0164,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "291032",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": null,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 2,
+      "logo": null
+    },
+    {
+      "major_university_id": "561002",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - POLITANISAMARINDA",
+      "university_name": "POLITEKNIK PERTANIAN NEGERI SAMARINDA",
+      "keketatan": 203.704,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 1,
+      "logo": null
+    },
+    {
+      "major_university_id": "752034",
+      "major_university_name": "D4 TEKNOLOGI REKAYASA PERANGKAT LUNAK - UNG",
+      "university_name": "UNIVERSITAS NEGERI GORONTALO",
+      "keketatan": 196,
+      "indikator_persaingan_snbp": 1,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 33,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Teknik atau rekayasa",
+    "merdeka_subject": [
+      14,
+      13,
+      15,
+      16
+    ],
+    "ipa_subject": [
+      14,
+      13,
+      16
+    ],
+    "ips_subject": [
+      10
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}
