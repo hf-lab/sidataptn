@@ -1,0 +1,93 @@
+{
+  "idx": 1,
+  "id": "accounting-information-system-sistem-informasi-akuntansi-",
+  "major_name": "Accounting Information System (Sistem Informasi Akuntansi)",
+  "icon": null,
+  "description": "Pada program studi Accounting Informastion System kita akan mendapatkan ilmu Sistem Informasi dipadukan dengan Akuntansi. Banyaknya praktisi di bidang IT, dan berkembangnya organisasi-organisasi IT mendesak para praktisi IT untuk turut memahami ilmu manajemen dan keuangan untuk dapat menjalankan organisasi nya dengan lebih baik. \r\rProgram studi ini akan membekali kita dengan dasar-dasar akuntansi dan bisnis yang dibutuhkan oleh seorang sistem analis, serta ilmu untuk merancang dan membangun sistem informasi berbasis komputer melalui studi sistem informasi untuk memenuhi tujuan strategis perusahaan. Accounting Information System (Sistem Informasi Akuntansi) ini dirancang untuk mengolah transaksi seperti kas, biaya produksi, gaji, serta utang-piutang, menjadi sebuah laporan.",
+  "why": "Di program studi ini kamu akan mendapatkan dua ilmu sekaligus, Sistem Informasi dan Akuntansi. Pastinya kedua bidang ilmu yang kamu dapatkan di prodi ini akan sangat bermanfaat di dunia kerja saat ini. Tak jarang perusahaan atau organisasi mencari orang-orang yang ahli di bidang IT untuk mengembangkan program-program yang dapat membantu proses pekerjaan, terutama untuk mengatur keuangannya. ",
+  "subjects": [
+    "Programming",
+    "Financial Accounting",
+    "Business Process Fundamental",
+    "Information System Concept",
+    "Accounting Information System Development",
+    "Database System",
+    "Business Application Development",
+    "User Experience",
+    "Manufacturing Information System",
+    "Enterprise System",
+    "Data & Information Management",
+    "Accounting Information Systems Analysis and Design",
+    "Cost Accounting",
+    "Taxation",
+    "Financial Management",
+    "Information Systems Project Management",
+    "Services Information System"
+  ],
+  "characters": [
+    "Teliti",
+    "Tekun",
+    "Detil",
+    "Kritis",
+    "Rasional",
+    "Observan",
+    "Terstruktur",
+    "Senang berhitung",
+    "Senang menganalisis",
+    "Senang bekerja sendiri",
+    "Senang melakukan riset",
+    "Senang memecahkan masalah"
+  ],
+  "prospects": "Lulusan program studi ini dipersiapkan untuk menjadi pakar IT Akuntansi. Profesi yang dapat ditekuni oleh lulusan Information System Accounting antara lain seperti system analyst, business analyst, business consultant, IT consultant, di pelbagai instansi baik swasta  maupun pemerintah.",
+  "professions": [
+    "Analis Manajemen Bisnis",
+    "Manager Sistem Komputer dan Informasi",
+    "Database Administrator",
+    "Konsultan Bisnis",
+    "Analis Keuangan",
+    "Analis Sistem Komputer",
+    "Arsitek Database",
+    "Pengembang Sistem Operasi"
+  ],
+  "related_majors": [
+    "ekonomi-bisnis/akuntansi",
+    "komputer-teknologi/sistem-informasi-bisnis",
+    "ekonomi-bisnis/akuntansi-sektor-publik",
+    "komputer-teknologi/sistem-informasi-manajemen-informatika-",
+    "komputer-teknologi/computerized-accounting"
+  ],
+  "major_group_id": 26,
+  "jlh_prodi": 1,
+  "dt_snbp": 70,
+  "dt_snbt": 70,
+  "major_field": 3,
+  "prodi": [
+    {
+      "major_university_id": "291015",
+      "major_university_name": "D4 AKUNTANSI BISNIS DIGITAL - POLINELA",
+      "university_name": "POLITEKNIK NEGERI LAMPUNG",
+      "keketatan": 73.2673,
+      "indikator_persaingan_snbp": 2,
+      "indikator_persaingan_snbt": 3,
+      "logo": null
+    }
+  ],
+  "kecocokan_denganmu": null,
+  "group": {
+    "id": 26,
+    "super_group": "ILMU_TERAPAN",
+    "group_name": "Ilmu atau Sains Akuntansi",
+    "merdeka_subject": [
+      9
+    ],
+    "ipa_subject": [
+      10
+    ],
+    "ips_subject": [
+      9
+    ],
+    "bahasa_subject": [
+      10
+    ]
+  }
+}
