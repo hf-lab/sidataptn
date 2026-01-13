@@ -114,7 +114,6 @@
 <script>
 let data = [];
 let filteredData = [];
-let originalData = [];
 let filters = { universitas: [], program: [], jenjang: [], portofolio: '' };
 let sortConfig = { key: null, direction: null };
 
@@ -132,20 +131,10 @@ const jenjangDropdown = document.getElementById('jenjangDropdown');
 const portofolioDropdown = document.getElementById('portofolioDropdown');
 const resetBtn = document.getElementById('resetBtn');
 
-// === UTILS - Cascading Filter ===
-function getFilteredDataForDropdown() {
-  return data.filter(item => {
-    // Untuk dropdown universitas: filter berdasarkan program, jenjang, portofolio
-    // Untuk dropdown program: filter berdasarkan universitas, jenjang, portofolio
-    // Dan seterusnya...
-    return true; // Akan difilter di fungsi getCascadingOptions
-  });
-}
-
+// === CASCADING OPTIONS ===
 function getCascadingOptions(key) {
   let filteredDataset = [...data];
   
-  // Filter berdasarkan filter aktif lainnya (kecuali key yang sedang dibuka)
   if (key !== 'UNIVERSITAS' && filters.universitas.length > 0) {
     filteredDataset = filteredDataset.filter(item => filters.universitas.includes(item.UNIVERSITAS));
   }
@@ -159,11 +148,12 @@ function getCascadingOptions(key) {
     filteredDataset = filteredDataset.filter(item => item['JENIS PORTOFOLIO'] === filters.portofolio);
   }
   
-  return [...new Set(filteredDataset.map(item => item[key]))].sort();
+  return [...new Set(filteredDataset.map(item => item[key]))].filter(Boolean).sort();
 }
 
-// === DROPDOWN MULTI (PROGRAM STUDI, UNIVERSITAS, JENJANG) ===
-function populateMultiSelectDropdown(dropdown, searchInput, options, filterKey) {
+// === DROPDOWN MULTI SELECT ===
+function populateMultiSelectDropdown(dropdown, searchInput, dataKey, filterKey) {
+  const options = getCascadingOptions(dataKey);
   const searchTerm = searchInput.value.toLowerCase();
   const filtered = options.filter(opt => opt.toLowerCase().includes(searchTerm));
   
@@ -174,79 +164,64 @@ function populateMultiSelectDropdown(dropdown, searchInput, options, filterKey) 
   
   dropdown.innerHTML = filtered.map(opt => {
     const checked = filters[filterKey].includes(opt) ? 'checked' : '';
+    const id = `cb-${filterKey}-${opt.replace(/\s+/g, '-')}`;
     return `
       <label class="flex items-center gap-2 px-4 py-2 hover:bg-blue-50 cursor-pointer text-sm text-gray-700">
-        <input type="checkbox" value="${opt}" ${checked} class="multi-checkbox-${filterKey} accent-blue-600">
+        <input type="checkbox" id="${id}" value="${opt}" ${checked} class="accent-blue-600" data-filter="${filterKey}">
         <span>${opt}</span>
       </label>`;
   }).join('');
 
-  dropdown.querySelectorAll(`.multi-checkbox-${filterKey}`).forEach(cb => {
+  // Attach event listeners to checkboxes
+  dropdown.querySelectorAll('input[type="checkbox"]').forEach(cb => {
     cb.addEventListener('change', (e) => {
       e.stopPropagation();
       const val = cb.value;
+      const key = cb.dataset.filter;
+      
       if (cb.checked) {
-        if (!filters[filterKey].includes(val)) {
-          filters[filterKey].push(val);
+        if (!filters[key].includes(val)) {
+          filters[key].push(val);
         }
       } else {
-        filters[filterKey] = filters[filterKey].filter(v => v !== val);
+        filters[key] = filters[key].filter(v => v !== val);
       }
+      
       filterData();
-      refreshAllDropdowns(); // Refresh semua dropdown untuk cascading effect
-      // Refresh dropdown saat ini
-      const dataKey = getDataKeyFromFilterKey(filterKey);
-      const opts = getCascadingOptions(dataKey);
-      populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
+      // Re-populate current dropdown to reflect changes
+      populateMultiSelectDropdown(dropdown, searchInput, dataKey, filterKey);
     });
   });
 }
 
-function getDataKeyFromFilterKey(filterKey) {
-  const mapping = {
-    'universitas': 'UNIVERSITAS',
-    'program': 'NAMA PROGRAM STUDI',
-    'jenjang': 'JENJANG',
-    'portofolio': 'JENIS PORTOFOLIO'
-  };
-  return mapping[filterKey];
-}
-
-function refreshAllDropdowns() {
-  // Tidak perlu refresh jika dropdown sedang tidak terbuka
-  // Dropdown akan di-refresh otomatis saat dibuka kembali
-}
-
 function setupMultiSelectDropdown(searchInput, dropdown, dataKey, filterKey) {
   searchInput.addEventListener('focus', () => {
-    const opts = getCascadingOptions(dataKey);
-    populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
+    populateMultiSelectDropdown(dropdown, searchInput, dataKey, filterKey);
     dropdown.classList.remove('hidden');
   });
   
   searchInput.addEventListener('input', () => {
-    const opts = getCascadingOptions(dataKey);
-    populateMultiSelectDropdown(dropdown, searchInput, opts, filterKey);
-    dropdown.classList.remove('hidden');
+    populateMultiSelectDropdown(dropdown, searchInput, dataKey, filterKey);
   });
   
-  // Prevent dropdown from closing when clicking inside
   dropdown.addEventListener('click', (e) => {
     e.stopPropagation();
   });
   
-  // Close dropdown when clicking outside
   document.addEventListener('click', (e) => {
     if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
       dropdown.classList.add('hidden');
+      searchInput.value = ''; // Clear search when closing
     }
   });
 }
 
-// === DROPDOWN SINGLE ===
-function populateDropdown(dropdown, searchInput, options, filterKey) {
+// === DROPDOWN SINGLE SELECT ===
+function populateDropdown(dropdown, searchInput, dataKey, filterKey) {
+  const options = getCascadingOptions(dataKey);
   const searchTerm = searchInput.value.toLowerCase();
   const filtered = options.filter(opt => opt.toLowerCase().includes(searchTerm));
+  
   dropdown.innerHTML = filtered.length
     ? filtered.map(option => `
         <div class="px-4 py-2 hover:bg-blue-50 cursor-pointer text-sm text-gray-700" data-value="${option}">
@@ -264,19 +239,20 @@ function populateDropdown(dropdown, searchInput, options, filterKey) {
   });
 }
 
-function setupDropdown(searchInput, dropdown, key, filterKey) {
+function setupDropdown(searchInput, dropdown, dataKey, filterKey) {
   searchInput.addEventListener('focus', () => {
-    const opts = getCascadingOptions(key);
-    populateDropdown(dropdown, searchInput, opts, filterKey);
+    populateDropdown(dropdown, searchInput, dataKey, filterKey);
     dropdown.classList.remove('hidden');
   });
+  
   searchInput.addEventListener('input', () => {
-    const opts = getCascadingOptions(key);
-    populateDropdown(dropdown, searchInput, opts, filterKey);
-    dropdown.classList.remove('hidden');
+    populateDropdown(dropdown, searchInput, dataKey, filterKey);
   });
+  
   document.addEventListener('click', e => {
-    if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) dropdown.classList.add('hidden');
+    if (!searchInput.contains(e.target) && !dropdown.contains(e.target)) {
+      dropdown.classList.add('hidden');
+    }
   });
 }
 
@@ -302,8 +278,9 @@ function updateActiveFilters() {
   if (filters.jenjang.length) list.push({ label: 'Jenjang', value: filters.jenjang.join(', '), key: 'jenjang' });
   if (filters.portofolio) list.push({ label: 'Portofolio', value: filters.portofolio, key: 'portofolio' });
 
-  if (list.length === 0) activeFiltersDiv.classList.add('hidden');
-  else {
+  if (list.length === 0) {
+    activeFiltersDiv.classList.add('hidden');
+  } else {
     activeFiltersDiv.classList.remove('hidden');
     activeFiltersDiv.innerHTML = '<span class="text-sm font-medium text-gray-700">Filter Aktif:</span>' +
       list.map(f => `
@@ -311,12 +288,27 @@ function updateActiveFilters() {
           ${f.label}: ${f.value}
           <button data-filter="${f.key}" class="hover:bg-blue-200 rounded-full p-0.5">✕</button>
         </span>`).join('');
+    
     activeFiltersDiv.querySelectorAll('[data-filter]').forEach(btn => {
       btn.addEventListener('click', () => {
         const key = btn.dataset.filter;
-        if (key === 'program' || key === 'universitas' || key === 'jenjang') filters[key] = [];
-        else filters[key] = '';
-        document.getElementById(`${key}Search`).value = '';
+        if (key === 'program' || key === 'universitas' || key === 'jenjang') {
+          filters[key] = [];
+        } else {
+          filters[key] = '';
+        }
+        
+        const searchInputs = {
+          'universitas': universitySearch,
+          'program': programSearch,
+          'jenjang': jenjangSearch,
+          'portofolio': portofolioSearch
+        };
+        
+        if (searchInputs[key]) {
+          searchInputs[key].value = '';
+        }
+        
         filterData();
       });
     });
@@ -334,7 +326,10 @@ function resetAllFilters() {
 }
 
 function updateResetButton() {
-  const hasActiveFilters = filters.universitas.length > 0 || filters.program.length > 0 || filters.jenjang.length > 0 || filters.portofolio;
+  const hasActiveFilters = filters.universitas.length > 0 || 
+                          filters.program.length > 0 || 
+                          filters.jenjang.length > 0 || 
+                          filters.portofolio;
   resetBtn.disabled = !hasActiveFilters;
 }
 
@@ -345,6 +340,7 @@ function applySorting() {
   if (!sortConfig.key || !sortConfig.direction) return;
   const { key, direction } = sortConfig;
   const isNumeric = ['DAYA TAMPUNG 2025', 'PEMINAT 2024'].includes(key);
+  
   filteredData.sort((a, b) => {
     const valA = isNumeric ? parseInt(a[key] || 0) : (a[key] || '').toString().toLowerCase();
     const valB = isNumeric ? parseInt(b[key] || 0) : (b[key] || '').toString().toLowerCase();
@@ -361,7 +357,9 @@ document.querySelectorAll('th.sortable').forEach(th => {
       if (sortConfig.direction === 'asc') sortConfig.direction = 'desc';
       else if (sortConfig.direction === 'desc') sortConfig = { key: null, direction: null };
       else sortConfig.direction = 'asc';
-    } else sortConfig = { key, direction: 'asc' };
+    } else {
+      sortConfig = { key, direction: 'asc' };
+    }
     filterData();
     updateSortIndicators();
   });
@@ -369,10 +367,11 @@ document.querySelectorAll('th.sortable').forEach(th => {
 
 function updateSortIndicators() {
   document.querySelectorAll('th.sortable').forEach(th => {
-    th.textContent = th.textContent.replace(/[▲▼]/g, '');
+    const originalText = th.textContent.replace(/[▲▼]/g, '').trim();
     if (th.dataset.key === sortConfig.key) {
-      th.textContent += sortConfig.direction === 'asc' ? ' ▲' :
-                        sortConfig.direction === 'desc' ? ' ▼' : '';
+      th.textContent = originalText + (sortConfig.direction === 'asc' ? ' ▲' : sortConfig.direction === 'desc' ? ' ▼' : '');
+    } else {
+      th.textContent = originalText;
     }
   });
 }
@@ -404,17 +403,20 @@ async function loadData() {
   try {
     const res = await fetch('https://cdn.jsdelivr.net/gh/hf-lab/work@main/SIDATA-PTN-SN2025-REV2.json');
     data = await res.json();
-    originalData = [...data];
     filteredData = [...data];
+    
     setupMultiSelectDropdown(universitySearch, universityDropdown, 'UNIVERSITAS', 'universitas');
     setupMultiSelectDropdown(programSearch, programDropdown, 'NAMA PROGRAM STUDI', 'program');
     setupMultiSelectDropdown(jenjangSearch, jenjangDropdown, 'JENJANG', 'jenjang');
     setupDropdown(portofolioSearch, portofolioDropdown, 'JENIS PORTOFOLIO', 'portofolio');
+    
     renderTable();
   } catch (err) {
     console.error('Gagal memuat data', err);
+    tableBody.innerHTML = '<tr><td colspan="7" class="text-center py-12 text-red-500">Gagal memuat data. Silakan refresh halaman.</td></tr>';
   }
 }
+
 loadData();
 </script>
 </body>
